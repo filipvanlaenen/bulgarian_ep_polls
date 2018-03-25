@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>All Registered Polls for the European Parliament</title>
+    <link>https://filipvanlaenen.github.io/bulgarian_ep_polls</link>
+    <description>All Registered Polls for the European Parliament</description>
+    <pubDate>Sun, 25 Mar 2018 17:12:46 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Exacta, 7–13 December 2017 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2017-12-13-Exacta.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 37.7–45.1%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 27.3–34.3%&lt;/li&gt;&lt;li&gt;Обединени Патриоти (ECR): 7.1–11.4%&lt;/li&gt;&lt;li&gt;Движение за права и свободи (ALDE): 6.6–10.8%&lt;/li&gt;&lt;li&gt;Воля (*): 1.7–4.2%&lt;/li&gt;&lt;li&gt;Реформаторски блок (EPP): 1.2–3.5%&lt;/li&gt;&lt;li&gt;Демократи за силна България (EPP): 1.1–3.3%&lt;/li&gt;&lt;li&gt;Да, България! (*): 0.5–2.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2017-12-13-Exacta.png"
+        length="220627"
+        type="image/png"/>
+      <pubDate>Sun, 25 Mar 2018 17:12:46 +0200</pubDate>
+      <dc:date>2018-03-25T17:12:46.620933+02:00</dc:date>
+    </item>
+    <dc:date>2018-03-25T17:12:46.620933+02:00</dc:date>
+  </channel>
+</rss>
