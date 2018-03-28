@@ -316,6 +316,7 @@ Only polls for which at least the sample size has been published are included in
 | Българска социалистическа партия (S&D) | 4 | 6 | 0% | 6 | 6 | 5–6 | 5–6 |
 | Движение за права и свободи (ALDE) | 4 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
 | Обединени Патриоти (ECR) | 2 | 1 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
+| Воля (*) – Да, България! (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Граждани за европейско развитие на България (EPP) – Реформаторски блок (EPP) – Демократи за силна България (EPP)
 
@@ -352,6 +353,12 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 62% | 100% | Median |
 | 2 | 38% | 38% | Last Result |
 | 3 | 0% | 0% |  |
+
+### Воля (*) – Да, България! (*)
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
 
 
 ## Technical Information
