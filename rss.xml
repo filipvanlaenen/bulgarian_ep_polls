@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/bulgarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 28 Mar 2018 09:44:18 +0200</pubDate>
+    <pubDate>Tue, 03 Apr 2018 11:44:59 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Exacta, 7–13 December 2017 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2017-12-13-Exacta.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 7–8 seats&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Обединени Патриоти (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Движение за права и свободи (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;Воля (*): 0 seats&lt;/li&gt;&lt;li&gt;Реформаторски блок (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Демократи за силна България (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Да, България! (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2017-12-13-Exacta-seats.png"
+        length="185713"
+        type="image/png"/>
+      <pubDate>Tue, 03 Apr 2018 11:44:59 +0200</pubDate>
+      <dc:date>2018-04-03T11:44:59.129772+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Exacta, 7–13 December 2017 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2017-12-13-Exacta.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2017-12-13-Exacta-coalitions-seats.png"
+        length="131257"
+        type="image/png"/>
+      <pubDate>Tue, 03 Apr 2018 11:44:59 +0200</pubDate>
+      <dc:date>2018-04-03T11:44:59.129772+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Exacta, 7–13 December 2017 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2017-12-13-Exacta.html</link>
@@ -16,9 +36,9 @@
       <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2017-12-13-Exacta.png"
         length="220627"
         type="image/png"/>
-      <pubDate>Wed, 28 Mar 2018 09:44:18 +0200</pubDate>
-      <dc:date>2018-03-28T09:44:18.780054+02:00</dc:date>
+      <pubDate>Tue, 03 Apr 2018 11:44:59 +0200</pubDate>
+      <dc:date>2018-04-03T11:44:59.129772+02:00</dc:date>
     </item>
-    <dc:date>2018-03-28T09:44:18.780054+02:00</dc:date>
+    <dc:date>2018-04-03T11:44:59.129772+02:00</dc:date>
   </channel>
 </rss>
