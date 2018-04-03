@@ -49,8 +49,8 @@ Last result: **4** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 6 | 6 | 5–6 | 5–6 |
-| [7–13 December 2017](2017-12-13-Exacta.html) | Exacta | 6 | 6 | 6 | 5–6 | 5–6 |
+| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
+| [7–13 December 2017](2017-12-13-Exacta.html) | Exacta | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 
 ### Probability Mass Function
 
@@ -61,9 +61,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% | Last Result |
-| 5 | 4% | 100% |  |
-| 6 | 96% | 96% | Median |
-| 7 | 0.2% | 0.2% |  |
+| 5 | 27% | 100% |  |
+| 6 | 71% | 73% | Median |
+| 7 | 2% | 2% |  |
 | 8 | 0% | 0% |  |
 
 
