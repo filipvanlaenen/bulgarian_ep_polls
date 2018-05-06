@@ -53,8 +53,8 @@ Last result: **6** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
-| [1–7 March 2018](2018-03-07-Тренд.html) | Тренд <br> 24 часа | 6 | 6–7 | 6–7 | 6–7 | 6–8 |
-| [10–18 January 2018](2018-01-18-Тренд.html) | Тренд <br> 24 часа | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
+| [1–7 March 2018](2018-03-07-Тренд.html) | Тренд <br> 24 часа | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
+| [10–18 January 2018](2018-01-18-Тренд.html) | Тренд <br> 24 часа | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [7–13 December 2017](2017-12-13-Exacta.html) | Exacta | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
 
 ### Probability Mass Function
@@ -66,9 +66,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.1% | 100% |  |
-| 6 | 26% | 99.9% | Last Result |
-| 7 | 34% | 74% | Median |
-| 8 | 38% | 39% |  |
+| 6 | 21% | 99.9% | Last Result |
+| 7 | 39% | 79% | Median |
+| 8 | 39% | 40% |  |
 | 9 | 1.1% | 1.1% | Majority |
 | 10 | 0% | 0% |  |
 
