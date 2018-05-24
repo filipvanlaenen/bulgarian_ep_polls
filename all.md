@@ -2,13 +2,14 @@
 
 The table below lists all polls registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | ГЕРБ | БСП | ДПС | ОП | РБ | Воля | ДСБ | Да |
-|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 25 May 2014 | General Election | 30.4% <br> 6 | 18.9% <br> 4 | 17.3% <br> 4 | 10.7% <br> 2 | 6.5% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| [1–7 March 2018](2018-03-07-Тренд.html) | Тренд <br> 24 часа | 31–39% <br> 6–7 | 27–34% <br> 5–7 | 9–14% <br> 2–3 | 6–11% <br> 1–2 | 2–4% <br> 0 | 2–4% <br> 0 | 1–3% <br> 0 | 2–4% <br> 0 |
-| [10–18 January 2018](2018-01-18-Тренд.html) | Тренд <br> 24 часа | 32–40% <br> 6–8 | 26–34% <br> 5–6 | 8–13% <br> 1–2 | 7–11% <br> 1–2 | 2–5% <br> 0 | 2–4% <br> 0 | 1–3% <br> 0 | 2–4% <br> 0 |
-| [7–13 December 2017](2017-12-13-Exacta.html) | Exacta | 38–45% <br> 7–8 | 27–34% <br> 5–6 | 7–11% <br> 1–2 | 7–11% <br> 1–2 | 1–3% <br> 0 | 2–4% <br> 0 | 1–3% <br> 0 | 1–2% <br> 0 |
-| 25 May 2014 | General Election | 30.4% <br> 6 | 18.9% <br> 4 | 17.3% <br> 4 | 10.7% <br> 2 | 6.5% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| Period     | Polling firm/Commissioner(s) | ГЕРБ | БСП | ДПС | ОП | РБ | Воля | ДБ | ДСБ | Да |
+|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 25 May 2014 | General Election | 30.4% <br> 6 | 18.9% <br> 4 | 17.3% <br> 4 | 10.7% <br> 2 | 6.4% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [2–10 May 2018](2018-05-10-Тренд.html) | Тренд <br> 24 часа | 33–41% <br> 6–8 | 28–35% <br> 5–7 | 8–13% <br> 2–3 | 7–11% <br> 1–2 | 1–4% <br> 0 | 2–4% <br> 0 | 2–6% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
+| [1–7 March 2018](2018-03-07-Тренд.html) | Тренд <br> 24 часа | 31–39% <br> 6–7 | 27–34% <br> 5–7 | 9–14% <br> 2–3 | 6–11% <br> 1–2 | 2–4% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | 2–4% <br> 0 |
+| [10–18 January 2018](2018-01-18-Тренд.html) | Тренд <br> 24 часа | 32–40% <br> 6–8 | 26–34% <br> 5–6 | 8–13% <br> 1–2 | 7–11% <br> 1–2 | 2–5% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | 2–4% <br> 0 |
+| [7–13 December 2017](2017-12-13-Exacta.html) | Exacta | 38–45% <br> 7–8 | 27–34% <br> 5–6 | 7–11% <br> 1–2 | 7–11% <br> 1–2 | 1–3% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | 1–2% <br> 0 |
+| 25 May 2014 | General Election | 30.4% <br> 6 | 18.9% <br> 4 | 17.3% <br> 4 | 10.7% <br> 2 | 6.4% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
@@ -21,6 +22,7 @@ Only polls for which at least the sample size has been published are included in
 + **ОП:** Обединени Патриоти (ECR)
 + **РБ:** Реформаторски блок (EPP)
 + **Воля:** Воля (*)
++ **ДБ:** Демократична България (EPP)
 + **ДСБ:** Демократи за силна България (EPP)
 + **Да:** Да, България! (*)
 + **N/A (single party):** Party not included the published results
