@@ -8,9 +8,39 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/bulgarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 06 May 2018 12:20:43 +0200</pubDate>
+    <pubDate>Thu, 24 May 2018 07:01:13 +0200</pubDate>
     <item>
-      <title>Opinion Poll by Тренд for 24 часа, 1–7 March 2018 – Seat Projections</title>
+      <title>Opinion Poll by Тренд for 24 часа, 2–10 May 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-05-10-Тренд.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 5–7 seats&lt;/li&gt;&lt;li&gt;Обединени Патриоти (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Движение за права и свободи (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Воля (*): 0 seats&lt;/li&gt;&lt;li&gt;Реформаторски блок (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-05-10-Тренд-seats.png"
+        length="177675"
+        type="image/png"/>
+      <pubDate>Thu, 24 May 2018 07:01:13 +0200</pubDate>
+      <dc:date>2018-05-24T07:01:13.063408+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Тренд for 24 часа, 2–10 May 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-05-10-Тренд.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-05-10-Тренд-coalitions-seats.png"
+        length="138408"
+        type="image/png"/>
+      <pubDate>Thu, 24 May 2018 07:01:13 +0200</pubDate>
+      <dc:date>2018-05-24T07:01:13.063408+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Тренд for 24 часа, 2–10 May 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-05-10-Тренд.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 33.3–40.9%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 27.6–34.8%&lt;/li&gt;&lt;li&gt;Обединени Патриоти (ECR): 6.7–11.2%&lt;/li&gt;&lt;li&gt;Движение за права и свободи (ALDE): 8.3–13.1%&lt;/li&gt;&lt;li&gt;Воля (*): 1.7–4.3%&lt;/li&gt;&lt;li&gt;Реформаторски блок (EPP): 1.2–3.6%&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 2.5–5.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-05-10-Тренд.png"
+        length="223440"
+        type="image/png"/>
+      <pubDate>Thu, 24 May 2018 07:01:13 +0200</pubDate>
+      <dc:date>2018-05-24T07:01:13.063408+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Тренд for 24 часа, 1–7 March 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-03-07-Тренд.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 6–7 seats&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 5–7 seats&lt;/li&gt;&lt;li&gt;Обединени Патриоти (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Движение за права и свободи (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Воля (*): 0 seats&lt;/li&gt;&lt;li&gt;Реформаторски блок (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Демократи за силна България (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Да, България! (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-03-07-Тренд-seats.png"
@@ -24,7 +54,7 @@
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-03-07-Тренд.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-03-07-Тренд-coalitions-seats.png"
-        length="134044"
+        length="134016"
         type="image/png"/>
       <pubDate>Sun, 06 May 2018 12:05:57 +0200</pubDate>
       <dc:date>2018-05-06T12:05:57.9615+02:00</dc:date>
@@ -34,13 +64,13 @@
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-03-07-Тренд.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 31.3–38.9%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 27.0–34.3%&lt;/li&gt;&lt;li&gt;Обединени Патриоти (ECR): 6.5–10.9%&lt;/li&gt;&lt;li&gt;Движение за права и свободи (ALDE): 8.7–13.6%&lt;/li&gt;&lt;li&gt;Воля (*): 1.6–4.3%&lt;/li&gt;&lt;li&gt;Реформаторски блок (EPP): 1.6–4.3%&lt;/li&gt;&lt;li&gt;Демократи за силна България (EPP): 0.9–3.0%&lt;/li&gt;&lt;li&gt;Да, България! (*): 1.5–4.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-03-07-Тренд.png"
-        length="241122"
+        length="241063"
         type="image/png"/>
       <pubDate>Sun, 06 May 2018 12:05:57 +0200</pubDate>
       <dc:date>2018-05-06T12:05:57.9615+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Тренд for 24 часа, 10–18 January 2018 – Seat Projections</title>
+      <title>Opinion Poll by Тренд for 24 часа, 10–18 January 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-01-18-Тренд.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Обединени Патриоти (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Движение за права и свободи (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;Воля (*): 0 seats&lt;/li&gt;&lt;li&gt;Реформаторски блок (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Демократи за силна България (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Да, България! (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-01-18-Тренд-seats.png"
@@ -54,7 +84,7 @@
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-01-18-Тренд.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-01-18-Тренд-coalitions-seats.png"
-        length="147111"
+        length="147075"
         type="image/png"/>
       <pubDate>Sun, 06 May 2018 12:20:43 +0200</pubDate>
       <dc:date>2018-05-06T12:20:43.96182+02:00</dc:date>
@@ -64,13 +94,13 @@
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-01-18-Тренд.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 32.0–39.6%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 26.5–33.8%&lt;/li&gt;&lt;li&gt;Обединени Патриоти (ECR): 6.7–11.2%&lt;/li&gt;&lt;li&gt;Движение за права и свободи (ALDE): 7.9–12.7%&lt;/li&gt;&lt;li&gt;Воля (*): 1.6–4.2%&lt;/li&gt;&lt;li&gt;Реформаторски блок (EPP): 2.0–4.8%&lt;/li&gt;&lt;li&gt;Демократи за силна България (EPP): 0.9–3.0%&lt;/li&gt;&lt;li&gt;Да, България! (*): 1.6–4.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-01-18-Тренд.png"
-        length="242712"
+        length="242682"
         type="image/png"/>
       <pubDate>Sun, 06 May 2018 12:20:43 +0200</pubDate>
       <dc:date>2018-05-06T12:20:43.96182+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Exacta, 7–13 December 2017 – Seat Projections</title>
+      <title>Opinion Poll by Exacta, 7–13 December 2017 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2017-12-13-Exacta.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 7–8 seats&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Обединени Патриоти (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Движение за права и свободи (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;Воля (*): 0 seats&lt;/li&gt;&lt;li&gt;Реформаторски блок (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Демократи за силна България (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Да, България! (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2017-12-13-Exacta-seats.png"
@@ -84,7 +114,7 @@
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2017-12-13-Exacta.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2017-12-13-Exacta-coalitions-seats.png"
-        length="140883"
+        length="140840"
         type="image/png"/>
       <pubDate>Tue, 03 Apr 2018 11:44:59 +0200</pubDate>
       <dc:date>2018-04-03T11:44:59.129772+02:00</dc:date>
@@ -94,11 +124,11 @@
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2017-12-13-Exacta.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 37.7–45.1%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 27.3–34.3%&lt;/li&gt;&lt;li&gt;Обединени Патриоти (ECR): 7.1–11.4%&lt;/li&gt;&lt;li&gt;Движение за права и свободи (ALDE): 6.6–10.8%&lt;/li&gt;&lt;li&gt;Воля (*): 1.7–4.2%&lt;/li&gt;&lt;li&gt;Реформаторски блок (EPP): 1.2–3.5%&lt;/li&gt;&lt;li&gt;Демократи за силна България (EPP): 1.1–3.3%&lt;/li&gt;&lt;li&gt;Да, България! (*): 0.5–2.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2017-12-13-Exacta.png"
-        length="230049"
+        length="230009"
         type="image/png"/>
       <pubDate>Tue, 03 Apr 2018 11:44:59 +0200</pubDate>
       <dc:date>2018-04-03T11:44:59.129772+02:00</dc:date>
     </item>
-    <dc:date>2018-05-06T12:20:43.96182+02:00</dc:date>
+    <dc:date>2018-05-24T07:01:13.063408+02:00</dc:date>
   </channel>
 </rss>
