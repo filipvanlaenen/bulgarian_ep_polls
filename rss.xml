@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/bulgarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 24 May 2018 07:01:13 +0200</pubDate>
+    <pubDate>Thu, 05 Jul 2018 14:18:56 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Алфа рисърч, 17 May–25 June 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-06-25-Алфарисърч.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Обединени Патриоти (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Движение за права и свободи (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;Воля (*): 0 seats&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-06-25-Алфарисърч-seats.png"
+        length="150291"
+        type="image/png"/>
+      <pubDate>Thu, 05 Jul 2018 14:18:56 +0200</pubDate>
+      <dc:date>2018-07-05T14:18:56.562531+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Алфа рисърч, 17 May–25 June 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-06-25-Алфарисърч.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-06-25-Алфарисърч-coalitions-seats.png"
+        length="123592"
+        type="image/png"/>
+      <pubDate>Thu, 05 Jul 2018 14:18:56 +0200</pubDate>
+      <dc:date>2018-07-05T14:18:56.562531+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Алфа рисърч, 17 May–25 June 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-06-25-Алфарисърч.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 33.8–41.2%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 27.3–34.3%&lt;/li&gt;&lt;li&gt;Обединени Патриоти (ECR): 5.9–10.0%&lt;/li&gt;&lt;li&gt;Движение за права и свободи (ALDE): 5.7–9.8%&lt;/li&gt;&lt;li&gt;Воля (*): 2.2–5.0%&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 2.2–5.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-06-25-Алфарисърч.png"
+        length="201326"
+        type="image/png"/>
+      <pubDate>Thu, 05 Jul 2018 14:18:56 +0200</pubDate>
+      <dc:date>2018-07-05T14:18:56.562531+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Тренд for 24 часа, 2–10 May 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-05-10-Тренд.html#seats</link>
@@ -129,6 +159,6 @@
       <pubDate>Tue, 03 Apr 2018 11:44:59 +0200</pubDate>
       <dc:date>2018-04-03T11:44:59.129772+02:00</dc:date>
     </item>
-    <dc:date>2018-05-24T07:01:13.063408+02:00</dc:date>
+    <dc:date>2018-07-05T14:18:56.562531+02:00</dc:date>
   </channel>
 </rss>
