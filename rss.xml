@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/bulgarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 03 Aug 2018 21:10:27 +0200</pubDate>
+    <pubDate>Sat, 04 Aug 2018 10:14:19 +0200</pubDate>
     <item>
       <title>Opinion Poll by Медиана, 1–6 July 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-07-06-Медиана.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-07-06-Медиана.png"
         length="184450"
         type="image/png"/>
-      <pubDate>Fri, 03 Aug 2018 21:10:27 +0200</pubDate>
-      <dc:date>2018-08-03T21:10:27.504955+02:00</dc:date>
+      <pubDate>Sat, 04 Aug 2018 10:14:19 +0200</pubDate>
+      <dc:date>2018-08-04T10:14:19.344735+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Алфа рисърч, 17 May–25 June 2018 – Seat Projections for the Parties</title>
@@ -199,6 +199,6 @@
       <pubDate>Tue, 03 Apr 2018 11:44:59 +0200</pubDate>
       <dc:date>2018-04-03T11:44:59.129772+02:00</dc:date>
     </item>
-    <dc:date>2018-08-03T21:10:27.504955+02:00</dc:date>
+    <dc:date>2018-08-04T10:14:19.344735+02:00</dc:date>
   </channel>
 </rss>
