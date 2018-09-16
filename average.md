@@ -315,6 +315,8 @@ Only polls for which at least the sample size has been published are included in
 
 ### Граждани за европейско развитие на България (EPP) – Реформаторски блок (EPP) – Демократи за силна България (EPP) – Демократична България (EPP)
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-герб–рб–дсб–дб.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 17% | 100% |  |
@@ -324,6 +326,8 @@ Only polls for which at least the sample size has been published are included in
 | 9 | 0% | 0% | Majority |
 
 ### Българска социалистическа партия (S&D)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-бсп.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -335,6 +339,8 @@ Only polls for which at least the sample size has been published are included in
 
 ### Движение за права и свободи (ALDE)
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-дпс.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% |  |
@@ -345,6 +351,8 @@ Only polls for which at least the sample size has been published are included in
 
 ### Обединени Патриоти (ECR)
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-оп.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 30% | 100% |  |
@@ -353,6 +361,8 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 0% |  |
 
 ### Воля (*) – Да, България! (*)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-воля–да.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -363,3 +373,7 @@ Only polls for which at least the sample size has been published are included in
 
 ## Technical Information
 
++ **Number of polls included in this average:** 3
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 3,145,728
++ **Error estimate:** 1.31%
