@@ -58,8 +58,8 @@ Last result: **4** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
-| [8–14 September 2018](2018-09-14-SovaHarris.html) | Sova Harris <br> БГНЕС | 7 | 6–7 | 6–7 | 5–7 | 5–7 |
+| N/A | [Poll Average](average.html) | 6 | 5–6 | 4–6 | 4–7 | 4–7 |
+| [8–14 September 2018](2018-09-14-SovaHarris.html) | Sova Harris <br> БГНЕС | 6 | 6 | 6–7 | 5–7 | 5–7 |
 | [4–11 September 2018](2018-09-11-Тренд.html) | Тренд <br> 24 часа | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [1–6 July 2018](2018-07-06-Медиана.html) | Медиана | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [17 May–25 June 2018](2018-06-25-Алфарисърч.html) | Алфа рисърч | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -77,10 +77,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 12% | 100% | Last Result |
-| 5 | 44% | 88% | Median |
-| 6 | 43% | 44% |  |
-| 7 | 1.1% | 1.1% |  |
+| 4 | 9% | 100% | Last Result |
+| 5 | 34% | 91% |  |
+| 6 | 55% | 57% | Median |
+| 7 | 3% | 3% |  |
 | 8 | 0% | 0% |  |
 
 
