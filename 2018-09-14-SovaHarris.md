@@ -58,7 +58,7 @@
 | 4 | 0% | 100% | Last Result |
 | 5 | 3% | 100% |  |
 | 6 | 90% | 97% | Median |
-| 7 | 7% | 7% |  |
+| 7 | 8% | 8% |  |
 | 8 | 0% | 0% |  |
 
 ### Движение за права и свободи (ALDE)
@@ -82,8 +82,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 26% | 100% |  |
-| 2 | 74% | 74% | Last Result, Median |
+| 1 | 27% | 100% |  |
+| 2 | 73% | 73% | Last Result, Median |
 | 3 | 0% | 0% |  |
 
 ### Демократична България (EPP)
@@ -130,7 +130,7 @@
 | 4 | 0% | 100% | Last Result |
 | 5 | 3% | 100% |  |
 | 6 | 90% | 97% | Median |
-| 7 | 7% | 7% |  |
+| 7 | 8% | 8% |  |
 | 8 | 0% | 0% |  |
 
 ### Движение за права и свободи (ALDE)
@@ -150,8 +150,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 26% | 100% |  |
-| 2 | 74% | 74% | Last Result, Median |
+| 1 | 27% | 100% |  |
+| 2 | 73% | 73% | Last Result, Median |
 | 3 | 0% | 0% |  |
 
 
@@ -166,6 +166,6 @@
 ### Calculations
 
 + **Sample size:** 1000
-+ **Simulations done:** 262,144
-+ **Error estimate:** 2.38%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.99%
 
