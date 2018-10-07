@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/bulgarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 07 Oct 2018 19:40:26 +0200</pubDate>
+    <pubDate>Sun, 07 Oct 2018 19:52:08 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Sova Harris for БГНЕС, 8–14 September 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-09-14-SovaHarris.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 7–8 seats&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 5–7 seats&lt;/li&gt;&lt;li&gt;Обединени Патриоти (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Движение за права и свободи (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;Воля (*): 0 seats&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-09-14-SovaHarris-seats.png"
+        length="163331"
+        type="image/png"/>
+      <pubDate>Sun, 07 Oct 2018 19:52:08 +0200</pubDate>
+      <dc:date>2018-10-07T19:52:08.861716+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sova Harris for БГНЕС, 8–14 September 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-09-14-SovaHarris.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-09-14-SovaHarris-coalitions-seats.png"
+        length="136271"
+        type="image/png"/>
+      <pubDate>Sun, 07 Oct 2018 19:52:08 +0200</pubDate>
+      <dc:date>2018-10-07T19:52:08.861716+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Sova Harris for БГНЕС, 8–14 September 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-09-14-SovaHarris.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-09-14-SovaHarris.png"
         length="189096"
         type="image/png"/>
-      <pubDate>Sun, 07 Oct 2018 19:40:26 +0200</pubDate>
-      <dc:date>2018-10-07T19:40:26.076455+02:00</dc:date>
+      <pubDate>Sun, 07 Oct 2018 19:52:08 +0200</pubDate>
+      <dc:date>2018-10-07T19:52:08.861716+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Тренд for 24 часа, 4–11 September 2018 – Seat Projections for the Parties</title>
@@ -259,6 +279,6 @@
       <pubDate>Tue, 03 Apr 2018 11:44:59 +0200</pubDate>
       <dc:date>2018-04-03T11:44:59.129772+02:00</dc:date>
     </item>
-    <dc:date>2018-10-07T19:40:26.076455+02:00</dc:date>
+    <dc:date>2018-10-07T19:52:08.861716+02:00</dc:date>
   </channel>
 </rss>
