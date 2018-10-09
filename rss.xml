@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/bulgarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 07 Oct 2018 19:52:08 +0200</pubDate>
+    <pubDate>Tue, 09 Oct 2018 21:09:48 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Алфа рисърч, 23–30 September 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-09-30-Алфарисърч.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 6–7 seats&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Обединени Патриоти (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Движение за права и свободи (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;Воля (*): 0 seats&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-09-30-Алфарисърч-seats.png"
+        length="154591"
+        type="image/png"/>
+      <pubDate>Tue, 09 Oct 2018 21:09:48 +0200</pubDate>
+      <dc:date>2018-10-09T21:09:48.978872+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Алфа рисърч, 23–30 September 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-09-30-Алфарисърч.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-09-30-Алфарисърч-coalitions-seats.png"
+        length="138883"
+        type="image/png"/>
+      <pubDate>Tue, 09 Oct 2018 21:09:48 +0200</pubDate>
+      <dc:date>2018-10-09T21:09:48.978872+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Алфа рисърч, 23–30 September 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-09-30-Алфарисърч.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 31.4–38.8%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 27.6–34.7%&lt;/li&gt;&lt;li&gt;Обединени Патриоти (ECR): 5.6–9.6%&lt;/li&gt;&lt;li&gt;Движение за права и свободи (ALDE): 8.3–13.0%&lt;/li&gt;&lt;li&gt;Воля (*): 2.1–4.9%&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 3.2–6.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-09-30-Алфарисърч.png"
+        length="207796"
+        type="image/png"/>
+      <pubDate>Tue, 09 Oct 2018 21:09:48 +0200</pubDate>
+      <dc:date>2018-10-09T21:09:48.978872+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Sova Harris for БГНЕС, 8–14 September 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-09-14-SovaHarris.html#seats</link>
@@ -279,6 +309,6 @@
       <pubDate>Tue, 03 Apr 2018 11:44:59 +0200</pubDate>
       <dc:date>2018-04-03T11:44:59.129772+02:00</dc:date>
     </item>
-    <dc:date>2018-10-07T19:52:08.861716+02:00</dc:date>
+    <dc:date>2018-10-09T21:09:48.978872+02:00</dc:date>
   </channel>
 </rss>
