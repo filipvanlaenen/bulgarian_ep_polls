@@ -11,6 +11,7 @@ Last result: **6.4%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.1% | 1.5–3.0% | 1.3–3.2% | 1.2–3.5% | 1.0–4.0% |
+| [23–30 September 2018](2018-09-30-Алфарисърч.html) | Алфа рисърч | 0.0% | N/A | N/A | N/A | N/A |
 | [8–14 September 2018](2018-09-14-SovaHarris.html) | Sova Harris <br> БГНЕС | 0.0% | N/A | N/A | N/A | N/A |
 | [4–11 September 2018](2018-09-11-Тренд.html) | Тренд <br> 24 часа | 2.0% | 1.5–3.0% | 1.3–3.2% | 1.2–3.5% | 1.0–4.0% |
 | [1–6 July 2018](2018-07-06-Медиана.html) | Медиана | 0.0% | N/A | N/A | N/A | N/A |
@@ -45,6 +46,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [23–30 September 2018](2018-09-30-Алфарисърч.html) | Алфа рисърч |  |  |  |  |  |
 | [8–14 September 2018](2018-09-14-SovaHarris.html) | Sova Harris <br> БГНЕС |  |  |  |  |  |
 | [4–11 September 2018](2018-09-11-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0 | 0 | 0 |
 | [1–6 July 2018](2018-07-06-Медиана.html) | Медиана |  |  |  |  |  |

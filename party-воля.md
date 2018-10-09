@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.6% | 1.8–3.8% | 1.6–4.1% | 1.5–4.4% | 1.2–5.1% |
+| N/A | [Poll Average](average.html) | 2.6% | 1.8–3.7% | 1.6–4.1% | 1.5–4.4% | 1.2–5.0% |
+| [23–30 September 2018](2018-09-30-Алфарисърч.html) | Алфа рисърч | 3.2% | 2.5–4.3% | 2.3–4.6% | 2.1–4.9% | 1.8–5.5% |
 | [8–14 September 2018](2018-09-14-SovaHarris.html) | Sova Harris <br> БГНЕС | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [4–11 September 2018](2018-09-11-Тренд.html) | Тренд <br> 24 часа | 2.4% | 1.8–3.3% | 1.6–3.6% | 1.4–3.9% | 1.2–4.4% |
 | [1–6 July 2018](2018-07-06-Медиана.html) | Медиана | 2.7% | 2.1–3.6% | 1.9–3.8% | 1.8–4.1% | 1.5–4.5% |
@@ -29,10 +30,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 4% | 100% |  |
-| 1.5–2.5% | 42% | 96% |  |
-| 2.5–3.5% | 39% | 54% | Median |
-| 3.5–4.5% | 13% | 15% |  |
-| 4.5–5.5% | 2% | 2% |  |
+| 1.5–2.5% | 43% | 96% |  |
+| 2.5–3.5% | 40% | 53% | Median |
+| 3.5–4.5% | 12% | 14% |  |
+| 4.5–5.5% | 1.5% | 2% |  |
 | 5.5–6.5% | 0.1% | 0.1% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
@@ -46,6 +47,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [23–30 September 2018](2018-09-30-Алфарисърч.html) | Алфа рисърч | 0 | 0 | 0 | 0 | 0–1 |
 | [8–14 September 2018](2018-09-14-SovaHarris.html) | Sova Harris <br> БГНЕС | 0 | 0 | 0 | 0 | 0 |
 | [4–11 September 2018](2018-09-11-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0 | 0 | 0 |
 | [1–6 July 2018](2018-07-06-Медиана.html) | Медиана | 0 | 0 | 0 | 0 | 0 |
@@ -64,8 +66,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.6% | 100% | Last Result, Median |
-| 1 | 0.4% | 0.4% |  |
+| 0 | 99.5% | 100% | Last Result, Median |
+| 1 | 0.5% | 0.5% |  |
 | 2 | 0% | 0% |  |
 
 
