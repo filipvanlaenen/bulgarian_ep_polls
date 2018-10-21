@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ГЕРБ | БСП | ДПС | ОП | РБ | Воля | ДБ | ДСБ | Да |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 30.4% <br> 6 | 18.9% <br> 4 | 17.3% <br> 4 | 10.7% <br> 2 | 6.4% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| [25 September–5 October 2018](2018-10-05-Exacta.html) | Exacta | 36–42% <br> 7–8 | 30–36% <br> 5–7 | 8–12% <br> 2 | 8–12% <br> 1–2 | 1–3% <br> 0 | 1–3% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| [25 September–5 October 2018](2018-10-05-Exacta.html) | Exacta | 36–42% <br> 7–8 | 30–36% <br> 5–7 | 8–12% <br> 1–2 | 8–12% <br> 1–2 | 1–3% <br> 0 | 1–3% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | [23–30 September 2018](2018-09-30-Алфарисърч.html) | Алфа рисърч | 31–39% <br> 6–7 | 28–35% <br> 5–6 | 8–13% <br> 1–2 | 6–10% <br> 1–2 | N/A <br> N/A | 2–5% <br> 0 | 3–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
 | [8–14 September 2018](2018-09-14-SovaHarris.html) | Sova Harris <br> БГНЕС | 38–44% <br> 7–8 | 31–37% <br> 5–7 | 8–12% <br> 1–2 | 7–11% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | [4–11 September 2018](2018-09-11-Тренд.html) | Тренд <br> 24 часа | 33–40% <br> 6–7 | 28–35% <br> 5–7 | 8–13% <br> 1–2 | 7–11% <br> 1–2 | 1–3% <br> 0 | 1–4% <br> 0 | 2–5% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
