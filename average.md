@@ -10,7 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 30.4% <br> 6 | 18.9% <br> 4 | 17.3% <br> 4 | 10.7% <br> 2 | 6.4% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 32–43% <br> 6–8 | 28–36% <br> 5–7 | 8–13% <br> 1–2 | 6–12% <br> 1–2 | 1–3% <br> 0 | 1–4% <br> 0 | 2–6% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
-| [25 September–5 October 2018](2018-10-05-Exacta.html) | Exacta | 36–42% <br> 7–8 | 30–36% <br> 5–7 | 8–12% <br> 2 | 8–12% <br> 1–2 | 1–3% <br> 0 | 1–3% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| [25 September–5 October 2018](2018-10-05-Exacta.html) | Exacta | 36–42% <br> 7–8 | 30–36% <br> 5–7 | 8–12% <br> 1–2 | 8–12% <br> 1–2 | 1–3% <br> 0 | 1–3% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | [23–30 September 2018](2018-09-30-Алфарисърч.html) | Алфа рисърч | 31–39% <br> 6–7 | 28–35% <br> 5–6 | 8–13% <br> 1–2 | 6–10% <br> 1–2 | N/A <br> N/A | 2–5% <br> 0 | 3–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
 | [8–14 September 2018](2018-09-14-SovaHarris.html) | Sova Harris <br> БГНЕС | 38–44% <br> 7–8 | 31–37% <br> 5–7 | 8–12% <br> 1–2 | 7–11% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | [4–11 September 2018](2018-09-11-Тренд.html) | Тренд <br> 24 часа | 33–40% <br> 6–7 | 28–35% <br> 5–7 | 8–13% <br> 1–2 | 7–11% <br> 1–2 | 1–3% <br> 0 | 1–4% <br> 0 | 2–5% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
@@ -217,7 +217,7 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0.5% | 100% |  |
 | 6 | 25% | 99.5% | Last Result |
 | 7 | 65% | 74% | Median |
-| 8 | 10% | 10% |  |
+| 8 | 9% | 9% |  |
 | 9 | 0% | 0% | Majority |
 
 ### Българска социалистическа партия (S&D)
@@ -231,7 +231,7 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% | Last Result |
 | 5 | 18% | 100% |  |
 | 6 | 79% | 82% | Median |
-| 7 | 3% | 3% |  |
+| 7 | 4% | 4% |  |
 | 8 | 0% | 0% |  |
 
 ### Движение за права и свободи (ALDE)
@@ -331,7 +331,7 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% | Last Result |
 | 5 | 18% | 100% |  |
 | 6 | 79% | 82% | Median |
-| 7 | 3% | 3% |  |
+| 7 | 4% | 4% |  |
 | 8 | 0% | 0% |  |
 
 ### Движение за права и свободи (ALDE)
@@ -370,6 +370,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 4
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 3,276,800
-+ **Error estimate:** 2.26%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 4,194,304
++ **Error estimate:** 2.21%
