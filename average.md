@@ -10,7 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 30.4% <br> 6 | 18.9% <br> 4 | 17.3% <br> 4 | 10.7% <br> 2 | 6.4% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 32–43% <br> 6–8 | 28–36% <br> 5–7 | 8–13% <br> 1–2 | 6–12% <br> 1–2 | 1–3% <br> 0 | 1–4% <br> 0 | 2–6% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
-| [25 September–5 October 2018](2018-10-05-Exacta.html) | Exacta | 36–42% <br> 7 | 30–36% <br> 6–7 | 8–12% <br> 2 | 8–12% <br> 1–2 | 1–3% <br> 0 | 1–3% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| [25 September–5 October 2018](2018-10-05-Exacta.html) | Exacta | 36–42% <br> 7–8 | 30–36% <br> 5–7 | 8–12% <br> 2 | 8–12% <br> 1–2 | 1–3% <br> 0 | 1–3% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | [23–30 September 2018](2018-09-30-Алфарисърч.html) | Алфа рисърч | 31–39% <br> 6–7 | 28–35% <br> 5–6 | 8–13% <br> 1–2 | 6–10% <br> 1–2 | N/A <br> N/A | 2–5% <br> 0 | 3–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
 | [8–14 September 2018](2018-09-14-SovaHarris.html) | Sova Harris <br> БГНЕС | 38–44% <br> 7–8 | 31–37% <br> 5–7 | 8–12% <br> 1–2 | 7–11% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | [4–11 September 2018](2018-09-11-Тренд.html) | Тренд <br> 24 часа | 33–40% <br> 6–7 | 28–35% <br> 5–7 | 8–13% <br> 1–2 | 7–11% <br> 1–2 | 1–3% <br> 0 | 1–4% <br> 0 | 2–5% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
@@ -197,7 +197,7 @@ Only polls for which at least the sample size has been published are included in
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#граждани-за-европейско-развитие-на-българия-(epp)">Граждани за европейско развитие на България (EPP)</a> | 6 | 7 | 6–7 |6–8 | 6–8 | 6–8 |
-| <a href="#българска-социалистическа-партия-(s&d)">Българска социалистическа партия (S&D)</a> | 4 | 6 | 5–6 |5–7 | 5–7 | 5–7 |
+| <a href="#българска-социалистическа-партия-(s&d)">Българска социалистическа партия (S&D)</a> | 4 | 6 | 5–6 |5–6 | 5–7 | 5–7 |
 | <a href="#движение-за-права-и-свободи-(alde)">Движение за права и свободи (ALDE)</a> | 4 | 2 | 2 |2 | 1–2 | 1–2 |
 | <a href="#обединени-патриоти-(ecr)">Обединени Патриоти (ECR)</a> | 2 | 2 | 1–2 |1–2 | 1–2 | 1–2 |
 | <a href="#реформаторски-блок-(epp)">Реформаторски блок (EPP)</a> | 1 | 0 | 0 |0 | 0 | 0 |
@@ -216,8 +216,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.5% | 100% |  |
 | 6 | 25% | 99.5% | Last Result |
-| 7 | 67% | 74% | Median |
-| 8 | 8% | 8% |  |
+| 7 | 65% | 74% | Median |
+| 8 | 10% | 10% |  |
 | 9 | 0% | 0% | Majority |
 
 ### Българска социалистическа партия (S&D)
@@ -229,9 +229,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% | Last Result |
-| 5 | 17% | 100% |  |
-| 6 | 78% | 83% | Median |
-| 7 | 5% | 5% |  |
+| 5 | 18% | 100% |  |
+| 6 | 79% | 82% | Median |
+| 7 | 3% | 3% |  |
 | 8 | 0% | 0% |  |
 
 ### Движение за права и свободи (ALDE)
@@ -242,8 +242,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 4% | 100% |  |
-| 2 | 96% | 96% | Median |
+| 1 | 5% | 100% |  |
+| 2 | 95% | 95% | Median |
 | 3 | 0.5% | 0.5% |  |
 | 4 | 0% | 0% | Last Result |
 
@@ -256,8 +256,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% |  |
-| 1 | 35% | 99.9% |  |
-| 2 | 65% | 65% | Last Result, Median |
+| 1 | 33% | 99.9% |  |
+| 2 | 67% | 67% | Last Result, Median |
 | 3 | 0% | 0% |  |
 
 ### Реформаторски блок (EPP)
@@ -304,8 +304,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Граждани за европейско развитие на България (EPP) – Реформаторски блок (EPP) – Демократи за силна България (EPP) – Демократична България (EPP) | 7 | 7 | 0% | 6–7 | 6–8 | 6–8 | 6–8 |
-| Българска социалистическа партия (S&D) | 4 | 6 | 0% | 5–6 | 5–7 | 5–7 | 5–7 |
+| Граждани за европейско развитие на България (EPP) – Реформаторски блок (EPP) – Демократи за силна България (EPP) – Демократична България (EPP) | 7 | 7 | 0% | 6–8 | 6–8 | 6–8 | 6–8 |
+| Българска социалистическа партия (S&D) | 4 | 6 | 0% | 5–6 | 5–6 | 5–7 | 5–7 |
 | Движение за права и свободи (ALDE) | 4 | 2 | 0% | 2 | 2 | 1–2 | 1–2 |
 | Обединени Патриоти (ECR) | 2 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
 | Воля (*) – Да, България! (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
@@ -318,8 +318,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.1% | 100% |  |
 | 6 | 18% | 99.9% |  |
-| 7 | 73% | 82% | Last Result, Median |
-| 8 | 9% | 9% |  |
+| 7 | 71% | 82% | Last Result, Median |
+| 8 | 11% | 11% |  |
 | 9 | 0% | 0% | Majority |
 
 ### Българска социалистическа партия (S&D)
@@ -329,9 +329,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% | Last Result |
-| 5 | 17% | 100% |  |
-| 6 | 78% | 83% | Median |
-| 7 | 5% | 5% |  |
+| 5 | 18% | 100% |  |
+| 6 | 79% | 82% | Median |
+| 7 | 3% | 3% |  |
 | 8 | 0% | 0% |  |
 
 ### Движение за права и свободи (ALDE)
@@ -340,8 +340,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 4% | 100% |  |
-| 2 | 96% | 96% | Median |
+| 1 | 5% | 100% |  |
+| 2 | 95% | 95% | Median |
 | 3 | 0.5% | 0.5% |  |
 | 4 | 0% | 0% | Last Result |
 
@@ -352,8 +352,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% |  |
-| 1 | 35% | 99.9% |  |
-| 2 | 65% | 65% | Last Result, Median |
+| 1 | 33% | 99.9% |  |
+| 2 | 67% | 67% | Last Result, Median |
 | 3 | 0% | 0% |  |
 
 ### Воля (*) – Да, България! (*)
@@ -370,6 +370,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 4
-+ **Lowest number of simulations done in a poll included in this average:** 1,024
-+ **Total number of simulations done in the polls included in this average:** 3,146,752
-+ **Error estimate:** 2.65%
++ **Lowest number of simulations done in a poll included in this average:** 131,072
++ **Total number of simulations done in the polls included in this average:** 3,276,800
++ **Error estimate:** 2.26%
