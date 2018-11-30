@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/bulgarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 21 Oct 2018 11:30:58 +0200</pubDate>
+    <pubDate>Fri, 30 Nov 2018 19:18:25 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Тренд for 24 часа, 6–12 November 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-11-12-Тренд.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 31.8–39.4%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 29.7–37.2%&lt;/li&gt;&lt;li&gt;Обединени Патриоти (ECR): 5.2–9.3%&lt;/li&gt;&lt;li&gt;Движение за права и свободи (ALDE): 8.6–13.6%&lt;/li&gt;&lt;li&gt;Воля (*): 1.4–3.9%&lt;/li&gt;&lt;li&gt;Реформаторски блок (EPP): 1.0–3.3%&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 2.0–4.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-11-12-Тренд.png"
+        length="224913"
+        type="image/png"/>
+      <pubDate>Fri, 30 Nov 2018 19:18:25 +0100</pubDate>
+      <dc:date>2018-11-30T19:18:25.883775+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Exacta, 25 September–5 October 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-10-05-Exacta.html#seats</link>
@@ -339,6 +349,6 @@
       <pubDate>Tue, 03 Apr 2018 11:44:59 +0200</pubDate>
       <dc:date>2018-04-03T11:44:59.129772+02:00</dc:date>
     </item>
-    <dc:date>2018-10-21T11:30:58.247963+02:00</dc:date>
+    <dc:date>2018-11-30T19:18:25.883775+01:00</dc:date>
   </channel>
 </rss>
