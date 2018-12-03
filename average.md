@@ -218,7 +218,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.5% | 100% |  |
 | 6 | 28% | 99.5% | Last Result |
-| 7 | 62% | 71% | Median |
+| 7 | 63% | 72% | Median |
 | 8 | 9% | 9% |  |
 | 9 | 0% | 0% | Majority |
 
@@ -246,7 +246,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 4% | 100% |  |
 | 2 | 95% | 96% | Median |
-| 3 | 1.1% | 1.1% |  |
+| 3 | 1.4% | 1.4% |  |
 | 4 | 0% | 0% | Last Result |
 
 ### Обединени Патриоти (ECR)
@@ -257,9 +257,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.5% | 100% |  |
-| 1 | 44% | 99.5% |  |
-| 2 | 56% | 56% | Last Result, Median |
+| 0 | 0.4% | 100% |  |
+| 1 | 45% | 99.6% |  |
+| 2 | 54% | 54% | Last Result, Median |
 | 3 | 0% | 0% |  |
 
 ### Реформаторски блок (EPP)
@@ -319,9 +319,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.1% | 100% |  |
-| 6 | 21% | 99.9% |  |
-| 7 | 68% | 79% | Last Result, Median |
-| 8 | 11% | 11% |  |
+| 6 | 20% | 99.9% |  |
+| 7 | 69% | 79% | Last Result, Median |
+| 8 | 10% | 10% |  |
 | 9 | 0% | 0% | Majority |
 
 ### Българска социалистическа партия (S&D)
@@ -344,7 +344,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 4% | 100% |  |
 | 2 | 95% | 96% | Median |
-| 3 | 1.1% | 1.1% |  |
+| 3 | 1.4% | 1.4% |  |
 | 4 | 0% | 0% | Last Result |
 
 ### Обединени Патриоти (ECR)
@@ -353,9 +353,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.5% | 100% |  |
-| 1 | 44% | 99.5% |  |
-| 2 | 56% | 56% | Last Result, Median |
+| 0 | 0.4% | 100% |  |
+| 1 | 45% | 99.6% |  |
+| 2 | 54% | 54% | Last Result, Median |
 | 3 | 0% | 0% |  |
 
 ### Воля (*) – Да, България! (*)
@@ -372,6 +372,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 4
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 3,276,800
-+ **Error estimate:** 1.80%
++ **Lowest number of simulations done in a poll included in this average:** 524,288
++ **Total number of simulations done in the polls included in this average:** 3,670,016
++ **Error estimate:** 4.37%
