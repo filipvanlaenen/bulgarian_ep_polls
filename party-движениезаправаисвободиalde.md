@@ -53,7 +53,7 @@ Last result: **4** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 2 | 1–2 | 1–3 |
-| [6–12 November 2018](2018-11-12-Тренд.html) | Тренд <br> 24 часа | 2 | 2 | 2 | 2–3 | 1–3 |
+| [6–12 November 2018](2018-11-12-Тренд.html) | Тренд <br> 24 часа | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [25 September–5 October 2018](2018-10-05-Exacta.html) | Exacta | 2 | 2 | 2 | 1–2 | 1–2 |
 | [23–30 September 2018](2018-09-30-Алфарисърч.html) | Алфа рисърч | 2 | 2 | 2 | 1–2 | 1–3 |
 | [8–14 September 2018](2018-09-14-SovaHarris.html) | Sova Harris <br> БГНЕС | 2 | 2 | 1–2 | 1–2 | 1–2 |
@@ -76,7 +76,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 4% | 100% |  |
 | 2 | 95% | 96% | Median |
-| 3 | 1.4% | 1.4% |  |
+| 3 | 2% | 2% |  |
 | 4 | 0% | 0% | Last Result |
 
 
