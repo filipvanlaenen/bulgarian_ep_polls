@@ -232,8 +232,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% | Last Result |
 | 5 | 12% | 100% |  |
-| 6 | 80% | 88% | Median |
-| 7 | 8% | 8% |  |
+| 6 | 79% | 88% | Median |
+| 7 | 9% | 9% |  |
 | 8 | 0% | 0% |  |
 
 ### Движение за права и свободи (ALDE)
@@ -246,7 +246,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 4% | 100% |  |
 | 2 | 95% | 96% | Median |
-| 3 | 1.4% | 1.4% |  |
+| 3 | 2% | 2% |  |
 | 4 | 0% | 0% | Last Result |
 
 ### Обединени Патриоти (ECR)
@@ -257,8 +257,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.4% | 100% |  |
-| 1 | 45% | 99.6% |  |
+| 0 | 0.5% | 100% |  |
+| 1 | 46% | 99.5% |  |
 | 2 | 54% | 54% | Last Result, Median |
 | 3 | 0% | 0% |  |
 
@@ -320,7 +320,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.1% | 100% |  |
 | 6 | 20% | 99.9% |  |
-| 7 | 69% | 79% | Last Result, Median |
+| 7 | 69% | 80% | Last Result, Median |
 | 8 | 10% | 10% |  |
 | 9 | 0% | 0% | Majority |
 
@@ -332,8 +332,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% | Last Result |
 | 5 | 12% | 100% |  |
-| 6 | 80% | 88% | Median |
-| 7 | 8% | 8% |  |
+| 6 | 79% | 88% | Median |
+| 7 | 9% | 9% |  |
 | 8 | 0% | 0% |  |
 
 ### Движение за права и свободи (ALDE)
@@ -344,7 +344,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 4% | 100% |  |
 | 2 | 95% | 96% | Median |
-| 3 | 1.4% | 1.4% |  |
+| 3 | 2% | 2% |  |
 | 4 | 0% | 0% | Last Result |
 
 ### Обединени Патриоти (ECR)
@@ -353,8 +353,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.4% | 100% |  |
-| 1 | 45% | 99.6% |  |
+| 0 | 0.5% | 100% |  |
+| 1 | 46% | 99.5% |  |
 | 2 | 54% | 54% | Last Result, Median |
 | 3 | 0% | 0% |  |
 
@@ -372,6 +372,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 4
-+ **Lowest number of simulations done in a poll included in this average:** 524,288
-+ **Total number of simulations done in the polls included in this average:** 3,670,016
-+ **Error estimate:** 4.37%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 4,194,304
++ **Error estimate:** 2.71%
