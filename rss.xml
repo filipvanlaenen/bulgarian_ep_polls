@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/bulgarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 12 Jan 2019 12:12:19 +0100</pubDate>
+    <pubDate>Sat, 12 Jan 2019 18:49:39 +0100</pubDate>
     <item>
       <title>Opinion Poll by Алфа рисърч, 14–18 December 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-12-18-Алфарисърч.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-12-18-Алфарисърч.png"
         length="199362"
         type="image/png"/>
-      <pubDate>Sat, 12 Jan 2019 12:12:19 +0100</pubDate>
-      <dc:date>2019-01-12T12:12:19.931076+01:00</dc:date>
+      <pubDate>Sat, 12 Jan 2019 18:49:39 +0100</pubDate>
+      <dc:date>2019-01-12T18:49:39.426816+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Маркет ЛИНКС, 16–25 November 2018 – Seat Projections for the Parties</title>
@@ -409,6 +409,6 @@
       <pubDate>Tue, 03 Apr 2018 11:44:59 +0200</pubDate>
       <dc:date>2018-04-03T11:44:59.129772+02:00</dc:date>
     </item>
-    <dc:date>2019-01-12T12:12:19.931076+01:00</dc:date>
+    <dc:date>2019-01-12T18:49:39.426816+01:00</dc:date>
   </channel>
 </rss>
