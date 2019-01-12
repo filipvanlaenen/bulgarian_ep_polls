@@ -11,6 +11,7 @@ Last result: **6.4%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.0% | 1.4–2.7% | 1.3–2.9% | 1.1–3.2% | 0.9–3.6% |
+| [14–18 December 2018](2018-12-18-Алфарисърч.html) | Алфа рисърч | 0.0% | N/A | N/A | N/A | N/A |
 | [16–25 November 2018](2018-11-25-МаркетЛИНКС.html) | Маркет ЛИНКС | 0.0% | N/A | N/A | N/A | N/A |
 | [6–12 November 2018](2018-11-12-Тренд.html) | Тренд <br> 24 часа | 1.8% | 1.3–2.8% | 1.1–3.0% | 1.0–3.3% | 0.8–3.8% |
 | [25 September–5 October 2018](2018-10-05-Exacta.html) | Exacta | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
@@ -49,6 +50,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [14–18 December 2018](2018-12-18-Алфарисърч.html) | Алфа рисърч |  |  |  |  |  |
 | [16–25 November 2018](2018-11-25-МаркетЛИНКС.html) | Маркет ЛИНКС |  |  |  |  |  |
 | [6–12 November 2018](2018-11-12-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0 | 0 | 0 |
 | [25 September–5 October 2018](2018-10-05-Exacta.html) | Exacta | 0 | 0 | 0 | 0 | 0 |
