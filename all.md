@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ГЕРБ | БСП | ДПС | ОП | РБ | Воля | ДБ | ДСБ | Да |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 30.4% <br> 6 | 18.9% <br> 4 | 17.3% <br> 4 | 10.7% <br> 2 | 6.4% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [14–19 January 2019](2019-01-19-AFIS.html) | AFIS | 33–39% <br> 7–8 | 35–41% <br> 7–8 | 10–14% <br> 2–3 | 4–7% <br> 0–1 | 1–3% <br> 0 | 1–3% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | [14–18 December 2018](2018-12-18-Алфарисърч.html) | Алфа рисърч | 30–36% <br> 5–6 | 28–34% <br> 5–6 | 9–13% <br> 2 | 5–8% <br> 0–1 | N/A <br> N/A | 3–5% <br> 0–1 | 5–8% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
 | [16–25 November 2018](2018-11-25-МаркетЛИНКС.html) | Маркет ЛИНКС | 31–37% <br> 5–7 | 28–34% <br> 5–6 | 6–9% <br> 1–2 | 5–8% <br> 0–1 | N/A <br> N/A | 1–3% <br> 0 | 5–8% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
 | [6–12 November 2018](2018-11-12-Тренд.html) | Тренд <br> 24 часа | 32–39% <br> 6–7 | 30–37% <br> 5–7 | 9–14% <br> 2–3 | 5–9% <br> 1–2 | 1–3% <br> 0 | 1–4% <br> 0 | 2–5% <br> 0 | N/A <br> N/A | N/A <br> N/A |
@@ -19,6 +20,7 @@ The table below lists all polls registered and analyzed so far.
 | [1–7 March 2018](2018-03-07-Тренд.html) | Тренд <br> 24 часа | 31–39% <br> 6–7 | 27–34% <br> 5–7 | 9–14% <br> 2–3 | 6–11% <br> 1–2 | 2–4% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | 2–4% <br> 0 |
 | [10–18 January 2018](2018-01-18-Тренд.html) | Тренд <br> 24 часа | 32–40% <br> 6–8 | 26–34% <br> 5–6 | 8–13% <br> 1–2 | 7–11% <br> 1–2 | 2–5% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | 2–4% <br> 0 |
 | [7–13 December 2017](2017-12-13-Exacta.html) | Exacta | 38–45% <br> 7–8 | 27–34% <br> 5–6 | 7–11% <br> 1–2 | 7–11% <br> 1–2 | 1–3% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | 1–2% <br> 0 |
+| [10 January 2019–17 January 2010](2010-01-17-Тренд.html) | Тренд <br> 24 часа | 33–39% <br> 6–7 | 31–37% <br> 6–7 | 12–16% <br> 2–3 | 6–9% <br> 1–2 | N/A <br> N/A | 2–4% <br> 0 | 3–5% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
 | 25 May 2014 | General Election | 30.4% <br> 6 | 18.9% <br> 4 | 17.3% <br> 4 | 10.7% <br> 2 | 6.4% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
