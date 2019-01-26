@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.7% | 2.7–6.7% | 2.4–7.1% | 2.2–7.4% | 1.9–8.0% |
+| N/A | [Poll Average](average.html) | 4.7% | 1.9–6.7% | 1.7–7.1% | 1.5–7.4% | 1.3–8.0% |
+| [14–19 January 2019](2019-01-19-AFIS.html) | AFIS | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
 | [14–18 December 2018](2018-12-18-Алфарисърч.html) | Алфа рисърч | 6.0% | 5.2–7.1% | 4.9–7.4% | 4.7–7.7% | 4.4–8.2% |
 | [16–25 November 2018](2018-11-25-МаркетЛИНКС.html) | Маркет ЛИНКС | 6.0% | 5.1–7.0% | 4.9–7.3% | 4.7–7.6% | 4.3–8.2% |
 | [6–12 November 2018](2018-11-12-Тренд.html) | Тренд <br> 24 часа | 3.2% | 2.4–4.3% | 2.2–4.6% | 2.0–4.9% | 1.7–5.5% |
@@ -25,6 +26,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [1–7 March 2018](2018-03-07-Тренд.html) | Тренд <br> 24 часа | 0.0% | N/A | N/A | N/A | N/A |
 | [10–18 January 2018](2018-01-18-Тренд.html) | Тренд <br> 24 часа | 0.0% | N/A | N/A | N/A | N/A |
 | [7–13 December 2017](2017-12-13-Exacta.html) | Exacta | 0.0% | N/A | N/A | N/A | N/A |
+| [10 January 2019–17 January 2010](2010-01-17-Тренд.html) | Тренд <br> 24 часа | 4.0% | 3.3–4.9% | 3.1–5.1% | 2.9–5.4% | 2.6–5.8% |
 
 ### Probability Mass Function
 
@@ -33,10 +35,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 7% | 100% |  |
-| 2.5–3.5% | 29% | 93% |  |
-| 3.5–4.5% | 13% | 64% |  |
+| 0.5–1.5% | 3% | 100% |  |
+| 1.5–2.5% | 22% | 97% |  |
+| 2.5–3.5% | 16% | 75% |  |
+| 3.5–4.5% | 8% | 59% |  |
 | 4.5–5.5% | 13% | 51% | Median |
 | 5.5–6.5% | 25% | 38% |  |
 | 6.5–7.5% | 11% | 13% |  |
@@ -54,6 +56,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [14–19 January 2019](2019-01-19-AFIS.html) | AFIS | 0 | 0 | 0 | 0 | 0 |
 | [14–18 December 2018](2018-12-18-Алфарисърч.html) | Алфа рисърч | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [16–25 November 2018](2018-11-25-МаркетЛИНКС.html) | Маркет ЛИНКС | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [6–12 November 2018](2018-11-12-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0 | 0 | 0–1 |
@@ -68,6 +71,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [1–7 March 2018](2018-03-07-Тренд.html) | Тренд <br> 24 часа |  |  |  |  |  |
 | [10–18 January 2018](2018-01-18-Тренд.html) | Тренд <br> 24 часа |  |  |  |  |  |
 | [7–13 December 2017](2017-12-13-Exacta.html) | Exacta |  |  |  |  |  |
+| [10 January 2019–17 January 2010](2010-01-17-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
