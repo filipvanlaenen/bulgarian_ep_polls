@@ -58,8 +58,8 @@ Last result: **4** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
-| [14–19 January 2019](2019-01-19-AFIS.html) | AFIS | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| [14–19 January 2019](2019-01-19-AFIS.html) | AFIS | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [14–18 December 2018](2018-12-18-Алфарисърч.html) | Алфа рисърч | 2 | 2 | 2 | 2 | 1–2 |
 | [16–25 November 2018](2018-11-25-МаркетЛИНКС.html) | Маркет ЛИНКС | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [6–12 November 2018](2018-11-12-Тренд.html) | Тренд <br> 24 часа | 2 | 2 | 2–3 | 2–3 | 1–3 |
@@ -86,8 +86,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% |  |
 | 1 | 23% | 99.9% |  |
-| 2 | 56% | 77% | Median |
-| 3 | 21% | 21% |  |
+| 2 | 71% | 77% | Median |
+| 3 | 6% | 6% |  |
 | 4 | 0% | 0% | Last Result |
 
 
