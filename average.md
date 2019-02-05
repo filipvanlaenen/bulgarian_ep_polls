@@ -234,8 +234,8 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% | Last Result |
 | 5 | 28% | 100% |  |
 | 6 | 41% | 72% | Median |
-| 7 | 24% | 31% |  |
-| 8 | 7% | 7% |  |
+| 7 | 23% | 31% |  |
+| 8 | 8% | 8% |  |
 | 9 | 0% | 0% | Majority |
 
 ### Движение за права и свободи (ALDE)
@@ -260,8 +260,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 15% | 100% |  |
-| 1 | 79% | 85% | Median |
+| 0 | 16% | 100% |  |
+| 1 | 78% | 84% | Median |
 | 2 | 6% | 6% | Last Result |
 | 3 | 0% | 0% |  |
 
@@ -337,8 +337,8 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% | Last Result |
 | 5 | 28% | 100% |  |
 | 6 | 41% | 72% | Median |
-| 7 | 24% | 31% |  |
-| 8 | 7% | 7% |  |
+| 7 | 23% | 31% |  |
+| 8 | 8% | 8% |  |
 | 9 | 0% | 0% | Majority |
 
 ### Движение за права и свободи (ALDE)
@@ -359,8 +359,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 15% | 100% |  |
-| 1 | 79% | 85% | Median |
+| 0 | 16% | 100% |  |
+| 1 | 78% | 84% | Median |
 | 2 | 6% | 6% | Last Result |
 | 3 | 0% | 0% |  |
 
@@ -378,6 +378,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 4
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 3,276,800
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 4,194,304
 + **Error estimate:** 2.71%
