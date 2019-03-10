@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/bulgarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 02 Mar 2019 21:03:58 +0100</pubDate>
+    <pubDate>Sun, 10 Mar 2019 16:47:10 +0100</pubDate>
     <item>
       <title>Opinion Poll by AFIS, 14–19 January 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2019-01-19-AFIS.html#seats</link>
@@ -70,14 +70,34 @@
       <dc:date>2019-01-13T14:04:14.600745+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Exacta, 10–17 December 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-12-17-Exacta.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 6–7 seats&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Обединени Патриоти (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Движение за права и свободи (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;Воля (*): 0 seats&lt;/li&gt;&lt;li&gt;Реформаторски блок (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-12-17-Exacta-seats.png"
+        length="164179"
+        type="image/png"/>
+      <pubDate>Sun, 10 Mar 2019 16:47:10 +0100</pubDate>
+      <dc:date>2019-03-10T16:47:10.80555+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Exacta, 10–17 December 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-12-17-Exacta.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-12-17-Exacta-coalitions-seats.png"
+        length="135209"
+        type="image/png"/>
+      <pubDate>Sun, 10 Mar 2019 16:47:10 +0100</pubDate>
+      <dc:date>2019-03-10T16:47:10.80555+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Exacta, 10–17 December 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-12-17-Exacta.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 32.1–38.0%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 28.3–34.0%&lt;/li&gt;&lt;li&gt;Обединени Патриоти (ECR): 4.5–7.4%&lt;/li&gt;&lt;li&gt;Движение за права и свободи (ALDE): 6.3–9.6%&lt;/li&gt;&lt;li&gt;Воля (*): 1.2–3.0%&lt;/li&gt;&lt;li&gt;Реформаторски блок (EPP): 1.2–3.0%&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 2.9–5.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2018-12-17-Exacta.png"
         length="212167"
         type="image/png"/>
-      <pubDate>Sat, 02 Mar 2019 21:03:58 +0100</pubDate>
-      <dc:date>2019-03-02T21:03:58.537974+01:00</dc:date>
+      <pubDate>Sun, 10 Mar 2019 16:47:10 +0100</pubDate>
+      <dc:date>2019-03-10T16:47:10.80555+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Маркет ЛИНКС, 16–25 November 2018 – Seat Projections for the Parties</title>
@@ -499,6 +519,6 @@
       <pubDate>Mon, 04 Feb 2019 15:17:36 +0100</pubDate>
       <dc:date>2019-02-04T15:17:36.681117+01:00</dc:date>
     </item>
-    <dc:date>2019-03-02T21:03:58.537974+01:00</dc:date>
+    <dc:date>2019-03-10T16:47:10.80555+01:00</dc:date>
   </channel>
 </rss>
