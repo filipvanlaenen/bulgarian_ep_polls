@@ -219,8 +219,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 4% | 100% |  |
-| 6 | 58% | 96% | Last Result, Median |
-| 7 | 37% | 39% |  |
+| 6 | 55% | 96% | Last Result, Median |
+| 7 | 39% | 41% |  |
 | 8 | 2% | 2% |  |
 | 9 | 0% | 0% | Majority |
 
@@ -233,9 +233,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% | Last Result |
-| 5 | 27% | 100% |  |
-| 6 | 49% | 73% | Median |
-| 7 | 18% | 25% |  |
+| 5 | 26% | 100% |  |
+| 6 | 49% | 74% | Median |
+| 7 | 19% | 25% |  |
 | 8 | 6% | 6% |  |
 | 9 | 0% | 0% | Majority |
 
@@ -248,8 +248,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% |  |
-| 1 | 27% | 99.9% |  |
-| 2 | 68% | 73% | Median |
+| 1 | 29% | 99.9% |  |
+| 2 | 66% | 71% | Median |
 | 3 | 5% | 5% |  |
 | 4 | 0% | 0% | Last Result |
 
@@ -262,7 +262,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 15% | 100% |  |
-| 1 | 79% | 85% | Median |
+| 1 | 80% | 85% | Median |
 | 2 | 5% | 5% | Last Result |
 | 3 | 0% | 0% |  |
 
@@ -324,9 +324,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.1% | 100% |  |
-| 6 | 28% | 99.9% | Median |
-| 7 | 69% | 72% | Last Result |
-| 8 | 4% | 4% |  |
+| 6 | 25% | 99.9% | Median |
+| 7 | 71% | 74% | Last Result |
+| 8 | 3% | 3% |  |
 | 9 | 0% | 0% | Majority |
 
 ### Българска социалистическа партия (S&D)
@@ -336,9 +336,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% | Last Result |
-| 5 | 27% | 100% |  |
-| 6 | 49% | 73% | Median |
-| 7 | 18% | 25% |  |
+| 5 | 26% | 100% |  |
+| 6 | 49% | 74% | Median |
+| 7 | 19% | 25% |  |
 | 8 | 6% | 6% |  |
 | 9 | 0% | 0% | Majority |
 
@@ -349,8 +349,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% |  |
-| 1 | 27% | 99.9% |  |
-| 2 | 68% | 73% | Median |
+| 1 | 29% | 99.9% |  |
+| 2 | 66% | 71% | Median |
 | 3 | 5% | 5% |  |
 | 4 | 0% | 0% | Last Result |
 
@@ -361,7 +361,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 15% | 100% |  |
-| 1 | 79% | 85% | Median |
+| 1 | 80% | 85% | Median |
 | 2 | 5% | 5% | Last Result |
 | 3 | 0% | 0% |  |
 
@@ -379,6 +379,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 4,325,376
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 5,242,880
 + **Error estimate:** 2.71%
