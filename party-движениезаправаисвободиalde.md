@@ -57,8 +57,8 @@ Last result: **4** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| [22–26 March 2019](2019-03-26-Алфарисърч.html) | Алфа рисърч | 2 | 2 | 2 | 2 | 2 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [22–26 March 2019](2019-03-26-Алфарисърч.html) | Алфа рисърч | 2 | 2 | 2 | 2 | 2–3 |
 | [14–19 January 2019](2019-01-19-AFIS.html) | AFIS | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [14–18 December 2018](2018-12-18-Алфарисърч.html) | Алфа рисърч | 2 | 2 | 2 | 2 | 1–2 |
 | [10–17 December 2018](2018-12-17-Exacta.html) | Exacta | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
