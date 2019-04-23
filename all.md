@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ГЕРБ | БСП | ДПС | ОП | РБ | Воля | ДБ | ДСБ | Да |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 30.4% <br> 6 | 18.9% <br> 4 | 17.3% <br> 4 | 10.7% <br> 2 | 6.4% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [5–11 April 2019](2019-04-11-Gallup.html) | Gallup | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [22–26 March 2019](2019-03-26-Алфарисърч.html) | Алфа рисърч | 31–37% <br> 5–7 | 30–36% <br> 5–7 | 9–13% <br> 2 | 6–10% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0 | 4–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
 | [14–19 January 2019](2019-01-19-AFIS.html) | AFIS | 33–39% <br> 6–8 | 35–41% <br> 7–8 | 10–14% <br> 2–3 | 4–7% <br> 0–1 | 1–3% <br> 0 | 1–3% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | [14–18 December 2018](2018-12-18-Алфарисърч.html) | Алфа рисърч | 30–36% <br> 5–6 | 28–34% <br> 5–6 | 9–13% <br> 2 | 5–8% <br> 0–1 | N/A <br> N/A | 3–5% <br> 0–1 | 5–8% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
