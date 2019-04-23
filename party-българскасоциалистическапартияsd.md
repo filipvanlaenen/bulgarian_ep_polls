@@ -11,6 +11,7 @@ Last result: **18.9%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 35.5% | 31.8–39.3% | 31.2–40.0% | 30.7–40.6% | 29.7–41.6% |
+| [5–11 April 2019](2019-04-11-Gallup.html) | Gallup | 33.0% | N/A | N/A | N/A | N/A |
 | [22–26 March 2019](2019-03-26-Алфарисърч.html) | Алфа рисърч | 33.0% | 31.2–35.0% | 30.7–35.5% | 30.2–36.0% | 29.3–36.9% |
 | [14–19 January 2019](2019-01-19-AFIS.html) | AFIS | 38.0% | 36.1–40.0% | 35.5–40.6% | 35.1–41.1% | 34.2–42.0% |
 | [14–18 December 2018](2018-12-18-Алфарисърч.html) | Алфа рисърч | 31.0% | 29.2–32.9% | 28.6–33.4% | 28.2–33.9% | 27.4–34.8% |
@@ -73,6 +74,7 @@ Last result: **4** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–8 | 5–8 | 5–8 | 5–8 |
+| [5–11 April 2019](2019-04-11-Gallup.html) | Gallup |  |  |  |  |  |
 | [22–26 March 2019](2019-03-26-Алфарисърч.html) | Алфа рисърч | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [14–19 January 2019](2019-01-19-AFIS.html) | AFIS | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
 | [14–18 December 2018](2018-12-18-Алфарисърч.html) | Алфа рисърч | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
