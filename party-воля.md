@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
+| N/A | [Poll Average](average.html) | 2.4% | 1.6–4.4% | 1.5–4.8% | 1.3–5.1% | 1.1–5.6% |
 | [12–22 April 2019](2019-04-22-МаркетЛИНКС.html) | Маркет ЛИНКС | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
-| [5–11 April 2019](2019-04-11-Gallup.html) | Gallup | 4.0% | N/A | N/A | N/A | N/A |
+| [5–11 April 2019](2019-04-11-Gallup.html) | Gallup | 4.0% | 3.3–5.0% | 3.2–5.2% | 3.0–5.4% | 2.7–5.9% |
 | [22–26 March 2019](2019-03-26-Алфарисърч.html) | Алфа рисърч | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
 | [14–19 January 2019](2019-01-19-AFIS.html) | AFIS | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
 | [14–18 December 2018](2018-12-18-Алфарисърч.html) | Алфа рисърч | 4.0% | 3.3–4.9% | 3.1–5.2% | 3.0–5.4% | 2.7–5.8% |
@@ -39,11 +39,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 12% | 100% |  |
-| 1.5–2.5% | 74% | 88% | Median |
-| 2.5–3.5% | 14% | 15% |  |
-| 3.5–4.5% | 0.2% | 0.2% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.5–1.5% | 8% | 100% |  |
+| 1.5–2.5% | 49% | 92% | Median |
+| 2.5–3.5% | 15% | 43% |  |
+| 3.5–4.5% | 20% | 28% |  |
+| 4.5–5.5% | 7% | 8% |  |
+| 5.5–6.5% | 0.6% | 0.6% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -54,9 +56,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
 | [12–22 April 2019](2019-04-22-МаркетЛИНКС.html) | Маркет ЛИНКС | 0 | 0 | 0 | 0 | 0 |
-| [5–11 April 2019](2019-04-11-Gallup.html) | Gallup |  |  |  |  |  |
+| [5–11 April 2019](2019-04-11-Gallup.html) | Gallup | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [22–26 March 2019](2019-03-26-Алфарисърч.html) | Алфа рисърч | 0 | 0 | 0 | 0 | 0 |
 | [14–19 January 2019](2019-01-19-AFIS.html) | AFIS | 0 | 0 | 0 | 0 | 0 |
 | [14–18 December 2018](2018-12-18-Алфарисърч.html) | Алфа рисърч | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -84,6 +86,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 97% | 100% | Last Result, Median |
+| 1 | 3% | 3% |  |
+| 2 | 0% | 0% |  |
 
 
