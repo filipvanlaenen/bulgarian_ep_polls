@@ -10,14 +10,14 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.2% | 1.7–4.2% | 1.5–4.5% | 1.4–4.7% | 1.2–5.2% |
+| N/A | [Poll Average](average.html) | 3.0% | 1.5–4.1% | 1.3–4.4% | 1.1–4.6% | 0.9–5.1% |
 | [12–22 April 2019](2019-04-22-МаркетЛИНКС.html) | Маркет ЛИНКС | 1.9% | 1.5–2.6% | 1.3–2.8% | 1.2–2.9% | 1.1–3.3% |
 | [5–12 April 2019](2019-04-12-Тренд.html) | Тренд | 3.6% | 2.9–4.5% | 2.7–4.7% | 2.6–4.9% | 2.3–5.4% |
 | [5–11 April 2019](2019-04-11-Gallup.html) | Gallup | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.5–4.8% | 2.2–5.2% |
 | [22–26 March 2019](2019-03-26-Алфарисърч.html) | Алфа рисърч | 1.9% | 1.4–2.6% | 1.3–2.7% | 1.2–2.9% | 1.0–3.3% |
 | [6–13 March 2019](2019-03-13-Тренд.html) | Тренд | 3.2% | N/A | N/A | N/A | N/A |
-| [6–11 March 2019](2019-03-11-SovaHarris.html) | Sova Harris | 3.3% | N/A | N/A | N/A | N/A |
-| [19–28 February 2019](2019-02-28-Exacta.html) | Exacta | 1.5% | N/A | N/A | N/A | N/A |
+| [6–11 March 2019](2019-03-11-SovaHarris.html) | Sova Harris | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
+| [19–28 February 2019](2019-02-28-Exacta.html) | Exacta | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
 | [22–28 February 2019](2019-02-28-AFIS.html) | AFIS | 0.0% | N/A | N/A | N/A | N/A |
 | [15–25 February 2019](2019-02-25-МаркетЛИНКС.html) | Маркет ЛИНКС | 2.5% | N/A | N/A | N/A | N/A |
 | [5–13 February 2019](2019-02-13-Тренд.html) | Тренд | 2.7% | N/A | N/A | N/A | N/A |
@@ -48,11 +48,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 6% | 100% |  |
-| 1.5–2.5% | 26% | 94% |  |
-| 2.5–3.5% | 34% | 68% | Median |
-| 3.5–4.5% | 30% | 34% |  |
-| 4.5–5.5% | 4% | 4% |  |
+| 0.5–1.5% | 13% | 100% |  |
+| 1.5–2.5% | 27% | 87% |  |
+| 2.5–3.5% | 32% | 60% | Median |
+| 3.5–4.5% | 25% | 28% |  |
+| 4.5–5.5% | 3% | 3% |  |
 | 5.5–6.5% | 0.1% | 0.1% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
@@ -71,8 +71,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [5–11 April 2019](2019-04-11-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0–1 |
 | [22–26 March 2019](2019-03-26-Алфарисърч.html) | Алфа рисърч | 0 | 0 | 0 | 0 | 0 |
 | [6–13 March 2019](2019-03-13-Тренд.html) | Тренд |  |  |  |  |  |
-| [6–11 March 2019](2019-03-11-SovaHarris.html) | Sova Harris |  |  |  |  |  |
-| [19–28 February 2019](2019-02-28-Exacta.html) | Exacta |  |  |  |  |  |
+| [6–11 March 2019](2019-03-11-SovaHarris.html) | Sova Harris | 0 | 0 | 0 | 0 | 0 |
+| [19–28 February 2019](2019-02-28-Exacta.html) | Exacta | 0 | 0 | 0 | 0 | 0 |
 | [22–28 February 2019](2019-02-28-AFIS.html) | AFIS |  |  |  |  |  |
 | [15–25 February 2019](2019-02-25-МаркетЛИНКС.html) | Маркет ЛИНКС |  |  |  |  |  |
 | [5–13 February 2019](2019-02-13-Тренд.html) | Тренд |  |  |  |  |  |
@@ -104,8 +104,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.2% | 100% | Last Result, Median |
-| 1 | 0.8% | 0.8% |  |
+| 0 | 99.4% | 100% | Last Result, Median |
+| 1 | 0.6% | 0.6% |  |
 | 2 | 0% | 0% |  |
 
 
