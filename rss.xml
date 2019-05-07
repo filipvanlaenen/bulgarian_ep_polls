@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/bulgarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 06 May 2019 20:28:15 +0200</pubDate>
+    <pubDate>Tue, 07 May 2019 07:57:23 +0200</pubDate>
     <item>
       <title>Opinion Poll by Маркет ЛИНКС, 12–22 April 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2019-04-22-МаркетЛИНКС.html#seats</link>
@@ -128,6 +128,16 @@
         type="image/png"/>
       <pubDate>Sat, 04 May 2019 18:53:29 +0200</pubDate>
       <dc:date>2019-05-04T18:53:29.998943+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Тренд, 6–13 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2019-03-13-Тренд.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 30.8–36.6%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 27.7–33.4%&lt;/li&gt;&lt;li&gt;ВМРО–Българско Национално Движение (ECR): 3.3–5.8%&lt;/li&gt;&lt;li&gt;Национален фронт за спасение на България (EFDD): 1.1–2.8%&lt;/li&gt;&lt;li&gt;Атака (NI): 1.5–3.4%&lt;/li&gt;&lt;li&gt;Движение за права и свободи (ALDE): 10.3–14.3%&lt;/li&gt;&lt;li&gt;Воля (EAPN): 2.3–4.5%&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 3.3–5.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2019-03-13-Тренд.png"
+        length="239431"
+        type="image/png"/>
+      <pubDate>Tue, 07 May 2019 07:57:23 +0200</pubDate>
+      <dc:date>2019-05-07T07:57:23.401154+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sova Harris, 6–11 March 2019 – Seat Projections for the Parties</title>
@@ -729,6 +739,6 @@
       <pubDate>Mon, 04 Feb 2019 15:17:36 +0100</pubDate>
       <dc:date>2019-02-04T15:17:36.681117+01:00</dc:date>
     </item>
-    <dc:date>2019-05-06T20:28:15.570582+02:00</dc:date>
+    <dc:date>2019-05-07T07:57:23.401154+02:00</dc:date>
   </channel>
 </rss>
