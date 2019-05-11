@@ -2,13 +2,16 @@
 
 The table below lists the most recent polls (less than 90 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | ГЕРБ | БСП | ДПС | ОП | РБ | Воля | ДБ | ДСБ | Да |
-|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 25 May 2014 | General Election | 30.4% <br> 6 | 18.9% <br> 4 | 17.3% <br> 4 | 10.7% <br> 2 | 6.4% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 32–39% <br> 6–8 | 31–41% <br> 5–8 | 10–14% <br> 2–3 | 4–10% <br> 0–2 | 1–3% <br> 0 | 1–3% <br> 0 | 1–6% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
-| [22–26 March 2019](2019-03-26-Алфарисърч.html) | Алфа рисърч | 31–37% <br> 5–7 | 30–36% <br> 5–7 | 9–13% <br> 2 | 6–10% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0 | 4–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
-| [14–19 January 2019](2019-01-19-AFIS.html) | AFIS | 33–39% <br> 6–8 | 35–41% <br> 7–8 | 10–14% <br> 2–3 | 4–7% <br> 0–1 | 1–3% <br> 0 | 1–3% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A |
-| 25 May 2014 | General Election | 30.4% <br> 6 | 18.9% <br> 4 | 17.3% <br> 4 | 10.7% <br> 2 | 6.4% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| Period     | Polling firm/Commissioner(s) | ГЕРБ | БСП | ДПС | ОП | ВМРО | НФСБ | Атака | РБ | Воля | ДБ | ДСБ | Да | АБВ |
+|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 25 May 2014 | General Election | 30.4% <br> 6 | 18.9% <br> 4 | 17.3% <br> 4 | 10.7% <br> 2 | 10.7% <br> 1 | 10.7% <br> 1 | 10.7% <br> 0 | 6.4% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| N/A | [Poll Average](average.html) | 28–40% <br> 6–8 | 29–38% <br> 6–7 | 6–14% <br> 1–3 | N/A <br> N/A | 2–7% <br> 0–1 | 1–3% <br> 0 | 1–4% <br> 0 | 1–3% <br> 0 | 1–5% <br> 0 | 3–6% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 |
+| [12–22 April 2019](2019-04-22-МаркетЛИНКС.html) | Маркет ЛИНКС | 33–38% <br> 6–7 | 33–39% <br> 6–7 | 6–9% <br> 1–2 | N/A <br> N/A | 4–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | 4–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [5–12 April 2019](2019-04-12-Тренд.html) | Тренд | 28–33% <br> 5–7 | 29–34% <br> 5–7 | 11–15% <br> 2–3 | N/A <br> N/A | 4–7% <br> 0–1 | 1–2% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | 3–5% <br> 0 | 3–6% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 |
+| [5–11 April 2019](2019-04-11-Gallup.html) | Gallup | 28–33% <br> 5–7 | 29–34% <br> 6–7 | 9–13% <br> 2–3 | N/A <br> N/A | 4–6% <br> 0–1 | 1–2% <br> 0 | 1–3% <br> 0 | 1–3% <br> 0 | 2–5% <br> 0 | 3–6% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 |
+| [22–26 March 2019](2019-03-26-Алфарисърч.html) | Алфа рисърч | 31–37% <br> 6–8 | 31–36% <br> 6–8 | 9–13% <br> 2–3 | N/A <br> N/A | 3–5% <br> 0–1 | 1–3% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | 4–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 |
+| [6–11 March 2019](2019-03-11-SovaHarris.html) | Sova Harris | 35–41% <br> 7–9 | 28–34% <br> 6–7 | 10–14% <br> 2–3 | N/A <br> N/A | 2–4% <br> 0 | 1–2% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | 2–5% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 |
+| 25 May 2014 | General Election | 30.4% <br> 6 | 18.9% <br> 4 | 17.3% <br> 4 | 10.7% <br> 2 | 10.7% <br> 1 | 10.7% <br> 1 | 10.7% <br> 0 | 6.4% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
@@ -19,11 +22,15 @@ Only polls for which at least the sample size has been published are included in
 + **БСП:** Българска социалистическа партия (S&D)
 + **ДПС:** Движение за права и свободи (ALDE)
 + **ОП:** Обединени Патриоти (ECR)
++ **ВМРО:** ВМРО–Българско Национално Движение (ECR)
++ **НФСБ:** Национален фронт за спасение на България (EFDD)
++ **Атака:** Атака (NI)
 + **РБ:** Реформаторски блок (EPP)
-+ **Воля:** Воля (*)
++ **Воля:** Воля (EAPN)
 + **ДБ:** Демократична България (EPP)
 + **ДСБ:** Демократи за силна България (EPP)
 + **Да:** Да, България! (*)
++ **АБВ:** Алтернатива за българско възраждане (S&D)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
