@@ -11,7 +11,7 @@ Last result: **18.9%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 32.4% | 29.9–36.7% | 29.3–37.5% | 28.9–38.1% | 27.9–39.2% |
-| [2–7 May 2019](2019-05-07-Mediana.html) | Mediana | 32.0% | N/A | N/A | N/A | N/A |
+| [2–7 May 2019](2019-05-07-Mediana.html) | Mediana | 32.0% | 30.2–34.0% | 29.7–34.5% | 29.2–35.0% | 28.4–35.9% |
 | [20–30 April 2019](2019-04-30-Алфарисърч.html) | Алфа рисърч | 33.0% | N/A | N/A | N/A | N/A |
 | [12–22 April 2019](2019-04-22-МаркетЛИНКС.html) | Маркет ЛИНКС | 35.9% | 34.1–37.9% | 33.5–38.4% | 33.1–38.9% | 32.2–39.8% |
 | [5–12 April 2019](2019-04-12-Тренд.html) | Тренд | 31.3% | 29.5–33.3% | 29.0–33.8% | 28.5–34.3% | 27.7–35.2% |
@@ -83,7 +83,7 @@ Last result: **4** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
-| [2–7 May 2019](2019-05-07-Mediana.html) | Mediana |  |  |  |  |  |
+| [2–7 May 2019](2019-05-07-Mediana.html) | Mediana | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [20–30 April 2019](2019-04-30-Алфарисърч.html) | Алфа рисърч |  |  |  |  |  |
 | [12–22 April 2019](2019-04-22-МаркетЛИНКС.html) | Маркет ЛИНКС | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [5–12 April 2019](2019-04-12-Тренд.html) | Тренд | 6 | 6 | 5–7 | 5–7 | 5–7 |
