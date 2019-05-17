@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.0% | 1.7–4.1% | 1.5–4.4% | 1.4–4.6% | 1.1–5.1% |
+| N/A | [Poll Average](average.html) | 3.2% | 1.7–4.2% | 1.6–4.5% | 1.4–4.7% | 1.2–5.2% |
+| [2–7 May 2019](2019-05-07-Mediana.html) | Mediana | 5.0% | N/A | N/A | N/A | N/A |
+| [20–30 April 2019](2019-04-30-Алфарисърч.html) | Алфа рисърч | 2.0% | N/A | N/A | N/A | N/A |
 | [12–22 April 2019](2019-04-22-МаркетЛИНКС.html) | Маркет ЛИНКС | 1.9% | 1.5–2.6% | 1.3–2.8% | 1.2–2.9% | 1.1–3.3% |
 | [5–12 April 2019](2019-04-12-Тренд.html) | Тренд | 3.6% | 2.9–4.5% | 2.7–4.7% | 2.6–4.9% | 2.3–5.4% |
 | [5–11 April 2019](2019-04-11-Gallup.html) | Gallup | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.5–4.8% | 2.2–5.2% |
@@ -48,11 +50,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 6% | 100% |  |
-| 1.5–2.5% | 32% | 94% |  |
-| 2.5–3.5% | 34% | 62% | Median |
-| 3.5–4.5% | 25% | 28% |  |
-| 4.5–5.5% | 3% | 3% |  |
+| 0.5–1.5% | 5% | 100% |  |
+| 1.5–2.5% | 27% | 95% |  |
+| 2.5–3.5% | 34% | 69% | Median |
+| 3.5–4.5% | 30% | 34% |  |
+| 4.5–5.5% | 4% | 4% |  |
 | 5.5–6.5% | 0.1% | 0.1% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
@@ -66,6 +68,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| [2–7 May 2019](2019-05-07-Mediana.html) | Mediana |  |  |  |  |  |
+| [20–30 April 2019](2019-04-30-Алфарисърч.html) | Алфа рисърч |  |  |  |  |  |
 | [12–22 April 2019](2019-04-22-МаркетЛИНКС.html) | Маркет ЛИНКС | 0 | 0 | 0 | 0 | 0 |
 | [5–12 April 2019](2019-04-12-Тренд.html) | Тренд | 0 | 0 | 0 | 0 | 0–1 |
 | [5–11 April 2019](2019-04-11-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0–1 |
@@ -104,8 +108,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.4% | 100% | Last Result, Median |
-| 1 | 0.6% | 0.6% |  |
+| 0 | 99.2% | 100% | Last Result, Median |
+| 1 | 0.8% | 0.8% |  |
 | 2 | 0% | 0% |  |
 
 

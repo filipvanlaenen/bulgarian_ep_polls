@@ -10,7 +10,9 @@ Last result: **10.7%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.2% | 1.6–3.3% | 1.4–3.6% | 1.3–3.8% | 1.1–4.3% |
+| N/A | [Poll Average](average.html) | 2.0% | 1.5–2.6% | 1.3–2.8% | 1.2–3.0% | 1.1–3.3% |
+| [2–7 May 2019](2019-05-07-Mediana.html) | Mediana | 3.0% | N/A | N/A | N/A | N/A |
+| [20–30 April 2019](2019-04-30-Алфарисърч.html) | Алфа рисърч | 21.0% | N/A | N/A | N/A | N/A |
 | [12–22 April 2019](2019-04-22-МаркетЛИНКС.html) | Маркет ЛИНКС | 0.0% | N/A | N/A | N/A | N/A |
 | [5–12 April 2019](2019-04-12-Тренд.html) | Тренд | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
 | [5–11 April 2019](2019-04-11-Gallup.html) | Gallup | 1.9% | 1.4–2.5% | 1.3–2.7% | 1.2–2.9% | 1.0–3.3% |
@@ -48,11 +50,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 9% | 100% |  |
-| 1.5–2.5% | 59% | 91% | Median |
-| 2.5–3.5% | 27% | 32% |  |
-| 3.5–4.5% | 5% | 5% |  |
-| 4.5–5.5% | 0.2% | 0.2% |  |
+| 0.5–1.5% | 14% | 100% |  |
+| 1.5–2.5% | 73% | 86% | Median |
+| 2.5–3.5% | 12% | 12% |  |
+| 3.5–4.5% | 0.2% | 0.2% |  |
+| 4.5–5.5% | 0% | 0% |  |
 | 5.5–6.5% | 0% | 0% |  |
 | 6.5–7.5% | 0% | 0% |  |
 | 7.5–8.5% | 0% | 0% |  |
@@ -70,6 +72,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [2–7 May 2019](2019-05-07-Mediana.html) | Mediana |  |  |  |  |  |
+| [20–30 April 2019](2019-04-30-Алфарисърч.html) | Алфа рисърч |  |  |  |  |  |
 | [12–22 April 2019](2019-04-22-МаркетЛИНКС.html) | Маркет ЛИНКС |  |  |  |  |  |
 | [5–12 April 2019](2019-04-12-Тренд.html) | Тренд | 0 | 0 | 0 | 0 | 0 |
 | [5–11 April 2019](2019-04-11-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
