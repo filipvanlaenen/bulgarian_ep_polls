@@ -69,9 +69,9 @@ Last result: **1** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| [2–7 May 2019](2019-05-07-Mediana.html) | Mediana | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
-| [20–30 April 2019](2019-04-30-Алфарисърч.html) | Алфа рисърч | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [2–7 May 2019](2019-05-07-Mediana.html) | Mediana | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
+| [20–30 April 2019](2019-04-30-Алфарисърч.html) | Алфа рисърч | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–22 April 2019](2019-04-22-МаркетЛИНКС.html) | Маркет ЛИНКС | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [5–12 April 2019](2019-04-12-Тренд.html) | Тренд | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [5–11 April 2019](2019-04-11-Gallup.html) | Gallup | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -110,9 +110,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 19% | 100% |  |
-| 1 | 70% | 81% | Last Result, Median |
-| 2 | 11% | 11% |  |
+| 0 | 25% | 100% |  |
+| 1 | 75% | 75% | Last Result, Median |
+| 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 
 
