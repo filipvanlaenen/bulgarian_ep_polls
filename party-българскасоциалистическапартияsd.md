@@ -48,7 +48,7 @@ Last result: **4** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
+| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [10–16 September 2019](2019-09-16-Алфарисърч.html) | Алфа рисърч | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [5–12 July 2019](2019-07-12-Тренд.html) | Тренд <br> 24 часа | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 
@@ -61,9 +61,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0% | 100% | Last Result |
-| 5 | 18% | 100% |  |
-| 6 | 80% | 82% | Median |
-| 7 | 2% | 2% |  |
+| 5 | 21% | 100% |  |
+| 6 | 77% | 79% | Median |
+| 7 | 3% | 3% |  |
 | 8 | 0% | 0% |  |
 
 
