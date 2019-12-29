@@ -271,8 +271,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 30% | 100% |  |
-| 6 | 41% | 70% | Last Result, Median |
-| 7 | 28% | 29% |  |
+| 6 | 42% | 70% | Last Result, Median |
+| 7 | 26% | 28% |  |
 | 8 | 2% | 2% |  |
 | 9 | 0% | 0% | Majority |
 
@@ -285,8 +285,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 5% | 100% | Last Result |
-| 5 | 78% | 95% | Median |
-| 6 | 17% | 17% |  |
+| 5 | 79% | 95% | Median |
+| 6 | 16% | 16% |  |
 | 7 | 0% | 0% |  |
 
 ### Движение за права и свободи (RE)
@@ -297,8 +297,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 77% | 100% | Median |
-| 3 | 23% | 23% |  |
+| 2 | 75% | 100% | Median |
+| 3 | 25% | 25% |  |
 | 4 | 0% | 0% | Last Result |
 
 ### Обединени Патриоти (ECR)
@@ -309,8 +309,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 30% | 100% |  |
-| 1 | 65% | 70% | Median |
+| 0 | 28% | 100% |  |
+| 1 | 67% | 72% | Median |
 | 2 | 5% | 5% | Last Result |
 | 3 | 0% | 0% |  |
 
@@ -356,8 +356,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 23% | 100% | Last Result |
-| 1 | 61% | 77% | Median |
-| 2 | 16% | 16% |  |
+| 1 | 62% | 77% | Median |
+| 2 | 15% | 15% |  |
 | 3 | 0% | 0% |  |
 
 ### Няма такава държава (*)
@@ -370,8 +370,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 12% | 100% |  |
-| 2 | 76% | 88% | Median |
-| 3 | 13% | 13% |  |
+| 2 | 77% | 88% | Median |
+| 3 | 11% | 11% |  |
 | 4 | 0% | 0% |  |
 
 
@@ -397,9 +397,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 21% | 100% |  |
-| 7 | 63% | 79% | Last Result, Median |
-| 8 | 15% | 15% |  |
+| 5 | 0.1% | 100% |  |
+| 6 | 21% | 99.9% |  |
+| 7 | 65% | 79% | Last Result, Median |
+| 8 | 14% | 14% |  |
 | 9 | 0.1% | 0.1% | Majority |
 | 10 | 0% | 0% |  |
 
@@ -410,8 +411,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 5% | 100% | Last Result |
-| 5 | 78% | 95% | Median |
-| 6 | 17% | 17% |  |
+| 5 | 79% | 95% | Median |
+| 6 | 16% | 16% |  |
 | 7 | 0% | 0% |  |
 
 ### Движение за права и свободи (RE)
@@ -420,8 +421,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 77% | 100% | Median |
-| 3 | 23% | 23% |  |
+| 2 | 75% | 100% | Median |
+| 3 | 25% | 25% |  |
 | 4 | 0% | 0% | Last Result |
 
 ### Национален фронт за спасение на България (*) – Да, България! (*) – Няма такава държава (*)
@@ -431,8 +432,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 12% | 100% | Last Result |
-| 2 | 76% | 88% | Median |
-| 3 | 13% | 13% |  |
+| 2 | 77% | 88% | Median |
+| 3 | 11% | 11% |  |
 | 4 | 0% | 0% |  |
 
 ### ВМРО–Българско Национално Движение (ECR) – Обединени Патриоти (ECR)
@@ -441,8 +442,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 36% | 100% |  |
-| 1 | 61% | 64% |  |
+| 0 | 35% | 100% |  |
+| 1 | 62% | 65% |  |
 | 2 | 3% | 3% | Median |
 | 3 | 0% | 0% | Last Result |
 
@@ -466,6 +467,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 3
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 2,228,224
-+ **Error estimate:** 2.42%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 3,145,728
++ **Error estimate:** 1.72%
