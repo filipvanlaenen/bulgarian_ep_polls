@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/bulgarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 23 Dec 2019 09:08:18 +0100</pubDate>
+    <pubDate>Sun, 29 Dec 2019 17:04:27 +0100</pubDate>
     <item>
       <title>Opinion Poll by Алфа рисърч, 5–12 December 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2019-12-12-Алфарисърч.html#seats</link>
@@ -100,14 +100,34 @@
       <dc:date>2019-12-23T08:40:13.563563+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Алфа рисърч, 10–16 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2019-09-16-Алфарисърч.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 5–7 seats&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Обединени Патриоти (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Атака (NI): 0 seats&lt;/li&gt;&lt;li&gt;Движение за права и свободи (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Воля (ID): 0 seats&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Няма такава държава (*): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2019-09-16-Алфарисърч-seats.png"
+        length="176338"
+        type="image/png"/>
+      <pubDate>Sun, 29 Dec 2019 17:04:27 +0100</pubDate>
+      <dc:date>2019-12-29T17:04:27.026767+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Алфа рисърч, 10–16 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2019-09-16-Алфарисърч.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2019-09-16-Алфарисърч-coalitions-seats.png"
+        length="140903"
+        type="image/png"/>
+      <pubDate>Sun, 29 Dec 2019 17:04:27 +0100</pubDate>
+      <dc:date>2019-12-29T17:04:27.026767+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Алфа рисърч, 10–16 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2019-09-16-Алфарисърч.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 27.6–33.2%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 23.8–29.2%&lt;/li&gt;&lt;li&gt;Обединени Патриоти (ECR): 3.7–6.4%&lt;/li&gt;&lt;li&gt;Атака (NI): 1.8–3.8%&lt;/li&gt;&lt;li&gt;Движение за права и свободи (RE): 10.3–14.3%&lt;/li&gt;&lt;li&gt;Воля (ID): 2.0–4.1%&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 4.5–7.4%&lt;/li&gt;&lt;li&gt;Няма такава държава (*): 9.4–13.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2019-09-16-Алфарисърч.png"
         length="241411"
         type="image/png"/>
-      <pubDate>Mon, 23 Dec 2019 09:08:18 +0100</pubDate>
-      <dc:date>2019-12-23T09:08:18.516004+01:00</dc:date>
+      <pubDate>Sun, 29 Dec 2019 17:04:27 +0100</pubDate>
+      <dc:date>2019-12-29T17:04:27.026767+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Тренд for 24 часа, 5–12 July 2019 – Seat Projections for the Parties</title>
@@ -139,6 +159,6 @@
       <pubDate>Sat, 28 Sep 2019 20:17:53 +0200</pubDate>
       <dc:date>2019-09-28T20:17:53.222513+02:00</dc:date>
     </item>
-    <dc:date>2019-12-23T09:08:18.516004+01:00</dc:date>
+    <dc:date>2019-12-29T17:04:27.026767+01:00</dc:date>
   </channel>
 </rss>
