@@ -11,6 +11,7 @@ Last result: **10.7%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7.1% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.4% |
+| [3–10 February 2020](2020-02-10-Тренд.html) | Тренд <br> 24 часа | 0.0% | N/A | N/A | N/A | N/A |
 | [5–12 December 2019](2019-12-12-Алфарисърч.html) | Алфа рисърч | 0.0% | N/A | N/A | N/A | N/A |
 | [21–28 November 2019](2019-11-28-МаркетЛИНКС.html) | Маркет ЛИНКС | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.4% |
 | [7–15 November 2019](2019-11-15-Тренд.html) | Тренд | 0.0% | N/A | N/A | N/A | N/A |
@@ -42,6 +43,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [3–10 February 2020](2020-02-10-Тренд.html) | Тренд <br> 24 часа |  |  |  |  |  |
 | [5–12 December 2019](2019-12-12-Алфарисърч.html) | Алфа рисърч |  |  |  |  |  |
 | [21–28 November 2019](2019-11-28-МаркетЛИНКС.html) | Маркет ЛИНКС | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [7–15 November 2019](2019-11-15-Тренд.html) | Тренд |  |  |  |  |  |
