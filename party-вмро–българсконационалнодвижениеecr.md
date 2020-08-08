@@ -52,11 +52,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [28 July–3 August 2020](2020-08-03-МаркетЛИНКС.html) | Маркет ЛИНКС |  |  |  |  |  |
 | [23–30 July 2020](2020-07-30-Алфарисърч.html) | Алфа рисърч <br> Дневник |  |  |  |  |  |
-| [26 June–1 July 2020](2020-07-01-SovaHarris.html) | Sova Harris | 1 | 1 | 1 | 1–2 | 1–2 |
-| [27 May–3 June 2020](2020-06-03-МаркетЛИНКС.html) | Маркет ЛИНКС | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [26 June–1 July 2020](2020-07-01-SovaHarris.html) | Sova Harris | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
+| [27 May–3 June 2020](2020-06-03-МаркетЛИНКС.html) | Маркет ЛИНКС | 0 | 0 | 0 | 0–1 | 0–1 |
 | [28 April–5 May 2020](2020-05-05-Алфарисърч.html) | Алфа рисърч <br> Дневник |  |  |  |  |  |
 | [3–10 February 2020](2020-02-10-Тренд.html) | Тренд <br> 24 часа | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [5–12 December 2019](2019-12-12-Алфарисърч.html) | Алфа рисърч |  |  |  |  |  |
@@ -74,9 +74,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 47% | 100% |  |
-| 1 | 50% | 53% | Last Result, Median |
-| 2 | 2% | 2% |  |
+| 0 | 49% | 100% |  |
+| 1 | 21% | 51% | Last Result, Median |
+| 2 | 30% | 30% |  |
 | 3 | 0% | 0% |  |
 
 

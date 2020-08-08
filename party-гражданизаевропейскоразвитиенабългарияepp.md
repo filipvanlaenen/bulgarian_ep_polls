@@ -66,10 +66,10 @@ Last result: **6** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–8 | 5–8 | 4–8 | 4–8 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
 | [28 July–3 August 2020](2020-08-03-МаркетЛИНКС.html) | Маркет ЛИНКС | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [23–30 July 2020](2020-07-30-Алфарисърч.html) | Алфа рисърч <br> Дневник | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
-| [26 June–1 July 2020](2020-07-01-SovaHarris.html) | Sova Harris | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
+| [26 June–1 July 2020](2020-07-01-SovaHarris.html) | Sova Harris | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [27 May–3 June 2020](2020-06-03-МаркетЛИНКС.html) | Маркет ЛИНКС | 6 | 6 | 5–6 | 5–7 | 5–7 |
 | [28 April–5 May 2020](2020-05-05-Алфарисърч.html) | Алфа рисърч <br> Дневник | 6 | 6 | 5–7 | 5–7 | 5–7 |
 | [3–10 February 2020](2020-02-10-Тренд.html) | Тренд <br> 24 часа | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
@@ -91,8 +91,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 5% | 100% |  |
 | 5 | 28% | 95% |  |
 | 6 | 33% | 67% | Last Result, Median |
-| 7 | 19% | 33% |  |
-| 8 | 15% | 15% |  |
-| 9 | 0% | 0% | Majority |
+| 7 | 30% | 34% |  |
+| 8 | 4% | 4% |  |
+| 9 | 0.4% | 0.4% | Majority |
+| 10 | 0% | 0% |  |
 
 

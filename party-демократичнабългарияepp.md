@@ -62,7 +62,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 1 | 0–2 | 0–3 | 0–3 | 0–3 |
 | [28 July–3 August 2020](2020-08-03-МаркетЛИНКС.html) | Маркет ЛИНКС | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | [23–30 July 2020](2020-07-30-Алфарисърч.html) | Алфа рисърч <br> Дневник | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [26 June–1 July 2020](2020-07-01-SovaHarris.html) | Sova Harris | 0 | 0 | 0 | 0 | 0–1 |
+| [26 June–1 July 2020](2020-07-01-SovaHarris.html) | Sova Harris | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [27 May–3 June 2020](2020-06-03-МаркетЛИНКС.html) | Маркет ЛИНКС | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [28 April–5 May 2020](2020-05-05-Алфарисърч.html) | Алфа рисърч <br> Дневник | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [3–10 February 2020](2020-02-10-Тренд.html) | Тренд <br> 24 часа | 1 | 1 | 0–2 | 0–2 | 0–2 |
@@ -81,8 +81,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 33% | 100% | Last Result |
-| 1 | 20% | 67% | Median |
+| 0 | 29% | 100% | Last Result |
+| 1 | 25% | 71% | Median |
 | 2 | 40% | 47% |  |
 | 3 | 7% | 7% |  |
 | 4 | 0% | 0% |  |
