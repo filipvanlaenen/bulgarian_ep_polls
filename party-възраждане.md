@@ -1,4 +1,4 @@
-# Алтернатива за българско възраждане (S&D)
+# Възраждане (*)
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
 
@@ -10,10 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.9% | 1.2–2.7% | 1.1–2.9% | 1.0–3.2% | 0.8–3.7% |
+| N/A | [Poll Average](average.html) | 1.7% | 0.4–3.5% | 0.3–3.9% | 0.3–4.2% | 0.1–4.9% |
 | [28 July–3 August 2020](2020-08-03-МаркетЛИНКС.html) | Маркет ЛИНКС | 0.0% | N/A | N/A | N/A | N/A |
-| [23–30 July 2020](2020-07-30-Алфарисърч.html) | Алфа рисърч <br> Дневник | 0.0% | N/A | N/A | N/A | N/A |
-| [26 June–1 July 2020](2020-07-01-SovaHarris.html) | Sova Harris | 1.8% | 1.2–2.7% | 1.1–3.0% | 1.0–3.2% | 0.7–3.7% |
+| [23–30 July 2020](2020-07-30-Алфарисърч.html) | Алфа рисърч <br> Дневник | 0.5% | 0.3–1.2% | 0.2–1.4% | 0.2–1.6% | 0.1–2.0% |
+| [26 June–1 July 2020](2020-07-01-SovaHarris.html) | Sova Harris | 2.8% | 2.1–3.9% | 1.9–4.2% | 1.7–4.5% | 1.4–5.1% |
 | [27 May–3 June 2020](2020-06-03-МаркетЛИНКС.html) | Маркет ЛИНКС | 0.0% | N/A | N/A | N/A | N/A |
 | [28 April–5 May 2020](2020-05-05-Алфарисърч.html) | Алфа рисърч <br> Дневник | 0.0% | N/A | N/A | N/A | N/A |
 | [3–10 February 2020](2020-02-10-Тренд.html) | Тренд <br> 24 часа | 0.0% | N/A | N/A | N/A | N/A |
@@ -26,16 +26,18 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Алтернатива за българско възраждане (S&D).
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Възраждане (*).
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 28% | 100% |  |
-| 1.5–2.5% | 58% | 72% | Median |
-| 2.5–3.5% | 13% | 14% |  |
-| 3.5–4.5% | 0.8% | 0.8% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.0–0.5% | 18% | 100% | Last Result |
+| 0.5–1.5% | 31% | 82% |  |
+| 1.5–2.5% | 15% | 51% | Median |
+| 2.5–3.5% | 26% | 36% |  |
+| 3.5–4.5% | 9% | 10% |  |
+| 4.5–5.5% | 1.0% | 1.1% |  |
+| 5.5–6.5% | 0.1% | 0.1% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -46,10 +48,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
 | [28 July–3 August 2020](2020-08-03-МаркетЛИНКС.html) | Маркет ЛИНКС |  |  |  |  |  |
-| [23–30 July 2020](2020-07-30-Алфарисърч.html) | Алфа рисърч <br> Дневник |  |  |  |  |  |
-| [26 June–1 July 2020](2020-07-01-SovaHarris.html) | Sova Harris | 0 | 0 | 0 | 0 | 0 |
+| [23–30 July 2020](2020-07-30-Алфарисърч.html) | Алфа рисърч <br> Дневник | 0 | 0 | 0 | 0 | 0 |
+| [26 June–1 July 2020](2020-07-01-SovaHarris.html) | Sova Harris | 0 | 0 | 0 | 0 | 0–1 |
 | [27 May–3 June 2020](2020-06-03-МаркетЛИНКС.html) | Маркет ЛИНКС |  |  |  |  |  |
 | [28 April–5 May 2020](2020-05-05-Алфарисърч.html) | Алфа рисърч <br> Дневник |  |  |  |  |  |
 | [3–10 February 2020](2020-02-10-Тренд.html) | Тренд <br> 24 часа |  |  |  |  |  |
@@ -62,12 +64,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-алтернативазабългарсковъзражданеsd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-възраждане.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average.html) for Алтернатива за българско възраждане (S&D).
+The following table shows the probability mass function per seat for the [poll average](average.html) for Възраждане (*).
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 99.4% | 100% | Last Result, Median |
+| 1 | 0.6% | 0.6% |  |
+| 2 | 0% | 0% |  |
 
 
