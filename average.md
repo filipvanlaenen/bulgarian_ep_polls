@@ -9,9 +9,9 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | ГЕРБ | БСП | ДПС | ОП | ВМРО | НФСБ | Атака | РБ | Воля | ДБ | ДСБ | Да | АБВ | ИТН | В | ИС.Б |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 30.4% <br> 6 | 18.9% <br> 4 | 17.3% <br> 4 | 10.7% <br> 2 | 10.7% <br> 1 | 10.7% <br> 1 | 10.7% <br> 0 | 6.4% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 24–40% <br> 4–8 | 17–28% <br> 3–5 | 6–12% <br> 1–2 | 3–6% <br> 0–1 | 3–9% <br> 0–1 | 0–2% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | 0–6% <br> 0–1 | 3–14% <br> 0–3 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | 8–21% <br> 1–4 | 0–4% <br> 0 | 2–8% <br> 0–1 |
+| N/A | Poll Average | 24–40% <br> 4–8 | 17–28% <br> 3–5 | 6–12% <br> 1–2 | 3–6% <br> 0–1 | 3–9% <br> 0–2 | 0–2% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | 0–6% <br> 0–1 | 3–14% <br> 0–3 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | 8–21% <br> 1–4 | 0–4% <br> 0 | 2–8% <br> 0–1 |
 | [23–30 July 2020](2020-07-30-Алфарисърч.html) | Алфа рисърч <br> Дневник | 23–30% <br> 4–6 | 16–23% <br> 3–4 | 6–11% <br> 1–2 | 3–6% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–2% <br> 0 | 10–15% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 16–22% <br> 3–4 | 0–2% <br> 0 | 4–8% <br> 0–2 |
-| [26 June–1 July 2020](2020-07-01-SovaHarris.html) | Sova Harris | 33–41% <br> 6–8 | 18–25% <br> 4–5 | 6–10% <br> 1–2 | N/A <br> N/A | 5–9% <br> 1–2 | 0–2% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | 3–6% <br> 0–1 | 3–6% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | 7–12% <br> 2 | 2–5% <br> 0 | 2–4% <br> 0 |
+| [26 June–1 July 2020](2020-07-01-SovaHarris.html) | Sova Harris | 33–41% <br> 7–8 | 18–25% <br> 4–5 | 6–10% <br> 1–2 | N/A <br> N/A | 5–9% <br> 1–2 | 0–2% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | 3–6% <br> 0–1 | 3–6% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | 7–12% <br> 1–2 | 2–5% <br> 0 | 2–4% <br> 0 |
 | [27 May–3 June 2020](2020-06-03-МаркетЛИНКС.html) | Маркет ЛИНКС | 31–37% <br> 5–7 | 23–29% <br> 4–5 | 8–12% <br> 1–2 | N/A <br> N/A | 3–5% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 8–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
 | 26 May 2019 | General Election | 30.4% <br> 6 | 18.9% <br> 4 | 17.3% <br> 4 | 10.7% <br> 2 | 10.7% <br> 1 | 10.7% <br> 1 | 10.7% <br> 0 | 6.4% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
@@ -351,21 +351,21 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#граждани-за-европейско-развитие-на-българия-(epp)">Граждани за европейско развитие на България (EPP)</a> | 6 | 6 | 5–8 |5–8 | 4–8 | 4–8 |
+| <a href="#граждани-за-европейско-развитие-на-българия-(epp)">Граждани за европейско развитие на България (EPP)</a> | 6 | 6 | 5–7 |5–7 | 4–8 | 4–8 |
 | <a href="#българска-социалистическа-партия-(s&d)">Българска социалистическа партия (S&D)</a> | 4 | 4 | 3–5 |3–5 | 3–5 | 3–5 |
 | <a href="#движение-за-права-и-свободи-(re)">Движение за права и свободи (RE)</a> | 4 | 2 | 1–2 |1–2 | 1–2 | 1–2 |
 | <a href="#обединени-патриоти-(ecr)">Обединени Патриоти (ECR)</a> | 2 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
-| <a href="#вмро–българско-национално-движение-(ecr)">ВМРО–Българско Национално Движение (ECR)</a> | 1 | 1 | 0–1 |0–1 | 0–1 | 0–2 |
+| <a href="#вмро–българско-национално-движение-(ecr)">ВМРО–Българско Национално Движение (ECR)</a> | 1 | 1 | 0–2 |0–2 | 0–2 | 0–2 |
 | <a href="#национален-фронт-за-спасение-на-българия-(*)">Национален фронт за спасение на България (*)</a> | 1 | 0 | 0 |0 | 0 | 0 |
 | <a href="#атака-(ni)">Атака (NI)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#реформаторски-блок-(epp)">Реформаторски блок (EPP)</a> | 1 | N/A | N/A |N/A | N/A | N/A |
-| <a href="#воля-(id)">Воля (ID)</a> | 0 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
+| <a href="#воля-(id)">Воля (ID)</a> | 0 | 0 | 0 |0 | 0–1 | 0–1 |
 | <a href="#демократична-българия-(epp)">Демократична България (EPP)</a> | 0 | 1 | 0–2 |0–3 | 0–3 | 0–3 |
 | <a href="#демократи-за-силна-българия-(epp)">Демократи за силна България (EPP)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#да,-българия!-(*)">Да, България! (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#алтернатива-за-българско-възраждане-(s&d)">Алтернатива за българско възраждане (S&D)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#има-такъв-народ-(*)">Има такъв народ (*)</a> | 0 | 2 | 2–4 |1–4 | 1–4 | 1–4 |
-| <a href="#възраждане-(*)">Възраждане (*)</a> | 0 | 0 | 0 |0 | 0 | 0–1 |
+| <a href="#възраждане-(*)">Възраждане (*)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#изправи-се-бг-(*)">Изправи се Бг (*)</a> | 0 | 0 | 0–1 |0–1 | 0–1 | 0–2 |
 
 ### Граждани за европейско развитие на България (EPP)
@@ -379,9 +379,10 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 5% | 100% |  |
 | 5 | 28% | 95% |  |
 | 6 | 33% | 67% | Last Result, Median |
-| 7 | 19% | 33% |  |
-| 8 | 15% | 15% |  |
-| 9 | 0% | 0% | Majority |
+| 7 | 30% | 34% |  |
+| 8 | 4% | 4% |  |
+| 9 | 0.4% | 0.4% | Majority |
+| 10 | 0% | 0% |  |
 
 ### Българска социалистическа партия (S&D)
 
@@ -392,8 +393,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 14% | 100% |  |
-| 4 | 59% | 86% | Last Result, Median |
-| 5 | 27% | 27% |  |
+| 4 | 42% | 86% | Last Result, Median |
+| 5 | 44% | 44% |  |
 | 6 | 0% | 0% |  |
 
 ### Движение за права и свободи (RE)
@@ -404,8 +405,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 24% | 100% |  |
-| 2 | 76% | 76% | Median |
+| 1 | 40% | 100% |  |
+| 2 | 60% | 60% | Median |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
 
@@ -429,9 +430,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 47% | 100% |  |
-| 1 | 50% | 53% | Last Result, Median |
-| 2 | 2% | 2% |  |
+| 0 | 49% | 100% |  |
+| 1 | 21% | 51% | Last Result, Median |
+| 2 | 30% | 30% |  |
 | 3 | 0% | 0% |  |
 
 ### Национален фронт за спасение на България (*)
@@ -469,8 +470,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 83% | 100% | Last Result, Median |
-| 1 | 17% | 17% |  |
+| 0 | 97% | 100% | Last Result, Median |
+| 1 | 3% | 3% |  |
 | 2 | 0% | 0% |  |
 
 ### Демократична България (EPP)
@@ -481,8 +482,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 33% | 100% | Last Result |
-| 1 | 20% | 67% | Median |
+| 0 | 29% | 100% | Last Result |
+| 1 | 25% | 71% | Median |
 | 2 | 40% | 47% |  |
 | 3 | 7% | 7% |  |
 | 4 | 0% | 0% |  |
@@ -518,8 +519,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 5% | 100% |  |
-| 2 | 61% | 95% | Median |
+| 1 | 8% | 100% |  |
+| 2 | 58% | 92% | Median |
 | 3 | 15% | 33% |  |
 | 4 | 18% | 19% |  |
 | 5 | 0.1% | 0.1% |  |
@@ -533,8 +534,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.4% | 100% | Last Result, Median |
-| 1 | 0.6% | 0.6% |  |
+| 0 | 99.9% | 100% | Last Result, Median |
+| 1 | 0.1% | 0.1% |  |
 | 2 | 0% | 0% |  |
 
 ### Изправи се Бг (*)
@@ -559,13 +560,13 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Граждани за европейско развитие на България (EPP) – Реформаторски блок (EPP) – Демократи за силна България (EPP) – Демократична България (EPP) | 7 | 7 | 0.7% | 7–8 | 6–8 | 6–8 | 6–9 |
+| Граждани за европейско развитие на България (EPP) – Реформаторски блок (EPP) – Демократи за силна България (EPP) – Демократична България (EPP) | 7 | 7 | 2% | 7–8 | 7–8 | 6–8 | 6–9 |
 | Българска социалистическа партия (S&D) – Алтернатива за българско възраждане (S&D) | 4 | 4 | 0% | 3–5 | 3–5 | 3–5 | 3–5 |
 | Национален фронт за спасение на България (*) – Възраждане (*) – Да, България! (*) – Изправи се Бг (*) – Има такъв народ (*) | 1 | 2 | 0% | 2–5 | 1–5 | 1–5 | 1–5 |
 | Движение за права и свободи (RE) | 4 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
-| ВМРО–Българско Национално Движение (ECR) – Обединени Патриоти (ECR) | 3 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–2 |
-| Воля (ID) | 0 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
+| ВМРО–Българско Национално Движение (ECR) – Обединени Патриоти (ECR) | 3 | 0 | 0% | 0–2 | 0–2 | 0–2 | 0–2 |
 | Атака (NI) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
+| Воля (ID) | 0 | 0 | 0% | 0 | 0 | 0 | 0–1 |
 
 ### Граждани за европейско развитие на България (EPP) – Реформаторски блок (EPP) – Демократи за силна България (EPP) – Демократична България (EPP)
 
@@ -574,9 +575,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 5% | 100% |  |
-| 7 | 60% | 95% | Last Result, Median |
-| 8 | 34% | 35% |  |
-| 9 | 0.7% | 0.7% | Majority |
+| 7 | 68% | 95% | Last Result, Median |
+| 8 | 26% | 28% |  |
+| 9 | 2% | 2% | Majority |
 | 10 | 0% | 0% |  |
 
 ### Българска социалистическа партия (S&D) – Алтернатива за българско възраждане (S&D)
@@ -586,8 +587,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 14% | 100% |  |
-| 4 | 59% | 86% | Last Result, Median |
-| 5 | 27% | 27% |  |
+| 4 | 42% | 86% | Last Result, Median |
+| 5 | 44% | 44% |  |
 | 6 | 0% | 0% |  |
 
 ### Национален фронт за спасение на България (*) – Възраждане (*) – Да, България! (*) – Изправи се Бг (*) – Има такъв народ (*)
@@ -596,8 +597,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 5% | 100% | Last Result |
-| 2 | 62% | 95% | Median |
+| 1 | 8% | 100% | Last Result |
+| 2 | 58% | 92% | Median |
 | 3 | 2% | 33% |  |
 | 4 | 16% | 32% |  |
 | 5 | 15% | 16% |  |
@@ -610,8 +611,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 24% | 100% |  |
-| 2 | 76% | 76% | Median |
+| 1 | 40% | 100% |  |
+| 2 | 60% | 60% | Median |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
 
@@ -621,20 +622,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 58% | 100% |  |
-| 1 | 41% | 42% | Median |
-| 2 | 2% | 2% |  |
+| 0 | 59% | 100% |  |
+| 1 | 21% | 41% | Median |
+| 2 | 20% | 20% |  |
 | 3 | 0% | 0% | Last Result |
-
-### Воля (ID)
-
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-воля.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 89% | 100% | Last Result, Median |
-| 1 | 11% | 11% |  |
-| 2 | 0% | 0% |  |
 
 ### Атака (NI)
 
@@ -644,10 +635,20 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
 
+### Воля (ID)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-воля.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 98% | 100% | Last Result, Median |
+| 1 | 2% | 2% |  |
+| 2 | 0% | 0% |  |
+
 
 ## Technical Information
 
 + **Number of polls included in this average:** 3
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 1,310,720
-+ **Error estimate:** 2.38%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 3,145,728
++ **Error estimate:** 2.41%
