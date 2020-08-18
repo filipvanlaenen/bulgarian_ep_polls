@@ -11,6 +11,7 @@ Last result: **10.7%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.3% | 0.8–2.0% | 0.7–2.3% | 0.6–2.5% | 0.4–3.0% |
+| [30 July–7 August 2020](2020-08-07-GallupInternational.html) | Gallup International | 0.0% | N/A | N/A | N/A | N/A |
 | [28 July–3 August 2020](2020-08-03-МаркетЛИНКС.html) | Маркет ЛИНКС | 0.0% | N/A | N/A | N/A | N/A |
 | [23–30 July 2020](2020-07-30-Алфарисърч.html) | Алфа рисърч <br> Дневник | 0.0% | N/A | N/A | N/A | N/A |
 | [26 June–1 July 2020](2020-07-01-SovaHarris.html) | Sova Harris | 1.2% | 0.8–2.1% | 0.7–2.3% | 0.6–2.5% | 0.4–3.0% |
@@ -53,6 +54,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [30 July–7 August 2020](2020-08-07-GallupInternational.html) | Gallup International |  |  |  |  |  |
 | [28 July–3 August 2020](2020-08-03-МаркетЛИНКС.html) | Маркет ЛИНКС |  |  |  |  |  |
 | [23–30 July 2020](2020-07-30-Алфарисърч.html) | Алфа рисърч <br> Дневник |  |  |  |  |  |
 | [26 June–1 July 2020](2020-07-01-SovaHarris.html) | Sova Harris | 0 | 0 | 0 | 0 | 0 |
