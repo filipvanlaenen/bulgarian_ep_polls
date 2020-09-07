@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/bulgarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 22 Aug 2020 08:59:54 +0200</pubDate>
+    <pubDate>Fri, 04 Sep 2020 20:55:29 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Sova Harris, 19–25 August 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-08-25-SovaHarris.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 5–6 seats&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 4–6 seats&lt;/li&gt;&lt;li&gt;ВМРО–Българско Национално Движение (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Национален фронт за спасение на България (*): 0 seats&lt;/li&gt;&lt;li&gt;Атака (NI): 0 seats&lt;/li&gt;&lt;li&gt;Алтернатива за българско възраждане (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Движение за права и свободи (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Воля (ID): 0 seats&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Има такъв народ (*): 3–4 seats&lt;/li&gt;&lt;li&gt;Изправи се Бг (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Възраждане (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-08-25-SovaHarris-seats.png"
+        length="319144"
+        type="image/png"/>
+      <pubDate>Fri, 04 Sep 2020 20:55:29 +0200</pubDate>
+      <dc:date>2020-09-04T20:55:29.369264+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sova Harris, 19–25 August 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-08-25-SovaHarris.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-08-25-SovaHarris-coalitions-seats.png"
+        length="204506"
+        type="image/png"/>
+      <pubDate>Fri, 04 Sep 2020 20:55:29 +0200</pubDate>
+      <dc:date>2020-09-04T20:55:29.369264+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sova Harris, 19–25 August 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-08-25-SovaHarris.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 24.5–31.5%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 21.4–28.1%&lt;/li&gt;&lt;li&gt;ВМРО–Българско Национално Движение (ECR): 2.5–5.5%&lt;/li&gt;&lt;li&gt;Национален фронт за спасение на България (*): 0.2–1.6%&lt;/li&gt;&lt;li&gt;Атака (NI): 0.4–2.0%&lt;/li&gt;&lt;li&gt;Алтернатива за българско възраждане (S&amp;amp;D): 0.5–2.2%&lt;/li&gt;&lt;li&gt;Движение за права и свободи (RE): 7.2–11.7%&lt;/li&gt;&lt;li&gt;Воля (ID): 1.9–4.6%&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 5.3–9.3%&lt;/li&gt;&lt;li&gt;Има такъв народ (*): 13.1–18.8%&lt;/li&gt;&lt;li&gt;Изправи се Бг (*): 3.2–6.4%&lt;/li&gt;&lt;li&gt;Възраждане (*): 0.2–1.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-08-25-SovaHarris.png"
+        length="416459"
+        type="image/png"/>
+      <pubDate>Fri, 04 Sep 2020 20:55:29 +0200</pubDate>
+      <dc:date>2020-09-04T20:55:29.369264+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Тренд for 24 часа, 3–10 August 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-08-10-Тренд.html#seats</link>
@@ -429,6 +459,6 @@
       <pubDate>Sun, 09 Aug 2020 14:55:31 +0200</pubDate>
       <dc:date>2020-08-09T14:55:31.798952+02:00</dc:date>
     </item>
-    <dc:date>2020-08-22T08:59:54.288117+02:00</dc:date>
+    <dc:date>2020-09-04T20:55:29.369264+02:00</dc:date>
   </channel>
 </rss>
