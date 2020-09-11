@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/bulgarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 04 Sep 2020 20:55:29 +0200</pubDate>
+    <pubDate>Fri, 11 Sep 2020 17:11:18 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Тренд for 24 часа, 29 August–5 September 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-09-05-Тренд.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Обединени Патриоти (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Атака (NI): 0 seats&lt;/li&gt;&lt;li&gt;Алтернатива за българско възраждане (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Движение за права и свободи (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Воля (ID): 0 seats&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Има такъв народ (*): 3–4 seats&lt;/li&gt;&lt;li&gt;Изправи се Бг (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Възраждане (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-09-05-Тренд-seats.png"
+        length="264525"
+        type="image/png"/>
+      <pubDate>Fri, 11 Sep 2020 17:11:18 +0200</pubDate>
+      <dc:date>2020-09-11T17:11:18.213091+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Тренд for 24 часа, 29 August–5 September 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-09-05-Тренд.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-09-05-Тренд-coalitions-seats.png"
+        length="178431"
+        type="image/png"/>
+      <pubDate>Fri, 11 Sep 2020 17:11:18 +0200</pubDate>
+      <dc:date>2020-09-11T17:11:18.213091+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Тренд for 24 часа, 29 August–5 September 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-09-05-Тренд.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 21.3–26.6%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 20.9–26.1%&lt;/li&gt;&lt;li&gt;Обединени Патриоти (ECR): 2.8–5.3%&lt;/li&gt;&lt;li&gt;Атака (NI): 0.6–2.0%&lt;/li&gt;&lt;li&gt;Алтернатива за българско възраждане (S&amp;amp;D): 0.1–0.7%&lt;/li&gt;&lt;li&gt;Движение за права и свободи (RE): 8.7–12.5%&lt;/li&gt;&lt;li&gt;Воля (ID): 0.7–2.1%&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 8.2–11.9%&lt;/li&gt;&lt;li&gt;Има такъв народ (*): 13.7–18.3%&lt;/li&gt;&lt;li&gt;Изправи се Бг (*): 2.9–5.4%&lt;/li&gt;&lt;li&gt;Възраждане (*): 0.7–2.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-09-05-Тренд.png"
+        length="370951"
+        type="image/png"/>
+      <pubDate>Fri, 11 Sep 2020 17:11:18 +0200</pubDate>
+      <dc:date>2020-09-11T17:11:18.213091+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Sova Harris, 19–25 August 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-08-25-SovaHarris.html#seats</link>
@@ -38,6 +68,16 @@
         type="image/png"/>
       <pubDate>Fri, 04 Sep 2020 20:55:29 +0200</pubDate>
       <dc:date>2020-09-04T20:55:29.369264+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Барометър България, 3–11 August 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-08-11-БарометърБългария.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 35.7–42.3%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 16.4–21.7%&lt;/li&gt;&lt;li&gt;Обединени Патриоти (ECR): 9.6–14.0%&lt;/li&gt;&lt;li&gt;Движение за права и свободи (RE): 10.2–14.6%&lt;/li&gt;&lt;li&gt;Воля (ID): 1.0–2.8%&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 3.6–6.6%&lt;/li&gt;&lt;li&gt;Има такъв народ (*): 4.0–7.1%&lt;/li&gt;&lt;li&gt;Изправи се Бг (*): 1.2–3.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-08-11-БарометърБългария.png"
+        length="289713"
+        type="image/png"/>
+      <pubDate>Fri, 11 Sep 2020 07:16:52 +0200</pubDate>
+      <dc:date>2020-09-11T07:16:52.87722+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Тренд for 24 часа, 3–10 August 2020 – Seat Projections for the Parties</title>
@@ -459,6 +499,6 @@
       <pubDate>Sun, 09 Aug 2020 14:55:31 +0200</pubDate>
       <dc:date>2020-08-09T14:55:31.798952+02:00</dc:date>
     </item>
-    <dc:date>2020-09-04T20:55:29.369264+02:00</dc:date>
+    <dc:date>2020-09-11T17:11:18.213091+02:00</dc:date>
   </channel>
 </rss>
