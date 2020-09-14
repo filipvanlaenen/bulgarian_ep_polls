@@ -78,7 +78,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 3 | 1–4 | 0–4 | 0–5 | 0–5 |
 | [29 August–5 September 2020](2020-09-05-Тренд.html) | Тренд <br> 24 часа | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | [19–25 August 2020](2020-08-25-SovaHarris.html) | Sova Harris | 3 | 3 | 3 | 3–4 | 2–4 |
-| [3–11 August 2020](2020-08-11-БарометърБългария.html) | Барометър България | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [3–11 August 2020](2020-08-11-БарометърБългария.html) | Барометър България | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [3–10 August 2020](2020-08-10-Тренд.html) | Тренд <br> 24 часа | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | [30 July–7 August 2020](2020-08-07-GallupInternational.html) | Gallup International | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [28 July–3 August 2020](2020-08-03-МаркетЛИНКС.html) | Маркет ЛИНКС | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
@@ -103,7 +103,7 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 6% | 100% | Last Result |
-| 1 | 13% | 94% |  |
+| 1 | 14% | 94% |  |
 | 2 | 18% | 80% |  |
 | 3 | 37% | 62% | Median |
 | 4 | 20% | 24% |  |
