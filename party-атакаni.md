@@ -10,7 +10,7 @@ Last result: **10.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.2% | 0.7–1.7% | 0.6–1.9% | 0.5–2.0% | 0.4–2.4% |
+| N/A | [Poll Average](average.html) | 1.1% | 0.7–1.6% | 0.6–1.8% | 0.5–2.0% | 0.4–2.3% |
 | [3–11 September 2020](2020-09-11-GallupInternational.html) | Gallup International | 0.0% | N/A | N/A | N/A | N/A |
 | [29 August–5 September 2020](2020-09-05-Тренд.html) | Тренд <br> 24 часа | 1.1% | 0.8–1.6% | 0.7–1.8% | 0.6–2.0% | 0.5–2.3% |
 | [19–25 August 2020](2020-08-25-SovaHarris.html) | Sova Harris | 0.9% | 0.6–1.6% | 0.5–1.8% | 0.4–2.0% | 0.3–2.4% |
@@ -40,8 +40,8 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 4% | 100% |  |
-| 0.5–1.5% | 79% | 96% | Median |
-| 1.5–2.5% | 17% | 17% |  |
+| 0.5–1.5% | 83% | 96% | Median |
+| 1.5–2.5% | 13% | 13% |  |
 | 2.5–3.5% | 0.2% | 0.2% |  |
 | 3.5–4.5% | 0% | 0% |  |
 | 4.5–5.5% | 0% | 0% |  |
