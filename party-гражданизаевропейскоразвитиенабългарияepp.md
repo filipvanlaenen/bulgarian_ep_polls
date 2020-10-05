@@ -10,7 +10,8 @@ Last result: **30.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.7% | 20.8–39.0% | 19.7–40.1% | 18.8–40.9% | 17.5–42.3% |
+| N/A | [Poll Average](average.html) | 26.5% | 20.8–39.0% | 19.7–40.1% | 18.8–40.9% | 17.5–42.3% |
+| [18–26 September 2020](2020-09-26-МаркетЛИНКС.html) | Маркет ЛИНКС | 27.4% | 25.0–29.9% | 24.4–30.7% | 23.8–31.3% | 22.7–32.5% |
 | [3–11 September 2020](2020-09-11-GallupInternational.html) | Gallup International | 20.8% | 18.6–23.2% | 18.0–23.9% | 17.5–24.5% | 16.5–25.7% |
 | [29 August–5 September 2020](2020-09-05-Тренд.html) | Тренд <br> 24 часа | 23.8% | 22.1–25.6% | 21.7–26.1% | 21.3–26.6% | 20.5–27.4% |
 | [19–25 August 2020](2020-08-25-SovaHarris.html) | Sova Harris | 27.9% | 25.7–30.2% | 25.1–30.9% | 24.5–31.5% | 23.5–32.6% |
@@ -48,17 +49,17 @@ The following table shows the probability mass function per percentage block of 
 | 20.5–21.5% | 5% | 91% |  |
 | 21.5–22.5% | 6% | 86% |  |
 | 22.5–23.5% | 7% | 80% |  |
-| 23.5–24.5% | 7% | 73% |  |
-| 24.5–25.5% | 5% | 66% |  |
-| 25.5–26.5% | 4% | 61% |  |
-| 26.5–27.5% | 5% | 56% |  |
-| 27.5–28.5% | 6% | 51% | Median |
-| 28.5–29.5% | 8% | 45% |  |
-| 29.5–30.5% | 8% | 37% | Last Result |
-| 30.5–31.5% | 6% | 30% |  |
-| 31.5–32.5% | 3% | 24% |  |
-| 32.5–33.5% | 0.9% | 21% |  |
-| 33.5–34.5% | 0.3% | 20% |  |
+| 23.5–24.5% | 8% | 73% |  |
+| 24.5–25.5% | 7% | 65% |  |
+| 25.5–26.5% | 8% | 57% |  |
+| 26.5–27.5% | 9% | 50% | Median |
+| 27.5–28.5% | 8% | 41% |  |
+| 28.5–29.5% | 7% | 33% |  |
+| 29.5–30.5% | 4% | 26% | Last Result |
+| 30.5–31.5% | 2% | 23% |  |
+| 31.5–32.5% | 0.6% | 21% |  |
+| 32.5–33.5% | 0.2% | 20% |  |
+| 33.5–34.5% | 0.1% | 20% |  |
 | 34.5–35.5% | 0.3% | 20% |  |
 | 35.5–36.5% | 1.1% | 20% |  |
 | 36.5–37.5% | 3% | 19% |  |
@@ -81,6 +82,7 @@ Last result: **6** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–7 | 4–8 | 3–8 | 3–8 |
+| [18–26 September 2020](2020-09-26-МаркетЛИНКС.html) | Маркет ЛИНКС | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | [3–11 September 2020](2020-09-11-GallupInternational.html) | Gallup International | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [29 August–5 September 2020](2020-09-05-Тренд.html) | Тренд <br> 24 часа | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [19–25 August 2020](2020-08-25-SovaHarris.html) | Sova Harris | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -112,9 +114,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 3% | 100% |  |
-| 4 | 21% | 97% |  |
-| 5 | 28% | 76% | Median |
-| 6 | 28% | 48% | Last Result |
+| 4 | 22% | 97% |  |
+| 5 | 39% | 75% | Median |
+| 6 | 16% | 36% | Last Result |
 | 7 | 11% | 20% |  |
 | 8 | 8% | 8% |  |
 | 9 | 0.3% | 0.3% | Majority |
