@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/bulgarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 04 Oct 2020 15:44:18 +0200</pubDate>
+    <pubDate>Wed, 14 Oct 2020 17:39:47 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Алфа рисърч, 21–30 September 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-09-30-Алфарисърч.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 20.3–25.5%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 19.4–24.5%&lt;/li&gt;&lt;li&gt;Обединени Патриоти (ECR): 3.2–5.7%&lt;/li&gt;&lt;li&gt;Движение за права и свободи (RE): 9.3–13.1%&lt;/li&gt;&lt;li&gt;Воля (ID): 0.1–0.9%&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 8.7–12.5%&lt;/li&gt;&lt;li&gt;Има такъв народ (*): 14.4–19.0%&lt;/li&gt;&lt;li&gt;Изправи се Бг (*): 3.9–6.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-09-30-Алфарисърч.png"
+        length="305339"
+        type="image/png"/>
+      <pubDate>Wed, 14 Oct 2020 17:39:47 +0200</pubDate>
+      <dc:date>2020-10-14T17:39:47.874193+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Маркет ЛИНКС, 18–26 September 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-09-26-МаркетЛИНКС.html#seats</link>
@@ -669,6 +679,6 @@
       <pubDate>Sun, 09 Aug 2020 14:55:31 +0200</pubDate>
       <dc:date>2020-08-09T14:55:31.798952+02:00</dc:date>
     </item>
-    <dc:date>2020-10-04T15:44:18.099215+02:00</dc:date>
+    <dc:date>2020-10-14T17:39:47.874193+02:00</dc:date>
   </channel>
 </rss>
