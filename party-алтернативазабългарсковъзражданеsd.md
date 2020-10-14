@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.6% | 0.1–1.6% | 0.1–1.8% | 0.1–2.0% | 0.0–2.5% |
+| [21–30 September 2020](2020-09-30-Алфарисърч.html) | Алфа рисърч | 0.0% | N/A | N/A | N/A | N/A |
 | [18–26 September 2020](2020-09-26-МаркетЛИНКС.html) | Маркет ЛИНКС | 0.0% | N/A | N/A | N/A | N/A |
 | [3–11 September 2020](2020-09-11-GallupInternational.html) | Gallup International | 0.0% | N/A | N/A | N/A | N/A |
 | [29 August–5 September 2020](2020-09-05-Тренд.html) | Тренд <br> 24 часа | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
@@ -25,6 +26,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [20–25 June 2020](2020-06-25-БарометърБългария.html) | Барометър България | 0.0% | N/A | N/A | N/A | N/A |
 | [27 May–3 June 2020](2020-06-03-МаркетЛИНКС.html) | Маркет ЛИНКС | 0.0% | N/A | N/A | N/A | N/A |
 | [28 April–5 May 2020](2020-05-05-Алфарисърч.html) | Алфа рисърч <br> Дневник | 0.0% | N/A | N/A | N/A | N/A |
+| [21–28 February 2020](2020-02-28-Mediana.html) | Mediana | 0.0% | N/A | N/A | N/A | N/A |
 | [3–10 February 2020](2020-02-10-Тренд.html) | Тренд <br> 24 часа | 0.0% | N/A | N/A | N/A | N/A |
 | [9–13 January 2020](2020-01-13-БарометърБългария.html) | Барометър България | 0.0% | N/A | N/A | N/A | N/A |
 | [5–12 December 2019](2019-12-12-Алфарисърч.html) | Алфа рисърч | 0.0% | N/A | N/A | N/A | N/A |
@@ -56,6 +58,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [21–30 September 2020](2020-09-30-Алфарисърч.html) | Алфа рисърч |  |  |  |  |  |
 | [18–26 September 2020](2020-09-26-МаркетЛИНКС.html) | Маркет ЛИНКС |  |  |  |  |  |
 | [3–11 September 2020](2020-09-11-GallupInternational.html) | Gallup International |  |  |  |  |  |
 | [29 August–5 September 2020](2020-09-05-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0 | 0 | 0 |
@@ -70,6 +73,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [20–25 June 2020](2020-06-25-БарометърБългария.html) | Барометър България |  |  |  |  |  |
 | [27 May–3 June 2020](2020-06-03-МаркетЛИНКС.html) | Маркет ЛИНКС |  |  |  |  |  |
 | [28 April–5 May 2020](2020-05-05-Алфарисърч.html) | Алфа рисърч <br> Дневник |  |  |  |  |  |
+| [21–28 February 2020](2020-02-28-Mediana.html) | Mediana |  |  |  |  |  |
 | [3–10 February 2020](2020-02-10-Тренд.html) | Тренд <br> 24 часа |  |  |  |  |  |
 | [9–13 January 2020](2020-01-13-БарометърБългария.html) | Барометър България |  |  |  |  |  |
 | [5–12 December 2019](2019-12-12-Алфарисърч.html) | Алфа рисърч |  |  |  |  |  |
