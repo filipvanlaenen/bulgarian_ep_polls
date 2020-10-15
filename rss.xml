@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/bulgarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 14 Oct 2020 17:39:47 +0200</pubDate>
+    <pubDate>Wed, 14 Oct 2020 20:56:56 +0200</pubDate>
     <item>
       <title>Opinion Poll by Алфа рисърч, 21–30 September 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-09-30-Алфарисърч.html</link>
@@ -440,6 +440,16 @@
       <dc:date>2020-08-09T13:10:37.321103+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Mediana, 21–28 February 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-02-28-Mediana.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 26.6–32.3%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 23.1–28.5%&lt;/li&gt;&lt;li&gt;Обединени Патриоти (ECR): 4.6–7.5%&lt;/li&gt;&lt;li&gt;Движение за права и свободи (RE): 11.3–15.5%&lt;/li&gt;&lt;li&gt;Воля (ID): 1.2–2.9%&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 1.8–3.9%&lt;/li&gt;&lt;li&gt;Има такъв народ (*): 11.0–15.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-02-28-Mediana.png"
+        length="276464"
+        type="image/png"/>
+      <pubDate>Wed, 14 Oct 2020 20:56:56 +0200</pubDate>
+      <dc:date>2020-10-14T20:56:56.454118+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Тренд for 24 часа, 3–10 February 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-02-10-Тренд.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 5–7 seats&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;ВМРО–Българско Национално Движение (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Атака (NI): 0 seats&lt;/li&gt;&lt;li&gt;Движение за права и свободи (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Воля (ID): 0 seats&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;Има такъв народ (*): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -679,6 +689,6 @@
       <pubDate>Sun, 09 Aug 2020 14:55:31 +0200</pubDate>
       <dc:date>2020-08-09T14:55:31.798952+02:00</dc:date>
     </item>
-    <dc:date>2020-10-14T17:39:47.874193+02:00</dc:date>
+    <dc:date>2020-10-14T20:56:56.454118+02:00</dc:date>
   </channel>
 </rss>
