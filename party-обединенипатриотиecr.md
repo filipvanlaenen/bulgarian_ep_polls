@@ -65,7 +65,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
-| [21–30 September 2020](2020-09-30-Алфарисърч.html) | Алфа рисърч | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [21–30 September 2020](2020-09-30-Алфарисърч.html) | Алфа рисърч | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [18–26 September 2020](2020-09-26-МаркетЛИНКС.html) | Маркет ЛИНКС | 0 | 0 | 0 | 0 | 0–1 |
 | [3–11 September 2020](2020-09-11-GallupInternational.html) | Gallup International | 0 | 0 | 0 | 0 | 0 |
 | [29 August–5 September 2020](2020-09-05-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0 | 0–1 | 0–1 |
