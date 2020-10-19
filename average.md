@@ -361,9 +361,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 3% | 100% |  |
-| 4 | 39% | 97% |  |
-| 5 | 42% | 57% | Median |
+| 3 | 4% | 100% |  |
+| 4 | 39% | 96% |  |
+| 5 | 41% | 57% | Median |
 | 6 | 16% | 16% | Last Result |
 | 7 | 0% | 0% |  |
 
@@ -377,7 +377,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 3% | 100% |  |
 | 4 | 51% | 97% | Last Result, Median |
-| 5 | 42% | 46% |  |
+| 5 | 42% | 47% |  |
 | 6 | 5% | 5% |  |
 | 7 | 0% | 0% |  |
 
@@ -391,8 +391,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% |  |
 | 1 | 14% | 99.9% |  |
-| 2 | 85% | 86% | Median |
-| 3 | 1.2% | 1.2% |  |
+| 2 | 84% | 86% | Median |
+| 3 | 1.4% | 1.4% |  |
 | 4 | 0% | 0% | Last Result |
 
 ### Обединени Патриоти (ECR)
@@ -468,7 +468,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 8% | 100% | Last Result |
 | 1 | 27% | 92% |  |
-| 2 | 62% | 64% | Median |
+| 2 | 61% | 64% | Median |
 | 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
 
@@ -505,8 +505,8 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 12% | 100% |  |
-| 3 | 82% | 88% | Median |
-| 4 | 6% | 6% |  |
+| 3 | 83% | 88% | Median |
+| 4 | 5% | 5% |  |
 | 5 | 0% | 0% |  |
 
 ### Възраждане (*)
@@ -527,8 +527,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 83% | 100% | Last Result, Median |
-| 1 | 17% | 17% |  |
+| 0 | 81% | 100% | Last Result, Median |
+| 1 | 19% | 19% |  |
 | 2 | 0% | 0% |  |
 
 
@@ -557,8 +557,8 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0.6% | 100% |  |
 | 4 | 9% | 99.4% |  |
 | 5 | 11% | 90% |  |
-| 6 | 27% | 80% |  |
-| 7 | 47% | 53% | Last Result, Median |
+| 6 | 27% | 79% |  |
+| 7 | 47% | 52% | Last Result, Median |
 | 8 | 6% | 6% |  |
 | 9 | 0.1% | 0.1% | Majority |
 | 10 | 0% | 0% |  |
@@ -571,7 +571,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 3% | 100% |  |
 | 4 | 51% | 97% | Last Result, Median |
-| 5 | 42% | 46% |  |
+| 5 | 42% | 47% |  |
 | 6 | 5% | 5% |  |
 | 7 | 0% | 0% |  |
 
@@ -584,7 +584,7 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% | Last Result |
 | 2 | 11% | 100% |  |
 | 3 | 67% | 89% | Median |
-| 4 | 22% | 22% |  |
+| 4 | 22% | 23% |  |
 | 5 | 0.3% | 0.3% |  |
 | 6 | 0% | 0% |  |
 
@@ -596,8 +596,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% |  |
 | 1 | 14% | 99.9% |  |
-| 2 | 85% | 86% | Median |
-| 3 | 1.2% | 1.2% |  |
+| 2 | 84% | 86% | Median |
+| 3 | 1.4% | 1.4% |  |
 | 4 | 0% | 0% | Last Result |
 
 ### ВМРО–Българско Национално Движение (ECR) – Обединени Патриоти (ECR)
@@ -633,6 +633,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 4,325,376
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 5,242,880
 + **Error estimate:** 2.59%
