@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Wed, 9 Sep 2020 20:12:19 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Тренд, 3–10 October 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-10-10-Тренд.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Тренд, 3–10 October 2020<br/>Details on https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-10-10-Тренд.html<br/><img src="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-10-10-Тренд.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-10-10-Тренд.png" length="304298" type="image/png"/>
+      <pubDate>Tue, 20 Oct 2020 18:39:33 +0200</pubDate>
+      <dc:date>2020-10-20T18:39:33.224625+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Алфа рисърч, 21–30 September 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-09-30-Алфарисърч.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>9 seats needed for a majority<br/>Opinion poll by Алфа рисърч, 21–30 September 2020<br/>Details on https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-09-30-Алфарисърч.html<br/><img src="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-09-30-Алфарисърч-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-08-05-ПИК.png" length="298848" type="image/png"/>
       <pubDate>Sun, 20 Sep 2020 09:32:10 +0200</pubDate>
       <dc:date>2020-09-20T09:32:10.557197+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Маркет ЛИНКС, 28 July–3 August 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-08-03-МаркетЛИНКС.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>9 seats needed for a majority<br/>Opinion poll by Маркет ЛИНКС, 28 July–3 August 2020<br/>Details on https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-08-03-МаркетЛИНКС.html<br/><img src="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-08-03-МаркетЛИНКС-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-08-03-МаркетЛИНКС-seating-plan.png" length="361120" type="image/png"/>
-      <pubDate>Sat, 8 Aug 2020 16:16:07 +0200</pubDate>
-      <dc:date>2020-08-08T16:16:07.873399+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Маркет ЛИНКС, 28 July–3 August 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-08-03-МаркетЛИНКС.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>9 seats needed for a majority<br/>Opinion poll by Маркет ЛИНКС, 28 July–3 August 2020<br/>Details on https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-08-03-МаркетЛИНКС.html<br/><img src="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-08-03-МаркетЛИНКС-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-08-03-МаркетЛИНКС-seats.png" length="249717" type="image/png"/>
-      <pubDate>Sat, 8 Aug 2020 16:16:07 +0200</pubDate>
-      <dc:date>2020-08-08T16:16:07.873399+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Маркет ЛИНКС, 28 July–3 August 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-08-03-МаркетЛИНКС.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Маркет ЛИНКС, 28 July–3 August 2020<br/>Details on https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-08-03-МаркетЛИНКС.html<br/><img src="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-08-03-МаркетЛИНКС.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-08-03-МаркетЛИНКС.png" length="308392" type="image/png"/>
-      <pubDate>Sat, 8 Aug 2020 16:16:07 +0200</pubDate>
-      <dc:date>2020-08-08T16:16:07.873399+02:00</dc:date>
     </item>
   </channel>
 </rss>
