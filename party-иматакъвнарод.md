@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15.8% | 13.3–17.8% | 12.5–18.4% | 11.9–18.9% | 10.8–20.0% |
+| [3–10 October 2020](2020-10-10-Тренд.html) | Тренд | 15.9% | 14.5–17.4% | 14.1–17.9% | 13.7–18.3% | 13.1–19.0% |
 | [21–30 September 2020](2020-09-30-Алфарисърч.html) | Алфа рисърч | 16.6% | 15.2–18.2% | 14.8–18.6% | 14.4–19.0% | 13.8–19.8% |
 | [18–26 September 2020](2020-09-26-МаркетЛИНКС.html) | Маркет ЛИНКС | 13.4% | 11.7–15.5% | 11.2–16.0% | 10.8–16.6% | 10.0–17.6% |
 | [3–11 September 2020](2020-09-11-GallupInternational.html) | Gallup International | 16.3% | 14.4–18.6% | 13.8–19.2% | 13.4–19.8% | 12.5–20.9% |
@@ -75,7 +76,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
+| [3–10 October 2020](2020-10-10-Тренд.html) | Тренд | 3 | 3 | 3 | 2–3 | 2–4 |
 | [21–30 September 2020](2020-09-30-Алфарисърч.html) | Алфа рисърч | 3 | 3 | 3 | 3–4 | 2–4 |
 | [18–26 September 2020](2020-09-26-МаркетЛИНКС.html) | Маркет ЛИНКС | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [3–11 September 2020](2020-09-11-GallupInternational.html) | Gallup International | 3 | 3 | 3–4 | 2–4 | 2–4 |
@@ -112,8 +114,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 12% | 100% |  |
-| 3 | 83% | 88% | Median |
-| 4 | 5% | 5% |  |
+| 3 | 84% | 88% | Median |
+| 4 | 4% | 4% |  |
 | 5 | 0% | 0% |  |
 
 

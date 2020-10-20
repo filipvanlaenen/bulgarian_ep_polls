@@ -10,7 +10,8 @@ Last result: **30.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.2% | 20.6–29.0% | 19.6–29.9% | 18.8–30.6% | 17.5–31.9% |
+| N/A | [Poll Average](average.html) | 24.4% | 20.6–29.0% | 19.6–29.9% | 18.8–30.6% | 17.5–31.9% |
+| [3–10 October 2020](2020-10-10-Тренд.html) | Тренд | 24.1% | 22.4–25.9% | 22.0–26.4% | 21.6–26.9% | 20.8–27.7% |
 | [21–30 September 2020](2020-09-30-Алфарисърч.html) | Алфа рисърч | 22.8% | 21.2–24.5% | 20.7–25.0% | 20.3–25.5% | 19.6–26.3% |
 | [18–26 September 2020](2020-09-26-МаркетЛИНКС.html) | Маркет ЛИНКС | 27.4% | 25.0–29.9% | 24.4–30.7% | 23.8–31.3% | 22.7–32.5% |
 | [3–11 September 2020](2020-09-11-GallupInternational.html) | Gallup International | 20.8% | 18.6–23.2% | 18.0–23.9% | 17.5–24.5% | 16.5–25.7% |
@@ -48,12 +49,12 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 1.3% | 99.5% |  |
 | 18.5–19.5% | 3% | 98% |  |
 | 19.5–20.5% | 5% | 95% |  |
-| 20.5–21.5% | 8% | 91% |  |
+| 20.5–21.5% | 7% | 91% |  |
 | 21.5–22.5% | 11% | 83% |  |
-| 22.5–23.5% | 13% | 72% |  |
-| 23.5–24.5% | 12% | 59% | Median |
-| 24.5–25.5% | 9% | 47% |  |
-| 25.5–26.5% | 8% | 38% |  |
+| 22.5–23.5% | 12% | 73% |  |
+| 23.5–24.5% | 12% | 60% | Median |
+| 24.5–25.5% | 10% | 48% |  |
+| 25.5–26.5% | 9% | 39% |  |
 | 26.5–27.5% | 9% | 30% |  |
 | 27.5–28.5% | 8% | 21% |  |
 | 28.5–29.5% | 7% | 13% |  |
@@ -73,6 +74,7 @@ Last result: **6** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 3–6 | 3–6 |
+| [3–10 October 2020](2020-10-10-Тренд.html) | Тренд | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [21–30 September 2020](2020-09-30-Алфарисърч.html) | Алфа рисърч | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [18–26 September 2020](2020-09-26-МаркетЛИНКС.html) | Маркет ЛИНКС | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | [3–11 September 2020](2020-09-11-GallupInternational.html) | Gallup International | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
@@ -107,8 +109,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 4% | 100% |  |
-| 4 | 39% | 96% |  |
-| 5 | 41% | 57% | Median |
+| 4 | 46% | 96% |  |
+| 5 | 35% | 50% | Median |
 | 6 | 16% | 16% | Last Result |
 | 7 | 0% | 0% |  |
 

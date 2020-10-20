@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.6% | 0.1–1.6% | 0.1–1.8% | 0.1–2.0% | 0.0–2.5% |
+| N/A | [Poll Average](average.html) | 1.2% | 0.7–1.8% | 0.6–2.0% | 0.5–2.2% | 0.4–2.6% |
+| [3–10 October 2020](2020-10-10-Тренд.html) | Тренд | 0.0% | N/A | N/A | N/A | N/A |
 | [21–30 September 2020](2020-09-30-Алфарисърч.html) | Алфа рисърч | 0.0% | N/A | N/A | N/A | N/A |
 | [18–26 September 2020](2020-09-26-МаркетЛИНКС.html) | Маркет ЛИНКС | 0.0% | N/A | N/A | N/A | N/A |
 | [3–11 September 2020](2020-09-11-GallupInternational.html) | Gallup International | 0.0% | N/A | N/A | N/A | N/A |
@@ -42,10 +43,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 47% | 100% | Last Result |
-| 0.5–1.5% | 42% | 53% | Median |
-| 1.5–2.5% | 11% | 11% |  |
-| 2.5–3.5% | 0.4% | 0.4% |  |
+| 0.0–0.5% | 3% | 100% | Last Result |
+| 0.5–1.5% | 75% | 97% | Median |
+| 1.5–2.5% | 21% | 22% |  |
+| 2.5–3.5% | 0.7% | 0.7% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -58,6 +59,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [3–10 October 2020](2020-10-10-Тренд.html) | Тренд |  |  |  |  |  |
 | [21–30 September 2020](2020-09-30-Алфарисърч.html) | Алфа рисърч |  |  |  |  |  |
 | [18–26 September 2020](2020-09-26-МаркетЛИНКС.html) | Маркет ЛИНКС |  |  |  |  |  |
 | [3–11 September 2020](2020-09-11-GallupInternational.html) | Gallup International |  |  |  |  |  |

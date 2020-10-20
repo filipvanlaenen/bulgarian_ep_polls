@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.3% | 3.0–5.6% | 2.7–6.0% | 2.4–6.3% | 2.0–6.9% |
+| N/A | [Poll Average](average.html) | 4.2% | 3.0–5.6% | 2.7–6.0% | 2.4–6.3% | 2.0–6.9% |
+| [3–10 October 2020](2020-10-10-Тренд.html) | Тренд | 3.9% | 3.2–4.8% | 3.0–5.0% | 2.8–5.3% | 2.5–5.7% |
 | [21–30 September 2020](2020-09-30-Алфарисърч.html) | Алфа рисърч | 5.1% | 4.4–6.1% | 4.1–6.4% | 3.9–6.7% | 3.6–7.2% |
 | [18–26 September 2020](2020-09-26-МаркетЛИНКС.html) | Маркет ЛИНКС | 3.1% | 2.3–4.3% | 2.1–4.6% | 2.0–5.0% | 1.6–5.6% |
 | [3–11 September 2020](2020-09-11-GallupInternational.html) | Gallup International | 4.1% | 3.2–5.4% | 2.9–5.8% | 2.7–6.2% | 2.3–6.9% |
@@ -45,8 +46,8 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0.1% | 100% |  |
 | 1.5–2.5% | 4% | 99.9% |  |
-| 2.5–3.5% | 20% | 96% |  |
-| 3.5–4.5% | 37% | 77% | Median |
+| 2.5–3.5% | 21% | 96% |  |
+| 3.5–4.5% | 37% | 76% | Median |
 | 4.5–5.5% | 28% | 39% |  |
 | 5.5–6.5% | 10% | 11% |  |
 | 6.5–7.5% | 1.2% | 1.3% |  |
@@ -63,6 +64,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [3–10 October 2020](2020-10-10-Тренд.html) | Тренд | 0 | 0 | 0 | 0–1 | 0–1 |
 | [21–30 September 2020](2020-09-30-Алфарисърч.html) | Алфа рисърч | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [18–26 September 2020](2020-09-26-МаркетЛИНКС.html) | Маркет ЛИНКС | 0 | 0 | 0 | 0 | 0–1 |
 | [3–11 September 2020](2020-09-11-GallupInternational.html) | Gallup International | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
