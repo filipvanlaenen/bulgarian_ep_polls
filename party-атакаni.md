@@ -12,6 +12,7 @@ Last result: **10.7%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.0% | 0.6–1.6% | 0.5–1.8% | 0.4–2.0% | 0.3–2.4% |
 | [3–10 October 2020](2020-10-10-Тренд.html) | Тренд | 0.0% | N/A | N/A | N/A | N/A |
+| [1–9 October 2020](2020-10-09-GallupInternational.html) | Gallup International | 0.0% | N/A | N/A | N/A | N/A |
 | [21–30 September 2020](2020-09-30-Алфарисърч.html) | Алфа рисърч | 0.0% | N/A | N/A | N/A | N/A |
 | [18–26 September 2020](2020-09-26-МаркетЛИНКС.html) | Маркет ЛИНКС | 0.0% | N/A | N/A | N/A | N/A |
 | [3–11 September 2020](2020-09-11-GallupInternational.html) | Gallup International | 0.0% | N/A | N/A | N/A | N/A |
@@ -67,6 +68,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [3–10 October 2020](2020-10-10-Тренд.html) | Тренд |  |  |  |  |  |
+| [1–9 October 2020](2020-10-09-GallupInternational.html) | Gallup International |  |  |  |  |  |
 | [21–30 September 2020](2020-09-30-Алфарисърч.html) | Алфа рисърч |  |  |  |  |  |
 | [18–26 September 2020](2020-09-26-МаркетЛИНКС.html) | Маркет ЛИНКС |  |  |  |  |  |
 | [3–11 September 2020](2020-09-11-GallupInternational.html) | Gallup International |  |  |  |  |  |
