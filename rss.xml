@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/bulgarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 12 Nov 2020 17:55:54 +0100</pubDate>
+    <pubDate>Sat, 14 Nov 2020 19:06:05 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Барометър България, 6–11 November 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-11-11-БарометърБългария.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 6–7 seats&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 3–5 seats&lt;/li&gt;&lt;li&gt;Обединени Патриоти (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;Движение за права и свободи (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Воля (ID): 0 seats&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Има такъв народ (*): 0–2 seats&lt;/li&gt;&lt;li&gt;Изправи се Бг (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-11-11-БарометърБългария-seats.png"
+        length="247593"
+        type="image/png"/>
+      <pubDate>Sat, 14 Nov 2020 19:06:05 +0100</pubDate>
+      <dc:date>2020-11-14T19:06:05.059044+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Барометър България, 6–11 November 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-11-11-БарометърБългария.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-11-11-БарометърБългария-coalitions-seats.png"
+        length="217071"
+        type="image/png"/>
+      <pubDate>Sat, 14 Nov 2020 19:06:05 +0100</pubDate>
+      <dc:date>2020-11-14T19:06:05.059044+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Барометър България, 6–11 November 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-11-11-БарометърБългария.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 30.5–36.7%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 18.9–24.4%&lt;/li&gt;&lt;li&gt;Обединени Патриоти (ECR): 10.0–14.3%&lt;/li&gt;&lt;li&gt;Движение за права и свободи (RE): 10.2–14.6%&lt;/li&gt;&lt;li&gt;Воля (ID): 0.6–2.1%&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 3.8–6.8%&lt;/li&gt;&lt;li&gt;Има такъв народ (*): 4.7–7.9%&lt;/li&gt;&lt;li&gt;Изправи се Бг (*): 1.7–3.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-11-11-БарометърБългария.png"
+        length="294958"
+        type="image/png"/>
+      <pubDate>Sat, 14 Nov 2020 19:06:05 +0100</pubDate>
+      <dc:date>2020-11-14T19:06:05.059044+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Sova Harris, 27 October–3 November 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-11-03-SovaHarris.html#seats</link>
@@ -909,6 +939,6 @@
       <pubDate>Sun, 09 Aug 2020 14:55:31 +0200</pubDate>
       <dc:date>2020-08-09T14:55:31.798952+02:00</dc:date>
     </item>
-    <dc:date>2020-11-12T17:55:54.663527+01:00</dc:date>
+    <dc:date>2020-11-14T19:06:05.059044+01:00</dc:date>
   </channel>
 </rss>
