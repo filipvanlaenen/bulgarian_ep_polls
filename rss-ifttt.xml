@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Wed, 9 Sep 2020 20:12:19 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Барометър България, 6–11 November 2020 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-11-11-БарометърБългария.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>9 seats needed for a majority<br/>Opinion poll by Барометър България, 6–11 November 2020<br/>Details on https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-11-11-БарометърБългария.html<br/><img src="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-11-11-БарометърБългария-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-11-11-БарометърБългария-seating-plan.png" length="360417" type="image/png"/>
+      <pubDate>Sat, 14 Nov 2020 19:06:05 +0100</pubDate>
+      <dc:date>2020-11-14T19:06:05.059044+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Барометър България, 6–11 November 2020 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-11-11-БарометърБългария.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>9 seats needed for a majority<br/>Opinion poll by Барометър България, 6–11 November 2020<br/>Details on https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-11-11-БарометърБългария.html<br/><img src="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-11-11-БарометърБългария-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-11-11-БарометърБългария-seats.png" length="247593" type="image/png"/>
+      <pubDate>Sat, 14 Nov 2020 19:06:05 +0100</pubDate>
+      <dc:date>2020-11-14T19:06:05.059044+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Барометър България, 6–11 November 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-11-11-БарометърБългария.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Барометър България, 6–11 November 2020<br/>Details on https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-11-11-БарометърБългария.html<br/><img src="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-11-11-БарометърБългария.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-11-11-БарометърБългария.png" length="294958" type="image/png"/>
+      <pubDate>Sat, 14 Nov 2020 19:06:05 +0100</pubDate>
+      <dc:date>2020-11-14T19:06:05.059044+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Sova Harris, 27 October–3 November 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-11-03-SovaHarris.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>9 seats needed for a majority<br/>Opinion poll by Sova Harris, 27 October–3 November 2020<br/>Details on https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-11-03-SovaHarris.html<br/><img src="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-11-03-SovaHarris-seating-plan.png"/>]]></description>
@@ -220,30 +244,6 @@
       <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-09-11-GallupInternational.png" length="324991" type="image/png"/>
       <pubDate>Sat, 19 Sep 2020 20:33:11 +0200</pubDate>
       <dc:date>2020-09-19T20:33:11.093243+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Тренд for 24 часа, 29 August–5 September 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-09-05-Тренд.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>9 seats needed for a majority<br/>Opinion poll by Тренд for 24 часа, 29 August–5 September 2020<br/>Details on https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-09-05-Тренд.html<br/><img src="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-09-05-Тренд-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-09-05-Тренд-seating-plan.png" length="344020" type="image/png"/>
-      <pubDate>Fri, 11 Sep 2020 17:11:18 +0200</pubDate>
-      <dc:date>2020-09-11T17:11:18.213091+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Тренд for 24 часа, 29 August–5 September 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-09-05-Тренд.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>9 seats needed for a majority<br/>Opinion poll by Тренд for 24 часа, 29 August–5 September 2020<br/>Details on https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-09-05-Тренд.html<br/><img src="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-09-05-Тренд-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-09-05-Тренд-seats.png" length="264525" type="image/png"/>
-      <pubDate>Fri, 11 Sep 2020 17:11:18 +0200</pubDate>
-      <dc:date>2020-09-11T17:11:18.213091+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Тренд for 24 часа, 29 August–5 September 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-09-05-Тренд.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Тренд for 24 часа, 29 August–5 September 2020<br/>Details on https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-09-05-Тренд.html<br/><img src="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-09-05-Тренд.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-09-05-Тренд.png" length="370951" type="image/png"/>
-      <pubDate>Fri, 11 Sep 2020 17:11:18 +0200</pubDate>
-      <dc:date>2020-09-11T17:11:18.213091+02:00</dc:date>
     </item>
   </channel>
 </rss>
