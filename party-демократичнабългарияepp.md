@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.3% | 5.2–12.3% | 4.7–13.0% | 4.4–13.5% | 3.8–14.4% |
+| N/A | [Poll Average](average.html) | 8.3% | 5.3–12.3% | 4.8–13.0% | 4.4–13.5% | 3.9–14.4% |
+| [24–29 November 2020](2020-11-29-БарометърБългария.html) | Барометър България | 5.2% | 4.3–6.3% | 4.1–6.6% | 3.9–6.9% | 3.5–7.5% |
 | [6–11 November 2020](2020-11-11-БарометърБългария.html) | Барометър България | 5.1% | 4.3–6.2% | 4.0–6.5% | 3.8–6.8% | 3.5–7.3% |
 | [27 October–3 November 2020](2020-11-03-SovaHarris.html) | Sova Harris | 8.4% | 7.4–9.6% | 7.1–10.0% | 6.8–10.3% | 6.4–10.9% |
 | [21–27 October 2020](2020-10-27-Рего.html) | Рего | 7.6% | 6.9–8.4% | 6.7–8.6% | 6.5–8.9% | 6.2–9.3% |
@@ -53,9 +54,9 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0.1% | 100% |  |
-| 3.5–4.5% | 4% | 99.9% |  |
-| 4.5–5.5% | 10% | 96% |  |
-| 5.5–6.5% | 6% | 86% |  |
+| 3.5–4.5% | 3% | 99.9% |  |
+| 4.5–5.5% | 9% | 97% |  |
+| 5.5–6.5% | 7% | 87% |  |
 | 6.5–7.5% | 13% | 80% |  |
 | 7.5–8.5% | 24% | 67% | Median |
 | 8.5–9.5% | 17% | 43% |  |
@@ -77,6 +78,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 0–2 | 0–2 | 0–3 |
+| [24–29 November 2020](2020-11-29-БарометърБългария.html) | Барометър България | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [6–11 November 2020](2020-11-11-БарометърБългария.html) | Барометър България | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [27 October–3 November 2020](2020-11-03-SovaHarris.html) | Sova Harris | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [21–27 October 2020](2020-10-27-Рего.html) | Рего | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -117,8 +119,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 9% | 100% | Last Result |
-| 1 | 37% | 91% |  |
+| 0 | 8% | 100% | Last Result |
+| 1 | 37% | 92% |  |
 | 2 | 53% | 55% | Median |
 | 3 | 1.3% | 1.3% |  |
 | 4 | 0% | 0% |  |
