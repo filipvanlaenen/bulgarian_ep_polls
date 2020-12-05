@@ -43,6 +43,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [10–16 September 2019](2019-09-16-Алфарисърч.html) | Алфа рисърч | 0.0% | N/A | N/A | N/A | N/A |
 | [5–12 July 2019](2019-07-12-Тренд.html) | Тренд <br> 24 часа | 0.0% | N/A | N/A | N/A | N/A |
 | [11–19 June 2019](2019-06-19-МаркетЛИНКС.html) | Маркет ЛИНКС | 0.0% | N/A | N/A | N/A | N/A |
+| [5–12 June 2019](2019-06-12-Тренд.html) | Тренд | 0.0% | N/A | N/A | N/A | N/A |
 
 ### Probability Mass Function
 
@@ -103,6 +104,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [10–16 September 2019](2019-09-16-Алфарисърч.html) | Алфа рисърч |  |  |  |  |  |
 | [5–12 July 2019](2019-07-12-Тренд.html) | Тренд <br> 24 часа |  |  |  |  |  |
 | [11–19 June 2019](2019-06-19-МаркетЛИНКС.html) | Маркет ЛИНКС |  |  |  |  |  |
+| [5–12 June 2019](2019-06-12-Тренд.html) | Тренд |  |  |  |  |  |
 
 ### Probability Mass Function
 
