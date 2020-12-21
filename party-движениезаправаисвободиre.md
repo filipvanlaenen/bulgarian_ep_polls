@@ -10,7 +10,9 @@ Last result: **17.3%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.9% | 8.0–13.3% | 7.7–14.1% | 7.4–14.7% | 7.0–15.7% |
+| N/A | [Poll Average](average.html) | 9.3% | 7.7–13.3% | 7.4–14.1% | 7.1–14.7% | 6.5–15.7% |
+| [12–17 December 2020](2020-12-17-Mediana.html) | Mediana | 10.8% | 9.4–12.4% | 9.1–12.9% | 8.7–13.3% | 8.1–14.1% |
+| [5–12 December 2020](2020-12-12-Exacta.html) | Exacta | 8.5% | 7.2–10.0% | 6.9–10.5% | 6.6–10.9% | 6.0–11.6% |
 | [24–29 November 2020](2020-11-29-БарометърБългария.html) | Барометър България | 13.2% | 11.8–14.8% | 11.4–15.3% | 11.1–15.7% | 10.5–16.5% |
 | [6–11 November 2020](2020-11-11-БарометърБългария.html) | Барометър България | 12.2% | 10.9–13.8% | 10.5–14.2% | 10.2–14.6% | 9.6–15.3% |
 | [27 October–3 November 2020](2020-11-03-SovaHarris.html) | Sova Harris | 8.7% | 7.7–10.0% | 7.3–10.3% | 7.1–10.6% | 6.6–11.2% |
@@ -52,15 +54,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.1% | 100% |  |
-| 6.5–7.5% | 3% | 99.9% |  |
-| 7.5–8.5% | 18% | 97% |  |
-| 8.5–9.5% | 21% | 78% |  |
-| 9.5–10.5% | 19% | 57% | Median |
-| 10.5–11.5% | 14% | 38% |  |
-| 11.5–12.5% | 8% | 24% |  |
-| 12.5–13.5% | 7% | 15% |  |
-| 13.5–14.5% | 5% | 8% |  |
+| 5.5–6.5% | 0.5% | 100% |  |
+| 6.5–7.5% | 6% | 99.4% |  |
+| 7.5–8.5% | 24% | 93% |  |
+| 8.5–9.5% | 23% | 69% | Median |
+| 9.5–10.5% | 12% | 46% |  |
+| 10.5–11.5% | 9% | 34% |  |
+| 11.5–12.5% | 8% | 25% |  |
+| 12.5–13.5% | 8% | 16% |  |
+| 13.5–14.5% | 6% | 8% |  |
 | 14.5–15.5% | 2% | 3% |  |
 | 15.5–16.5% | 0.5% | 0.6% |  |
 | 16.5–17.5% | 0.1% | 0.1% | Last Result |
@@ -75,7 +77,9 @@ Last result: **4** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 1–3 | 1–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| [12–17 December 2020](2020-12-17-Mediana.html) | Mediana | 2 | 2 | 2–3 | 2–3 | 1–3 |
+| [5–12 December 2020](2020-12-12-Exacta.html) | Exacta | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [24–29 November 2020](2020-11-29-БарометърБългария.html) | Барометър България | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [6–11 November 2020](2020-11-11-БарометърБългария.html) | Барометър България | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [27 October–3 November 2020](2020-11-03-SovaHarris.html) | Sova Harris | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -118,9 +122,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 10% | 100% |  |
-| 2 | 81% | 90% | Median |
-| 3 | 9% | 9% |  |
+| 1 | 18% | 100% |  |
+| 2 | 72% | 82% | Median |
+| 3 | 10% | 10% |  |
 | 4 | 0% | 0% | Last Result |
 
 
