@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.8% | 1.0–3.6% | 0.9–3.9% | 0.8–4.1% | 0.6–4.6% |
+| N/A | [Poll Average](average.html) | 1.8% | 1.0–2.7% | 0.9–3.0% | 0.8–3.2% | 0.6–3.7% |
+| [7–15 January 2021](2021-01-15-GallupInternational.html) | Gallup International | 2.3% | 1.8–3.1% | 1.6–3.3% | 1.5–3.5% | 1.3–3.9% |
 | [15–21 December 2020](2020-12-21-Алфарисърч.html) | Алфа рисърч | 0.0% | N/A | N/A | N/A | N/A |
 | [12–17 December 2020](2020-12-17-Mediana.html) | Mediana | 1.6% | 1.2–2.4% | 1.1–2.7% | 0.9–2.9% | 0.8–3.3% |
 | [5–12 December 2020](2020-12-12-Exacta.html) | Exacta | 0.0% | N/A | N/A | N/A | N/A |
@@ -54,12 +55,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.3% | 100% | Last Result |
-| 0.5–1.5% | 37% | 99.7% |  |
-| 1.5–2.5% | 30% | 63% | Median |
-| 2.5–3.5% | 23% | 33% |  |
-| 3.5–4.5% | 10% | 10% |  |
-| 4.5–5.5% | 0.6% | 0.6% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 0.5–1.5% | 38% | 99.7% |  |
+| 1.5–2.5% | 47% | 62% | Median |
+| 2.5–3.5% | 14% | 15% |  |
+| 3.5–4.5% | 0.8% | 0.8% |  |
+| 4.5–5.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -71,6 +71,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [7–15 January 2021](2021-01-15-GallupInternational.html) | Gallup International | 0 | 0 | 0 | 0 | 0 |
 | [15–21 December 2020](2020-12-21-Алфарисърч.html) | Алфа рисърч |  |  |  |  |  |
 | [12–17 December 2020](2020-12-17-Mediana.html) | Mediana | 0 | 0 | 0 | 0 | 0 |
 | [5–12 December 2020](2020-12-12-Exacta.html) | Exacta |  |  |  |  |  |
@@ -115,8 +116,6 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.9% | 100% | Last Result, Median |
-| 1 | 0.1% | 0.1% |  |
-| 2 | 0% | 0% |  |
+| 0 | 100% | 100% | Last Result, Median |
 
 
