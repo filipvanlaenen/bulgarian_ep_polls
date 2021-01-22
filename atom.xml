@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/bulgarian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2021-01-07T18:05:22.887321+01:00</updated>
+  <updated>2021-01-22T18:42:15.839947+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Граждани за европейско развитие на България (EPP): 22.9–28.6%, 4–6 seats</li><li>Българска социалистическа партия (S&amp;D): 18.9–24.2%, 3–5 seats</li><li>Обединени Патриоти (ECR): 3.8–6.7%, 0–1 seats</li><li>Движение за права и свободи (RE): 10.2–14.4%, 2–3 seats</li><li>Воля (ID): 1.5–3.5%, 0 seats</li><li>Демократична България (EPP): 5.4–8.7%, 1–2 seats</li><li>Има такъв народ (*): 11.7–16.2%, 2–3 seats</li><li>Изправи се Бг (*): 3.7–6.6%, 0–1 seats</li><li>Възраждане (*): 0.9–2.6%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-01-15-GallupInternational.html</id>
+    <link href="https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-01-15-GallupInternational.html"/>
+    <title>Opinion Poll by Gallup International, 7–15 January 2021</title>
+    <updated>2021-01-22T18:42:15.839947+01:00</updated>
+    <dc:date>2021-01-22T18:42:15.839947+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Граждани за европейско развитие на България (EPP): 24.8–33.4%, 4–6 seats</li><li>Българска социалистическа партия (S&amp;D): 22.3–30.7%, 4–6 seats</li><li>Обединени Патриоти (ECR): 2.0–5.5%, 0–1 seats</li><li>Движение за права и свободи (RE): 6.2–11.6%, 1–2 seats</li><li>Демократична България (EPP): 5.2–10.2%, 1–2 seats</li><li>Има такъв народ (*): 9.3–15.5%, 2–3 seats</li><li>Изправи се Бг (*): 4.0–8.6%, 0–2 seats</li><li>Възраждане (*): 0.2–2.1%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-12-21-Алфарисърч.html</id>
@@ -287,5 +295,5 @@
     <updated>2020-12-05T14:18:33.918838+01:00</updated>
     <dc:date>2020-12-05T14:18:33.918838+01:00</dc:date>
   </entry>
-  <dc:date>2021-01-07T18:05:22.887321+01:00</dc:date>
+  <dc:date>2021-01-22T18:42:15.839947+01:00</dc:date>
 </feed>
