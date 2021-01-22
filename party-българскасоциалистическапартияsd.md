@@ -84,7 +84,7 @@ Last result: **4** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
-| [7–15 January 2021](2021-01-15-GallupInternational.html) | Gallup International | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
+| [7–15 January 2021](2021-01-15-GallupInternational.html) | Gallup International | 4 | 4 | 4–5 | 3–5 | 3–5 |
 | [15–21 December 2020](2020-12-21-Алфарисърч.html) | Алфа рисърч | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [12–17 December 2020](2020-12-17-Mediana.html) | Mediana | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [5–12 December 2020](2020-12-12-Exacta.html) | Exacta | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
@@ -131,7 +131,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 3% | 100% |  |
 | 4 | 52% | 97% | Last Result, Median |
-| 5 | 44% | 45% |  |
+| 5 | 43% | 45% |  |
 | 6 | 2% | 2% |  |
 | 7 | 0% | 0% |  |
 
