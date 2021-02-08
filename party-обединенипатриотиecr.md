@@ -80,9 +80,9 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [23–31 January 2021](2021-01-31-МаркетЛИНКС.html) | Маркет ЛИНКС | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [12–19 January 2021](2021-01-19-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0 | 0–1 | 0–1 |
-| [7–15 January 2021](2021-01-15-GallupInternational.html) | Gallup International | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [23–31 January 2021](2021-01-31-МаркетЛИНКС.html) | Маркет ЛИНКС | 0 | 0 | 0 | 0–1 | 0–1 |
+| [12–19 January 2021](2021-01-19-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [7–15 January 2021](2021-01-15-GallupInternational.html) | Gallup International | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [15–21 December 2020](2020-12-21-Алфарисърч.html) | Алфа рисърч | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [12–17 December 2020](2020-12-17-Медиана.html) | Медиана | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–17 December 2020](2020-12-17-Mediana.html) | Mediana | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -129,8 +129,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 79% | 100% | Median |
-| 1 | 21% | 21% |  |
+| 0 | 76% | 100% | Median |
+| 1 | 24% | 24% |  |
 | 2 | 0% | 0% | Last Result |
 
 
