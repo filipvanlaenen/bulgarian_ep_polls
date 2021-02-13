@@ -87,7 +87,7 @@ Last result: **4** seats (General Election of 26 May 2019)
 | [12–19 January 2021](2021-01-19-Тренд.html) | Тренд <br> 24 часа | 2 | 2 | 2 | 2 | 1–3 |
 | [7–15 January 2021](2021-01-15-GallupInternational.html) | Gallup International | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [15–21 December 2020](2020-12-21-Алфарисърч.html) | Алфа рисърч | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [12–17 December 2020](2020-12-17-Медиана.html) | Медиана | 2 | 2 | 2 | 2–3 | 1–3 |
+| [12–17 December 2020](2020-12-17-Медиана.html) | Медиана | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [12–17 December 2020](2020-12-17-Mediana.html) | Mediana | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [5–12 December 2020](2020-12-12-Exacta.html) | Exacta | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [24–29 November 2020](2020-11-29-БарометърБългария.html) | Барометър България | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -97,7 +97,7 @@ Last result: **4** seats (General Election of 26 May 2019)
 | [10–16 October 2020](2020-10-16-БарометърБългария.html) | Барометър България | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [3–10 October 2020](2020-10-10-Тренд.html) | Тренд | 2 | 2 | 2 | 2 | 1–2 |
 | [1–9 October 2020](2020-10-09-GallupInternational.html) | Gallup International | 2 | 2 | 2 | 2 | 1–3 |
-| [21–30 September 2020](2020-09-30-Алфарисърч.html) | Алфа рисърч | 2 | 2 | 2 | 1–3 | 1–3 |
+| [21–30 September 2020](2020-09-30-Алфарисърч.html) | Алфа рисърч | 2 | 2 | 2 | 2 | 1–3 |
 | [18–26 September 2020](2020-09-26-МаркетЛИНКС.html) | Маркет ЛИНКС | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | [3–11 September 2020](2020-09-11-GallupInternational.html) | Gallup International | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [29 August–5 September 2020](2020-09-05-Тренд.html) | Тренд <br> 24 часа | 2 | 2 | 2 | 2–3 | 1–3 |
@@ -133,8 +133,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 7% | 100% |  |
-| 2 | 86% | 93% | Median |
-| 3 | 7% | 7% |  |
+| 2 | 85% | 93% | Median |
+| 3 | 8% | 8% |  |
 | 4 | 0% | 0% | Last Result |
 
 

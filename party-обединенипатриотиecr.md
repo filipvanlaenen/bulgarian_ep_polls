@@ -94,7 +94,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [10–16 October 2020](2020-10-16-БарометърБългария.html) | Барометър България | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [3–10 October 2020](2020-10-10-Тренд.html) | Тренд | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [1–9 October 2020](2020-10-09-GallupInternational.html) | Gallup International | 0 | 0 | 0 | 0 | 0–1 |
-| [21–30 September 2020](2020-09-30-Алфарисърч.html) | Алфа рисърч | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [21–30 September 2020](2020-09-30-Алфарисърч.html) | Алфа рисърч | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [18–26 September 2020](2020-09-26-МаркетЛИНКС.html) | Маркет ЛИНКС | 0 | 0 | 0 | 0 | 0–1 |
 | [3–11 September 2020](2020-09-11-GallupInternational.html) | Gallup International | 0 | 0 | 0 | 0 | 0 |
 | [29 August–5 September 2020](2020-09-05-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -129,8 +129,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 76% | 100% | Median |
-| 1 | 24% | 24% |  |
+| 0 | 78% | 100% | Median |
+| 1 | 22% | 22% |  |
 | 2 | 0% | 0% | Last Result |
 
 

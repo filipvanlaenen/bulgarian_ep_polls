@@ -96,7 +96,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [12–19 January 2021](2021-01-19-Тренд.html) | Тренд <br> 24 часа | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [7–15 January 2021](2021-01-15-GallupInternational.html) | Gallup International | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [15–21 December 2020](2020-12-21-Алфарисърч.html) | Алфа рисърч | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
-| [12–17 December 2020](2020-12-17-Медиана.html) | Медиана | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| [12–17 December 2020](2020-12-17-Медиана.html) | Медиана | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [12–17 December 2020](2020-12-17-Mediana.html) | Mediana | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [5–12 December 2020](2020-12-12-Exacta.html) | Exacta | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [24–29 November 2020](2020-11-29-БарометърБългария.html) | Барометър България | 1 | 1 | 0–1 | 0–2 | 0–2 |
@@ -106,8 +106,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [10–16 October 2020](2020-10-16-БарометърБългария.html) | Барометър България | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | [3–10 October 2020](2020-10-10-Тренд.html) | Тренд | 3 | 3 | 3 | 2–3 | 2–4 |
 | [1–9 October 2020](2020-10-09-GallupInternational.html) | Gallup International | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [21–30 September 2020](2020-09-30-Алфарисърч.html) | Алфа рисърч | 3 | 3 | 3 | 3 | 2–4 |
-| [18–26 September 2020](2020-09-26-МаркетЛИНКС.html) | Маркет ЛИНКС | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [21–30 September 2020](2020-09-30-Алфарисърч.html) | Алфа рисърч | 3 | 3 | 3 | 3–4 | 2–4 |
+| [18–26 September 2020](2020-09-26-МаркетЛИНКС.html) | Маркет ЛИНКС | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [3–11 September 2020](2020-09-11-GallupInternational.html) | Gallup International | 3 | 3 | 3–4 | 2–4 | 2–4 |
 | [29 August–5 September 2020](2020-09-05-Тренд.html) | Тренд <br> 24 часа | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | [19–25 August 2020](2020-08-25-SovaHarris.html) | Sova Harris | 3 | 3 | 3 | 3–4 | 2–4 |
@@ -144,8 +144,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.1% | 100% |  |
 | 2 | 44% | 99.9% |  |
-| 3 | 53% | 56% | Median |
-| 4 | 3% | 3% |  |
+| 3 | 52% | 56% | Median |
+| 4 | 4% | 4% |  |
 | 5 | 0% | 0% |  |
 
 
