@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/bulgarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 13 Feb 2021 18:10:49 +0100</pubDate>
+    <pubDate>Mon, 15 Feb 2021 09:15:41 +0100</pubDate>
     <item>
       <title>Opinion Poll by Маркет ЛИНКС, 23–31 January 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-01-31-МаркетЛИНКС.html#seats</link>
@@ -880,14 +880,34 @@
       <dc:date>2020-08-09T13:10:37.321103+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Медиана, 21–28 February 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-02-28-Медиана.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 5–6 seats&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Обединени Патриоти (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Движение за права и свободи (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Воля (ID): 0 seats&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Има такъв народ (*): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-02-28-Медиана-seats.png"
+        length="221390"
+        type="image/png"/>
+      <pubDate>Mon, 15 Feb 2021 09:15:41 +0100</pubDate>
+      <dc:date>2021-02-15T09:15:41.958319+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Медиана, 21–28 February 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-02-28-Медиана.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-02-28-Медиана-coalitions-seats.png"
+        length="192571"
+        type="image/png"/>
+      <pubDate>Mon, 15 Feb 2021 09:15:41 +0100</pubDate>
+      <dc:date>2021-02-15T09:15:41.958319+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Медиана, 21–28 February 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-02-28-Медиана.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 26.6–32.3%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 23.1–28.5%&lt;/li&gt;&lt;li&gt;Обединени Патриоти (ECR): 4.6–7.5%&lt;/li&gt;&lt;li&gt;Движение за права и свободи (RE): 11.3–15.5%&lt;/li&gt;&lt;li&gt;Воля (ID): 1.2–2.9%&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 1.8–3.9%&lt;/li&gt;&lt;li&gt;Има такъв народ (*): 11.0–15.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-02-28-Медиана.png"
         length="276613"
         type="image/png"/>
-      <pubDate>Sat, 06 Feb 2021 18:04:20 +0100</pubDate>
-      <dc:date>2021-02-06T18:04:20.120533+01:00</dc:date>
+      <pubDate>Mon, 15 Feb 2021 09:15:41 +0100</pubDate>
+      <dc:date>2021-02-15T09:15:41.958319+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Mediana, 21–28 February 2020 – Seat Projections for the Parties</title>
@@ -1189,6 +1209,6 @@
       <pubDate>Sat, 05 Dec 2020 14:18:33 +0100</pubDate>
       <dc:date>2020-12-05T14:18:33.918838+01:00</dc:date>
     </item>
-    <dc:date>2021-02-13T18:10:49.866814+01:00</dc:date>
+    <dc:date>2021-02-15T09:15:41.958319+01:00</dc:date>
   </channel>
 </rss>
