@@ -11,6 +11,7 @@ Last result: **10.7%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.8% | 0.5–1.2% | 0.4–1.3% | 0.3–1.4% | 0.3–1.7% |
+| [4–12 February 2021](2021-02-12-GallupInternational.html) | Gallup International | 0.0% | N/A | N/A | N/A | N/A |
 | [23–31 January 2021](2021-01-31-МаркетЛИНКС.html) | Маркет ЛИНКС | 0.0% | N/A | N/A | N/A | N/A |
 | [12–19 January 2021](2021-01-19-Тренд.html) | Тренд <br> 24 часа | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.3–1.4% | 0.2–1.7% |
 | [7–15 January 2021](2021-01-15-GallupInternational.html) | Gallup International | 0.0% | N/A | N/A | N/A | N/A |
@@ -81,6 +82,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [4–12 February 2021](2021-02-12-GallupInternational.html) | Gallup International |  |  |  |  |  |
 | [23–31 January 2021](2021-01-31-МаркетЛИНКС.html) | Маркет ЛИНКС |  |  |  |  |  |
 | [12–19 January 2021](2021-01-19-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0 | 0 | 0 |
 | [7–15 January 2021](2021-01-15-GallupInternational.html) | Gallup International |  |  |  |  |  |

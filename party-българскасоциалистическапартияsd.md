@@ -10,7 +10,8 @@ Last result: **18.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.1% | 20.1–27.4% | 19.3–28.3% | 18.7–29.1% | 17.4–30.8% |
+| N/A | [Poll Average](average.html) | 24.2% | 20.4–27.4% | 19.5–28.3% | 18.8–29.1% | 17.5–30.8% |
+| [4–12 February 2021](2021-02-12-GallupInternational.html) | Gallup International | 21.9% | 20.3–23.6% | 19.8–24.1% | 19.4–24.5% | 18.7–25.4% |
 | [23–31 January 2021](2021-01-31-МаркетЛИНКС.html) | Маркет ЛИНКС | 20.8% | 18.6–23.3% | 18.0–24.0% | 17.5–24.6% | 16.5–25.8% |
 | [12–19 January 2021](2021-01-19-Тренд.html) | Тренд <br> 24 часа | 24.9% | 23.2–26.7% | 22.7–27.2% | 22.3–27.7% | 21.5–28.5% |
 | [7–15 January 2021](2021-01-15-GallupInternational.html) | Gallup International | 21.4% | 19.8–23.3% | 19.3–23.8% | 18.9–24.2% | 18.1–25.1% |
@@ -60,13 +61,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0.1% | 100% |  |
-| 16.5–17.5% | 0.5% | 99.9% |  |
-| 17.5–18.5% | 2% | 99.4% |  |
-| 18.5–19.5% | 4% | 98% | Last Result |
-| 19.5–20.5% | 7% | 94% |  |
-| 20.5–21.5% | 10% | 87% |  |
-| 21.5–22.5% | 10% | 76% |  |
-| 22.5–23.5% | 10% | 66% |  |
+| 16.5–17.5% | 0.4% | 99.9% |  |
+| 17.5–18.5% | 1.4% | 99.4% |  |
+| 18.5–19.5% | 3% | 98% | Last Result |
+| 19.5–20.5% | 6% | 95% |  |
+| 20.5–21.5% | 10% | 88% |  |
+| 21.5–22.5% | 11% | 79% |  |
+| 22.5–23.5% | 11% | 68% |  |
 | 23.5–24.5% | 12% | 57% | Median |
 | 24.5–25.5% | 14% | 45% |  |
 | 25.5–26.5% | 13% | 31% |  |
@@ -89,6 +90,7 @@ Last result: **4** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 3–5 | 3–6 |
+| [4–12 February 2021](2021-02-12-GallupInternational.html) | Gallup International | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [23–31 January 2021](2021-01-31-МаркетЛИНКС.html) | Маркет ЛИНКС | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [12–19 January 2021](2021-01-19-Тренд.html) | Тренд <br> 24 часа | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [7–15 January 2021](2021-01-15-GallupInternational.html) | Gallup International | 4 | 4 | 4–5 | 3–5 | 3–5 |
@@ -139,8 +141,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 4% | 100% |  |
-| 4 | 44% | 96% | Last Result |
-| 5 | 50% | 51% | Median |
+| 4 | 42% | 96% | Last Result |
+| 5 | 52% | 53% | Median |
 | 6 | 2% | 2% |  |
 | 7 | 0% | 0% |  |
 
