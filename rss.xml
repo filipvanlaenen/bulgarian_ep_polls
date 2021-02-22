@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/bulgarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 20 Feb 2021 17:02:49 +0100</pubDate>
+    <pubDate>Sat, 20 Feb 2021 21:05:23 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Gallup International, 4–12 February 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-02-12-GallupInternational.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Обединени Патриоти (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Движение за права и свободи (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Воля (ID): 0 seats&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Има такъв народ (*): 2–3 seats&lt;/li&gt;&lt;li&gt;Изправи се Бг (*): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-02-12-GallupInternational-seats.png"
+        length="221822"
+        type="image/png"/>
+      <pubDate>Sat, 20 Feb 2021 21:05:23 +0100</pubDate>
+      <dc:date>2021-02-20T21:05:23.536602+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Gallup International, 4–12 February 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-02-12-GallupInternational.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-02-12-GallupInternational-coalitions-seats.png"
+        length="209591"
+        type="image/png"/>
+      <pubDate>Sat, 20 Feb 2021 21:05:23 +0100</pubDate>
+      <dc:date>2021-02-20T21:05:23.536602+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Gallup International, 4–12 February 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-02-12-GallupInternational.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-02-12-GallupInternational.png"
         length="306160"
         type="image/png"/>
-      <pubDate>Sat, 20 Feb 2021 17:02:49 +0100</pubDate>
-      <dc:date>2021-02-20T17:02:49.701792+01:00</dc:date>
+      <pubDate>Sat, 20 Feb 2021 21:05:23 +0100</pubDate>
+      <dc:date>2021-02-20T21:05:23.536602+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Маркет ЛИНКС, 23–31 January 2021 – Seat Projections for the Parties</title>
@@ -1219,6 +1239,6 @@
       <pubDate>Sat, 05 Dec 2020 14:18:33 +0100</pubDate>
       <dc:date>2020-12-05T14:18:33.918838+01:00</dc:date>
     </item>
-    <dc:date>2021-02-20T17:02:49.701792+01:00</dc:date>
+    <dc:date>2021-02-20T21:05:23.536602+01:00</dc:date>
   </channel>
 </rss>
