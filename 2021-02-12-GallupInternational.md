@@ -17,7 +17,7 @@
 | Демократична България (EPP) | 0.0% | 6.8% | 5.9–8.0% |5.6–8.3% |5.4–8.6% |5.0–9.1% |
 | Изправи се Бг (*) | 0.0% | 4.7% | 4.0–5.7% |3.8–6.0% |3.6–6.2% |3.3–6.8% |
 | Обединени Патриоти (ECR) | 10.7% | 4.2% | 3.4–5.1% |3.2–5.3% |3.1–5.6% |2.8–6.1% |
-| Воля (ID) | 0.0% | 2.7% | 2.1–3.4% |2.0–3.7% |1.8–3.9% |1.6–4.3% |
+| Воля–Национален фронт за спасение на България (ID) | 10.7% | 2.7% | 2.1–3.4% |2.0–3.7% |1.8–3.9% |1.6–4.3% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -38,7 +38,7 @@
 | <a href="#демократична-българия-(epp)">Демократична България (EPP)</a> | 0 | 1 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#изправи-се-бг-(*)">Изправи се Бг (*)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#обединени-патриоти-(ecr)">Обединени Патриоти (ECR)</a> | 2 | 0 | 0–1 |0–1 |0–1 |0–1 |
-| <a href="#воля-(id)">Воля (ID)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#воля–национален-фронт-за-спасение-на-българия-(id)">Воля–Национален фронт за спасение на България (ID)</a> | 1 | 0 | 0 |0 |0 |0 |
 
 ### Граждани за европейско развитие на България (EPP)
 
@@ -129,15 +129,16 @@
 | 1 | 10% | 10% |  |
 | 2 | 0% | 0% | Last Result |
 
-### Воля (ID)
+### Воля–Национален фронт за спасение на България (ID)
 
-*For a full overview of the results for this party, see the [Воля (ID)](party-воляid.html) page.*
+*For a full overview of the results for this party, see the [Воля–Национален фронт за спасение на България (ID)](party-воля–националенфронтзаспасениенабългарияid.html) page.*
 
-![Graph with seats probability mass function not yet produced](2021-02-12-GallupInternational-seats-pmf-воляid.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2021-02-12-GallupInternational-seats-pmf-воля–националенфронтзаспасениенабългарияid.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 100% | 100% | Median |
+| 1 | 0% | 0% | Last Result |
 
 
 ## Coalitions
@@ -149,7 +150,6 @@
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Движение за права и свободи (RE) | 4 | 2 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
-| Воля (ID) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Движение за права и свободи (RE)
 
@@ -160,14 +160,6 @@
 | 2 | 77% | 100% | Median |
 | 3 | 23% | 23% |  |
 | 4 | 0% | 0% | Last Result |
-
-### Воля (ID)
-
-![Graph with seats probability mass function not yet produced](2021-02-12-GallupInternational-coalitions-seats-pmf-воля.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
 
 
 ## Technical Information
