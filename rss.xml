@@ -8,36 +8,66 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/bulgarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 26 Feb 2021 16:03:15 +0100</pubDate>
+    <pubDate>Sat, 27 Feb 2021 16:14:27 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by AFIS, 12–17 February 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-02-17-AFIS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 5–6 seats&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;ВМРО–Българско Национално Движение (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Атака (NI): 0 seats&lt;/li&gt;&lt;li&gt;Алтернатива за българско възраждане (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Движение за права и свободи (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Има такъв народ (*): 2–3 seats&lt;/li&gt;&lt;li&gt;Изправи се Бг (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Възраждане (*): 0 seats&lt;/li&gt;&lt;li&gt;Воля–Национален фронт за спасение на България (ID): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-02-17-AFIS-seats.png"
+        length="288858"
+        type="image/png"/>
+      <pubDate>Sat, 27 Feb 2021 16:14:27 +0100</pubDate>
+      <dc:date>2021-02-27T16:14:27.644755+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by AFIS, 12–17 February 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-02-17-AFIS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-02-17-AFIS-coalitions-seats.png"
+        length="201797"
+        type="image/png"/>
+      <pubDate>Sat, 27 Feb 2021 16:14:27 +0100</pubDate>
+      <dc:date>2021-02-27T16:14:27.644755+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by AFIS, 12–17 February 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-02-17-AFIS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 22.6–28.0%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 20.0–25.2%&lt;/li&gt;&lt;li&gt;ВМРО–Българско Национално Движение (ECR): 2.3–4.5%&lt;/li&gt;&lt;li&gt;Атака (NI): 1.0–2.6%&lt;/li&gt;&lt;li&gt;Алтернатива за българско възраждане (S&amp;amp;D): 1.0–2.6%&lt;/li&gt;&lt;li&gt;Движение за права и свободи (RE): 9.7–13.6%&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 4.3–7.2%&lt;/li&gt;&lt;li&gt;Има такъв народ (*): 12.2–16.5%&lt;/li&gt;&lt;li&gt;Изправи се Бг (*): 3.0–5.5%&lt;/li&gt;&lt;li&gt;Възраждане (*): 1.4–3.3%&lt;/li&gt;&lt;li&gt;Воля–Национален фронт за спасение на България (ID): 1.3–3.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-02-17-AFIS.png"
+        length="377096"
+        type="image/png"/>
+      <pubDate>Sat, 27 Feb 2021 16:14:27 +0100</pubDate>
+      <dc:date>2021-02-27T16:14:27.644755+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Gallup International, 4–12 February 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-02-12-GallupInternational.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Обединени Патриоти (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Движение за права и свободи (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Има такъв народ (*): 2–3 seats&lt;/li&gt;&lt;li&gt;Изправи се Бг (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Воля–Национален фронт за спасение на България (ID): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;ВМРО–Българско Национално Движение (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Движение за права и свободи (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Има такъв народ (*): 2–3 seats&lt;/li&gt;&lt;li&gt;Изправи се Бг (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Воля–Национален фронт за спасение на България (ID): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-02-12-GallupInternational-seats.png"
-        length="233269"
+        length="239678"
         type="image/png"/>
-      <pubDate>Fri, 26 Feb 2021 14:37:40 +0100</pubDate>
-      <dc:date>2021-02-26T14:37:40.142495+01:00</dc:date>
+      <pubDate>Sat, 27 Feb 2021 15:56:27 +0100</pubDate>
+      <dc:date>2021-02-27T15:56:27.634712+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Gallup International, 4–12 February 2021 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-02-12-GallupInternational.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-02-12-GallupInternational-coalitions-seats.png"
-        length="209591"
+        length="213879"
         type="image/png"/>
-      <pubDate>Fri, 26 Feb 2021 14:37:40 +0100</pubDate>
-      <dc:date>2021-02-26T14:37:40.142495+01:00</dc:date>
+      <pubDate>Sat, 27 Feb 2021 15:56:27 +0100</pubDate>
+      <dc:date>2021-02-27T15:56:27.634712+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Gallup International, 4–12 February 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-02-12-GallupInternational.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 23.2–28.6%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 19.4–24.5%&lt;/li&gt;&lt;li&gt;Обединени Патриоти (ECR): 3.1–5.6%&lt;/li&gt;&lt;li&gt;Движение за права и свободи (RE): 10.5–14.5%&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 5.4–8.6%&lt;/li&gt;&lt;li&gt;Има такъв народ (*): 11.1–15.3%&lt;/li&gt;&lt;li&gt;Изправи се Бг (*): 3.6–6.2%&lt;/li&gt;&lt;li&gt;Воля–Национален фронт за спасение на България (ID): 1.8–3.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 23.2–28.6%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 19.4–24.5%&lt;/li&gt;&lt;li&gt;ВМРО–Българско Национално Движение (ECR): 3.1–5.6%&lt;/li&gt;&lt;li&gt;Движение за права и свободи (RE): 10.5–14.5%&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 5.4–8.6%&lt;/li&gt;&lt;li&gt;Има такъв народ (*): 11.1–15.3%&lt;/li&gt;&lt;li&gt;Изправи се Бг (*): 3.6–6.2%&lt;/li&gt;&lt;li&gt;Воля–Национален фронт за спасение на България (ID): 1.8–3.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-02-12-GallupInternational.png"
-        length="308420"
+        length="315198"
         type="image/png"/>
-      <pubDate>Fri, 26 Feb 2021 14:37:40 +0100</pubDate>
-      <dc:date>2021-02-26T14:37:40.142495+01:00</dc:date>
+      <pubDate>Sat, 27 Feb 2021 15:56:27 +0100</pubDate>
+      <dc:date>2021-02-27T15:56:27.634712+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Маркет ЛИНКС, 23–31 January 2021 – Seat Projections for the Parties</title>
@@ -1269,6 +1299,6 @@
       <pubDate>Sat, 05 Dec 2020 14:18:33 +0100</pubDate>
       <dc:date>2020-12-05T14:18:33.918838+01:00</dc:date>
     </item>
-    <dc:date>2021-02-26T16:03:15.411093+01:00</dc:date>
+    <dc:date>2021-02-27T16:14:27.644755+01:00</dc:date>
   </channel>
 </rss>
