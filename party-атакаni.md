@@ -10,7 +10,8 @@ Last result: **10.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.0% | 0.6–1.7% | 0.5–1.9% | 0.4–2.0% | 0.3–2.4% |
+| N/A | [Poll Average](average.html) | 1.3% | 0.6–2.0% | 0.5–2.2% | 0.4–2.4% | 0.3–2.7% |
+| [12–17 February 2021](2021-02-17-AFIS.html) | AFIS | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
 | [4–12 February 2021](2021-02-12-GallupInternational.html) | Gallup International | 0.0% | N/A | N/A | N/A | N/A |
 | [23–31 January 2021](2021-01-31-МаркетЛИНКС.html) | Маркет ЛИНКС | 0.0% | N/A | N/A | N/A | N/A |
 | [26 January 2020–31 January 2021](2021-01-31-SovaHarris.html) | Sova Harris | 1.3% | 0.9–1.9% | 0.8–2.1% | 0.8–2.2% | 0.6–2.5% |
@@ -60,10 +61,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 10% | 100% |  |
-| 0.5–1.5% | 74% | 90% | Median |
-| 1.5–2.5% | 16% | 16% |  |
-| 2.5–3.5% | 0.2% | 0.2% |  |
+| 0.0–0.5% | 7% | 100% |  |
+| 0.5–1.5% | 63% | 93% | Median |
+| 1.5–2.5% | 30% | 31% |  |
+| 2.5–3.5% | 1.1% | 1.1% |  |
 | 3.5–4.5% | 0% | 0% |  |
 | 4.5–5.5% | 0% | 0% |  |
 | 5.5–6.5% | 0% | 0% |  |
@@ -83,6 +84,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [12–17 February 2021](2021-02-17-AFIS.html) | AFIS | 0 | 0 | 0 | 0 | 0 |
 | [4–12 February 2021](2021-02-12-GallupInternational.html) | Gallup International |  |  |  |  |  |
 | [23–31 January 2021](2021-01-31-МаркетЛИНКС.html) | Маркет ЛИНКС |  |  |  |  |  |
 | [26 January 2020–31 January 2021](2021-01-31-SovaHarris.html) | Sova Harris | 0 | 0 | 0 | 0 | 0 |

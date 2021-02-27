@@ -11,6 +11,7 @@ Last result: **10.7%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.8% | 1.3–2.3% | 1.2–2.5% | 1.1–2.7% | 0.9–3.1% |
+| [12–17 February 2021](2021-02-17-AFIS.html) | AFIS | 0.0% | N/A | N/A | N/A | N/A |
 | [4–12 February 2021](2021-02-12-GallupInternational.html) | Gallup International | 0.0% | N/A | N/A | N/A | N/A |
 | [23–31 January 2021](2021-01-31-МаркетЛИНКС.html) | Маркет ЛИНКС | 0.0% | N/A | N/A | N/A | N/A |
 | [26 January 2020–31 January 2021](2021-01-31-SovaHarris.html) | Sova Harris | 1.7% | 1.3–2.3% | 1.2–2.5% | 1.1–2.7% | 0.9–3.1% |
@@ -83,6 +84,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [12–17 February 2021](2021-02-17-AFIS.html) | AFIS |  |  |  |  |  |
 | [4–12 February 2021](2021-02-12-GallupInternational.html) | Gallup International |  |  |  |  |  |
 | [23–31 January 2021](2021-01-31-МаркетЛИНКС.html) | Маркет ЛИНКС |  |  |  |  |  |
 | [26 January 2020–31 January 2021](2021-01-31-SovaHarris.html) | Sova Harris | 0 | 0 | 0 | 0 | 0 |
