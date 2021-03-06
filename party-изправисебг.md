@@ -10,14 +10,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.1% | 4.1–6.1% | 3.9–6.4% | 3.7–6.7% | 3.3–7.2% |
-| [26 February–1 March 2021](2021-03-01-Алфарисърч.html) | Алфа рисърч <br> bTV | 4.5% | N/A | N/A | N/A | N/A |
-| [22 February–1 March 2021](2021-03-01-GallupInternational.html) | Gallup International <br> BNR/BNT | 4.5% | N/A | N/A | N/A | N/A |
-| [22–26 February 2021](2021-02-26-Медиана.html) | Медиана | 5.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 4.7% | 3.5–6.0% | 3.2–6.3% | 2.9–6.7% | 2.5–7.4% |
+| [26 February–1 March 2021](2021-03-01-Алфарисърч.html) | Алфа рисърч <br> bTV | 4.5% | 3.6–5.9% | 3.3–6.3% | 3.0–6.6% | 2.6–7.3% |
+| [22 February–1 March 2021](2021-03-01-GallupInternational.html) | Gallup International <br> BNR/BNT | 4.5% | 3.5–5.9% | 3.3–6.3% | 3.0–6.6% | 2.6–7.3% |
+| [22–26 February 2021](2021-02-26-Медиана.html) | Медиана | 5.0% | 4.0–6.4% | 3.8–6.8% | 3.5–7.2% | 3.1–7.9% |
 | [15–22 February 2021](2021-02-22-Exacta.html) | Exacta | 0.0% | N/A | N/A | N/A | N/A |
-| [12–19 February 2021](2021-02-19-Тренд.html) | Тренд <br> 24 часа/BNT | 4.0% | N/A | N/A | N/A | N/A |
-| [12–17 February 2021](2021-02-17-AFIS.html) | AFIS | 4.1% | N/A | N/A | N/A | N/A |
-| [4–12 February 2021](2021-02-12-GallupInternational.html) | Gallup International | 4.6% | N/A | N/A | N/A | N/A |
+| [12–19 February 2021](2021-02-19-Тренд.html) | Тренд <br> 24 часа/BNT | 4.0% | 3.1–5.4% | 2.8–5.8% | 2.6–6.2% | 2.2–6.9% |
+| [12–17 February 2021](2021-02-17-AFIS.html) | AFIS | 4.1% | 3.1–5.6% | 2.8–6.0% | 2.6–6.4% | 2.2–7.2% |
+| [4–12 February 2021](2021-02-12-GallupInternational.html) | Gallup International | 4.6% | 3.5–6.2% | 3.2–6.6% | 3.0–7.0% | 2.6–7.8% |
 | [23–31 January 2021](2021-01-31-МаркетЛИНКС.html) | Маркет ЛИНКС | 5.3% | 4.5–6.3% | 4.3–6.6% | 4.1–6.9% | 3.7–7.4% |
 | [26 January 2020–31 January 2021](2021-01-31-SovaHarris.html) | Sova Harris | 4.7% | 3.9–5.7% | 3.7–5.9% | 3.5–6.2% | 3.2–6.7% |
 | [12–19 January 2021](2021-01-19-Тренд.html) | Тренд <br> 24 часа | 4.1% | 3.4–5.0% | 3.2–5.2% | 3.0–5.5% | 2.7–5.9% |
@@ -68,13 +68,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 1.4% | 100% |  |
-| 3.5–4.5% | 24% | 98.6% |  |
-| 4.5–5.5% | 49% | 75% | Median |
-| 5.5–6.5% | 23% | 26% |  |
+| 1.5–2.5% | 0.7% | 100% |  |
+| 2.5–3.5% | 10% | 99.3% |  |
+| 3.5–4.5% | 32% | 90% |  |
+| 4.5–5.5% | 37% | 57% | Median |
+| 5.5–6.5% | 16% | 20% |  |
 | 6.5–7.5% | 3% | 3% |  |
-| 7.5–8.5% | 0.2% | 0.2% |  |
+| 7.5–8.5% | 0.3% | 0.3% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -87,13 +87,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [26 February–1 March 2021](2021-03-01-Алфарисърч.html) | Алфа рисърч <br> bTV |  |  |  |  |  |
-| [22 February–1 March 2021](2021-03-01-GallupInternational.html) | Gallup International <br> BNR/BNT |  |  |  |  |  |
-| [22–26 February 2021](2021-02-26-Медиана.html) | Медиана |  |  |  |  |  |
+| [26 February–1 March 2021](2021-03-01-Алфарисърч.html) | Алфа рисърч <br> bTV | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [22 February–1 March 2021](2021-03-01-GallupInternational.html) | Gallup International <br> BNR/BNT | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [22–26 February 2021](2021-02-26-Медиана.html) | Медиана | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [15–22 February 2021](2021-02-22-Exacta.html) | Exacta |  |  |  |  |  |
-| [12–19 February 2021](2021-02-19-Тренд.html) | Тренд <br> 24 часа/BNT |  |  |  |  |  |
-| [12–17 February 2021](2021-02-17-AFIS.html) | AFIS |  |  |  |  |  |
-| [4–12 February 2021](2021-02-12-GallupInternational.html) | Gallup International |  |  |  |  |  |
+| [12–19 February 2021](2021-02-19-Тренд.html) | Тренд <br> 24 часа/BNT | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [12–17 February 2021](2021-02-17-AFIS.html) | AFIS | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [4–12 February 2021](2021-02-12-GallupInternational.html) | Gallup International | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [23–31 January 2021](2021-01-31-МаркетЛИНКС.html) | Маркет ЛИНКС | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [26 January 2020–31 January 2021](2021-01-31-SovaHarris.html) | Sova Harris | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [12–19 January 2021](2021-01-19-Тренд.html) | Тренд <br> 24 часа | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -144,8 +144,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 63% | 100% | Last Result, Median |
-| 1 | 37% | 37% |  |
-| 2 | 0% | 0% |  |
+| 0 | 72% | 100% | Last Result, Median |
+| 1 | 27% | 28% |  |
+| 2 | 0.5% | 0.5% |  |
+| 3 | 0% | 0% |  |
 
 
