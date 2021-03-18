@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.4% | 0.8–2.2% | 0.6–2.5% | 0.5–2.8% | 0.4–3.3% |
+| N/A | [Poll Average](average.html) | 1.3% | 0.7–2.2% | 0.6–2.5% | 0.5–2.8% | 0.3–3.3% |
+| [9–14 March 2021](2021-03-14-Тренд.html) | Тренд <br> 24 часа | 1.1% | 0.7–2.0% | 0.6–2.3% | 0.5–2.6% | 0.3–3.1% |
 | [26 February–1 March 2021](2021-03-01-Алфарисърч.html) | Алфа рисърч <br> bTV | 0.9% | 0.6–1.7% | 0.5–2.0% | 0.4–2.2% | 0.3–2.6% |
 | [22 February–1 March 2021](2021-03-01-GallupInternational.html) | Gallup International <br> BNR/BNT | 0.9% | 0.6–1.7% | 0.5–2.0% | 0.4–2.2% | 0.3–2.6% |
 | [22–26 February 2021](2021-02-26-Медиана.html) | Медиана | 1.4% | 0.9–2.3% | 0.8–2.5% | 0.7–2.7% | 0.5–3.2% |
@@ -66,10 +67,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 3% | 100% | Last Result |
-| 0.5–1.5% | 55% | 97% | Median |
-| 1.5–2.5% | 38% | 42% |  |
-| 2.5–3.5% | 4% | 5% |  |
+| 0.0–0.5% | 4% | 100% | Last Result |
+| 0.5–1.5% | 62% | 96% | Median |
+| 1.5–2.5% | 30% | 34% |  |
+| 2.5–3.5% | 4% | 4% |  |
 | 3.5–4.5% | 0.3% | 0.3% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
@@ -83,6 +84,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [9–14 March 2021](2021-03-14-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0 | 0 | 0 |
 | [26 February–1 March 2021](2021-03-01-Алфарисърч.html) | Алфа рисърч <br> bTV | 0 | 0 | 0 | 0 | 0 |
 | [22 February–1 March 2021](2021-03-01-GallupInternational.html) | Gallup International <br> BNR/BNT | 0 | 0 | 0 | 0 | 0 |
 | [22–26 February 2021](2021-02-26-Медиана.html) | Медиана | 0 | 0 | 0 | 0 | 0 |
