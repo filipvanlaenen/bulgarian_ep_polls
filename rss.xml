@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/bulgarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 08 Mar 2021 18:53:50 +0100</pubDate>
+    <pubDate>Thu, 18 Mar 2021 17:02:43 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Тренд for 24 часа, 9–14 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-03-14-Тренд.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 24.8–33.1%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 20.0–27.8%&lt;/li&gt;&lt;li&gt;ВМРО–Българско Национално Движение (ECR): 2.5–6.2%&lt;/li&gt;&lt;li&gt;Атака (NI): 0.4–2.3%&lt;/li&gt;&lt;li&gt;Алтернатива за българско възраждане (S&amp;amp;D): 0.5–2.6%&lt;/li&gt;&lt;li&gt;Движение за права и свободи (RE): 9.5–15.5%&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 4.1–8.6%&lt;/li&gt;&lt;li&gt;Има такъв народ (*): 9.9–16.0%&lt;/li&gt;&lt;li&gt;Изправи се Бг (*): 2.7–6.5%&lt;/li&gt;&lt;li&gt;Възраждане (*): 0.5–2.6%&lt;/li&gt;&lt;li&gt;Републиканци за България (*): 0.4–2.3%&lt;/li&gt;&lt;li&gt;Воля–Национален фронт за спасение на България (ID): 1.4–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-03-14-Тренд.png"
+        length="421901"
+        type="image/png"/>
+      <pubDate>Thu, 18 Mar 2021 17:02:43 +0100</pubDate>
+      <dc:date>2021-03-18T17:02:43.519707+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Алфа рисърч for bTV, 26 February–1 March 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-03-01-Алфарисърч.html#seats</link>
@@ -1449,6 +1459,6 @@
       <pubDate>Sat, 05 Dec 2020 14:18:33 +0100</pubDate>
       <dc:date>2020-12-05T14:18:33.918838+01:00</dc:date>
     </item>
-    <dc:date>2021-03-08T18:53:50.308591+01:00</dc:date>
+    <dc:date>2021-03-18T17:02:43.519707+01:00</dc:date>
   </channel>
 </rss>
