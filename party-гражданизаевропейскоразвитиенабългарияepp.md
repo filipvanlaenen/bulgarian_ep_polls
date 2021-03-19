@@ -96,7 +96,7 @@ Last result: **6** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–6 | 4–6 | 4–6 | 4–7 |
-| [9–14 March 2021](2021-03-14-Тренд.html) | Тренд <br> 24 часа | 6 | 6 | 6 | 6 | 5–6 |
+| [9–14 March 2021](2021-03-14-Тренд.html) | Тренд <br> 24 часа | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [26 February–1 March 2021](2021-03-01-Алфарисърч.html) | Алфа рисърч <br> bTV | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [22 February–1 March 2021](2021-03-01-GallupInternational.html) | Gallup International <br> BNR/BNT | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [22–26 February 2021](2021-02-26-Медиана.html) | Медиана | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
@@ -155,8 +155,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 8% | 100% |  |
-| 5 | 38% | 92% |  |
-| 6 | 52% | 53% | Last Result, Median |
+| 5 | 41% | 92% |  |
+| 6 | 49% | 51% | Last Result, Median |
 | 7 | 2% | 2% |  |
 | 8 | 0% | 0% |  |
 
