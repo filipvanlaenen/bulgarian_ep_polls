@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 28 Jan 2021 21:33:46 +0100</pubDate>
     <item>
+      <title>Opinion Poll by Sova Harris for Trud, 11–16 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-03-16-SovaHarris.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Sova Harris for Trud, 11–16 March 2021<br/>Details on https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-03-16-SovaHarris.html<br/><img src="https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-03-16-SovaHarris.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-03-16-SovaHarris.png" length="415978" type="image/png"/>
+      <pubDate>Mon, 22 Mar 2021 18:57:44 +0100</pubDate>
+      <dc:date>2021-03-22T18:57:44.035778+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Тренд for 24 часа, 9–14 March 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-03-14-Тренд.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>9 seats needed for a majority<br/>Opinion poll by Тренд for 24 часа, 9–14 March 2021<br/>Details on https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-03-14-Тренд.html<br/><img src="https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-03-14-Тренд-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-01-31-МаркетЛИНКС.png" length="289376" type="image/png"/>
       <pubDate>Fri, 26 Feb 2021 16:03:15 +0100</pubDate>
       <dc:date>2021-02-26T16:03:15.411093+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sova Harris, 26 January 2020–31 January 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-01-31-SovaHarris.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>9 seats needed for a majority<br/>Opinion poll by Sova Harris, 26 January 2020–31 January 2021<br/>Details on https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-01-31-SovaHarris.html<br/><img src="https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-01-31-SovaHarris-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-01-31-SovaHarris-seating-plan.png" length="332031" type="image/png"/>
-      <pubDate>Fri, 26 Feb 2021 10:40:03 +0100</pubDate>
-      <dc:date>2021-02-26T10:40:03.720074+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sova Harris, 26 January 2020–31 January 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-01-31-SovaHarris.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>9 seats needed for a majority<br/>Opinion poll by Sova Harris, 26 January 2020–31 January 2021<br/>Details on https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-01-31-SovaHarris.html<br/><img src="https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-01-31-SovaHarris-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-01-31-SovaHarris-seats.png" length="301600" type="image/png"/>
-      <pubDate>Fri, 26 Feb 2021 10:40:03 +0100</pubDate>
-      <dc:date>2021-02-26T10:40:03.720074+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sova Harris, 26 January 2020–31 January 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-01-31-SovaHarris.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Sova Harris, 26 January 2020–31 January 2021<br/>Details on https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-01-31-SovaHarris.html<br/><img src="https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-01-31-SovaHarris.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-01-31-SovaHarris.png" length="432023" type="image/png"/>
-      <pubDate>Fri, 26 Feb 2021 10:40:03 +0100</pubDate>
-      <dc:date>2021-02-26T10:40:03.720074+01:00</dc:date>
     </item>
   </channel>
 </rss>
