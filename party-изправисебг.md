@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.6% | 3.4–6.0% | 3.1–6.4% | 2.9–6.7% | 2.4–7.5% |
+| N/A | [Poll Average](average.html) | 4.7% | 3.5–6.1% | 3.2–6.5% | 2.9–6.9% | 2.5–7.7% |
+| [11–16 March 2021](2021-03-16-SovaHarris.html) | Sova Harris <br> Trud | 4.9% | 3.8–6.5% | 3.5–7.0% | 3.2–7.4% | 2.8–8.2% |
 | [9–14 March 2021](2021-03-14-Тренд.html) | Тренд <br> 24 часа | 4.2% | 3.2–5.7% | 2.9–6.1% | 2.7–6.5% | 2.3–7.3% |
 | [26 February–1 March 2021](2021-03-01-Алфарисърч.html) | Алфа рисърч <br> bTV | 4.5% | 3.6–5.9% | 3.3–6.3% | 3.0–6.6% | 2.6–7.3% |
 | [22 February–1 March 2021](2021-03-01-GallupInternational.html) | Gallup International <br> BNR/BNT | 4.5% | 3.5–5.9% | 3.3–6.3% | 3.0–6.6% | 2.6–7.3% |
@@ -69,14 +70,15 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.8% | 100% |  |
-| 2.5–3.5% | 12% | 99.2% |  |
-| 3.5–4.5% | 35% | 87% |  |
-| 4.5–5.5% | 34% | 52% | Median |
-| 5.5–6.5% | 14% | 18% |  |
-| 6.5–7.5% | 3% | 3% |  |
-| 7.5–8.5% | 0.4% | 0.4% |  |
-| 8.5–9.5% | 0% | 0% |  |
+| 1.5–2.5% | 0.7% | 100% |  |
+| 2.5–3.5% | 11% | 99.3% |  |
+| 3.5–4.5% | 34% | 88% |  |
+| 4.5–5.5% | 34% | 54% | Median |
+| 5.5–6.5% | 16% | 20% |  |
+| 6.5–7.5% | 4% | 4% |  |
+| 7.5–8.5% | 0.6% | 0.6% |  |
+| 8.5–9.5% | 0.1% | 0.1% |  |
+| 9.5–10.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -88,6 +90,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [11–16 March 2021](2021-03-16-SovaHarris.html) | Sova Harris <br> Trud | 0 | 0 | 0 | 0 | 0–1 |
 | [9–14 March 2021](2021-03-14-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [26 February–1 March 2021](2021-03-01-Алфарисърч.html) | Алфа рисърч <br> bTV | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [22 February–1 March 2021](2021-03-01-GallupInternational.html) | Gallup International <br> BNR/BNT | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -146,9 +149,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 77% | 100% | Last Result, Median |
-| 1 | 22% | 23% |  |
-| 2 | 0.7% | 0.7% |  |
+| 0 | 81% | 100% | Last Result, Median |
+| 1 | 19% | 19% |  |
+| 2 | 0.6% | 0.6% |  |
 | 3 | 0% | 0% |  |
 
 

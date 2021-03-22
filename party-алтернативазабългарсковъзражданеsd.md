@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 0.7–2.2% | 0.6–2.5% | 0.5–2.8% | 0.3–3.3% |
+| N/A | [Poll Average](average.html) | 1.3% | 0.7–2.2% | 0.6–2.5% | 0.5–2.7% | 0.3–3.3% |
+| [11–16 March 2021](2021-03-16-SovaHarris.html) | Sova Harris <br> Trud | 1.2% | 0.7–2.1% | 0.6–2.4% | 0.5–2.7% | 0.4–3.3% |
 | [9–14 March 2021](2021-03-14-Тренд.html) | Тренд <br> 24 часа | 1.1% | 0.7–2.0% | 0.6–2.3% | 0.5–2.6% | 0.3–3.1% |
 | [26 February–1 March 2021](2021-03-01-Алфарисърч.html) | Алфа рисърч <br> bTV | 0.9% | 0.6–1.7% | 0.5–2.0% | 0.4–2.2% | 0.3–2.6% |
 | [22 February–1 March 2021](2021-03-01-GallupInternational.html) | Gallup International <br> BNR/BNT | 0.9% | 0.6–1.7% | 0.5–2.0% | 0.4–2.2% | 0.3–2.6% |
@@ -84,6 +85,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [11–16 March 2021](2021-03-16-SovaHarris.html) | Sova Harris <br> Trud | 0 | 0 | 0 | 0 | 0 |
 | [9–14 March 2021](2021-03-14-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0 | 0 | 0 |
 | [26 February–1 March 2021](2021-03-01-Алфарисърч.html) | Алфа рисърч <br> bTV | 0 | 0 | 0 | 0 | 0 |
 | [22 February–1 March 2021](2021-03-01-GallupInternational.html) | Gallup International <br> BNR/BNT | 0 | 0 | 0 | 0 | 0 |

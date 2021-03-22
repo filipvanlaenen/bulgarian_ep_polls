@@ -10,7 +10,8 @@ Last result: **10.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.5% | 1.6–3.7% | 1.4–4.1% | 1.2–4.4% | 0.9–5.1% |
+| N/A | [Poll Average](average.html) | 2.5% | 1.6–3.7% | 1.4–4.1% | 1.2–4.4% | 1.0–5.0% |
+| [11–16 March 2021](2021-03-16-SovaHarris.html) | Sova Harris <br> Trud | 2.3% | 1.6–3.6% | 1.4–3.9% | 1.3–4.2% | 1.0–4.9% |
 | [9–14 March 2021](2021-03-14-Тренд.html) | Тренд <br> 24 часа | 2.4% | 1.7–3.6% | 1.5–4.0% | 1.4–4.3% | 1.1–5.0% |
 | [26 February–1 March 2021](2021-03-01-Алфарисърч.html) | Алфа рисърч <br> bTV | 1.9% | 1.3–2.9% | 1.2–3.2% | 1.0–3.4% | 0.8–4.0% |
 | [22 February–1 March 2021](2021-03-01-GallupInternational.html) | Gallup International <br> BNR/BNT | 2.6% | 1.9–3.7% | 1.7–4.1% | 1.6–4.4% | 1.3–5.0% |
@@ -69,9 +70,9 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
 | 0.5–1.5% | 9% | 100% |  |
-| 1.5–2.5% | 41% | 91% |  |
-| 2.5–3.5% | 36% | 50% | Median |
-| 3.5–4.5% | 12% | 13% |  |
+| 1.5–2.5% | 42% | 91% |  |
+| 2.5–3.5% | 36% | 49% | Median |
+| 3.5–4.5% | 11% | 13% |  |
 | 4.5–5.5% | 2% | 2% |  |
 | 5.5–6.5% | 0.1% | 0.1% |  |
 | 6.5–7.5% | 0% | 0% |  |
@@ -90,6 +91,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [11–16 March 2021](2021-03-16-SovaHarris.html) | Sova Harris <br> Trud | 0 | 0 | 0 | 0 | 0 |
 | [9–14 March 2021](2021-03-14-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0 | 0 | 0 |
 | [26 February–1 March 2021](2021-03-01-Алфарисърч.html) | Алфа рисърч <br> bTV | 0 | 0 | 0 | 0 | 0 |
 | [22 February–1 March 2021](2021-03-01-GallupInternational.html) | Gallup International <br> BNR/BNT | 0 | 0 | 0 | 0 | 0 |
