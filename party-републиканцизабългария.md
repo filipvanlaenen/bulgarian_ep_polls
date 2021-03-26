@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.6–2.1% | 0.5–2.4% | 0.4–2.8% | 0.3–3.4% |
+| N/A | [Poll Average](average.html) | 1.3% | 0.6–2.1% | 0.5–2.4% | 0.4–2.7% | 0.3–3.3% |
+| [19–23 March 2021](2021-03-23-ПИК.html) | ПИК <br> Pik | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
 | [16–23 March 2021](2021-03-23-Медиана.html) | Медиана | 0.0% | N/A | N/A | N/A | N/A |
 | [11–16 March 2021](2021-03-16-SovaHarris.html) | Sova Harris <br> Trud | 1.6% | 1.1–2.7% | 0.9–3.0% | 0.8–3.3% | 0.6–3.9% |
 | [9–14 March 2021](2021-03-14-Тренд.html) | Тренд <br> 24 часа | 0.9% | 0.5–1.8% | 0.4–2.0% | 0.4–2.3% | 0.2–2.8% |
@@ -69,11 +70,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 9% | 100% | Last Result |
-| 0.5–1.5% | 65% | 91% | Median |
-| 1.5–2.5% | 22% | 26% |  |
-| 2.5–3.5% | 4% | 4% |  |
-| 3.5–4.5% | 0.3% | 0.4% |  |
+| 0.0–0.5% | 7% | 100% | Last Result |
+| 0.5–1.5% | 61% | 93% | Median |
+| 1.5–2.5% | 28% | 31% |  |
+| 2.5–3.5% | 3% | 4% |  |
+| 3.5–4.5% | 0.3% | 0.3% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -86,6 +87,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [19–23 March 2021](2021-03-23-ПИК.html) | ПИК <br> Pik | 0 | 0 | 0 | 0 | 0 |
 | [16–23 March 2021](2021-03-23-Медиана.html) | Медиана |  |  |  |  |  |
 | [11–16 March 2021](2021-03-16-SovaHarris.html) | Sova Harris <br> Trud | 0 | 0 | 0 | 0 | 0 |
 | [9–14 March 2021](2021-03-14-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0 | 0 | 0 |

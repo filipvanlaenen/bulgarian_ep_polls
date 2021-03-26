@@ -10,7 +10,8 @@ Last result: **10.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.3% | 3.2–5.7% | 2.9–6.1% | 2.7–6.5% | 2.3–7.4% |
+| N/A | [Poll Average](average.html) | 4.3% | 3.2–5.6% | 2.9–6.0% | 2.7–6.5% | 2.3–7.4% |
+| [19–23 March 2021](2021-03-23-ПИК.html) | ПИК <br> Pik | 4.4% | 3.7–5.3% | 3.5–5.6% | 3.3–5.9% | 3.0–6.4% |
 | [16–23 March 2021](2021-03-23-Медиана.html) | Медиана | 4.2% | 3.3–5.4% | 3.0–5.7% | 2.8–6.1% | 2.5–6.7% |
 | [11–16 March 2021](2021-03-16-SovaHarris.html) | Sova Harris <br> Trud | 4.9% | 3.8–6.5% | 3.5–7.0% | 3.2–7.4% | 2.8–8.2% |
 | [9–14 March 2021](2021-03-14-Тренд.html) | Тренд <br> 24 часа | 4.0% | 3.0–5.4% | 2.8–5.8% | 2.5–6.2% | 2.1–7.0% |
@@ -70,14 +71,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 19% | 98% |  |
-| 3.5–4.5% | 40% | 79% | Median |
-| 4.5–5.5% | 27% | 39% |  |
-| 5.5–6.5% | 9% | 12% |  |
+| 1.5–2.5% | 1.3% | 100% |  |
+| 2.5–3.5% | 17% | 98.7% |  |
+| 3.5–4.5% | 42% | 81% | Median |
+| 4.5–5.5% | 29% | 40% |  |
+| 5.5–6.5% | 9% | 11% |  |
 | 6.5–7.5% | 2% | 2% |  |
-| 7.5–8.5% | 0.4% | 0.4% |  |
-| 8.5–9.5% | 0% | 0.1% |  |
+| 7.5–8.5% | 0.3% | 0.3% |  |
+| 8.5–9.5% | 0% | 0% |  |
 | 9.5–10.5% | 0% | 0% |  |
 | 10.5–11.5% | 0% | 0% | Last Result |
 
@@ -91,6 +92,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [19–23 March 2021](2021-03-23-ПИК.html) | ПИК <br> Pik | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [16–23 March 2021](2021-03-23-Медиана.html) | Медиана | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–16 March 2021](2021-03-16-SovaHarris.html) | Sova Harris <br> Trud | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [9–14 March 2021](2021-03-14-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -151,8 +153,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 86% | 100% | Median |
-| 1 | 14% | 14% | Last Result |
+| 0 | 87% | 100% | Median |
+| 1 | 13% | 13% | Last Result |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
