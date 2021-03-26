@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/bulgarian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2021-03-25T16:44:37.443828+01:00</updated>
+  <updated>2021-03-26T17:19:55.607108+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Граждани за европейско развитие на България (EPP): 27.1–32.8%, 6–7 seats</li><li>Българска социалистическа партия (S&amp;D): 18.6–23.6%, 4–5 seats</li><li>ВМРО–Българско Национално Движение (ECR): 3.3–5.9%, 0–1 seats</li><li>Атака (NI): 0.6–2.0%, 0 seats</li><li>Алтернатива за българско възраждане (S&amp;D): 0.5–1.8%, 0 seats</li><li>Движение за права и свободи (RE): 9.4–13.3%, 2–3 seats</li><li>Демократична България (EPP): 4.5–7.4%, 0–1 seats</li><li>Има такъв народ (*): 9.7–13.6%, 2–3 seats</li><li>Изправи се Бг (*): 3.2–5.7%, 0–1 seats</li><li>Възраждане (*): 0.7–2.1%, 0 seats</li><li>Републиканци за България (*): 0.9–2.5%, 0 seats</li><li>Воля–Национален фронт за спасение на България (ID): 1.5–3.4%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-03-23-ПИК.html</id>
+    <link href="https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-03-23-ПИК.html"/>
+    <title>Opinion Poll by ПИК for Pik, 19–23 March 2021</title>
+    <updated>2021-03-26T17:19:55.607108+01:00</updated>
+    <dc:date>2021-03-26T17:19:55.607108+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Граждани за европейско развитие на България (EPP): 23.7–30.8%, 5–6 seats</li><li>Българска социалистическа партия (S&amp;D): 19.7–26.5%, 4–5 seats</li><li>ВМРО–Българско Национално Движение (ECR): 2.8–6.1%, 0–1 seats</li><li>Алтернатива за българско възраждане (S&amp;D): 0.9–3.0%, 0 seats</li><li>Движение за права и свободи (RE): 9.0–14.1%, 2–3 seats</li><li>Демократична България (EPP): 3.2–6.6%, 0–1 seats</li><li>Има такъв народ (*): 11.0–16.4%, 2–3 seats</li><li>Изправи се Бг (*): 4.9–8.9%, 0–2 seats</li><li>Възраждане (*): 0.8–2.8%, 0 seats</li><li>Воля–Национален фронт за спасение на България (ID): 2.7–5.9%, 0–1 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-03-23-Медиана.html</id>
@@ -415,5 +423,5 @@
     <updated>2020-12-05T14:18:33.918838+01:00</updated>
     <dc:date>2020-12-05T14:18:33.918838+01:00</dc:date>
   </entry>
-  <dc:date>2021-03-25T16:44:37.443828+01:00</dc:date>
+  <dc:date>2021-03-26T17:19:55.607108+01:00</dc:date>
 </feed>
