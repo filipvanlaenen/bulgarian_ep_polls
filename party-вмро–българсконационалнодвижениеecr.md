@@ -10,8 +10,8 @@ Last result: **10.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.2% | 3.0–5.6% | 2.7–6.1% | 2.5–6.5% | 2.1–7.4% |
-| [26–30 March 2021](2021-03-30-Тренд.html) | Тренд <br> Nova | 4.2% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 4.2% | 3.1–5.6% | 2.8–6.1% | 2.5–6.5% | 2.1–7.4% |
+| [26–30 March 2021](2021-03-30-Тренд.html) | Тренд <br> Nova | 4.2% | 3.3–5.7% | 3.0–6.1% | 2.8–6.5% | 2.4–7.2% |
 | [27–30 March 2021](2021-03-30-Алфарисърч.html) | Алфа рисърч | 4.1% | 3.2–5.4% | 2.9–5.8% | 2.7–6.2% | 2.3–6.9% |
 | [26–30 March 2021](2021-03-30-AFIS.html) | AFIS | 4.5% | 3.4–6.1% | 3.1–6.6% | 2.8–7.1% | 2.4–7.9% |
 | [25–28 March 2021](2021-03-28-Рего.html) | Рего | 3.1% | 2.4–4.1% | 2.2–4.3% | 2.1–4.6% | 1.8–5.1% |
@@ -71,8 +71,8 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 3% | 100% |  |
 | 2.5–3.5% | 21% | 97% |  |
-| 3.5–4.5% | 39% | 76% | Median |
-| 4.5–5.5% | 26% | 37% |  |
+| 3.5–4.5% | 39% | 77% | Median |
+| 4.5–5.5% | 27% | 38% |  |
 | 5.5–6.5% | 9% | 11% |  |
 | 6.5–7.5% | 2% | 2% |  |
 | 7.5–8.5% | 0.3% | 0.4% |  |
@@ -90,7 +90,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [26–30 March 2021](2021-03-30-Тренд.html) | Тренд <br> Nova |  |  |  |  |  |
+| [26–30 March 2021](2021-03-30-Тренд.html) | Тренд <br> Nova | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [27–30 March 2021](2021-03-30-Алфарисърч.html) | Алфа рисърч | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [26–30 March 2021](2021-03-30-AFIS.html) | AFIS | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [25–28 March 2021](2021-03-28-Рего.html) | Рего | 0 | 0 | 0 | 0 | 0–1 |
@@ -149,9 +149,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 82% | 100% | Median |
-| 1 | 18% | 18% | Last Result |
-| 2 | 0.2% | 0.2% |  |
+| 0 | 80% | 100% | Median |
+| 1 | 19% | 20% | Last Result |
+| 2 | 0.3% | 0.3% |  |
 | 3 | 0% | 0% |  |
 
 

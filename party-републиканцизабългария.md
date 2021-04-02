@@ -10,8 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 0.6–2.2% | 0.5–2.5% | 0.4–2.8% | 0.3–3.4% |
-| [26–30 March 2021](2021-03-30-Тренд.html) | Тренд <br> Nova | 1.1% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 1.3% | 0.6–2.1% | 0.5–2.4% | 0.4–2.7% | 0.3–3.3% |
+| [26–30 March 2021](2021-03-30-Тренд.html) | Тренд <br> Nova | 1.1% | 0.7–2.0% | 0.5–2.2% | 0.5–2.5% | 0.3–3.0% |
 | [27–30 March 2021](2021-03-30-Алфарисърч.html) | Алфа рисърч | 0.8% | 0.5–1.6% | 0.4–1.8% | 0.3–2.0% | 0.2–2.4% |
 | [26–30 March 2021](2021-03-30-AFIS.html) | AFIS | 0.0% | N/A | N/A | N/A | N/A |
 | [25–28 March 2021](2021-03-28-Рего.html) | Рего | 0.0% | N/A | N/A | N/A | N/A |
@@ -69,9 +69,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 8% | 100% | Last Result |
-| 0.5–1.5% | 58% | 92% | Median |
-| 1.5–2.5% | 29% | 33% |  |
-| 2.5–3.5% | 4% | 4% |  |
+| 0.5–1.5% | 61% | 92% | Median |
+| 1.5–2.5% | 28% | 32% |  |
+| 2.5–3.5% | 3% | 4% |  |
 | 3.5–4.5% | 0.3% | 0.3% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
@@ -85,7 +85,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [26–30 March 2021](2021-03-30-Тренд.html) | Тренд <br> Nova |  |  |  |  |  |
+| [26–30 March 2021](2021-03-30-Тренд.html) | Тренд <br> Nova | 0 | 0 | 0 | 0 | 0 |
 | [27–30 March 2021](2021-03-30-Алфарисърч.html) | Алфа рисърч | 0 | 0 | 0 | 0 | 0 |
 | [26–30 March 2021](2021-03-30-AFIS.html) | AFIS |  |  |  |  |  |
 | [25–28 March 2021](2021-03-28-Рего.html) | Рего |  |  |  |  |  |
