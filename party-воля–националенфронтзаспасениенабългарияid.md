@@ -10,7 +10,8 @@ Last result: **10.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.0% | 1.6–4.4% | 1.3–4.8% | 1.2–5.2% | 0.9–5.9% |
+| N/A | [Poll Average](average.html) | 2.9% | 1.6–4.4% | 1.3–4.8% | 1.1–5.2% | 0.9–5.9% |
+| [12–14 April 2021](2021-04-14-Gallup.html) | Gallup | 0.0% | N/A | N/A | N/A | N/A |
 | [24–31 March 2021](2021-03-31-Gallup.html) | Gallup <br> BNR | 3.0% | 2.1–4.4% | 1.9–4.8% | 1.7–5.1% | 1.4–5.9% |
 | [26–30 March 2021](2021-03-30-Тренд.html) | Тренд <br> Nova | 3.2% | 2.4–4.5% | 2.1–4.8% | 1.9–5.2% | 1.6–5.9% |
 | [27–30 March 2021](2021-03-30-ПИК.html) | ПИК | 2.5% | 1.7–4.0% | 1.4–4.4% | 1.3–4.8% | 1.0–5.6% |
@@ -72,9 +73,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 8% | 100% |  |
-| 1.5–2.5% | 27% | 92% |  |
-| 2.5–3.5% | 35% | 65% | Median |
+| 0.5–1.5% | 10% | 100% |  |
+| 1.5–2.5% | 27% | 90% |  |
+| 2.5–3.5% | 34% | 63% | Median |
 | 3.5–4.5% | 22% | 30% |  |
 | 4.5–5.5% | 7% | 8% |  |
 | 5.5–6.5% | 1.1% | 1.2% |  |
@@ -94,6 +95,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
+| [12–14 April 2021](2021-04-14-Gallup.html) | Gallup |  |  |  |  |  |
 | [24–31 March 2021](2021-03-31-Gallup.html) | Gallup <br> BNR | 0 | 0 | 0 | 0–1 | 0–1 |
 | [26–30 March 2021](2021-03-30-Тренд.html) | Тренд <br> Nova | 0 | 0 | 0 | 0 | 0–1 |
 | [27–30 March 2021](2021-03-30-ПИК.html) | ПИК | 0 | 0 | 0 | 0 | 0 |

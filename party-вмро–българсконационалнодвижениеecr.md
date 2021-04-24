@@ -10,7 +10,8 @@ Last result: **10.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.3% | 3.1–5.8% | 2.8–6.3% | 2.5–6.7% | 2.1–7.6% |
+| N/A | [Poll Average](average.html) | 4.3% | 3.0–5.8% | 2.7–6.2% | 2.5–6.7% | 2.1–7.6% |
+| [12–14 April 2021](2021-04-14-Gallup.html) | Gallup | 0.0% | N/A | N/A | N/A | N/A |
 | [24–31 March 2021](2021-03-31-Gallup.html) | Gallup <br> BNR | 4.4% | 3.4–6.1% | 3.1–6.5% | 2.8–6.9% | 2.4–7.8% |
 | [26–30 March 2021](2021-03-30-Тренд.html) | Тренд <br> Nova | 4.2% | 3.3–5.7% | 3.0–6.1% | 2.8–6.5% | 2.4–7.2% |
 | [27–30 March 2021](2021-03-30-ПИК.html) | ПИК | 4.3% | 3.2–6.1% | 2.9–6.6% | 2.6–7.1% | 2.1–8.1% |
@@ -74,11 +75,11 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 3% | 100% |  |
 | 2.5–3.5% | 21% | 97% |  |
-| 3.5–4.5% | 36% | 77% | Median |
-| 4.5–5.5% | 27% | 40% |  |
-| 5.5–6.5% | 11% | 14% |  |
-| 6.5–7.5% | 3% | 3% |  |
-| 7.5–8.5% | 0.5% | 0.6% |  |
+| 3.5–4.5% | 37% | 76% | Median |
+| 4.5–5.5% | 26% | 39% |  |
+| 5.5–6.5% | 10% | 13% |  |
+| 6.5–7.5% | 2% | 3% |  |
+| 7.5–8.5% | 0.5% | 0.5% |  |
 | 8.5–9.5% | 0.1% | 0.1% |  |
 | 9.5–10.5% | 0% | 0% |  |
 | 10.5–11.5% | 0% | 0% | Last Result |
@@ -92,7 +93,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [12–14 April 2021](2021-04-14-Gallup.html) | Gallup |  |  |  |  |  |
 | [24–31 March 2021](2021-03-31-Gallup.html) | Gallup <br> BNR | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [26–30 March 2021](2021-03-30-Тренд.html) | Тренд <br> Nova | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [27–30 March 2021](2021-03-30-ПИК.html) | ПИК | 0 | 0 | 0–1 | 0–1 | 0–2 |
@@ -155,9 +157,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 78% | 100% | Median |
-| 1 | 21% | 22% | Last Result |
-| 2 | 0.8% | 0.8% |  |
+| 0 | 81% | 100% | Median |
+| 1 | 19% | 19% | Last Result |
+| 2 | 0.4% | 0.4% |  |
 | 3 | 0% | 0% |  |
 
 
