@@ -129,10 +129,10 @@ Last result: **4** seats (General Election of 26 May 2019)
 | [27 October–3 November 2020](2020-11-03-SovaHarris.html) | Sova Harris | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [21–27 October 2020](2020-10-27-Рего.html) | Рего | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [3–10 October 2020](2020-10-10-Тренд.html) | Тренд <br> 24 часа | 2 | 2 | 2 | 2 | 1–2 |
-| [1–9 October 2020](2020-10-09-Gallup.html) | Gallup | 2 | 2 | 2 | 2 | 1–2 |
+| [1–9 October 2020](2020-10-09-Gallup.html) | Gallup | 2 | 2 | 2 | 2 | 1–3 |
 | [21–30 September 2020](2020-09-30-Алфарисърч.html) | Алфа рисърч | 2 | 2 | 2 | 2 | 1–3 |
 | [18–26 September 2020](2020-09-26-МаркетЛИНКС.html) | Маркет ЛИНКС | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| [3–11 September 2020](2020-09-11-Gallup.html) | Gallup | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [3–11 September 2020](2020-09-11-Gallup.html) | Gallup | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [29 August–5 September 2020](2020-09-05-Тренд.html) | Тренд <br> 24 часа | 2 | 2 | 2 | 2–3 | 1–3 |
 | [19–25 August 2020](2020-08-25-SovaHarris.html) | Sova Harris | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [3–10 August 2020](2020-08-10-Тренд.html) | Тренд <br> 24 часа | 2 | 2 | 2 | 2 | 1–3 |
