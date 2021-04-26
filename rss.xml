@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/bulgarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 25 Apr 2021 19:00:17 +0200</pubDate>
+    <pubDate>Sun, 25 Apr 2021 22:52:45 +0200</pubDate>
     <item>
       <title>Opinion Poll by Gallup, 12–14 April 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-04-14-Gallup.html#seats</link>
@@ -940,14 +940,34 @@
       <dc:date>2020-10-20T20:27:29.797815+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Gallup, 1–9 October 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-10-09-Gallup.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Обединени Патриоти (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Движение за права и свободи (RE): 2 seats&lt;/li&gt;&lt;li&gt;Воля (ID): 0 seats&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Има такъв народ (*): 2–3 seats&lt;/li&gt;&lt;li&gt;Изправи се Бг (*): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-10-09-Gallup-seats.png"
+        length="230061"
+        type="image/png"/>
+      <pubDate>Sun, 25 Apr 2021 22:52:45 +0200</pubDate>
+      <dc:date>2021-04-25T22:52:45.673481+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Gallup, 1–9 October 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-10-09-Gallup.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-10-09-Gallup-coalitions-seats.png"
+        length="191770"
+        type="image/png"/>
+      <pubDate>Sun, 25 Apr 2021 22:52:45 +0200</pubDate>
+      <dc:date>2021-04-25T22:52:45.673481+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Gallup, 1–9 October 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-10-09-Gallup.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 16.5–21.9%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 17.2–22.7%&lt;/li&gt;&lt;li&gt;Обединени Патриоти (ECR): 2.3–4.9%&lt;/li&gt;&lt;li&gt;Движение за права и свободи (RE): 8.2–12.4%&lt;/li&gt;&lt;li&gt;Воля (ID): 1.7–4.0%&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 5.7–9.4%&lt;/li&gt;&lt;li&gt;Има такъв народ (*): 10.5–15.1%&lt;/li&gt;&lt;li&gt;Изправи се Бг (*): 2.6–5.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-10-09-Gallup.png"
         length="306435"
         type="image/png"/>
-      <pubDate>Wed, 31 Mar 2021 11:59:45 +0200</pubDate>
-      <dc:date>2021-03-31T11:59:45.046132+02:00</dc:date>
+      <pubDate>Sun, 25 Apr 2021 22:52:45 +0200</pubDate>
+      <dc:date>2021-04-25T22:52:45.673481+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Алфа рисърч, 21–30 September 2020 – Seat Projections for the Parties</title>
@@ -980,14 +1000,54 @@
       <dc:date>2021-02-13T16:53:26.642259+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Маркет ЛИНКС, 18–26 September 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-09-26-МаркетЛИНКС.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Обединени Патриоти (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Движение за права и свободи (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Има такъв народ (*): 3–4 seats&lt;/li&gt;&lt;li&gt;Изправи се Бг (*): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-09-26-МаркетЛИНКС-seats.png"
+        length="225445"
+        type="image/png"/>
+      <pubDate>Sun, 25 Apr 2021 22:20:58 +0200</pubDate>
+      <dc:date>2021-04-25T22:20:58.751454+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Маркет ЛИНКС, 18–26 September 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-09-26-МаркетЛИНКС.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-09-26-МаркетЛИНКС-coalitions-seats.png"
+        length="188225"
+        type="image/png"/>
+      <pubDate>Sun, 25 Apr 2021 22:20:58 +0200</pubDate>
+      <dc:date>2021-04-25T22:20:58.751454+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Маркет ЛИНКС, 18–26 September 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-09-26-МаркетЛИНКС.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 22.1–27.3%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 23.0–28.2%&lt;/li&gt;&lt;li&gt;Обединени Патриоти (ECR): 2.0–4.0%&lt;/li&gt;&lt;li&gt;Движение за права и свободи (RE): 9.9–13.8%&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 8.4–12.0%&lt;/li&gt;&lt;li&gt;Има такъв народ (*): 14.9–19.4%&lt;/li&gt;&lt;li&gt;Изправи се Бг (*): 3.1–5.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-09-26-МаркетЛИНКС.png"
         length="290699"
         type="image/png"/>
-      <pubDate>Wed, 31 Mar 2021 12:05:29 +0200</pubDate>
-      <dc:date>2021-03-31T12:05:29.824427+02:00</dc:date>
+      <pubDate>Sun, 25 Apr 2021 22:20:58 +0200</pubDate>
+      <dc:date>2021-04-25T22:20:58.751454+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Gallup, 3–11 September 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-09-11-Gallup.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 3–5 seats&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 3–5 seats&lt;/li&gt;&lt;li&gt;Обединени Патриоти (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Движение за права и свободи (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Воля (ID): 0 seats&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Има такъв народ (*): 2–4 seats&lt;/li&gt;&lt;li&gt;Изправи се Бг (*): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-09-11-Gallup-seats.png"
+        length="270916"
+        type="image/png"/>
+      <pubDate>Sun, 25 Apr 2021 21:57:50 +0200</pubDate>
+      <dc:date>2021-04-25T21:57:50.841603+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Gallup, 3–11 September 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-09-11-Gallup.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-09-11-Gallup-coalitions-seats.png"
+        length="232033"
+        type="image/png"/>
+      <pubDate>Sun, 25 Apr 2021 21:57:50 +0200</pubDate>
+      <dc:date>2021-04-25T21:57:50.841603+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Gallup, 3–11 September 2020 – Voting Intentions</title>
@@ -996,8 +1056,8 @@
       <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-09-11-Gallup.png"
         length="321409"
         type="image/png"/>
-      <pubDate>Wed, 31 Mar 2021 12:11:02 +0200</pubDate>
-      <dc:date>2021-03-31T12:11:02.154024+02:00</dc:date>
+      <pubDate>Sun, 25 Apr 2021 21:57:50 +0200</pubDate>
+      <dc:date>2021-04-25T21:57:50.841603+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Тренд for 24 часа, 29 August–5 September 2020 – Seat Projections for the Parties</title>
@@ -1090,14 +1150,34 @@
       <dc:date>2020-08-22T08:59:54.288117+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Gallup, 30 July–7 August 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-08-07-Gallup.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 3–5 seats&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 3–5 seats&lt;/li&gt;&lt;li&gt;Обединени Патриоти (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Движение за права и свободи (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Има такъв народ (*): 2–3 seats&lt;/li&gt;&lt;li&gt;Изправи се Бг (*): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-08-07-Gallup-seats.png"
+        length="266682"
+        type="image/png"/>
+      <pubDate>Sun, 25 Apr 2021 22:09:21 +0200</pubDate>
+      <dc:date>2021-04-25T22:09:21.050011+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Gallup, 30 July–7 August 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-08-07-Gallup.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-08-07-Gallup-coalitions-seats.png"
+        length="227369"
+        type="image/png"/>
+      <pubDate>Sun, 25 Apr 2021 22:09:21 +0200</pubDate>
+      <dc:date>2021-04-25T22:09:21.050011+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Gallup, 30 July–7 August 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-08-07-Gallup.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 19.3–26.4%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 18.4–25.4%&lt;/li&gt;&lt;li&gt;Обединени Патриоти (ECR): 2.3–5.5%&lt;/li&gt;&lt;li&gt;Движение за права и свободи (RE): 8.2–13.4%&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 6.7–11.5%&lt;/li&gt;&lt;li&gt;Има такъв народ (*): 9.8–15.4%&lt;/li&gt;&lt;li&gt;Изправи се Бг (*): 2.4–5.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2020-08-07-Gallup.png"
         length="308401"
         type="image/png"/>
-      <pubDate>Wed, 31 Mar 2021 12:15:25 +0200</pubDate>
-      <dc:date>2021-03-31T12:15:25.693511+02:00</dc:date>
+      <pubDate>Sun, 25 Apr 2021 22:09:21 +0200</pubDate>
+      <dc:date>2021-04-25T22:09:21.050011+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ПИК, 1–5 August 2020 – Seat Projections for the Parties</title>
@@ -1549,6 +1629,6 @@
       <pubDate>Sat, 05 Dec 2020 14:18:33 +0100</pubDate>
       <dc:date>2020-12-05T14:18:33.918838+01:00</dc:date>
     </item>
-    <dc:date>2021-04-25T19:00:17.623568+02:00</dc:date>
+    <dc:date>2021-04-25T22:52:45.673481+02:00</dc:date>
   </channel>
 </rss>
