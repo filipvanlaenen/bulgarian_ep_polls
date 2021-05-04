@@ -11,6 +11,7 @@ Last result: **30.4%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 27.2% | 25.3–29.2% | 24.7–29.8% | 24.3–30.3% | 23.4–31.3% |
+| [16–23 April 2021](2021-04-23-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 23.1% | N/A | N/A | N/A | N/A |
 | [12–14 April 2021](2021-04-14-Gallup.html) | Gallup | 27.2% | 25.3–29.2% | 24.7–29.8% | 24.3–30.3% | 23.4–31.3% |
 | [24–31 March 2021](2021-03-31-Gallup.html) | Gallup <br> BNR | 28.1% | 25.4–31.1% | 24.6–32.0% | 24.0–32.7% | 22.7–34.2% |
 | [26–30 March 2021](2021-03-30-Тренд.html) | Тренд <br> Nova | 28.6% | 26.0–31.4% | 25.3–32.2% | 24.7–32.8% | 23.5–34.2% |
@@ -96,6 +97,7 @@ Last result: **6** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [16–23 April 2021](2021-04-23-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
 | [12–14 April 2021](2021-04-14-Gallup.html) | Gallup | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [24–31 March 2021](2021-03-31-Gallup.html) | Gallup <br> BNR | 6 | 5–6 | 5–6 | 4–7 | 4–7 |
 | [26–30 March 2021](2021-03-30-Тренд.html) | Тренд <br> Nova | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
