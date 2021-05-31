@@ -82,7 +82,7 @@ Only polls for which at least the sample size has been published are included in
 + **АБВ:** Алтернатива за българско възраждане (S&D)
 + **ИТН:** Има такъв народ (*)
 + **В:** Възраждане (*)
-+ **ИС.Б:** Изправи се Бг (*)
++ **ИС.Б:** Изправи се Бг (EPP)
 + **РзБ:** Републиканци за България (*)
 + **Воля–НФСБ:** Воля–Национален фронт за спасение на България (ID)
 + **N/A (single party):** Party not included the published results
