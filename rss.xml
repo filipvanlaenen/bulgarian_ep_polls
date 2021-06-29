@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/bulgarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 29 Jun 2021 09:18:20 +0200</pubDate>
+    <pubDate>Tue, 29 Jun 2021 15:53:57 +0200</pubDate>
     <item>
       <title>Opinion Poll by Тренд for 24 часа, 11–18 June 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-06-18-Тренд.html</link>
@@ -30,14 +30,74 @@
       <dc:date>2021-06-29T09:11:42.592978+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Sova Harris for Dir.bg, 10–15 June 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-06-15-SovaHarris.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 3–5 seats&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Движение за права и свободи (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 1–3 seats&lt;/li&gt;&lt;li&gt;Има такъв народ (*): 3–5 seats&lt;/li&gt;&lt;li&gt;Изправи се Бг (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Българските патриоти (ECR): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-06-15-SovaHarris-seats.png"
+        length="287304"
+        type="image/png"/>
+      <pubDate>Tue, 29 Jun 2021 15:53:57 +0200</pubDate>
+      <dc:date>2021-06-29T15:53:57.991549+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sova Harris for Dir.bg, 10–15 June 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-06-15-SovaHarris.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-06-15-SovaHarris-coalitions-seats.png"
+        length="204491"
+        type="image/png"/>
+      <pubDate>Tue, 29 Jun 2021 15:53:57 +0200</pubDate>
+      <dc:date>2021-06-29T15:53:57.991549+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Sova Harris for Dir.bg, 10–15 June 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-06-15-SovaHarris.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 18.8–26.2%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 15.6–22.5%&lt;/li&gt;&lt;li&gt;Движение за права и свободи (RE): 8.8–14.5%&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 8.7–14.3%&lt;/li&gt;&lt;li&gt;Има такъв народ (*): 18.2–25.6%&lt;/li&gt;&lt;li&gt;Изправи се Бг (EPP): 3.7–7.8%&lt;/li&gt;&lt;li&gt;Българските патриоти (ECR): 3.4–7.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-06-15-SovaHarris.png"
         length="322828"
         type="image/png"/>
-      <pubDate>Tue, 29 Jun 2021 09:18:20 +0200</pubDate>
-      <dc:date>2021-06-29T09:18:20.935971+02:00</dc:date>
+      <pubDate>Tue, 29 Jun 2021 15:53:57 +0200</pubDate>
+      <dc:date>2021-06-29T15:53:57.991549+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Gallup for BNR, 3–11 June 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-06-11-Gallup.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 18.0–24.5%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 13.2–19.1%&lt;/li&gt;&lt;li&gt;Движение за права и свободи (RE): 9.5–14.8%&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 9.7–14.9%&lt;/li&gt;&lt;li&gt;Има такъв народ (*): 18.1–24.7%&lt;/li&gt;&lt;li&gt;Изправи се Бг (EPP): 4.2–8.0%&lt;/li&gt;&lt;li&gt;Възраждане (*): 1.7–4.4%&lt;/li&gt;&lt;li&gt;Българските патриоти (ECR): 2.3–5.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-06-11-Gallup.png"
+        length="329468"
+        type="image/png"/>
+      <pubDate>Tue, 29 Jun 2021 10:59:44 +0200</pubDate>
+      <dc:date>2021-06-29T10:59:44.057432+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Алфа рисърч, 30 May–7 June 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-06-07-Алфарисърч.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 17.1–24.0%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 11.6–17.6%&lt;/li&gt;&lt;li&gt;Движение за права и свободи (RE): 7.6–12.7%&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 9.5–15.0%&lt;/li&gt;&lt;li&gt;Има такъв народ (*): 15.2–21.8%&lt;/li&gt;&lt;li&gt;Изправи се Бг (EPP): 3.6–7.5%&lt;/li&gt;&lt;li&gt;Възраждане (*): 1.7–4.6%&lt;/li&gt;&lt;li&gt;Българските патриоти (ECR): 2.1–5.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-06-07-Алфарисърч.png"
+        length="330297"
+        type="image/png"/>
+      <pubDate>Tue, 29 Jun 2021 11:55:29 +0200</pubDate>
+      <dc:date>2021-06-29T11:55:29.572413+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Market Links for bTV, 19–27 May 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-05-27-MarketLinks.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 20.6–27.0%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 16.5–22.5%&lt;/li&gt;&lt;li&gt;ВМРО–Българско Национално Движение (ECR): 2.2–4.9%&lt;/li&gt;&lt;li&gt;Движение за права и свободи (RE): 8.5–13.1%&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 10.9–16.0%&lt;/li&gt;&lt;li&gt;Има такъв народ (*): 16.9–23.0%&lt;/li&gt;&lt;li&gt;Изправи се Бг (EPP): 3.4–6.7%&lt;/li&gt;&lt;li&gt;Възраждане (*): 1.1–3.3%&lt;/li&gt;&lt;li&gt;Воля–Национален фронт за спасение на България (ID): 0.7–2.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-05-27-MarketLinks.png"
+        length="346556"
+        type="image/png"/>
+      <pubDate>Tue, 29 Jun 2021 13:09:45 +0200</pubDate>
+      <dc:date>2021-06-29T13:09:45.317148+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Gallup, 7–14 May 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-05-14-Gallup.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 19.2–26.8%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 13.1–19.8%&lt;/li&gt;&lt;li&gt;ВМРО–Българско Национално Движение (ECR): 2.0–5.2%&lt;/li&gt;&lt;li&gt;Движение за права и свободи (RE): 8.7–14.5%&lt;/li&gt;&lt;li&gt;Воля (ID): 0.7–3.0%&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 9.1–14.9%&lt;/li&gt;&lt;li&gt;Има такъв народ (*): 16.6–23.9%&lt;/li&gt;&lt;li&gt;Изправи се Бг (EPP): 3.8–8.0%&lt;/li&gt;&lt;li&gt;Възраждане (*): 1.5–4.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-05-14-Gallup.png"
+        length="358345"
+        type="image/png"/>
+      <pubDate>Tue, 29 Jun 2021 14:08:47 +0200</pubDate>
+      <dc:date>2021-06-29T14:08:47.492408+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Маркет ЛИНКС for bTV, 16–23 April 2021 – Seat Projections for the Parties</title>
@@ -1659,6 +1719,6 @@
       <pubDate>Sat, 05 Dec 2020 14:18:33 +0100</pubDate>
       <dc:date>2020-12-05T14:18:33.918838+01:00</dc:date>
     </item>
-    <dc:date>2021-06-29T09:18:20.935971+02:00</dc:date>
+    <dc:date>2021-06-29T15:53:57.991549+02:00</dc:date>
   </channel>
 </rss>
