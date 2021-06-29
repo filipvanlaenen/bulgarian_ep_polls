@@ -10,14 +10,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.9% | 1.2–3.1% | 1.1–3.4% | 1.0–3.7% | 0.8–4.4% |
+| N/A | [Poll Average](average.html) | 2.2% | 1.3–3.4% | 1.2–3.8% | 1.0–4.1% | 0.8–4.7% |
 | [11–18 June 2021](2021-06-18-Тренд.html) | Тренд <br> 24 часа | 2.3% | 1.6–3.4% | 1.4–3.7% | 1.3–4.1% | 1.0–4.7% |
 | [10–15 June 2021](2021-06-15-Медиана.html) | Медиана | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
 | [10–15 June 2021](2021-06-15-SovaHarris.html) | Sova Harris <br> Dir.bg | 0.0% | N/A | N/A | N/A | N/A |
-| [3–11 June 2021](2021-06-11-Gallup.html) | Gallup <br> BNR | 2.7% | N/A | N/A | N/A | N/A |
-| [30 May–7 June 2021](2021-06-07-Алфарисърч.html) | Алфа рисърч | 2.8% | N/A | N/A | N/A | N/A |
-| [19–27 May 2021](2021-05-27-MarketLinks.html) | Market Links <br> bTV | 1.9% | N/A | N/A | N/A | N/A |
-| [7–14 May 2021](2021-05-14-Gallup.html) | Gallup | 2.6% | N/A | N/A | N/A | N/A |
+| [3–11 June 2021](2021-06-11-Gallup.html) | Gallup <br> BNR | 2.7% | 2.0–3.8% | 1.8–4.1% | 1.7–4.4% | 1.4–5.0% |
+| [30 May–7 June 2021](2021-06-07-Алфарисърч.html) | Алфа рисърч | 2.8% | 2.1–3.9% | 1.9–4.3% | 1.7–4.6% | 1.4–5.2% |
+| [19–27 May 2021](2021-05-27-MarketLinks.html) | Market Links <br> bTV | 1.9% | 1.4–2.8% | 1.2–3.1% | 1.1–3.3% | 0.9–3.8% |
+| [7–14 May 2021](2021-05-14-Gallup.html) | Gallup | 2.6% | 1.8–3.8% | 1.6–4.1% | 1.5–4.4% | 1.2–5.1% |
 | [16–23 April 2021](2021-04-23-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 1.9% | 1.4–2.8% | 1.2–3.1% | 1.1–3.3% | 0.9–3.8% |
 | [24–31 March 2021](2021-03-31-Gallup.html) | Gallup <br> BNR | 1.5% | 1.0–2.6% | 0.8–2.9% | 0.7–3.2% | 0.5–3.8% |
 | [26–30 March 2021](2021-03-30-Тренд.html) | Тренд <br> Nova | 1.7% | 1.1–2.7% | 1.0–3.0% | 0.9–3.3% | 0.7–3.9% |
@@ -80,11 +80,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 29% | 100% |  |
-| 1.5–2.5% | 49% | 71% | Median |
-| 2.5–3.5% | 18% | 22% |  |
-| 3.5–4.5% | 4% | 4% |  |
-| 4.5–5.5% | 0.3% | 0.3% |  |
+| 0.5–1.5% | 20% | 100% |  |
+| 1.5–2.5% | 43% | 80% | Median |
+| 2.5–3.5% | 29% | 37% |  |
+| 3.5–4.5% | 7% | 8% |  |
+| 4.5–5.5% | 0.7% | 0.7% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -100,10 +100,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [11–18 June 2021](2021-06-18-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0 | 0 | 0 |
 | [10–15 June 2021](2021-06-15-Медиана.html) | Медиана | 0 | 0 | 0 | 0 | 0 |
 | [10–15 June 2021](2021-06-15-SovaHarris.html) | Sova Harris <br> Dir.bg |  |  |  |  |  |
-| [3–11 June 2021](2021-06-11-Gallup.html) | Gallup <br> BNR |  |  |  |  |  |
-| [30 May–7 June 2021](2021-06-07-Алфарисърч.html) | Алфа рисърч |  |  |  |  |  |
-| [19–27 May 2021](2021-05-27-MarketLinks.html) | Market Links <br> bTV |  |  |  |  |  |
-| [7–14 May 2021](2021-05-14-Gallup.html) | Gallup |  |  |  |  |  |
+| [3–11 June 2021](2021-06-11-Gallup.html) | Gallup <br> BNR | 0 | 0 | 0 | 0 | 0–1 |
+| [30 May–7 June 2021](2021-06-07-Алфарисърч.html) | Алфа рисърч | 0 | 0 | 0 | 0 | 0–1 |
+| [19–27 May 2021](2021-05-27-MarketLinks.html) | Market Links <br> bTV | 0 | 0 | 0 | 0 | 0 |
+| [7–14 May 2021](2021-05-14-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
 | [16–23 April 2021](2021-04-23-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0 | 0 | 0 | 0 | 0 |
 | [24–31 March 2021](2021-03-31-Gallup.html) | Gallup <br> BNR | 0 | 0 | 0 | 0 | 0 |
 | [26–30 March 2021](2021-03-30-Тренд.html) | Тренд <br> Nova | 0 | 0 | 0 | 0 | 0 |
@@ -167,8 +167,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.9% | 100% | Last Result, Median |
-| 1 | 0.1% | 0.1% |  |
+| 0 | 99.8% | 100% | Last Result, Median |
+| 1 | 0.2% | 0.2% |  |
 | 2 | 0% | 0% |  |
 
 
