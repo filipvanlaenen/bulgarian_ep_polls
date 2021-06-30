@@ -10,7 +10,7 @@ Last result: **10.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.5% | 3.2–5.9% | 2.9–6.3% | 2.6–6.7% | 2.2–7.5% |
+| N/A | [Poll Average](average.html) | 4.3% | 3.0–5.8% | 2.7–6.2% | 2.4–6.6% | 2.0–7.4% |
 | [11–18 June 2021](2021-06-18-Тренд.html) | Тренд <br> 24 часа | 4.0% | 3.0–5.3% | 2.8–5.7% | 2.5–6.1% | 2.2–6.8% |
 | [10–15 June 2021](2021-06-15-Медиана.html) | Медиана | 5.1% | 4.3–6.1% | 4.1–6.3% | 3.9–6.6% | 3.5–7.1% |
 | [10–15 June 2021](2021-06-15-SovaHarris.html) | Sova Harris <br> Dir.bg | 5.0% | 3.9–6.5% | 3.6–6.9% | 3.4–7.3% | 2.9–8.1% |
@@ -80,13 +80,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 17% | 98% |  |
-| 3.5–4.5% | 32% | 81% |  |
-| 4.5–5.5% | 32% | 49% | Median |
-| 5.5–6.5% | 14% | 17% |  |
-| 6.5–7.5% | 3% | 3% |  |
-| 7.5–8.5% | 0.4% | 0.4% |  |
+| 1.5–2.5% | 3% | 100% |  |
+| 2.5–3.5% | 22% | 97% |  |
+| 3.5–4.5% | 33% | 74% | Median |
+| 4.5–5.5% | 27% | 41% |  |
+| 5.5–6.5% | 11% | 14% |  |
+| 6.5–7.5% | 2% | 3% |  |
+| 7.5–8.5% | 0.3% | 0.3% |  |
 | 8.5–9.5% | 0% | 0% |  |
 | 9.5–10.5% | 0% | 0% |  |
 | 10.5–11.5% | 0% | 0% | Last Result |
@@ -171,8 +171,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 69% | 100% | Median |
-| 1 | 30% | 31% | Last Result |
+| 0 | 75% | 100% | Median |
+| 1 | 25% | 25% | Last Result |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
