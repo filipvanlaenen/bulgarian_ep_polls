@@ -113,8 +113,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [10–15 June 2021](2021-06-15-Медиана.html) | Медиана | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [10–15 June 2021](2021-06-15-SovaHarris.html) | Sova Harris <br> Dir.bg | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | [3–11 June 2021](2021-06-11-Gallup.html) | Gallup <br> BNR | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [30 May–7 June 2021](2021-06-07-Алфарисърч.html) | Алфа рисърч | 2 | 2 | 2–3 | 2–3 | 1–3 |
-| [19–27 May 2021](2021-05-27-MarketLinks.html) | Market Links <br> bTV | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [30 May–7 June 2021](2021-06-07-Алфарисърч.html) | Алфа рисърч | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [19–27 May 2021](2021-05-27-MarketLinks.html) | Market Links <br> bTV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [7–14 May 2021](2021-05-14-Gallup.html) | Gallup | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [16–23 April 2021](2021-04-23-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [24–31 March 2021](2021-03-31-Gallup.html) | Gallup <br> BNR | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -180,9 +180,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 21% | 100% |  |
-| 2 | 69% | 79% | Median |
-| 3 | 10% | 10% |  |
+| 1 | 22% | 100% |  |
+| 2 | 72% | 78% | Median |
+| 3 | 6% | 6% |  |
 | 4 | 0% | 0% |  |
 
 

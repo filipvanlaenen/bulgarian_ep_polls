@@ -123,7 +123,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [11–18 June 2021](2021-06-18-Тренд.html) | Тренд <br> 24 часа | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [10–15 June 2021](2021-06-15-Медиана.html) | Медиана | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [10–15 June 2021](2021-06-15-SovaHarris.html) | Sova Harris <br> Dir.bg | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
-| [3–11 June 2021](2021-06-11-Gallup.html) | Gallup <br> BNR | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| [3–11 June 2021](2021-06-11-Gallup.html) | Gallup <br> BNR | 4 | 4 | 3–5 | 3–5 | 3–5 |
 | [30 May–7 June 2021](2021-06-07-Алфарисърч.html) | Алфа рисърч | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [19–27 May 2021](2021-05-27-MarketLinks.html) | Market Links <br> bTV | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [7–14 May 2021](2021-05-14-Gallup.html) | Gallup | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
@@ -193,9 +193,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 16% | 100% |  |
-| 4 | 71% | 84% | Median |
-| 5 | 13% | 13% |  |
+| 3 | 13% | 100% |  |
+| 4 | 76% | 87% | Median |
+| 5 | 12% | 12% |  |
 | 6 | 0% | 0% |  |
 
 

@@ -105,14 +105,14 @@ Last result: **6** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| N/A | [Poll Average](average.html) | 4 | 4 | 3–5 | 3–5 | 3–5 |
 | [11–18 June 2021](2021-06-18-Тренд.html) | Тренд <br> 24 часа | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [10–15 June 2021](2021-06-15-Медиана.html) | Медиана | 4 | 4 | 3–4 | 3–4 | 3–5 |
 | [10–15 June 2021](2021-06-15-SovaHarris.html) | Sova Harris <br> Dir.bg | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [3–11 June 2021](2021-06-11-Gallup.html) | Gallup <br> BNR | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
-| [30 May–7 June 2021](2021-06-07-Алфарисърч.html) | Алфа рисърч | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
-| [19–27 May 2021](2021-05-27-MarketLinks.html) | Market Links <br> bTV | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [7–14 May 2021](2021-05-14-Gallup.html) | Gallup | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
+| [30 May–7 June 2021](2021-06-07-Алфарисърч.html) | Алфа рисърч | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [19–27 May 2021](2021-05-27-MarketLinks.html) | Market Links <br> bTV | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [7–14 May 2021](2021-05-14-Gallup.html) | Gallup | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [16–23 April 2021](2021-04-23-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [24–31 March 2021](2021-03-31-Gallup.html) | Gallup <br> BNR | 6 | 5–6 | 5–6 | 4–7 | 4–7 |
 | [26–30 March 2021](2021-03-30-Тренд.html) | Тренд <br> Nova | 6 | 5–6 | 5–7 | 5–7 | 4–7 |

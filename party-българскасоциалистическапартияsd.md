@@ -106,10 +106,10 @@ Last result: **4** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
-| [11–18 June 2021](2021-06-18-Тренд.html) | Тренд <br> 24 часа | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| [11–18 June 2021](2021-06-18-Тренд.html) | Тренд <br> 24 часа | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [10–15 June 2021](2021-06-15-Медиана.html) | Медиана | 4 | 4 | 3–4 | 3–4 | 3–5 |
 | [10–15 June 2021](2021-06-15-SovaHarris.html) | Sova Harris <br> Dir.bg | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
-| [3–11 June 2021](2021-06-11-Gallup.html) | Gallup <br> BNR | 3 | 3 | 3 | 2–4 | 2–4 |
+| [3–11 June 2021](2021-06-11-Gallup.html) | Gallup <br> BNR | 3 | 3 | 2–4 | 2–4 | 2–4 |
 | [30 May–7 June 2021](2021-06-07-Алфарисърч.html) | Алфа рисърч | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [19–27 May 2021](2021-05-27-MarketLinks.html) | Market Links <br> bTV | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [7–14 May 2021](2021-05-14-Gallup.html) | Gallup | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
@@ -178,8 +178,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 4% | 100% |  |
 | 3 | 60% | 96% | Median |
-| 4 | 34% | 35% | Last Result |
-| 5 | 0.8% | 0.8% |  |
+| 4 | 35% | 36% | Last Result |
+| 5 | 0.6% | 0.6% |  |
 | 6 | 0% | 0% |  |
 
 
