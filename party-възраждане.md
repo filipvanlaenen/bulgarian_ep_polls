@@ -10,8 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.7% | 1.9–3.8% | 1.7–4.1% | 1.5–4.4% | 1.2–5.0% |
+| N/A | [Poll Average](average.html) | 2.8% | 1.9–4.0% | 1.7–4.4% | 1.5–4.7% | 1.2–5.4% |
+| [4–7 July 2021](2021-07-07-Алфарисърч.html) | Алфа рисърч | 3.2% | 2.3–4.4% | 2.1–4.8% | 1.9–5.1% | 1.6–5.8% |
+| [30 June–7 July 2021](2021-07-07-Gallup.html) | Gallup <br> BNR | 3.2% | 2.4–4.4% | 2.1–4.8% | 2.0–5.1% | 1.6–5.8% |
+| [2–6 July 2021](2021-07-06-SovaHarris.html) | Sova Harris <br> Dir.bg | 0.0% | N/A | N/A | N/A | N/A |
+| [1–5 July 2021](2021-07-05-Exacta.html) | Exacta | 2.7% | 2.0–3.9% | 1.8–4.3% | 1.6–4.6% | 1.3–5.2% |
 | [26 June–2 July 2021](2021-07-02-Медиана.html) | Медиана | 2.2% | 1.7–2.9% | 1.5–3.1% | 1.4–3.3% | 1.2–3.7% |
+| [23–30 June 2021](2021-06-30-Nasoca.html) | Nasoca | 2.3% | 1.6–3.4% | 1.5–3.7% | 1.3–4.0% | 1.1–4.5% |
 | [18–25 June 2021](2021-06-25-MarketLinks.html) | Market Links <br> bTV | 3.0% | 2.3–4.1% | 2.1–4.4% | 2.0–4.7% | 1.7–5.3% |
 | [11–18 June 2021](2021-06-18-Тренд.html) | Тренд <br> 24 часа | 2.3% | 1.6–3.4% | 1.4–3.7% | 1.3–4.1% | 1.0–4.7% |
 | [10–15 June 2021](2021-06-15-Медиана.html) | Медиана | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
@@ -83,11 +88,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 3% | 100% |  |
-| 1.5–2.5% | 39% | 97% |  |
-| 2.5–3.5% | 43% | 58% | Median |
-| 3.5–4.5% | 13% | 15% |  |
-| 4.5–5.5% | 2% | 2% |  |
-| 5.5–6.5% | 0.1% | 0.1% |  |
+| 1.5–2.5% | 35% | 97% |  |
+| 2.5–3.5% | 42% | 61% | Median |
+| 3.5–4.5% | 16% | 20% |  |
+| 4.5–5.5% | 3% | 3% |  |
+| 5.5–6.5% | 0.3% | 0.3% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -100,7 +105,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| [4–7 July 2021](2021-07-07-Алфарисърч.html) | Алфа рисърч | 0 | 0 | 0 | 0–1 | 0–1 |
+| [30 June–7 July 2021](2021-07-07-Gallup.html) | Gallup <br> BNR | 0 | 0 | 0 | 0–1 | 0–1 |
+| [2–6 July 2021](2021-07-06-SovaHarris.html) | Sova Harris <br> Dir.bg |  |  |  |  |  |
+| [1–5 July 2021](2021-07-05-Exacta.html) | Exacta | 0 | 0 | 0 | 0 | 0–1 |
 | [26 June–2 July 2021](2021-07-02-Медиана.html) | Медиана | 0 | 0 | 0 | 0 | 0 |
+| [23–30 June 2021](2021-06-30-Nasoca.html) | Nasoca | 0 | 0 | 0 | 0 | 0 |
 | [18–25 June 2021](2021-06-25-MarketLinks.html) | Market Links <br> bTV | 0 | 0 | 0 | 0 | 0–1 |
 | [11–18 June 2021](2021-06-18-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0 | 0 | 0 |
 | [10–15 June 2021](2021-06-15-Медиана.html) | Медиана | 0 | 0 | 0 | 0 | 0 |
@@ -172,8 +182,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.5% | 100% | Last Result, Median |
-| 1 | 0.5% | 0.5% |  |
+| 0 | 99.0% | 100% | Last Result, Median |
+| 1 | 1.0% | 1.0% |  |
 | 2 | 0% | 0% |  |
 
 
