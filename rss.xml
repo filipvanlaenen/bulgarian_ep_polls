@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/bulgarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 08 Jul 2021 18:19:38 +0200</pubDate>
+    <pubDate>Fri, 09 Jul 2021 10:41:19 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Тренд for Nova, 3–7 July 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-07-07-Тренд.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 3–5 seats&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 2–4 seats&lt;/li&gt;&lt;li&gt;Движение за права и свободи (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Има такъв народ (*): 3–5 seats&lt;/li&gt;&lt;li&gt;Изправи се Бг (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Възраждане (*): 0 seats&lt;/li&gt;&lt;li&gt;Българските патриоти (ECR): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-07-07-Тренд-seats.png"
+        length="277298"
+        type="image/png"/>
+      <pubDate>Fri, 09 Jul 2021 10:41:19 +0200</pubDate>
+      <dc:date>2021-07-09T10:41:19.387191+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Тренд for Nova, 3–7 July 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-07-07-Тренд.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-07-07-Тренд-coalitions-seats.png"
+        length="209553"
+        type="image/png"/>
+      <pubDate>Fri, 09 Jul 2021 10:41:19 +0200</pubDate>
+      <dc:date>2021-07-09T10:41:19.387191+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Тренд for Nova, 3–7 July 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-07-07-Тренд.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 17.3–24.3%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 12.9–19.3%&lt;/li&gt;&lt;li&gt;Движение за права и свободи (RE): 8.9–14.4%&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 9.8–15.5%&lt;/li&gt;&lt;li&gt;Има такъв народ (*): 18.0–25.1%&lt;/li&gt;&lt;li&gt;Изправи се Бг (EPP): 3.5–7.4%&lt;/li&gt;&lt;li&gt;Възраждане (*): 1.9–5.0%&lt;/li&gt;&lt;li&gt;Българските патриоти (ECR): 2.5–6.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-07-07-Тренд.png"
+        length="335310"
+        type="image/png"/>
+      <pubDate>Fri, 09 Jul 2021 10:41:19 +0200</pubDate>
+      <dc:date>2021-07-09T10:41:19.387191+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Алфа рисърч, 4–7 July 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2021-07-07-Алфарисърч.html#seats</link>
@@ -2049,6 +2079,6 @@
       <pubDate>Sat, 05 Dec 2020 14:18:33 +0100</pubDate>
       <dc:date>2020-12-05T14:18:33.918838+01:00</dc:date>
     </item>
-    <dc:date>2021-07-08T18:19:38.877742+02:00</dc:date>
+    <dc:date>2021-07-09T10:41:19.387191+02:00</dc:date>
   </channel>
 </rss>
