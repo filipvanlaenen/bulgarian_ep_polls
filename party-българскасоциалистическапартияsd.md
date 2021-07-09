@@ -10,7 +10,8 @@ Last result: **18.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.6% | 14.3–20.1% | 13.7–21.1% | 13.2–21.9% | 12.3–23.1% |
+| N/A | [Poll Average](average.html) | 16.5% | 14.3–20.0% | 13.7–21.1% | 13.2–21.9% | 12.3–23.1% |
+| [3–7 July 2021](2021-07-07-Тренд.html) | Тренд <br> Nova | 15.9% | 13.9–18.1% | 13.4–18.7% | 12.9–19.3% | 12.1–20.4% |
 | [4–7 July 2021](2021-07-07-Алфарисърч.html) | Алфа рисърч | 16.4% | 14.4–18.7% | 13.8–19.4% | 13.3–20.0% | 12.4–21.2% |
 | [30 June–7 July 2021](2021-07-07-Gallup.html) | Gallup <br> BNR | 15.8% | 13.9–18.1% | 13.4–18.7% | 12.9–19.3% | 12.0–20.4% |
 | [2–6 July 2021](2021-07-06-SovaHarris.html) | Sova Harris <br> Dir.bg | 15.9% | 14.0–18.2% | 13.4–18.9% | 13.0–19.4% | 12.1–20.5% |
@@ -88,10 +89,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0.1% | 100% |  |
-| 11.5–12.5% | 0.7% | 99.9% |  |
-| 12.5–13.5% | 3% | 99.2% |  |
+| 11.5–12.5% | 0.8% | 99.9% |  |
+| 12.5–13.5% | 3% | 99.1% |  |
 | 13.5–14.5% | 9% | 96% |  |
-| 14.5–15.5% | 16% | 87% |  |
+| 14.5–15.5% | 16% | 86% |  |
 | 15.5–16.5% | 20% | 70% |  |
 | 16.5–17.5% | 18% | 50% | Median |
 | 17.5–18.5% | 12% | 32% |  |
@@ -113,6 +114,7 @@ Last result: **4** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
+| [3–7 July 2021](2021-07-07-Тренд.html) | Тренд <br> Nova | 3 | 3 | 2–4 | 2–4 | 2–4 |
 | [4–7 July 2021](2021-07-07-Алфарисърч.html) | Алфа рисърч | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | [30 June–7 July 2021](2021-07-07-Gallup.html) | Gallup <br> BNR | 3 | 3 | 2–4 | 2–4 | 2–4 |
 | [2–6 July 2021](2021-07-06-SovaHarris.html) | Sova Harris <br> Dir.bg | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -190,8 +192,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 8% | 100% |  |
-| 3 | 75% | 92% | Median |
+| 2 | 7% | 100% |  |
+| 3 | 75% | 93% | Median |
 | 4 | 17% | 17% | Last Result |
 | 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |

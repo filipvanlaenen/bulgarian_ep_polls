@@ -11,6 +11,7 @@ Last result: **10.7%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4.2% | 3.0–5.5% | 2.7–5.9% | 2.5–6.2% | 2.1–6.9% |
+| [3–7 July 2021](2021-07-07-Тренд.html) | Тренд <br> Nova | 3.9% | 3.0–5.3% | 2.8–5.6% | 2.5–6.0% | 2.2–6.7% |
 | [4–7 July 2021](2021-07-07-Алфарисърч.html) | Алфа рисърч | 3.8% | 2.9–5.2% | 2.6–5.5% | 2.4–5.9% | 2.0–6.6% |
 | [30 June–7 July 2021](2021-07-07-Gallup.html) | Gallup <br> BNR | 4.0% | 3.0–5.3% | 2.8–5.7% | 2.6–6.1% | 2.2–6.8% |
 | [2–6 July 2021](2021-07-06-SovaHarris.html) | Sova Harris <br> Dir.bg | 4.4% | 3.4–5.9% | 3.2–6.3% | 2.9–6.6% | 2.5–7.4% |
@@ -90,7 +91,7 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 3% | 100% |  |
 | 2.5–3.5% | 23% | 97% |  |
 | 3.5–4.5% | 39% | 74% | Median |
-| 4.5–5.5% | 26% | 36% |  |
+| 4.5–5.5% | 26% | 35% |  |
 | 5.5–6.5% | 8% | 9% |  |
 | 6.5–7.5% | 1.1% | 1.2% |  |
 | 7.5–8.5% | 0.1% | 0.1% |  |
@@ -108,6 +109,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [3–7 July 2021](2021-07-07-Тренд.html) | Тренд <br> Nova | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [4–7 July 2021](2021-07-07-Алфарисърч.html) | Алфа рисърч | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [30 June–7 July 2021](2021-07-07-Gallup.html) | Gallup <br> BNR | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [2–6 July 2021](2021-07-06-SovaHarris.html) | Sova Harris <br> Dir.bg | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -186,7 +188,7 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 80% | 100% | Median |
-| 1 | 20% | 20% | Last Result |
+| 1 | 19% | 20% | Last Result |
 | 2 | 0% | 0% |  |
 
 
