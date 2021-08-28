@@ -10,7 +10,7 @@ Last result: **30.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.4% | 19.2–23.7% | 18.6–24.3% | 18.1–24.9% | 17.1–26.1% |
+| N/A | [Poll Average](average.html) | 22.0% | 19.8–24.0% | 19.2–24.5% | 18.6–25.0% | 17.5–26.0% |
 | [13–22 August 2021](2021-08-22-MarketLinks.html) | Market Links <br> bTV | 21.3% | 19.2–23.7% | 18.6–24.4% | 18.1–24.9% | 17.1–26.1% |
 | [23–30 July 2021](2021-07-30-Тренд.html) | Тренд <br> 24 часа | 22.4% | 20.7–24.1% | 20.3–24.6% | 19.9–25.1% | 19.1–25.9% |
 | [21–28 July 2021](2021-07-28-MarketLinks.html) | Market Links <br> bTV | 19.7% | 17.6–22.1% | 17.0–22.8% | 16.5–23.4% | 15.5–24.6% |
@@ -92,15 +92,15 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0.1% | 100% |  |
-| 16.5–17.5% | 0.9% | 99.8% |  |
-| 17.5–18.5% | 4% | 98.9% |  |
-| 18.5–19.5% | 10% | 95% |  |
-| 19.5–20.5% | 17% | 86% |  |
-| 20.5–21.5% | 22% | 69% | Median |
-| 21.5–22.5% | 21% | 46% |  |
-| 22.5–23.5% | 14% | 25% |  |
-| 23.5–24.5% | 7% | 11% |  |
-| 24.5–25.5% | 3% | 4% |  |
+| 16.5–17.5% | 0.4% | 99.9% |  |
+| 17.5–18.5% | 2% | 99.5% |  |
+| 18.5–19.5% | 5% | 98% |  |
+| 19.5–20.5% | 12% | 92% |  |
+| 20.5–21.5% | 20% | 81% |  |
+| 21.5–22.5% | 25% | 60% | Median |
+| 22.5–23.5% | 20% | 35% |  |
+| 23.5–24.5% | 11% | 15% |  |
+| 24.5–25.5% | 4% | 5% |  |
 | 25.5–26.5% | 0.9% | 1.1% |  |
 | 26.5–27.5% | 0.2% | 0.2% |  |
 | 27.5–28.5% | 0% | 0% |  |
@@ -116,7 +116,7 @@ Last result: **6** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
+| N/A | [Poll Average](average.html) | 4 | 4 | 3–4 | 3–5 | 3–5 |
 | [13–22 August 2021](2021-08-22-MarketLinks.html) | Market Links <br> bTV | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [23–30 July 2021](2021-07-30-Тренд.html) | Тренд <br> 24 часа | 4 | 4 | 4 | 4–5 | 3–5 |
 | [21–28 July 2021](2021-07-28-MarketLinks.html) | Market Links <br> bTV | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
@@ -198,8 +198,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 12% | 100% |  |
-| 4 | 84% | 88% | Median |
+| 3 | 7% | 100% |  |
+| 4 | 89% | 93% | Median |
 | 5 | 4% | 4% |  |
 | 6 | 0% | 0% | Last Result |
 
