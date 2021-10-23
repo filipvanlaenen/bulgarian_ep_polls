@@ -10,7 +10,10 @@ Last result: **10.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.0% | 0.7–3.0% | 0.6–3.3% | 0.5–3.5% | 0.3–4.1% |
+| N/A | [Poll Average](average.html) | 2.0% | 0.8–3.1% | 0.6–3.5% | 0.5–3.8% | 0.3–4.4% |
+| [10–17 October 2021](2021-10-17-Gallup.html) | Gallup <br> BNR | 2.4% | 1.7–3.4% | 1.5–3.7% | 1.4–4.0% | 1.1–4.6% |
+| [5–12 October 2021](2021-10-12-SovaHarris.html) | Sova Harris <br> Dir.bg | 1.8% | 1.2–2.7% | 1.1–3.0% | 1.0–3.3% | 0.8–3.8% |
+| [6–12 October 2021](2021-10-12-Exacta.html) | Exacta | 2.4% | 1.7–3.5% | 1.5–3.8% | 1.4–4.1% | 1.1–4.8% |
 | [6–10 October 2021](2021-10-10-Центързаанализиимаркетинг.html) | Център за анализи и маркетинг | 0.7% | 0.5–1.3% | 0.4–1.5% | 0.3–1.6% | 0.2–1.9% |
 | [4–10 October 2021](2021-10-10-Алфарисърч.html) | Алфа рисърч | 2.1% | 1.5–3.1% | 1.3–3.4% | 1.2–3.6% | 0.9–4.2% |
 | [21–26 September 2021](2021-09-26-Gallup.html) | Gallup | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
@@ -97,12 +100,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 4% | 100% |  |
-| 0.5–1.5% | 27% | 96% |  |
-| 1.5–2.5% | 46% | 69% | Median |
-| 2.5–3.5% | 21% | 23% |  |
-| 3.5–4.5% | 2% | 2% |  |
-| 4.5–5.5% | 0.1% | 0.1% |  |
+| 0.0–0.5% | 3% | 100% |  |
+| 0.5–1.5% | 26% | 97% |  |
+| 1.5–2.5% | 43% | 71% | Median |
+| 2.5–3.5% | 24% | 28% |  |
+| 3.5–4.5% | 4% | 4% |  |
+| 4.5–5.5% | 0.3% | 0.3% |  |
 | 5.5–6.5% | 0% | 0% |  |
 | 6.5–7.5% | 0% | 0% |  |
 | 7.5–8.5% | 0% | 0% |  |
@@ -120,6 +123,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [10–17 October 2021](2021-10-17-Gallup.html) | Gallup <br> BNR | 0 | 0 | 0 | 0 | 0 |
+| [5–12 October 2021](2021-10-12-SovaHarris.html) | Sova Harris <br> Dir.bg | 0 | 0 | 0 | 0 | 0 |
+| [6–12 October 2021](2021-10-12-Exacta.html) | Exacta | 0 | 0 | 0 | 0 | 0 |
 | [6–10 October 2021](2021-10-10-Центързаанализиимаркетинг.html) | Център за анализи и маркетинг | 0 | 0 | 0 | 0 | 0 |
 | [4–10 October 2021](2021-10-10-Алфарисърч.html) | Алфа рисърч | 0 | 0 | 0 | 0 | 0 |
 | [21–26 September 2021](2021-09-26-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
@@ -208,7 +214,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Median |
-| 1 | 0% | 0% | Last Result |
+| 0 | 99.9% | 100% | Median |
+| 1 | 0.1% | 0.1% | Last Result |
+| 2 | 0% | 0% |  |
 
 

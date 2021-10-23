@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.7% | 2.7–4.7% | 2.5–5.1% | 2.3–5.4% | 1.9–6.0% |
+| N/A | [Poll Average](average.html) | 3.5% | 2.5–4.8% | 2.2–5.2% | 2.0–5.6% | 1.5–6.3% |
+| [10–17 October 2021](2021-10-17-Gallup.html) | Gallup <br> BNR | 3.7% | 2.8–4.9% | 2.6–5.3% | 2.4–5.6% | 2.0–6.2% |
+| [5–12 October 2021](2021-10-12-SovaHarris.html) | Sova Harris <br> Dir.bg | 4.3% | 3.4–5.6% | 3.1–6.0% | 2.9–6.3% | 2.5–7.0% |
+| [6–12 October 2021](2021-10-12-Exacta.html) | Exacta | 2.6% | 1.9–3.7% | 1.7–4.1% | 1.5–4.4% | 1.2–5.0% |
 | [6–10 October 2021](2021-10-10-Центързаанализиимаркетинг.html) | Център за анализи и маркетинг | 3.3% | 2.6–4.3% | 2.5–4.6% | 2.3–4.8% | 2.0–5.3% |
 | [4–10 October 2021](2021-10-10-Алфарисърч.html) | Алфа рисърч | 3.2% | 2.4–4.4% | 2.2–4.7% | 2.0–5.0% | 1.7–5.7% |
 | [21–26 September 2021](2021-09-26-Gallup.html) | Gallup | 4.1% | 3.4–5.0% | 3.2–5.2% | 3.0–5.5% | 2.7–5.9% |
@@ -98,13 +101,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 6% | 99.9% |  |
-| 2.5–3.5% | 38% | 94% |  |
-| 3.5–4.5% | 42% | 56% | Median |
-| 4.5–5.5% | 13% | 14% |  |
-| 5.5–6.5% | 1.5% | 2% |  |
-| 6.5–7.5% | 0.1% | 0.1% |  |
+| 0.5–1.5% | 0.5% | 100% |  |
+| 1.5–2.5% | 11% | 99.5% |  |
+| 2.5–3.5% | 39% | 88% |  |
+| 3.5–4.5% | 34% | 49% | Median |
+| 4.5–5.5% | 12% | 15% |  |
+| 5.5–6.5% | 2% | 3% |  |
+| 6.5–7.5% | 0.3% | 0.3% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -116,11 +119,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [10–17 October 2021](2021-10-17-Gallup.html) | Gallup <br> BNR | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [5–12 October 2021](2021-10-12-SovaHarris.html) | Sova Harris <br> Dir.bg | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [6–12 October 2021](2021-10-12-Exacta.html) | Exacta | 0 | 0 | 0 | 0 | 0–1 |
 | [6–10 October 2021](2021-10-10-Центързаанализиимаркетинг.html) | Център за анализи и маркетинг | 0 | 0 | 0 | 0 | 0–1 |
-| [4–10 October 2021](2021-10-10-Алфарисърч.html) | Алфа рисърч | 0 | 0 | 0 | 0–1 | 0–1 |
+| [4–10 October 2021](2021-10-10-Алфарисърч.html) | Алфа рисърч | 0 | 0 | 0 | 0 | 0–1 |
 | [21–26 September 2021](2021-09-26-Gallup.html) | Gallup | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [14–20 September 2021](2021-09-20-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0 | 0 | 0 | 0–1 | 0–1 |
+| [14–20 September 2021](2021-09-20-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [8–15 September 2021](2021-09-15-Тренд.html) | Тренд | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [8–15 September 2021](2021-09-15-Алфарисърч.html) | Алфа рисърч | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [2–10 September 2021](2021-09-10-Gallup.html) | Gallup | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -205,8 +211,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 96% | 100% | Last Result, Median |
-| 1 | 4% | 4% |  |
+| 0 | 94% | 100% | Last Result, Median |
+| 1 | 6% | 6% |  |
 | 2 | 0% | 0% |  |
 
 
