@@ -10,20 +10,9 @@ Last result: **10.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.0% | 0.8–3.1% | 0.6–3.5% | 0.5–3.8% | 0.3–4.4% |
-| [10–17 October 2021](2021-10-17-Gallup.html) | Gallup <br> BNR | 2.4% | 1.7–3.4% | 1.5–3.7% | 1.4–4.0% | 1.1–4.6% |
-| [5–12 October 2021](2021-10-12-SovaHarris.html) | Sova Harris <br> Dir.bg | 1.8% | 1.2–2.7% | 1.1–3.0% | 1.0–3.3% | 0.8–3.8% |
-| [6–12 October 2021](2021-10-12-Exacta.html) | Exacta | 2.4% | 1.7–3.5% | 1.5–3.8% | 1.4–4.1% | 1.1–4.8% |
-| [6–10 October 2021](2021-10-10-Центързаанализиимаркетинг.html) | Център за анализи и маркетинг | 0.7% | 0.5–1.3% | 0.4–1.5% | 0.3–1.6% | 0.2–1.9% |
-| [4–10 October 2021](2021-10-10-Алфарисърч.html) | Алфа рисърч | 2.1% | 1.5–3.1% | 1.3–3.4% | 1.2–3.6% | 0.9–4.2% |
-| [21–26 September 2021](2021-09-26-Gallup.html) | Gallup | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
-| [14–20 September 2021](2021-09-20-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
-| [8–15 September 2021](2021-09-15-Тренд.html) | Тренд | 2.2% | 1.6–3.3% | 1.4–3.6% | 1.3–3.9% | 1.0–4.5% |
-| [8–15 September 2021](2021-09-15-Алфарисърч.html) | Алфа рисърч | 0.0% | N/A | N/A | N/A | N/A |
-| [2–10 September 2021](2021-09-10-Gallup.html) | Gallup | 2.3% | 1.6–3.5% | 1.5–3.8% | 1.3–4.1% | 1.0–4.7% |
-| [13–22 August 2021](2021-08-22-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
-| [23–30 July 2021](2021-07-30-Тренд.html) | Тренд <br> 24 часа | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–2.9% | 1.0–3.3% |
-| [21–28 July 2021](2021-07-28-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 1.9% | 1.6–2.4% | 1.5–2.5% | 1.4–2.6% | 1.2–2.8% |
+| [23–30 July 2021](2021-07-30-Тренд.html) | Тренд <br> 24 часа | 1.9% | 1.6–2.4% | 1.5–2.5% | 1.4–2.6% | 1.2–2.9% |
+| [21–28 July 2021](2021-07-28-MarketLinks.html) | Market Links <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
 | [3–7 July 2021](2021-07-07-Тренд.html) | Тренд <br> Nova | 0.0% | N/A | N/A | N/A | N/A |
 | [4–7 July 2021](2021-07-07-Алфарисърч.html) | Алфа рисърч | 0.0% | N/A | N/A | N/A | N/A |
 | [30 June–7 July 2021](2021-07-07-Gallup.html) | Gallup <br> BNR | 0.0% | N/A | N/A | N/A | N/A |
@@ -31,13 +20,13 @@ Last result: **10.7%** (General Election of 26 May 2019)
 | [1–5 July 2021](2021-07-05-Exacta.html) | Exacta | 0.0% | N/A | N/A | N/A | N/A |
 | [26 June–2 July 2021](2021-07-02-Медиана.html) | Медиана | 0.0% | N/A | N/A | N/A | N/A |
 | [23–30 June 2021](2021-06-30-Nasoca.html) | Nasoca | 0.0% | N/A | N/A | N/A | N/A |
-| [18–25 June 2021](2021-06-25-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
+| [18–25 June 2021](2021-06-25-MarketLinks.html) | Market Links <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
 | [11–18 June 2021](2021-06-18-Тренд.html) | Тренд <br> 24 часа | 0.0% | N/A | N/A | N/A | N/A |
 | [10–15 June 2021](2021-06-15-Медиана.html) | Медиана | 0.0% | N/A | N/A | N/A | N/A |
 | [10–15 June 2021](2021-06-15-SovaHarris.html) | Sova Harris <br> Dir.bg | 0.0% | N/A | N/A | N/A | N/A |
 | [3–11 June 2021](2021-06-11-Gallup.html) | Gallup <br> BNR | 0.0% | N/A | N/A | N/A | N/A |
 | [30 May–7 June 2021](2021-06-07-Алфарисърч.html) | Алфа рисърч | 0.0% | N/A | N/A | N/A | N/A |
-| [19–27 May 2021](2021-05-27-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 3.3% | 2.5–4.3% | 2.3–4.6% | 2.2–4.9% | 1.9–5.5% |
+| [19–27 May 2021](2021-05-27-MarketLinks.html) | Market Links <br> bTV | 3.3% | 2.5–4.3% | 2.3–4.6% | 2.2–4.9% | 1.9–5.5% |
 | [7–14 May 2021](2021-05-14-Gallup.html) | Gallup | 3.2% | 2.4–4.5% | 2.1–4.9% | 2.0–5.2% | 1.6–5.9% |
 | [16–23 April 2021](2021-04-23-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 3.3% | 2.6–4.4% | 2.4–4.8% | 2.2–5.0% | 1.9–5.6% |
 | [24–31 March 2021](2021-03-31-Gallup.html) | Gallup <br> BNR | 4.4% | 3.4–6.1% | 3.1–6.5% | 2.8–6.9% | 2.4–7.8% |
@@ -100,12 +89,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 3% | 100% |  |
-| 0.5–1.5% | 26% | 97% |  |
-| 1.5–2.5% | 43% | 71% | Median |
-| 2.5–3.5% | 24% | 28% |  |
-| 3.5–4.5% | 4% | 4% |  |
-| 4.5–5.5% | 0.3% | 0.3% |  |
+| 0.0–0.5% | 0% | 100% |  |
+| 0.5–1.5% | 9% | 100% |  |
+| 1.5–2.5% | 87% | 91% | Median |
+| 2.5–3.5% | 4% | 4% |  |
+| 3.5–4.5% | 0% | 0% |  |
+| 4.5–5.5% | 0% | 0% |  |
 | 5.5–6.5% | 0% | 0% |  |
 | 6.5–7.5% | 0% | 0% |  |
 | 7.5–8.5% | 0% | 0% |  |
@@ -123,19 +112,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [10–17 October 2021](2021-10-17-Gallup.html) | Gallup <br> BNR | 0 | 0 | 0 | 0 | 0 |
-| [5–12 October 2021](2021-10-12-SovaHarris.html) | Sova Harris <br> Dir.bg | 0 | 0 | 0 | 0 | 0 |
-| [6–12 October 2021](2021-10-12-Exacta.html) | Exacta | 0 | 0 | 0 | 0 | 0 |
-| [6–10 October 2021](2021-10-10-Центързаанализиимаркетинг.html) | Център за анализи и маркетинг | 0 | 0 | 0 | 0 | 0 |
-| [4–10 October 2021](2021-10-10-Алфарисърч.html) | Алфа рисърч | 0 | 0 | 0 | 0 | 0 |
-| [21–26 September 2021](2021-09-26-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
-| [14–20 September 2021](2021-09-20-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
-| [8–15 September 2021](2021-09-15-Тренд.html) | Тренд | 0 | 0 | 0 | 0 | 0 |
-| [8–15 September 2021](2021-09-15-Алфарисърч.html) | Алфа рисърч |  |  |  |  |  |
-| [2–10 September 2021](2021-09-10-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
-| [13–22 August 2021](2021-08-22-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
 | [23–30 July 2021](2021-07-30-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0 | 0 | 0 |
-| [21–28 July 2021](2021-07-28-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
+| [21–28 July 2021](2021-07-28-MarketLinks.html) | Market Links <br> bTV |  |  |  |  |  |
 | [3–7 July 2021](2021-07-07-Тренд.html) | Тренд <br> Nova |  |  |  |  |  |
 | [4–7 July 2021](2021-07-07-Алфарисърч.html) | Алфа рисърч |  |  |  |  |  |
 | [30 June–7 July 2021](2021-07-07-Gallup.html) | Gallup <br> BNR |  |  |  |  |  |
@@ -143,13 +121,13 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [1–5 July 2021](2021-07-05-Exacta.html) | Exacta |  |  |  |  |  |
 | [26 June–2 July 2021](2021-07-02-Медиана.html) | Медиана |  |  |  |  |  |
 | [23–30 June 2021](2021-06-30-Nasoca.html) | Nasoca |  |  |  |  |  |
-| [18–25 June 2021](2021-06-25-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
+| [18–25 June 2021](2021-06-25-MarketLinks.html) | Market Links <br> bTV |  |  |  |  |  |
 | [11–18 June 2021](2021-06-18-Тренд.html) | Тренд <br> 24 часа |  |  |  |  |  |
 | [10–15 June 2021](2021-06-15-Медиана.html) | Медиана |  |  |  |  |  |
 | [10–15 June 2021](2021-06-15-SovaHarris.html) | Sova Harris <br> Dir.bg |  |  |  |  |  |
 | [3–11 June 2021](2021-06-11-Gallup.html) | Gallup <br> BNR |  |  |  |  |  |
 | [30 May–7 June 2021](2021-06-07-Алфарисърч.html) | Алфа рисърч |  |  |  |  |  |
-| [19–27 May 2021](2021-05-27-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0 | 0 | 0 | 0 | 0–1 |
+| [19–27 May 2021](2021-05-27-MarketLinks.html) | Market Links <br> bTV | 0 | 0 | 0 | 0 | 0–1 |
 | [7–14 May 2021](2021-05-14-Gallup.html) | Gallup | 0 | 0 | 0 | 0–1 | 0–1 |
 | [16–23 April 2021](2021-04-23-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0 | 0 | 0 | 0 | 0–1 |
 | [24–31 March 2021](2021-03-31-Gallup.html) | Gallup <br> BNR | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
@@ -214,8 +192,7 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.9% | 100% | Median |
-| 1 | 0.1% | 0.1% | Last Result |
-| 2 | 0% | 0% |  |
+| 0 | 100% | 100% | Median |
+| 1 | 0% | 0% | Last Result |
 
 
