@@ -1,4 +1,4 @@
-# Продължаваме промяната (Greens/EFA)
+# Български възход (*)
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
 
@@ -10,27 +10,27 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.5% | 16.0–19.1% | 15.6–19.5% | 15.2–19.9% | 14.6–20.7% |
-| [4–11 May 2022](2022-05-11-Тренд.html) | Тренд <br> 24 часа | 17.5% | 16.0–19.1% | 15.6–19.5% | 15.2–20.0% | 14.6–20.7% |
-| [4–9 May 2022](2022-05-09-Центързаанализиимаркетинг.html) | Център за анализи и маркетинг | 21.4% | N/A | N/A | N/A | N/A |
-| [29 April–8 May 2022](2022-05-08-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 19.1% | N/A | N/A | N/A | N/A |
-| [29 April–6 May 2022](2022-05-06-Gallup.html) | Gallup | 18.3% | N/A | N/A | N/A | N/A |
-| [8–14 April 2022](2022-04-14-Алфарисърч.html) | Алфа рисърч | 21.1% | N/A | N/A | N/A | N/A |
-| [6–13 April 2022](2022-04-13-Тренд.html) | Тренд <br> 24 часа | 20.1% | N/A | N/A | N/A | N/A |
-| [31 March–8 April 2022](2022-04-08-Gallup.html) | Gallup | 23.9% | N/A | N/A | N/A | N/A |
-| [22–29 March 2022](2022-03-29-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 19.7% | N/A | N/A | N/A | N/A |
-| [5–12 March 2022](2022-03-12-Тренд.html) | Тренд <br> 24 часа | 22.9% | N/A | N/A | N/A | N/A |
-| [6–14 February 2022](2022-02-14-Алфарисърч.html) | Алфа рисърч | 29.9% | N/A | N/A | N/A | N/A |
-| [3–11 February 2022](2022-02-11-Gallup.html) | Gallup | 30.3% | N/A | N/A | N/A | N/A |
-| [12–19 January 2022](2022-01-19-Тренд.html) | Тренд <br> 24 часа | 26.4% | N/A | N/A | N/A | N/A |
-| [10–17 October 2021](2021-10-17-Gallup.html) | Gallup <br> BNR | 13.3% | N/A | N/A | N/A | N/A |
-| [5–12 October 2021](2021-10-12-SovaHarris.html) | Sova Harris <br> Dir.bg | 14.9% | N/A | N/A | N/A | N/A |
-| [6–12 October 2021](2021-10-12-Exacta.html) | Exacta | 15.3% | N/A | N/A | N/A | N/A |
-| [6–10 October 2021](2021-10-10-Центързаанализиимаркетинг.html) | Център за анализи и маркетинг | 13.4% | N/A | N/A | N/A | N/A |
-| [4–10 October 2021](2021-10-10-Алфарисърч.html) | Алфа рисърч | 15.9% | N/A | N/A | N/A | N/A |
-| [21–26 September 2021](2021-09-26-Gallup.html) | Gallup | 15.2% | N/A | N/A | N/A | N/A |
-| [14–20 September 2021](2021-09-20-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 11.9% | N/A | N/A | N/A | N/A |
-| [8–15 September 2021](2021-09-15-Тренд.html) | Тренд | 9.1% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 7.6% | 6.6–8.8% | 6.3–9.1% | 6.1–9.4% | 5.7–10.0% |
+| [4–11 May 2022](2022-05-11-Тренд.html) | Тренд <br> 24 часа | 7.6% | 6.6–8.8% | 6.3–9.1% | 6.1–9.4% | 5.7–10.0% |
+| [4–9 May 2022](2022-05-09-Центързаанализиимаркетинг.html) | Център за анализи и маркетинг | 7.8% | N/A | N/A | N/A | N/A |
+| [29 April–8 May 2022](2022-05-08-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
+| [29 April–6 May 2022](2022-05-06-Gallup.html) | Gallup | 5.6% | N/A | N/A | N/A | N/A |
+| [8–14 April 2022](2022-04-14-Алфарисърч.html) | Алфа рисърч | 0.0% | N/A | N/A | N/A | N/A |
+| [6–13 April 2022](2022-04-13-Тренд.html) | Тренд <br> 24 часа | 0.0% | N/A | N/A | N/A | N/A |
+| [31 March–8 April 2022](2022-04-08-Gallup.html) | Gallup | 0.0% | N/A | N/A | N/A | N/A |
+| [22–29 March 2022](2022-03-29-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
+| [5–12 March 2022](2022-03-12-Тренд.html) | Тренд <br> 24 часа | 0.0% | N/A | N/A | N/A | N/A |
+| [6–14 February 2022](2022-02-14-Алфарисърч.html) | Алфа рисърч | 0.0% | N/A | N/A | N/A | N/A |
+| [3–11 February 2022](2022-02-11-Gallup.html) | Gallup | 0.0% | N/A | N/A | N/A | N/A |
+| [12–19 January 2022](2022-01-19-Тренд.html) | Тренд <br> 24 часа | 0.0% | N/A | N/A | N/A | N/A |
+| [10–17 October 2021](2021-10-17-Gallup.html) | Gallup <br> BNR | 0.0% | N/A | N/A | N/A | N/A |
+| [5–12 October 2021](2021-10-12-SovaHarris.html) | Sova Harris <br> Dir.bg | 0.0% | N/A | N/A | N/A | N/A |
+| [6–12 October 2021](2021-10-12-Exacta.html) | Exacta | 0.0% | N/A | N/A | N/A | N/A |
+| [6–10 October 2021](2021-10-10-Центързаанализиимаркетинг.html) | Център за анализи и маркетинг | 0.0% | N/A | N/A | N/A | N/A |
+| [4–10 October 2021](2021-10-10-Алфарисърч.html) | Алфа рисърч | 0.0% | N/A | N/A | N/A | N/A |
+| [21–26 September 2021](2021-09-26-Gallup.html) | Gallup | 0.0% | N/A | N/A | N/A | N/A |
+| [14–20 September 2021](2021-09-20-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
+| [8–15 September 2021](2021-09-15-Тренд.html) | Тренд | 0.0% | N/A | N/A | N/A | N/A |
 | [8–15 September 2021](2021-09-15-Алфарисърч.html) | Алфа рисърч | 0.0% | N/A | N/A | N/A | N/A |
 | [2–10 September 2021](2021-09-10-Gallup.html) | Gallup | 0.0% | N/A | N/A | N/A | N/A |
 | [13–22 August 2021](2021-08-22-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
@@ -111,7 +111,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Продължаваме промяната (Greens/EFA).
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Български възход (*).
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -120,25 +120,14 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0% | 100% |  |
-| 13.5–14.5% | 0.5% | 100% |  |
-| 14.5–15.5% | 4% | 99.5% |  |
-| 15.5–16.5% | 16% | 95% |  |
-| 16.5–17.5% | 30% | 79% |  |
-| 17.5–18.5% | 29% | 49% | Median |
-| 18.5–19.5% | 15% | 20% |  |
-| 19.5–20.5% | 4% | 5% |  |
-| 20.5–21.5% | 0.7% | 0.8% |  |
-| 21.5–22.5% | 0.1% | 0.1% |  |
-| 22.5–23.5% | 0% | 0% |  |
+| 4.5–5.5% | 0.3% | 100% |  |
+| 5.5–6.5% | 8% | 99.7% |  |
+| 6.5–7.5% | 37% | 91% |  |
+| 7.5–8.5% | 40% | 55% | Median |
+| 8.5–9.5% | 13% | 15% |  |
+| 9.5–10.5% | 2% | 2% |  |
+| 10.5–11.5% | 0.1% | 0.1% |  |
+| 11.5–12.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -149,8 +138,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [4–11 May 2022](2022-05-11-Тренд.html) | Тренд <br> 24 часа | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [4–11 May 2022](2022-05-11-Тренд.html) | Тренд <br> 24 часа | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [4–9 May 2022](2022-05-09-Центързаанализиимаркетинг.html) | Център за анализи и маркетинг |  |  |  |  |  |
 | [29 April–8 May 2022](2022-05-08-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
 | [29 April–6 May 2022](2022-05-06-Gallup.html) | Gallup |  |  |  |  |  |
@@ -250,17 +239,15 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-продължавамепромянатаgreensefa.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-българскивъзход.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average.html) for Продължаваме промяната (Greens/EFA).
+The following table shows the probability mass function per seat for the [poll average](average.html) for Български възход (*).
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 0.2% | 100% |  |
-| 3 | 79% | 99.8% | Median |
-| 4 | 21% | 21% |  |
-| 5 | 0% | 0% |  |
+| 1 | 81% | 100% | Median |
+| 2 | 19% | 19% |  |
+| 3 | 0% | 0% |  |
 
 
