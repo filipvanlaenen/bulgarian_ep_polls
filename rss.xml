@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/bulgarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 24 Jul 2022 17:39:03 +0200</pubDate>
+    <pubDate>Sun, 21 Aug 2022 11:14:20 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Маркет ЛИНКС for bTV, 30 July–5 August 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2022-08-05-МаркетЛИНКС.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Движение за права и свободи (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Има такъв народ (*): 0 seats&lt;/li&gt;&lt;li&gt;Възраждане (*): 1–2 seats&lt;/li&gt;&lt;li&gt;Продължаваме промяната (Greens/EFA): 3–4 seats&lt;/li&gt;&lt;li&gt;Български възход (*): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2022-08-05-МаркетЛИНКС-seats.png"
+        length="280852"
+        type="image/png"/>
+      <pubDate>Sun, 21 Aug 2022 11:14:20 +0200</pubDate>
+      <dc:date>2022-08-21T11:14:20.869376+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Маркет ЛИНКС for bTV, 30 July–5 August 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2022-08-05-МаркетЛИНКС.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2022-08-05-МаркетЛИНКС-coalitions-seats.png"
+        length="219650"
+        type="image/png"/>
+      <pubDate>Sun, 21 Aug 2022 11:14:20 +0200</pubDate>
+      <dc:date>2022-08-21T11:14:20.869376+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Маркет ЛИНКС for bTV, 30 July–5 August 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2022-08-05-МаркетЛИНКС.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 21.9–27.1%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 10.0–14.0%&lt;/li&gt;&lt;li&gt;Движение за права и свободи (RE): 10.7–14.7%&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 7.4–10.9%&lt;/li&gt;&lt;li&gt;Има такъв народ (*): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Възраждане (*): 7.5–11.1%&lt;/li&gt;&lt;li&gt;Продължаваме промяната (Greens/EFA): 18.4–23.4%&lt;/li&gt;&lt;li&gt;Български възход (*): 3.2–5.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2022-08-05-МаркетЛИНКС.png"
+        length="319440"
+        type="image/png"/>
+      <pubDate>Sun, 21 Aug 2022 11:14:20 +0200</pubDate>
+      <dc:date>2022-08-21T11:14:20.869376+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Тренд for 24 часа, 5–12 July 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2022-07-12-Тренд.html#seats</link>
@@ -2379,6 +2409,6 @@
       <pubDate>Sat, 05 Dec 2020 14:18:33 +0100</pubDate>
       <dc:date>2020-12-05T14:18:33+01:00</dc:date>
     </item>
-    <dc:date>2022-07-24T17:39:03.996747+02:00</dc:date>
+    <dc:date>2022-08-21T11:14:20.869376+02:00</dc:date>
   </channel>
 </rss>
