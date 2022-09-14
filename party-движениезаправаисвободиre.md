@@ -10,7 +10,8 @@ Last result: **17.3%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.2% | 10.9–13.6% | 10.6–14.0% | 10.3–14.4% | 9.7–15.1% |
+| N/A | [Poll Average](average.html) | 12.0% | 10.7–13.5% | 10.3–13.9% | 10.0–14.3% | 9.4–15.0% |
+| [2–10 September 2022](2022-09-10-GallupInternational.html) | Gallup International | 11.5% | 10.3–12.9% | 9.9–13.3% | 9.6–13.6% | 9.1–14.3% |
 | [27 August–2 September 2022](2022-09-02-Алфарисърч.html) | Алфа рисърч | 11.8% | 10.7–13.2% | 10.3–13.5% | 10.0–13.9% | 9.5–14.5% |
 | [30 July–5 August 2022](2022-08-05-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 12.5% | 11.3–14.0% | 10.9–14.4% | 10.7–14.7% | 10.1–15.4% |
 | [5–12 July 2022](2022-07-12-Тренд.html) | Тренд <br> 24 часа | 12.1% | 10.9–13.6% | 10.5–14.0% | 10.3–14.3% | 9.7–15.0% |
@@ -121,14 +122,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.3% | 100% |  |
-| 9.5–10.5% | 5% | 99.7% |  |
-| 10.5–11.5% | 21% | 95% |  |
-| 11.5–12.5% | 36% | 74% | Median |
-| 12.5–13.5% | 27% | 38% |  |
-| 13.5–14.5% | 9% | 11% |  |
-| 14.5–15.5% | 2% | 2% |  |
-| 15.5–16.5% | 0.2% | 0.2% |  |
+| 8.5–9.5% | 0.7% | 100% |  |
+| 9.5–10.5% | 7% | 99.3% |  |
+| 10.5–11.5% | 25% | 92% |  |
+| 11.5–12.5% | 35% | 68% | Median |
+| 12.5–13.5% | 23% | 32% |  |
+| 13.5–14.5% | 8% | 9% |  |
+| 14.5–15.5% | 1.3% | 1.4% |  |
+| 15.5–16.5% | 0.1% | 0.1% |  |
 | 16.5–17.5% | 0% | 0% | Last Result |
 
 
@@ -141,6 +142,7 @@ Last result: **4** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [2–10 September 2022](2022-09-10-GallupInternational.html) | Gallup International | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [27 August–2 September 2022](2022-09-02-Алфарисърч.html) | Алфа рисърч | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [30 July–5 August 2022](2022-08-05-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [5–12 July 2022](2022-07-12-Тренд.html) | Тренд <br> 24 часа | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -252,8 +254,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 80% | 100% | Median |
-| 3 | 20% | 20% |  |
+| 2 | 81% | 100% | Median |
+| 3 | 19% | 19% |  |
 | 4 | 0% | 0% | Last Result |
 
 
