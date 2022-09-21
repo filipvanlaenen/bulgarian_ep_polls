@@ -10,14 +10,19 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.9% | 1.4–2.5% | 1.3–2.7% | 1.2–2.9% | 1.0–3.3% |
+| N/A | [Poll Average](average.html) | 2.3% | 1.5–3.6% | 1.4–4.0% | 1.2–4.2% | 1.0–4.7% |
+| [10–17 September 2022](2022-09-17-Exacta.html) | Exacta | 0.0% | N/A | N/A | N/A | N/A |
+| [6–12 September 2022](2022-09-12-SovaHarris.html) | Sova Harris <br> Dir.bg | 2.9% | 2.3–3.8% | 2.1–4.0% | 1.9–4.3% | 1.7–4.7% |
 | [2–10 September 2022](2022-09-10-GallupInternational.html) | Gallup International | 1.7% | 1.3–2.3% | 1.2–2.5% | 1.1–2.7% | 0.9–3.1% |
+| [29 August–4 September 2022](2022-09-04-Медиана.html) | Медиана | 3.4% | 2.7–4.2% | 2.6–4.5% | 2.4–4.7% | 2.1–5.1% |
+| [27 August–3 September 2022](2022-09-03-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
 | [27 August–2 September 2022](2022-09-02-Алфарисърч.html) | Алфа рисърч | 2.1% | 1.6–2.7% | 1.5–2.9% | 1.4–3.1% | 1.2–3.4% |
+| [15–22 August 2022](2022-08-22-Тренд.html) | Тренд <br> 24 часа | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–2.9% | 1.0–3.3% |
 | [30 July–5 August 2022](2022-08-05-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
-| [5–12 July 2022](2022-07-12-Тренд.html) | Тренд <br> 24 часа | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.1–2.8% | 1.0–3.2% |
+| [5–12 July 2022](2022-07-12-Тренд.html) | Тренд <br> 24 часа | 1.6% | N/A | N/A | N/A | N/A |
 | [2–10 July 2022](2022-07-10-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
 | [25 June–1 July 2022](2022-07-01-Алфарисърч.html) | Алфа рисърч | 0.0% | N/A | N/A | N/A | N/A |
-| [4–11 May 2022](2022-05-11-Тренд.html) | Тренд <br> 24 часа | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
+| [4–11 May 2022](2022-05-11-Тренд.html) | Тренд <br> 24 часа | 2.0% | N/A | N/A | N/A | N/A |
 | [4–9 May 2022](2022-05-09-Центързаанализиимаркетинг.html) | Център за анализи и маркетинг | 1.2% | 0.9–1.9% | 0.7–2.1% | 0.7–2.2% | 0.5–2.6% |
 | [29 April–8 May 2022](2022-05-08-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
 | [29 April–6 May 2022](2022-05-06-Gallup.html) | Gallup | 1.1% | 0.8–1.8% | 0.7–2.0% | 0.6–2.1% | 0.5–2.5% |
@@ -122,11 +127,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 20% | 100% |  |
-| 1.5–2.5% | 70% | 80% | Median |
-| 2.5–3.5% | 10% | 10% |  |
-| 3.5–4.5% | 0.1% | 0.1% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.5–1.5% | 11% | 100% |  |
+| 1.5–2.5% | 48% | 89% | Median |
+| 2.5–3.5% | 29% | 41% |  |
+| 3.5–4.5% | 11% | 12% |  |
+| 4.5–5.5% | 0.9% | 0.9% |  |
+| 5.5–6.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -138,13 +144,18 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [10–17 September 2022](2022-09-17-Exacta.html) | Exacta |  |  |  |  |  |
+| [6–12 September 2022](2022-09-12-SovaHarris.html) | Sova Harris <br> Dir.bg | 0 | 0 | 0 | 0 | 0 |
 | [2–10 September 2022](2022-09-10-GallupInternational.html) | Gallup International | 0 | 0 | 0 | 0 | 0 |
+| [29 August–4 September 2022](2022-09-04-Медиана.html) | Медиана | 0 | 0 | 0 | 0 | 0 |
+| [27 August–3 September 2022](2022-09-03-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
 | [27 August–2 September 2022](2022-09-02-Алфарисърч.html) | Алфа рисърч | 0 | 0 | 0 | 0 | 0 |
+| [15–22 August 2022](2022-08-22-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0 | 0 | 0 |
 | [30 July–5 August 2022](2022-08-05-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
-| [5–12 July 2022](2022-07-12-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0 | 0 | 0 |
+| [5–12 July 2022](2022-07-12-Тренд.html) | Тренд <br> 24 часа |  |  |  |  |  |
 | [2–10 July 2022](2022-07-10-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
 | [25 June–1 July 2022](2022-07-01-Алфарисърч.html) | Алфа рисърч |  |  |  |  |  |
-| [4–11 May 2022](2022-05-11-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0 | 0 | 0 |
+| [4–11 May 2022](2022-05-11-Тренд.html) | Тренд <br> 24 часа |  |  |  |  |  |
 | [4–9 May 2022](2022-05-09-Центързаанализиимаркетинг.html) | Център за анализи и маркетинг | 0 | 0 | 0 | 0 | 0 |
 | [29 April–8 May 2022](2022-05-08-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
 | [29 April–6 May 2022](2022-05-06-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
@@ -250,6 +261,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 99.9% | 100% | Last Result, Median |
+| 1 | 0.1% | 0.1% |  |
+| 2 | 0% | 0% |  |
 
 
