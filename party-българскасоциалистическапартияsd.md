@@ -10,8 +10,13 @@ Last result: **18.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.3% | 8.8–13.7% | 8.3–14.3% | 7.8–14.7% | 7.2–15.6% |
+| N/A | [Poll Average](average.html) | 10.5% | 8.6–13.5% | 8.2–14.1% | 7.8–14.6% | 7.2–15.5% |
+| [27–29 September 2022](2022-09-29-Алфарисърч.html) | Алфа рисърч | 10.2% | 9.1–11.6% | 8.8–11.9% | 8.5–12.3% | 8.0–12.9% |
+| [21–27 September 2022](2022-09-27-Тренд.html) | Тренд <br> 24 chasa | 8.8% | 7.7–10.0% | 7.4–10.4% | 7.2–10.7% | 6.7–11.3% |
+| [20–27 September 2022](2022-09-27-GallupInternational.html) | Gallup International | 9.2% | 8.1–10.5% | 7.8–10.9% | 7.6–11.2% | 7.1–11.8% |
+| [17–23 September 2022](2022-09-23-MarketLinks.html) | Market Links <br> 24 chasa | 9.9% | 8.7–11.2% | 8.4–11.5% | 8.2–11.9% | 7.7–12.5% |
 | [10–17 September 2022](2022-09-17-Exacta.html) | Exacta | 12.5% | 11.2–13.9% | 10.9–14.3% | 10.6–14.6% | 10.0–15.3% |
+| [10–17 September 2022](2022-09-17-Estat.html) | Estat | 9.3% | 8.2–10.5% | 7.9–10.9% | 7.6–11.2% | 7.1–11.9% |
 | [6–12 September 2022](2022-09-12-SovaHarris.html) | Sova Harris <br> Dir.bg | 12.7% | 11.3–14.3% | 10.9–14.7% | 10.6–15.1% | 10.0–15.9% |
 | [2–10 September 2022](2022-09-10-GallupInternational.html) | Gallup International | 9.8% | 8.7–11.1% | 8.4–11.5% | 8.1–11.8% | 7.6–12.4% |
 | [29 August–4 September 2022](2022-09-04-Медиана.html) | Медиана | 13.3% | 12.0–14.8% | 11.6–15.2% | 11.3–15.5% | 10.7–16.3% |
@@ -126,18 +131,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 5.5–6.5% | 0.1% | 100% |  |
-| 6.5–7.5% | 1.3% | 99.9% |  |
-| 7.5–8.5% | 6% | 98.7% |  |
-| 8.5–9.5% | 12% | 93% |  |
-| 9.5–10.5% | 17% | 80% |  |
-| 10.5–11.5% | 18% | 63% | Median |
-| 11.5–12.5% | 17% | 45% |  |
-| 12.5–13.5% | 15% | 27% |  |
-| 13.5–14.5% | 9% | 12% |  |
-| 14.5–15.5% | 3% | 3% |  |
-| 15.5–16.5% | 0.5% | 0.5% |  |
-| 16.5–17.5% | 0% | 0.1% |  |
+| 5.5–6.5% | 0% | 100% |  |
+| 6.5–7.5% | 1.2% | 100% |  |
+| 7.5–8.5% | 8% | 98.8% |  |
+| 8.5–9.5% | 20% | 90% |  |
+| 9.5–10.5% | 21% | 71% |  |
+| 10.5–11.5% | 16% | 50% | Median |
+| 11.5–12.5% | 13% | 34% |  |
+| 12.5–13.5% | 12% | 21% |  |
+| 13.5–14.5% | 7% | 9% |  |
+| 14.5–15.5% | 2% | 3% |  |
+| 15.5–16.5% | 0.4% | 0.4% |  |
+| 16.5–17.5% | 0% | 0% |  |
 | 17.5–18.5% | 0% | 0% |  |
 | 18.5–19.5% | 0% | 0% | Last Result |
 
@@ -151,7 +156,12 @@ Last result: **4** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
+| [27–29 September 2022](2022-09-29-Алфарисърч.html) | Алфа рисърч | 2 | 2 | 2 | 2 | 2–3 |
+| [21–27 September 2022](2022-09-27-Тренд.html) | Тренд <br> 24 chasa | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [20–27 September 2022](2022-09-27-GallupInternational.html) | Gallup International | 2 | 2 | 2 | 1–2 | 1–2 |
+| [17–23 September 2022](2022-09-23-MarketLinks.html) | Market Links <br> 24 chasa | 2 | 2 | 2 | 2 | 1–2 |
 | [10–17 September 2022](2022-09-17-Exacta.html) | Exacta | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [10–17 September 2022](2022-09-17-Estat.html) | Estat | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [6–12 September 2022](2022-09-12-SovaHarris.html) | Sova Harris <br> Dir.bg | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [2–10 September 2022](2022-09-10-GallupInternational.html) | Gallup International | 2 | 2 | 2 | 1–2 | 1–3 |
 | [29 August–4 September 2022](2022-09-04-Медиана.html) | Медиана | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -268,9 +278,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 4% | 100% |  |
-| 2 | 79% | 96% | Median |
-| 3 | 18% | 18% |  |
+| 1 | 3% | 100% |  |
+| 2 | 83% | 97% | Median |
+| 3 | 13% | 13% |  |
 | 4 | 0% | 0% | Last Result |
 
 

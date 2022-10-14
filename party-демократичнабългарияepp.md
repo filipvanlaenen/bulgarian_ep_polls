@@ -10,8 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.4% | 5.4–8.8% | 5.0–9.2% | 4.7–9.5% | 4.2–10.1% |
+| N/A | [Poll Average](average.html) | 7.5% | 5.5–8.9% | 5.1–9.3% | 4.8–9.6% | 4.3–10.3% |
+| [27–29 September 2022](2022-09-29-Алфарисърч.html) | Алфа рисърч | 8.4% | 7.4–9.6% | 7.1–10.0% | 6.8–10.3% | 6.4–10.9% |
+| [21–27 September 2022](2022-09-27-Тренд.html) | Тренд <br> 24 chasa | 7.7% | 6.7–8.9% | 6.4–9.2% | 6.2–9.5% | 5.7–10.1% |
+| [20–27 September 2022](2022-09-27-GallupInternational.html) | Gallup International | 7.8% | 6.8–9.0% | 6.6–9.4% | 6.3–9.7% | 5.9–10.3% |
+| [17–23 September 2022](2022-09-23-MarketLinks.html) | Market Links <br> 24 chasa | 7.8% | 6.8–9.0% | 6.6–9.3% | 6.3–9.6% | 5.9–10.2% |
 | [10–17 September 2022](2022-09-17-Exacta.html) | Exacta | 7.5% | 6.6–8.7% | 6.3–9.0% | 6.1–9.3% | 5.6–9.9% |
+| [10–17 September 2022](2022-09-17-Estat.html) | Estat | 6.9% | 5.9–8.0% | 5.7–8.3% | 5.5–8.6% | 5.0–9.2% |
 | [6–12 September 2022](2022-09-12-SovaHarris.html) | Sova Harris <br> Dir.bg | 5.7% | 4.8–6.9% | 4.6–7.3% | 4.4–7.5% | 4.0–8.1% |
 | [2–10 September 2022](2022-09-10-GallupInternational.html) | Gallup International | 7.6% | 6.6–8.8% | 6.3–9.1% | 6.1–9.4% | 5.7–10.0% |
 | [29 August–4 September 2022](2022-09-04-Медиана.html) | Медиана | 5.5% | 4.6–6.5% | 4.4–6.8% | 4.2–7.0% | 3.9–7.6% |
@@ -130,14 +135,14 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 2% | 100% |  |
-| 4.5–5.5% | 11% | 98% |  |
-| 5.5–6.5% | 17% | 87% |  |
-| 6.5–7.5% | 26% | 70% | Median |
-| 7.5–8.5% | 30% | 44% |  |
-| 8.5–9.5% | 12% | 14% |  |
-| 9.5–10.5% | 2% | 2% |  |
-| 10.5–11.5% | 0.1% | 0.1% |  |
+| 3.5–4.5% | 1.4% | 100% |  |
+| 4.5–5.5% | 9% | 98.6% |  |
+| 5.5–6.5% | 16% | 90% |  |
+| 6.5–7.5% | 26% | 74% | Median |
+| 7.5–8.5% | 31% | 48% |  |
+| 8.5–9.5% | 14% | 17% |  |
+| 9.5–10.5% | 3% | 3% |  |
+| 10.5–11.5% | 0.2% | 0.2% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
 
@@ -150,7 +155,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| [27–29 September 2022](2022-09-29-Алфарисърч.html) | Алфа рисърч | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [21–27 September 2022](2022-09-27-Тренд.html) | Тренд <br> 24 chasa | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [20–27 September 2022](2022-09-27-GallupInternational.html) | Gallup International | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [17–23 September 2022](2022-09-23-MarketLinks.html) | Market Links <br> 24 chasa | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [10–17 September 2022](2022-09-17-Exacta.html) | Exacta | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [10–17 September 2022](2022-09-17-Estat.html) | Estat | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [6–12 September 2022](2022-09-12-SovaHarris.html) | Sova Harris <br> Dir.bg | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [2–10 September 2022](2022-09-10-GallupInternational.html) | Gallup International | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [29 August–4 September 2022](2022-09-04-Медиана.html) | Медиана | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -267,9 +277,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 5% | 100% | Last Result |
-| 1 | 66% | 95% | Median |
-| 2 | 29% | 29% |  |
+| 0 | 4% | 100% | Last Result |
+| 1 | 61% | 96% | Median |
+| 2 | 36% | 36% |  |
 | 3 | 0% | 0% |  |
 
 

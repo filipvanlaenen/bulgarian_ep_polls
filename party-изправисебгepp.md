@@ -10,8 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.3% | 1.5–3.6% | 1.4–4.0% | 1.2–4.2% | 1.0–4.7% |
+| N/A | [Poll Average](average.html) | 2.3% | 1.6–3.5% | 1.4–3.8% | 1.3–4.1% | 1.1–4.6% |
+| [27–29 September 2022](2022-09-29-Алфарисърч.html) | Алфа рисърч | 1.9% | 1.4–2.5% | 1.3–2.7% | 1.2–2.9% | 1.0–3.2% |
+| [21–27 September 2022](2022-09-27-Тренд.html) | Тренд <br> 24 chasa | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
+| [20–27 September 2022](2022-09-27-GallupInternational.html) | Gallup International | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–2.9% | 1.0–3.3% |
+| [17–23 September 2022](2022-09-23-MarketLinks.html) | Market Links <br> 24 chasa | 2.5% | 2.0–3.3% | 1.9–3.5% | 1.7–3.7% | 1.5–4.1% |
 | [10–17 September 2022](2022-09-17-Exacta.html) | Exacta | 0.0% | N/A | N/A | N/A | N/A |
+| [10–17 September 2022](2022-09-17-Estat.html) | Estat | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–2.9% | 1.0–3.3% |
 | [6–12 September 2022](2022-09-12-SovaHarris.html) | Sova Harris <br> Dir.bg | 2.9% | 2.3–3.8% | 2.1–4.0% | 1.9–4.3% | 1.7–4.7% |
 | [2–10 September 2022](2022-09-10-GallupInternational.html) | Gallup International | 1.7% | 1.3–2.3% | 1.2–2.5% | 1.1–2.7% | 0.9–3.1% |
 | [29 August–4 September 2022](2022-09-04-Медиана.html) | Медиана | 3.4% | 2.7–4.2% | 2.6–4.5% | 2.4–4.7% | 2.1–5.1% |
@@ -127,11 +132,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 11% | 100% |  |
-| 1.5–2.5% | 48% | 89% | Median |
-| 2.5–3.5% | 29% | 41% |  |
-| 3.5–4.5% | 11% | 12% |  |
-| 4.5–5.5% | 0.9% | 0.9% |  |
+| 0.5–1.5% | 9% | 100% |  |
+| 1.5–2.5% | 52% | 91% | Median |
+| 2.5–3.5% | 30% | 39% |  |
+| 3.5–4.5% | 8% | 9% |  |
+| 4.5–5.5% | 0.6% | 0.7% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -144,7 +149,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [27–29 September 2022](2022-09-29-Алфарисърч.html) | Алфа рисърч | 0 | 0 | 0 | 0 | 0 |
+| [21–27 September 2022](2022-09-27-Тренд.html) | Тренд <br> 24 chasa | 0 | 0 | 0 | 0 | 0 |
+| [20–27 September 2022](2022-09-27-GallupInternational.html) | Gallup International | 0 | 0 | 0 | 0 | 0 |
+| [17–23 September 2022](2022-09-23-MarketLinks.html) | Market Links <br> 24 chasa | 0 | 0 | 0 | 0 | 0 |
 | [10–17 September 2022](2022-09-17-Exacta.html) | Exacta |  |  |  |  |  |
+| [10–17 September 2022](2022-09-17-Estat.html) | Estat | 0 | 0 | 0 | 0 | 0 |
 | [6–12 September 2022](2022-09-12-SovaHarris.html) | Sova Harris <br> Dir.bg | 0 | 0 | 0 | 0 | 0 |
 | [2–10 September 2022](2022-09-10-GallupInternational.html) | Gallup International | 0 | 0 | 0 | 0 | 0 |
 | [29 August–4 September 2022](2022-09-04-Медиана.html) | Медиана | 0 | 0 | 0 | 0 | 0 |
