@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.5% | 3.1–5.7% | 2.5–6.0% | 2.2–6.3% | 1.9–6.9% |
+| N/A | [Poll Average](average.html) | 4.5% | 3.0–5.6% | 2.5–6.0% | 2.2–6.3% | 1.9–6.9% |
 | [27–29 September 2022](2022-09-29-Алфарисърч.html) | Алфа рисърч | 4.4% | 3.7–5.3% | 3.5–5.6% | 3.3–5.8% | 3.0–6.3% |
 | [21–27 September 2022](2022-09-27-Тренд.html) | Тренд <br> 24 chasa | 4.4% | 3.7–5.3% | 3.5–5.6% | 3.3–5.9% | 3.0–6.3% |
 | [20–27 September 2022](2022-09-27-GallupInternational.html) | Gallup International | 4.0% | 3.2–4.9% | 3.1–5.2% | 2.9–5.4% | 2.6–5.9% |
