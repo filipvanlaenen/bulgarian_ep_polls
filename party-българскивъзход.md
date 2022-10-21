@@ -13,7 +13,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 4.5% | 3.0–5.6% | 2.5–6.0% | 2.2–6.3% | 1.9–6.9% |
 | [27–29 September 2022](2022-09-29-Алфарисърч.html) | Алфа рисърч | 4.4% | 3.7–5.3% | 3.5–5.6% | 3.3–5.8% | 3.0–6.3% |
 | [21–27 September 2022](2022-09-27-Тренд.html) | Тренд <br> 24 chasa | 4.4% | 3.7–5.3% | 3.5–5.6% | 3.3–5.9% | 3.0–6.3% |
-| [20–27 September 2022](2022-09-27-GallupInternational.html) | Gallup International | 4.0% | 3.2–4.9% | 3.1–5.2% | 2.9–5.4% | 2.6–5.9% |
+| [20–27 September 2022](2022-09-27-GallupInternational.html) | Gallup International | 4.0% | 3.3–4.9% | 3.1–5.1% | 2.9–5.4% | 2.6–5.8% |
 | [17–23 September 2022](2022-09-23-MarketLinks.html) | Market Links <br> 24 chasa | 2.5% | 2.0–3.3% | 1.9–3.5% | 1.7–3.7% | 1.5–4.1% |
 | [10–17 September 2022](2022-09-17-Exacta.html) | Exacta | 4.0% | 3.3–4.9% | 3.1–5.2% | 3.0–5.4% | 2.7–5.8% |
 | [10–17 September 2022](2022-09-17-Estat.html) | Estat | 4.8% | 4.0–5.8% | 3.8–6.0% | 3.6–6.3% | 3.3–6.8% |

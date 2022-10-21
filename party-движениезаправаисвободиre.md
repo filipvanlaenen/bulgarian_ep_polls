@@ -10,10 +10,10 @@ Last result: **17.3%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.4% | 9.2–13.6% | 8.6–14.2% | 8.1–14.6% | 7.2–15.4% |
+| N/A | [Poll Average](average.html) | 11.4% | 9.2–13.6% | 8.6–14.1% | 8.1–14.6% | 7.2–15.4% |
 | [27–29 September 2022](2022-09-29-Алфарисърч.html) | Алфа рисърч | 13.1% | 11.8–14.5% | 11.4–14.9% | 11.1–15.3% | 10.6–16.0% |
 | [21–27 September 2022](2022-09-27-Тренд.html) | Тренд <br> 24 chasa | 12.0% | 10.8–13.4% | 10.4–13.8% | 10.1–14.2% | 9.6–14.9% |
-| [20–27 September 2022](2022-09-27-GallupInternational.html) | Gallup International | 13.2% | 11.9–14.7% | 11.5–15.1% | 11.2–15.5% | 10.6–16.1% |
+| [20–27 September 2022](2022-09-27-GallupInternational.html) | Gallup International | 13.2% | 11.9–14.6% | 11.5–15.1% | 11.2–15.4% | 10.6–16.1% |
 | [17–23 September 2022](2022-09-23-MarketLinks.html) | Market Links <br> 24 chasa | 12.3% | 11.1–13.7% | 10.7–14.1% | 10.4–14.5% | 9.9–15.2% |
 | [10–17 September 2022](2022-09-17-Exacta.html) | Exacta | 10.3% | 9.2–11.6% | 8.9–11.9% | 8.6–12.3% | 8.1–12.9% |
 | [10–17 September 2022](2022-09-17-Estat.html) | Estat | 10.3% | 9.2–11.7% | 8.9–12.1% | 8.6–12.4% | 8.1–13.1% |
