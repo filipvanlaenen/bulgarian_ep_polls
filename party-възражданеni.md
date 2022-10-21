@@ -1,4 +1,4 @@
-# Български възход (*)
+# Възраждане (NI)
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
 
@@ -10,109 +10,109 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.5% | 3.1–5.7% | 2.5–6.0% | 2.2–6.3% | 1.9–6.9% |
-| [27–29 September 2022](2022-09-29-Алфарисърч.html) | Алфа рисърч | 4.4% | 3.7–5.3% | 3.5–5.6% | 3.3–5.8% | 3.0–6.3% |
-| [21–27 September 2022](2022-09-27-Тренд.html) | Тренд <br> 24 chasa | 4.4% | 3.7–5.3% | 3.5–5.6% | 3.3–5.9% | 3.0–6.3% |
-| [20–27 September 2022](2022-09-27-GallupInternational.html) | Gallup International | 4.0% | 3.2–4.9% | 3.1–5.2% | 2.9–5.4% | 2.6–5.9% |
-| [17–23 September 2022](2022-09-23-MarketLinks.html) | Market Links <br> 24 chasa | 2.5% | 2.0–3.3% | 1.9–3.5% | 1.7–3.7% | 1.5–4.1% |
-| [10–17 September 2022](2022-09-17-Exacta.html) | Exacta | 4.0% | 3.3–4.9% | 3.1–5.2% | 3.0–5.4% | 2.7–5.8% |
-| [10–17 September 2022](2022-09-17-Estat.html) | Estat | 4.8% | 4.0–5.8% | 3.8–6.0% | 3.6–6.3% | 3.3–6.8% |
-| [6–12 September 2022](2022-09-12-SovaHarris.html) | Sova Harris <br> Dir.bg | 4.8% | 4.0–5.9% | 3.7–6.2% | 3.5–6.5% | 3.2–7.0% |
-| [2–10 September 2022](2022-09-10-GallupInternational.html) | Gallup International | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
-| [29 August–4 September 2022](2022-09-04-Медиана.html) | Медиана | 5.5% | 4.6–6.5% | 4.4–6.8% | 4.2–7.0% | 3.9–7.6% |
-| [27 August–3 September 2022](2022-09-03-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 4.7% | 3.9–5.6% | 3.7–5.9% | 3.6–6.1% | 3.2–6.6% |
-| [27 August–2 September 2022](2022-09-02-Алфарисърч.html) | Алфа рисърч | 4.5% | 3.8–5.4% | 3.6–5.6% | 3.4–5.9% | 3.1–6.3% |
-| [15–22 August 2022](2022-08-22-Тренд.html) | Тренд <br> 24 часа | 4.5% | 3.7–5.4% | 3.5–5.7% | 3.4–5.9% | 3.0–6.4% |
-| [30 July–5 August 2022](2022-08-05-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 4.3% | 3.6–5.2% | 3.4–5.5% | 3.2–5.7% | 2.9–6.2% |
-| [5–12 July 2022](2022-07-12-Тренд.html) | Тренд <br> 24 часа | 5.7% | N/A | N/A | N/A | N/A |
-| [2–10 July 2022](2022-07-10-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 4.3% | 3.6–5.2% | 3.4–5.5% | 3.2–5.7% | 2.9–6.2% |
-| [25 June–1 July 2022](2022-07-01-Алфарисърч.html) | Алфа рисърч | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.6% | 4.3–8.2% |
-| [4–11 May 2022](2022-05-11-Тренд.html) | Тренд <br> 24 часа | 7.5% | N/A | N/A | N/A | N/A |
-| [4–9 May 2022](2022-05-09-Центързаанализиимаркетинг.html) | Център за анализи и маркетинг | 7.8% | 6.7–9.1% | 6.4–9.5% | 6.1–9.8% | 5.7–10.5% |
-| [29 April–8 May 2022](2022-05-08-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
-| [29 April–6 May 2022](2022-05-06-Gallup.html) | Gallup | 5.6% | 4.7–6.8% | 4.4–7.1% | 4.2–7.4% | 3.8–8.0% |
-| [8–14 April 2022](2022-04-14-Алфарисърч.html) | Алфа рисърч | 0.0% | N/A | N/A | N/A | N/A |
-| [6–13 April 2022](2022-04-13-Тренд.html) | Тренд <br> 24 часа | 0.0% | N/A | N/A | N/A | N/A |
-| [31 March–8 April 2022](2022-04-08-Gallup.html) | Gallup | 0.0% | N/A | N/A | N/A | N/A |
-| [22–29 March 2022](2022-03-29-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
-| [5–12 March 2022](2022-03-12-Тренд.html) | Тренд <br> 24 часа | 0.0% | N/A | N/A | N/A | N/A |
-| [6–14 February 2022](2022-02-14-Алфарисърч.html) | Алфа рисърч | 0.0% | N/A | N/A | N/A | N/A |
-| [3–11 February 2022](2022-02-11-Gallup.html) | Gallup | 0.0% | N/A | N/A | N/A | N/A |
-| [12–19 January 2022](2022-01-19-Тренд.html) | Тренд <br> 24 часа | 0.0% | N/A | N/A | N/A | N/A |
-| [10–17 October 2021](2021-10-17-Gallup.html) | Gallup <br> BNR | 0.0% | N/A | N/A | N/A | N/A |
-| [5–12 October 2021](2021-10-12-SovaHarris.html) | Sova Harris <br> Dir.bg | 0.0% | N/A | N/A | N/A | N/A |
-| [6–12 October 2021](2021-10-12-Exacta.html) | Exacta | 0.0% | N/A | N/A | N/A | N/A |
-| [6–10 October 2021](2021-10-10-Центързаанализиимаркетинг.html) | Център за анализи и маркетинг | 0.0% | N/A | N/A | N/A | N/A |
-| [4–10 October 2021](2021-10-10-Алфарисърч.html) | Алфа рисърч | 0.0% | N/A | N/A | N/A | N/A |
-| [21–26 September 2021](2021-09-26-Gallup.html) | Gallup | 0.0% | N/A | N/A | N/A | N/A |
-| [14–20 September 2021](2021-09-20-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
-| [8–15 September 2021](2021-09-15-Тренд.html) | Тренд | 0.0% | N/A | N/A | N/A | N/A |
-| [8–15 September 2021](2021-09-15-Алфарисърч.html) | Алфа рисърч | 0.0% | N/A | N/A | N/A | N/A |
-| [2–10 September 2021](2021-09-10-Gallup.html) | Gallup | 0.0% | N/A | N/A | N/A | N/A |
-| [13–22 August 2021](2021-08-22-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
-| [23–30 July 2021](2021-07-30-Тренд.html) | Тренд <br> 24 часа | 0.0% | N/A | N/A | N/A | N/A |
-| [21–28 July 2021](2021-07-28-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 11.6% | 10.1–13.5% | 9.7–13.9% | 9.4–14.5% | 8.9–15.3% |
+| [27–29 September 2022](2022-09-29-Алфарисърч.html) | Алфа рисърч | 11.0% | 9.9–12.4% | 9.5–12.8% | 9.3–13.1% | 8.7–13.8% |
+| [21–27 September 2022](2022-09-27-Тренд.html) | Тренд <br> 24 chasa | 11.1% | 9.9–12.5% | 9.6–12.8% | 9.3–13.2% | 8.7–13.9% |
+| [20–27 September 2022](2022-09-27-GallupInternational.html) | Gallup International | 12.8% | 11.5–14.3% | 11.2–14.6% | 10.8–15.0% | 10.3–15.7% |
+| [17–23 September 2022](2022-09-23-MarketLinks.html) | Market Links <br> 24 chasa | 8.7% | N/A | N/A | N/A | N/A |
+| [10–17 September 2022](2022-09-17-Exacta.html) | Exacta | 9.5% | N/A | N/A | N/A | N/A |
+| [10–17 September 2022](2022-09-17-Estat.html) | Estat | 10.1% | N/A | N/A | N/A | N/A |
+| [6–12 September 2022](2022-09-12-SovaHarris.html) | Sova Harris <br> Dir.bg | 10.4% | N/A | N/A | N/A | N/A |
+| [2–10 September 2022](2022-09-10-GallupInternational.html) | Gallup International | 11.3% | N/A | N/A | N/A | N/A |
+| [29 August–4 September 2022](2022-09-04-Медиана.html) | Медиана | 12.5% | N/A | N/A | N/A | N/A |
+| [27 August–3 September 2022](2022-09-03-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 7.6% | N/A | N/A | N/A | N/A |
+| [27 August–2 September 2022](2022-09-02-Алфарисърч.html) | Алфа рисърч | 10.3% | N/A | N/A | N/A | N/A |
+| [15–22 August 2022](2022-08-22-Тренд.html) | Тренд <br> 24 часа | 10.3% | N/A | N/A | N/A | N/A |
+| [30 July–5 August 2022](2022-08-05-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 9.1% | N/A | N/A | N/A | N/A |
+| [5–12 July 2022](2022-07-12-Тренд.html) | Тренд <br> 24 часа | 9.6% | N/A | N/A | N/A | N/A |
+| [2–10 July 2022](2022-07-10-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 7.6% | N/A | N/A | N/A | N/A |
+| [25 June–1 July 2022](2022-07-01-Алфарисърч.html) | Алфа рисърч | 8.8% | N/A | N/A | N/A | N/A |
+| [4–11 May 2022](2022-05-11-Тренд.html) | Тренд <br> 24 часа | 10.0% | N/A | N/A | N/A | N/A |
+| [4–9 May 2022](2022-05-09-Центързаанализиимаркетинг.html) | Център за анализи и маркетинг | 8.6% | N/A | N/A | N/A | N/A |
+| [29 April–8 May 2022](2022-05-08-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 9.8% | N/A | N/A | N/A | N/A |
+| [29 April–6 May 2022](2022-05-06-Gallup.html) | Gallup | 10.6% | N/A | N/A | N/A | N/A |
+| [8–14 April 2022](2022-04-14-Алфарисърч.html) | Алфа рисърч | 10.8% | N/A | N/A | N/A | N/A |
+| [6–13 April 2022](2022-04-13-Тренд.html) | Тренд <br> 24 часа | 9.3% | N/A | N/A | N/A | N/A |
+| [31 March–8 April 2022](2022-04-08-Gallup.html) | Gallup | 7.9% | N/A | N/A | N/A | N/A |
+| [22–29 March 2022](2022-03-29-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 8.2% | N/A | N/A | N/A | N/A |
+| [5–12 March 2022](2022-03-12-Тренд.html) | Тренд <br> 24 часа | 7.3% | N/A | N/A | N/A | N/A |
+| [6–14 February 2022](2022-02-14-Алфарисърч.html) | Алфа рисърч | 6.4% | N/A | N/A | N/A | N/A |
+| [3–11 February 2022](2022-02-11-Gallup.html) | Gallup | 3.9% | N/A | N/A | N/A | N/A |
+| [12–19 January 2022](2022-01-19-Тренд.html) | Тренд <br> 24 часа | 6.0% | N/A | N/A | N/A | N/A |
+| [10–17 October 2021](2021-10-17-Gallup.html) | Gallup <br> BNR | 2.9% | N/A | N/A | N/A | N/A |
+| [5–12 October 2021](2021-10-12-SovaHarris.html) | Sova Harris <br> Dir.bg | 2.0% | N/A | N/A | N/A | N/A |
+| [6–12 October 2021](2021-10-12-Exacta.html) | Exacta | 1.8% | N/A | N/A | N/A | N/A |
+| [6–10 October 2021](2021-10-10-Центързаанализиимаркетинг.html) | Център за анализи и маркетинг | 1.7% | N/A | N/A | N/A | N/A |
+| [4–10 October 2021](2021-10-10-Алфарисърч.html) | Алфа рисърч | 3.0% | N/A | N/A | N/A | N/A |
+| [21–26 September 2021](2021-09-26-Gallup.html) | Gallup | 3.3% | N/A | N/A | N/A | N/A |
+| [14–20 September 2021](2021-09-20-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 3.4% | N/A | N/A | N/A | N/A |
+| [8–15 September 2021](2021-09-15-Тренд.html) | Тренд | 3.0% | N/A | N/A | N/A | N/A |
+| [8–15 September 2021](2021-09-15-Алфарисърч.html) | Алфа рисърч | 3.8% | N/A | N/A | N/A | N/A |
+| [2–10 September 2021](2021-09-10-Gallup.html) | Gallup | 3.2% | N/A | N/A | N/A | N/A |
+| [13–22 August 2021](2021-08-22-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 4.7% | N/A | N/A | N/A | N/A |
+| [23–30 July 2021](2021-07-30-Тренд.html) | Тренд <br> 24 часа | 2.9% | N/A | N/A | N/A | N/A |
+| [21–28 July 2021](2021-07-28-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 4.3% | N/A | N/A | N/A | N/A |
 | [21–28 July 2021](2021-07-28-MarketLinks.html) | Market Links <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
-| [3–7 July 2021](2021-07-07-Тренд.html) | Тренд <br> Nova | 0.0% | N/A | N/A | N/A | N/A |
-| [4–7 July 2021](2021-07-07-Алфарисърч.html) | Алфа рисърч | 0.0% | N/A | N/A | N/A | N/A |
-| [30 June–7 July 2021](2021-07-07-Gallup.html) | Gallup <br> BNR | 0.0% | N/A | N/A | N/A | N/A |
+| [3–7 July 2021](2021-07-07-Тренд.html) | Тренд <br> Nova | 3.1% | N/A | N/A | N/A | N/A |
+| [4–7 July 2021](2021-07-07-Алфарисърч.html) | Алфа рисърч | 3.2% | N/A | N/A | N/A | N/A |
+| [30 June–7 July 2021](2021-07-07-Gallup.html) | Gallup <br> BNR | 3.2% | N/A | N/A | N/A | N/A |
 | [2–6 July 2021](2021-07-06-SovaHarris.html) | Sova Harris <br> Dir.bg | 0.0% | N/A | N/A | N/A | N/A |
-| [1–5 July 2021](2021-07-05-Exacta.html) | Exacta | 0.0% | N/A | N/A | N/A | N/A |
-| [26 June–2 July 2021](2021-07-02-Медиана.html) | Медиана | 0.0% | N/A | N/A | N/A | N/A |
-| [23–30 June 2021](2021-06-30-Nasoca.html) | Nasoca | 0.0% | N/A | N/A | N/A | N/A |
-| [18–25 June 2021](2021-06-25-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
+| [1–5 July 2021](2021-07-05-Exacta.html) | Exacta | 2.7% | N/A | N/A | N/A | N/A |
+| [26 June–2 July 2021](2021-07-02-Медиана.html) | Медиана | 2.2% | N/A | N/A | N/A | N/A |
+| [23–30 June 2021](2021-06-30-Nasoca.html) | Nasoca | 2.3% | N/A | N/A | N/A | N/A |
+| [18–25 June 2021](2021-06-25-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 3.0% | N/A | N/A | N/A | N/A |
 | [18–25 June 2021](2021-06-25-MarketLinks.html) | Market Links <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
-| [11–18 June 2021](2021-06-18-Тренд.html) | Тренд <br> 24 часа | 0.0% | N/A | N/A | N/A | N/A |
-| [10–15 June 2021](2021-06-15-Медиана.html) | Медиана | 0.0% | N/A | N/A | N/A | N/A |
+| [11–18 June 2021](2021-06-18-Тренд.html) | Тренд <br> 24 часа | 2.3% | N/A | N/A | N/A | N/A |
+| [10–15 June 2021](2021-06-15-Медиана.html) | Медиана | 1.5% | N/A | N/A | N/A | N/A |
 | [10–15 June 2021](2021-06-15-SovaHarris.html) | Sova Harris <br> Dir.bg | 0.0% | N/A | N/A | N/A | N/A |
-| [3–11 June 2021](2021-06-11-Gallup.html) | Gallup <br> BNR | 0.0% | N/A | N/A | N/A | N/A |
-| [30 May–7 June 2021](2021-06-07-Алфарисърч.html) | Алфа рисърч | 0.0% | N/A | N/A | N/A | N/A |
-| [19–27 May 2021](2021-05-27-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
+| [3–11 June 2021](2021-06-11-Gallup.html) | Gallup <br> BNR | 2.7% | N/A | N/A | N/A | N/A |
+| [30 May–7 June 2021](2021-06-07-Алфарисърч.html) | Алфа рисърч | 2.8% | N/A | N/A | N/A | N/A |
+| [19–27 May 2021](2021-05-27-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 1.9% | N/A | N/A | N/A | N/A |
 | [19–27 May 2021](2021-05-27-MarketLinks.html) | Market Links <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
-| [7–14 May 2021](2021-05-14-Gallup.html) | Gallup | 0.0% | N/A | N/A | N/A | N/A |
-| [16–23 April 2021](2021-04-23-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
-| [24–31 March 2021](2021-03-31-Gallup.html) | Gallup <br> BNR | 0.0% | N/A | N/A | N/A | N/A |
-| [26–30 March 2021](2021-03-30-Тренд.html) | Тренд <br> Nova | 0.0% | N/A | N/A | N/A | N/A |
-| [27–30 March 2021](2021-03-30-ПИК.html) | ПИК | 0.0% | N/A | N/A | N/A | N/A |
-| [27–30 March 2021](2021-03-30-Алфарисърч.html) | Алфа рисърч | 0.0% | N/A | N/A | N/A | N/A |
-| [26–30 March 2021](2021-03-30-AFIS.html) | AFIS | 0.0% | N/A | N/A | N/A | N/A |
+| [7–14 May 2021](2021-05-14-Gallup.html) | Gallup | 2.6% | N/A | N/A | N/A | N/A |
+| [16–23 April 2021](2021-04-23-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 1.9% | N/A | N/A | N/A | N/A |
+| [24–31 March 2021](2021-03-31-Gallup.html) | Gallup <br> BNR | 1.5% | N/A | N/A | N/A | N/A |
+| [26–30 March 2021](2021-03-30-Тренд.html) | Тренд <br> Nova | 1.7% | N/A | N/A | N/A | N/A |
+| [27–30 March 2021](2021-03-30-ПИК.html) | ПИК | 1.8% | N/A | N/A | N/A | N/A |
+| [27–30 March 2021](2021-03-30-Алфарисърч.html) | Алфа рисърч | 1.8% | N/A | N/A | N/A | N/A |
+| [26–30 March 2021](2021-03-30-AFIS.html) | AFIS | 2.1% | N/A | N/A | N/A | N/A |
 | [23–29 March 2021](2021-03-29-Exacta.html) | Exacta | 0.0% | N/A | N/A | N/A | N/A |
-| [25–28 March 2021](2021-03-28-Рего.html) | Рего | 0.0% | N/A | N/A | N/A | N/A |
-| [19–23 March 2021](2021-03-23-ПИК.html) | ПИК <br> Pik | 0.0% | N/A | N/A | N/A | N/A |
-| [16–23 March 2021](2021-03-23-Медиана.html) | Медиана | 0.0% | N/A | N/A | N/A | N/A |
+| [25–28 March 2021](2021-03-28-Рего.html) | Рего | 1.6% | N/A | N/A | N/A | N/A |
+| [19–23 March 2021](2021-03-23-ПИК.html) | ПИК <br> Pik | 1.2% | N/A | N/A | N/A | N/A |
+| [16–23 March 2021](2021-03-23-Медиана.html) | Медиана | 1.5% | N/A | N/A | N/A | N/A |
 | [18–23 March 2021](2021-03-23-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
-| [11–16 March 2021](2021-03-16-SovaHarris.html) | Sova Harris <br> Trud | 0.0% | N/A | N/A | N/A | N/A |
-| [9–14 March 2021](2021-03-14-Тренд.html) | Тренд <br> 24 часа | 0.0% | N/A | N/A | N/A | N/A |
-| [26 February–1 March 2021](2021-03-01-Алфарисърч.html) | Алфа рисърч <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
-| [22 February–1 March 2021](2021-03-01-Gallup.html) | Gallup <br> BNR/BNT | 0.0% | N/A | N/A | N/A | N/A |
+| [11–16 March 2021](2021-03-16-SovaHarris.html) | Sova Harris <br> Trud | 0.7% | N/A | N/A | N/A | N/A |
+| [9–14 March 2021](2021-03-14-Тренд.html) | Тренд <br> 24 часа | 1.1% | N/A | N/A | N/A | N/A |
+| [26 February–1 March 2021](2021-03-01-Алфарисърч.html) | Алфа рисърч <br> bTV | 0.8% | N/A | N/A | N/A | N/A |
+| [22 February–1 March 2021](2021-03-01-Gallup.html) | Gallup <br> BNR/BNT | 1.3% | N/A | N/A | N/A | N/A |
 | [22–26 February 2021](2021-02-26-Медиана.html) | Медиана | 0.0% | N/A | N/A | N/A | N/A |
 | [17–24 February 2021](2021-02-24-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
 | [15–22 February 2021](2021-02-22-Exacta.html) | Exacta | 0.0% | N/A | N/A | N/A | N/A |
-| [12–19 February 2021](2021-02-19-Тренд.html) | Тренд <br> 24 часа/BNT | 0.0% | N/A | N/A | N/A | N/A |
-| [12–17 February 2021](2021-02-17-AFIS.html) | AFIS | 0.0% | N/A | N/A | N/A | N/A |
+| [12–19 February 2021](2021-02-19-Тренд.html) | Тренд <br> 24 часа/BNT | 1.1% | N/A | N/A | N/A | N/A |
+| [12–17 February 2021](2021-02-17-AFIS.html) | AFIS | 2.3% | N/A | N/A | N/A | N/A |
 | [4–12 February 2021](2021-02-12-Gallup.html) | Gallup | 0.0% | N/A | N/A | N/A | N/A |
 | [23–31 January 2021](2021-01-31-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
-| [26 January 2020–31 January 2021](2021-01-31-SovaHarris.html) | Sova Harris | 0.0% | N/A | N/A | N/A | N/A |
-| [12–19 January 2021](2021-01-19-Тренд.html) | Тренд <br> 24 часа | 0.0% | N/A | N/A | N/A | N/A |
-| [7–15 January 2021](2021-01-15-Gallup.html) | Gallup | 0.0% | N/A | N/A | N/A | N/A |
-| [15–21 December 2020](2020-12-21-Алфарисърч.html) | Алфа рисърч | 0.0% | N/A | N/A | N/A | N/A |
+| [26 January 2020–31 January 2021](2021-01-31-SovaHarris.html) | Sova Harris | 1.1% | N/A | N/A | N/A | N/A |
+| [12–19 January 2021](2021-01-19-Тренд.html) | Тренд <br> 24 часа | 1.1% | N/A | N/A | N/A | N/A |
+| [7–15 January 2021](2021-01-15-Gallup.html) | Gallup | 1.5% | N/A | N/A | N/A | N/A |
+| [15–21 December 2020](2020-12-21-Алфарисърч.html) | Алфа рисърч | 0.7% | N/A | N/A | N/A | N/A |
 | [12–17 December 2020](2020-12-17-Медиана.html) | Медиана | 0.0% | N/A | N/A | N/A | N/A |
 | [5–12 December 2020](2020-12-12-Exacta.html) | Exacta | 0.0% | N/A | N/A | N/A | N/A |
 | [27 October–3 November 2020](2020-11-03-SovaHarris.html) | Sova Harris | 0.0% | N/A | N/A | N/A | N/A |
 | [21–27 October 2020](2020-10-27-Рего.html) | Рего | 0.0% | N/A | N/A | N/A | N/A |
 | [3–10 October 2020](2020-10-10-Тренд.html) | Тренд <br> 24 часа | 0.0% | N/A | N/A | N/A | N/A |
 | [1–9 October 2020](2020-10-09-Gallup.html) | Gallup | 0.0% | N/A | N/A | N/A | N/A |
-| [21–30 September 2020](2020-09-30-Алфарисърч.html) | Алфа рисърч | 0.0% | N/A | N/A | N/A | N/A |
+| [21–30 September 2020](2020-09-30-Алфарисърч.html) | Алфа рисърч | 0.9% | N/A | N/A | N/A | N/A |
 | [18–26 September 2020](2020-09-26-МаркетЛИНКС.html) | Маркет ЛИНКС | 0.0% | N/A | N/A | N/A | N/A |
 | [3–11 September 2020](2020-09-11-Gallup.html) | Gallup | 0.0% | N/A | N/A | N/A | N/A |
-| [29 August–5 September 2020](2020-09-05-Тренд.html) | Тренд <br> 24 часа | 0.0% | N/A | N/A | N/A | N/A |
-| [19–25 August 2020](2020-08-25-SovaHarris.html) | Sova Harris | 0.0% | N/A | N/A | N/A | N/A |
-| [3–10 August 2020](2020-08-10-Тренд.html) | Тренд <br> 24 часа | 0.0% | N/A | N/A | N/A | N/A |
+| [29 August–5 September 2020](2020-09-05-Тренд.html) | Тренд <br> 24 часа | 1.2% | N/A | N/A | N/A | N/A |
+| [19–25 August 2020](2020-08-25-SovaHarris.html) | Sova Harris | 0.6% | N/A | N/A | N/A | N/A |
+| [3–10 August 2020](2020-08-10-Тренд.html) | Тренд <br> 24 часа | 0.8% | N/A | N/A | N/A | N/A |
 | [30 July–7 August 2020](2020-08-07-Gallup.html) | Gallup | 0.0% | N/A | N/A | N/A | N/A |
 | [1–5 August 2020](2020-08-05-ПИК.html) | ПИК | 0.0% | N/A | N/A | N/A | N/A |
 | [28 July–3 August 2020](2020-08-03-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
-| [23–30 July 2020](2020-07-30-Алфарисърч.html) | Алфа рисърч <br> Дневник | 0.0% | N/A | N/A | N/A | N/A |
-| [26 June–1 July 2020](2020-07-01-SovaHarris.html) | Sova Harris | 0.0% | N/A | N/A | N/A | N/A |
+| [23–30 July 2020](2020-07-30-Алфарисърч.html) | Алфа рисърч <br> Дневник | 0.5% | N/A | N/A | N/A | N/A |
+| [26 June–1 July 2020](2020-07-01-SovaHarris.html) | Sova Harris | 2.8% | N/A | N/A | N/A | N/A |
 | [27 May–3 June 2020](2020-06-03-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
 | [28 April–5 May 2020](2020-05-05-Алфарисърч.html) | Алфа рисърч <br> Дневник | 0.0% | N/A | N/A | N/A | N/A |
 | [21–28 February 2020](2020-02-28-Медиана.html) | Медиана | 0.0% | N/A | N/A | N/A | N/A |
@@ -127,20 +127,28 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Български възход (*).
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Възраждане (NI).
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 5% | 99.9% |  |
-| 2.5–3.5% | 12% | 95% |  |
-| 3.5–4.5% | 36% | 83% | Median |
-| 4.5–5.5% | 34% | 46% |  |
-| 5.5–6.5% | 11% | 12% |  |
-| 6.5–7.5% | 1.3% | 1.4% |  |
-| 7.5–8.5% | 0.1% | 0.1% |  |
-| 8.5–9.5% | 0% | 0% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 0% | 100% |  |
+| 5.5–6.5% | 0% | 100% |  |
+| 6.5–7.5% | 0% | 100% |  |
+| 7.5–8.5% | 0.2% | 100% |  |
+| 8.5–9.5% | 3% | 99.8% |  |
+| 9.5–10.5% | 16% | 97% |  |
+| 10.5–11.5% | 29% | 81% |  |
+| 11.5–12.5% | 25% | 52% | Median |
+| 12.5–13.5% | 18% | 26% |  |
+| 13.5–14.5% | 7% | 9% |  |
+| 14.5–15.5% | 2% | 2% |  |
+| 15.5–16.5% | 0.3% | 0.3% |  |
+| 16.5–17.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -151,27 +159,27 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [27–29 September 2022](2022-09-29-Алфарисърч.html) | Алфа рисърч | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [21–27 September 2022](2022-09-27-Тренд.html) | Тренд <br> 24 chasa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [20–27 September 2022](2022-09-27-GallupInternational.html) | Gallup International | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [17–23 September 2022](2022-09-23-MarketLinks.html) | Market Links <br> 24 chasa | 0 | 0 | 0 | 0 | 0 |
-| [10–17 September 2022](2022-09-17-Exacta.html) | Exacta | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [10–17 September 2022](2022-09-17-Estat.html) | Estat | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [6–12 September 2022](2022-09-12-SovaHarris.html) | Sova Harris <br> Dir.bg | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [2–10 September 2022](2022-09-10-GallupInternational.html) | Gallup International | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [29 August–4 September 2022](2022-09-04-Медиана.html) | Медиана | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [27 August–3 September 2022](2022-09-03-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [27 August–2 September 2022](2022-09-02-Алфарисърч.html) | Алфа рисърч | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [15–22 August 2022](2022-08-22-Тренд.html) | Тренд <br> 24 часа | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [30 July–5 August 2022](2022-08-05-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| [27–29 September 2022](2022-09-29-Алфарисърч.html) | Алфа рисърч | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [21–27 September 2022](2022-09-27-Тренд.html) | Тренд <br> 24 chasa | 2 | 2 | 2 | 2 | 2–3 |
+| [20–27 September 2022](2022-09-27-GallupInternational.html) | Gallup International |  |  |  |  |  |
+| [17–23 September 2022](2022-09-23-MarketLinks.html) | Market Links <br> 24 chasa |  |  |  |  |  |
+| [10–17 September 2022](2022-09-17-Exacta.html) | Exacta |  |  |  |  |  |
+| [10–17 September 2022](2022-09-17-Estat.html) | Estat |  |  |  |  |  |
+| [6–12 September 2022](2022-09-12-SovaHarris.html) | Sova Harris <br> Dir.bg |  |  |  |  |  |
+| [2–10 September 2022](2022-09-10-GallupInternational.html) | Gallup International |  |  |  |  |  |
+| [29 August–4 September 2022](2022-09-04-Медиана.html) | Медиана |  |  |  |  |  |
+| [27 August–3 September 2022](2022-09-03-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
+| [27 August–2 September 2022](2022-09-02-Алфарисърч.html) | Алфа рисърч |  |  |  |  |  |
+| [15–22 August 2022](2022-08-22-Тренд.html) | Тренд <br> 24 часа |  |  |  |  |  |
+| [30 July–5 August 2022](2022-08-05-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
 | [5–12 July 2022](2022-07-12-Тренд.html) | Тренд <br> 24 часа |  |  |  |  |  |
-| [2–10 July 2022](2022-07-10-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [25 June–1 July 2022](2022-07-01-Алфарисърч.html) | Алфа рисърч | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| [2–10 July 2022](2022-07-10-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
+| [25 June–1 July 2022](2022-07-01-Алфарисърч.html) | Алфа рисърч |  |  |  |  |  |
 | [4–11 May 2022](2022-05-11-Тренд.html) | Тренд <br> 24 часа |  |  |  |  |  |
-| [4–9 May 2022](2022-05-09-Центързаанализиимаркетинг.html) | Център за анализи и маркетинг | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [4–9 May 2022](2022-05-09-Центързаанализиимаркетинг.html) | Център за анализи и маркетинг |  |  |  |  |  |
 | [29 April–8 May 2022](2022-05-08-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
-| [29 April–6 May 2022](2022-05-06-Gallup.html) | Gallup | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [29 April–6 May 2022](2022-05-06-Gallup.html) | Gallup |  |  |  |  |  |
 | [8–14 April 2022](2022-04-14-Алфарисърч.html) | Алфа рисърч |  |  |  |  |  |
 | [6–13 April 2022](2022-04-13-Тренд.html) | Тренд <br> 24 часа |  |  |  |  |  |
 | [31 March–8 April 2022](2022-04-08-Gallup.html) | Gallup |  |  |  |  |  |
@@ -268,14 +276,16 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-българскивъзход.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-възражданеni.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average.html) for Български възход (*).
+The following table shows the probability mass function per seat for the [poll average](average.html) for Възраждане (NI).
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 70% | 100% | Last Result, Median |
-| 1 | 30% | 30% |  |
-| 2 | 0% | 0% |  |
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 93% | 100% | Median |
+| 3 | 7% | 7% |  |
+| 4 | 0% | 0% |  |
 
 
