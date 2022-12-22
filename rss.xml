@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/bulgarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 21 Oct 2022 21:27:40 +0200</pubDate>
+    <pubDate>Thu, 22 Dec 2022 18:41:55 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Тренд for 24 chasa, 1–8 December 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2022-12-08-Тренд.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Движение за права и свободи (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Има такъв народ (NI): 0 seats&lt;/li&gt;&lt;li&gt;Възраждане (NI): 2 seats&lt;/li&gt;&lt;li&gt;Продължаваме промяната (Greens/EFA): 3–4 seats&lt;/li&gt;&lt;li&gt;Български възход (*): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2022-12-08-Тренд-seats.png"
+        length="244658"
+        type="image/png"/>
+      <pubDate>Thu, 22 Dec 2022 18:41:55 +0100</pubDate>
+      <dc:date>2022-12-22T18:41:55.338159+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Тренд for 24 chasa, 1–8 December 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2022-12-08-Тренд.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2022-12-08-Тренд-coalitions-seats.png"
+        length="198056"
+        type="image/png"/>
+      <pubDate>Thu, 22 Dec 2022 18:41:55 +0100</pubDate>
+      <dc:date>2022-12-22T18:41:55.338159+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Тренд for 24 chasa, 1–8 December 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2022-12-08-Тренд.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 23.2–28.6%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 7.3–10.9%&lt;/li&gt;&lt;li&gt;Движение за права и свободи (RE): 9.8–13.8%&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 5.8–9.0%&lt;/li&gt;&lt;li&gt;Има такъв народ (NI): 2.2–4.4%&lt;/li&gt;&lt;li&gt;Възраждане (NI): 9.5–13.5%&lt;/li&gt;&lt;li&gt;Продължаваме промяната (Greens/EFA): 16.9–21.8%&lt;/li&gt;&lt;li&gt;Български възход (*): 2.9–5.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2022-12-08-Тренд.png"
+        length="316882"
+        type="image/png"/>
+      <pubDate>Thu, 22 Dec 2022 18:41:55 +0100</pubDate>
+      <dc:date>2022-12-22T18:41:55.338159+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Алфа рисърч, 27–29 September 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2022-09-29-Алфарисърч.html#seats</link>
@@ -2649,6 +2679,6 @@
       <pubDate>Sat, 05 Dec 2020 14:18:33 +0100</pubDate>
       <dc:date>2020-12-05T14:18:33+01:00</dc:date>
     </item>
-    <dc:date>2022-10-21T21:27:40.137926+02:00</dc:date>
+    <dc:date>2022-12-22T18:41:55.338159+01:00</dc:date>
   </channel>
 </rss>
