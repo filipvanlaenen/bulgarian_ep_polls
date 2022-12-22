@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.5% | 3.5–6.5% | 3.2–7.2% | 3.0–7.6% | 2.7–8.5% |
+| N/A | [Poll Average](average.html) | 4.1% | 3.0–5.6% | 2.8–6.0% | 2.5–6.3% | 2.2–7.0% |
+| [1–8 December 2022](2022-12-08-Тренд.html) | Тренд <br> 24 chasa | 3.1% | 2.5–3.9% | 2.3–4.1% | 2.2–4.4% | 1.9–4.8% |
 | [27–29 September 2022](2022-09-29-Алфарисърч.html) | Алфа рисърч | 4.0% | 3.3–4.9% | 3.1–5.2% | 3.0–5.4% | 2.7–5.9% |
 | [21–27 September 2022](2022-09-27-Тренд.html) | Тренд <br> 24 chasa | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
 | [20–27 September 2022](2022-09-27-GallupInternational.html) | Gallup International | 4.2% | 3.5–5.1% | 3.3–5.3% | 3.1–5.6% | 2.8–6.1% |
@@ -133,15 +134,14 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.2% | 100% |  |
-| 2.5–3.5% | 13% | 99.8% |  |
-| 3.5–4.5% | 41% | 87% | Median |
-| 4.5–5.5% | 25% | 46% |  |
-| 5.5–6.5% | 12% | 21% |  |
-| 6.5–7.5% | 6% | 9% |  |
-| 7.5–8.5% | 3% | 3% |  |
-| 8.5–9.5% | 0.4% | 0.4% |  |
-| 9.5–10.5% | 0% | 0% |  |
+| 1.5–2.5% | 3% | 100% |  |
+| 2.5–3.5% | 24% | 97% |  |
+| 3.5–4.5% | 41% | 73% | Median |
+| 4.5–5.5% | 22% | 33% |  |
+| 5.5–6.5% | 9% | 10% |  |
+| 6.5–7.5% | 1.4% | 2% |  |
+| 7.5–8.5% | 0.1% | 0.1% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -152,7 +152,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [1–8 December 2022](2022-12-08-Тренд.html) | Тренд <br> 24 chasa | 0 | 0 | 0 | 0 | 0 |
 | [27–29 September 2022](2022-09-29-Алфарисърч.html) | Алфа рисърч | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [21–27 September 2022](2022-09-27-Тренд.html) | Тренд <br> 24 chasa | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [20–27 September 2022](2022-09-27-GallupInternational.html) | Gallup International | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -275,9 +276,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 69% | 100% | Last Result, Median |
-| 1 | 30% | 31% |  |
-| 2 | 2% | 2% |  |
-| 3 | 0% | 0% |  |
+| 0 | 81% | 100% | Last Result, Median |
+| 1 | 19% | 19% |  |
+| 2 | 0% | 0% |  |
 
 

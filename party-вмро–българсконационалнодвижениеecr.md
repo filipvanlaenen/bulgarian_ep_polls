@@ -10,7 +10,8 @@ Last result: **10.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 0.8–2.0% | 0.7–2.2% | 0.6–2.4% | 0.5–2.8% |
+| N/A | [Poll Average](average.html) | 1.5% | 1.0–2.2% | 0.9–2.4% | 0.8–2.6% | 0.6–3.0% |
+| [1–8 December 2022](2022-12-08-Тренд.html) | Тренд <br> 24 chasa | 0.0% | N/A | N/A | N/A | N/A |
 | [27–29 September 2022](2022-09-29-Алфарисърч.html) | Алфа рисърч | 1.8% | 1.3–2.4% | 1.2–2.6% | 1.1–2.8% | 0.9–3.1% |
 | [21–27 September 2022](2022-09-27-Тренд.html) | Тренд <br> 24 chasa | 1.2% | 0.9–1.8% | 0.8–1.9% | 0.7–2.1% | 0.5–2.4% |
 | [20–27 September 2022](2022-09-27-GallupInternational.html) | Gallup International | 1.2% | 0.9–1.8% | 0.8–1.9% | 0.7–2.1% | 0.5–2.4% |
@@ -131,10 +132,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.8% | 100% |  |
-| 0.5–1.5% | 69% | 99.2% | Median |
-| 1.5–2.5% | 29% | 30% |  |
-| 2.5–3.5% | 1.4% | 1.4% |  |
+| 0.0–0.5% | 0.2% | 100% |  |
+| 0.5–1.5% | 52% | 99.8% |  |
+| 1.5–2.5% | 45% | 48% | Median |
+| 2.5–3.5% | 3% | 3% |  |
 | 3.5–4.5% | 0% | 0% |  |
 | 4.5–5.5% | 0% | 0% |  |
 | 5.5–6.5% | 0% | 0% |  |
@@ -154,6 +155,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [1–8 December 2022](2022-12-08-Тренд.html) | Тренд <br> 24 chasa |  |  |  |  |  |
 | [27–29 September 2022](2022-09-29-Алфарисърч.html) | Алфа рисърч | 0 | 0 | 0 | 0 | 0 |
 | [21–27 September 2022](2022-09-27-Тренд.html) | Тренд <br> 24 chasa | 0 | 0 | 0 | 0 | 0 |
 | [20–27 September 2022](2022-09-27-GallupInternational.html) | Gallup International | 0 | 0 | 0 | 0 | 0 |
