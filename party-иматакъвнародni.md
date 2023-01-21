@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.1% | 2.0–4.6% | 1.8–4.9% | 1.6–5.2% | 1.4–5.7% |
+| N/A | [Poll Average](average.html) | 2.7% | 1.9–3.6% | 1.7–3.9% | 1.5–4.1% | 1.3–4.6% |
 | [10–20 December 2022](2022-12-20-MarketLinks.html) | Market Links <br> bTV | 2.2% | 1.7–2.9% | 1.5–3.1% | 1.4–3.2% | 1.2–3.6% |
 | [1–13 December 2022](2022-12-13-Алфарисърч.html) | Алфа рисърч | 0.0% | N/A | N/A | N/A | N/A |
 | [1–8 December 2022](2022-12-08-Тренд.html) | Тренд <br> 24 chasa | 3.1% | 2.5–3.9% | 2.3–4.1% | 2.2–4.4% | 1.9–4.8% |
@@ -135,13 +135,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 27% | 98% |  |
-| 2.5–3.5% | 34% | 71% | Median |
-| 3.5–4.5% | 27% | 37% |  |
-| 4.5–5.5% | 10% | 10% |  |
-| 5.5–6.5% | 0.9% | 0.9% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 0.5–1.5% | 3% | 100% |  |
+| 1.5–2.5% | 41% | 97% |  |
+| 2.5–3.5% | 44% | 56% | Median |
+| 3.5–4.5% | 12% | 12% |  |
+| 4.5–5.5% | 0.6% | 0.6% |  |
+| 5.5–6.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -152,7 +151,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [10–20 December 2022](2022-12-20-MarketLinks.html) | Market Links <br> bTV | 0 | 0 | 0 | 0 | 0 |
 | [1–13 December 2022](2022-12-13-Алфарисърч.html) | Алфа рисърч |  |  |  |  |  |
 | [1–8 December 2022](2022-12-08-Тренд.html) | Тренд <br> 24 chasa | 0 | 0 | 0 | 0 | 0 |
@@ -278,8 +277,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 96% | 100% | Last Result, Median |
-| 1 | 4% | 4% |  |
+| 0 | 99.9% | 100% | Last Result, Median |
+| 1 | 0.1% | 0.1% |  |
 | 2 | 0% | 0% |  |
 
 
