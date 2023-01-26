@@ -16,7 +16,7 @@
 | Възраждане (NI) | 0.0% | 10.0% | 8.9–11.3% |8.6–11.7% |8.3–12.0% |7.8–12.6% |
 | Българска социалистическа партия (S&D) | 18.9% | 9.6% | 8.5–10.9% |8.2–11.2% |7.9–11.6% |7.4–12.2% |
 | Демократична България (EPP) | 0.0% | 8.3% | 7.3–9.5% |7.0–9.9% |6.8–10.2% |6.3–10.8% |
-| Български възход (*) | 0.0% | 2.6% | 2.1–3.4% |2.0–3.6% |1.8–3.8% |1.6–4.2% |
+| Български възход (NI) | 0.0% | 2.6% | 2.1–3.4% |2.0–3.6% |1.8–3.8% |1.6–4.2% |
 | Има такъв народ (NI) | 0.0% | 2.2% | 1.7–2.9% |1.5–3.1% |1.4–3.2% |1.2–3.6% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
@@ -37,7 +37,7 @@
 | <a href="#възраждане-(ni)">Възраждане (NI)</a> | 0 | 2 | 2 |1–2 |1–2 |1–2 |
 | <a href="#българска-социалистическа-партия-(s&d)">Българска социалистическа партия (S&D)</a> | 4 | 2 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#демократична-българия-(epp)">Демократична България (EPP)</a> | 0 | 1 | 1–2 |1–2 |1–2 |1–2 |
-| <a href="#български-възход-(*)">Български възход (*)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#български-възход-(ni)">Български възход (NI)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#има-такъв-народ-(ni)">Има такъв народ (NI)</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### Граждани за европейско развитие на България (EPP)
@@ -119,11 +119,11 @@
 | 2 | 28% | 28% |  |
 | 3 | 0% | 0% |  |
 
-### Български възход (*)
+### Български възход (NI)
 
-*For a full overview of the results for this party, see the [Български възход (*)](party-българскивъзход.html) page.*
+*For a full overview of the results for this party, see the [Български възход (NI)](party-българскивъзходni.html) page.*
 
-![Graph with seats probability mass function not yet produced](2022-12-20-MarketLinks-seats-pmf-българскивъзход.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2022-12-20-MarketLinks-seats-pmf-българскивъзходni.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
