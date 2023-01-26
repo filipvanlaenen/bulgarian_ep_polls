@@ -40,7 +40,7 @@ Only polls for which at least the sample size has been published are included in
 + **Воля–НФСБ:** Воля–Национален фронт за спасение на България (ID)
 + **БП:** Българските патриоти (ECR)
 + **ПП:** Продължаваме промяната (Greens/EFA)
-+ **БВ:** Български възход (*)
++ **БВ:** Български възход (NI)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
@@ -72,7 +72,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#изправи-се-бг-(epp)">Изправи се Бг (EPP)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#републиканци-за-българия-(*)">Републиканци за България (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#продължаваме-промяната-(greens/efa)">Продължаваме промяната (Greens/EFA)</a> | 0.0% | 19.1% | 15.7–21.7% |15.1–22.3% | 14.7–22.9% | 13.9–23.8% |
-| <a href="#български-възход-(*)">Български възход (*)</a> | 0.0% | 4.0% | 2.4–5.5% |2.2–5.9% | 2.0–6.2% | 1.7–6.8% |
+| <a href="#български-възход-(ni)">Български възход (NI)</a> | 0.0% | 4.0% | 2.4–5.5% |2.2–5.9% | 2.0–6.2% | 1.7–6.8% |
 
 ### Граждани за европейско развитие на България (EPP)
 
@@ -227,9 +227,9 @@ Only polls for which at least the sample size has been published are included in
 | 24.5–25.5% | 0.1% | 0.1% |  |
 | 25.5–26.5% | 0% | 0% |  |
 
-### Български възход (*)
+### Български възход (NI)
 
-*For a full overview of the results for this party, see the [Български възход (*)](party-българскивъзход.html) page.*
+*For a full overview of the results for this party, see the [Български възход (NI)](party-българскивъзходni.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -274,7 +274,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#изправи-се-бг-(epp)">Изправи се Бг (EPP)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#републиканци-за-българия-(*)">Републиканци за България (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#продължаваме-промяната-(greens/efa)">Продължаваме промяната (Greens/EFA)</a> | 0 | 3 | 3–4 |3–4 | 3–4 | 2–4 |
-| <a href="#български-възход-(*)">Български възход (*)</a> | 0 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
+| <a href="#български-възход-(ni)">Български възход (NI)</a> | 0 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
 
 ### Граждани за европейско развитие на България (EPP)
 
@@ -448,11 +448,11 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
 
-### Български възход (*)
+### Български възход (NI)
 
-*For a full overview of the results for this party, see the [Български възход (*)](party-българскивъзход.html) page.*
+*For a full overview of the results for this party, see the [Български възход (NI)](party-българскивъзходni.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-българскивъзход.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-българскивъзходni.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -472,11 +472,11 @@ Only polls for which at least the sample size has been published are included in
 | Граждани за европейско развитие на България (EPP) – Реформаторски блок (EPP) – Демократи за силна България (EPP) – Демократична България (EPP) – Изправи се Бг (EPP) | 7 | 6 | 0% | 5–7 | 5–7 | 5–7 | 5–7 |
 | Продължаваме промяната (Greens/EFA) | 0 | 3 | 0% | 3–4 | 3–4 | 3–4 | 2–4 |
 | Движение за права и свободи (RE) | 4 | 2 | 0% | 2 | 2–3 | 2–3 | 2–3 |
+| Атака (NI) – Български възход (NI) – Възраждане (NI) – Има такъв народ (NI) | 0 | 2 | 0% | 2–3 | 2–3 | 1–3 | 1–3 |
 | Българска социалистическа партия (S&D) – Алтернатива за българско възраждане (S&D) | 4 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
-| Атака (NI) – Възраждане (NI) – Има такъв народ (NI) | 0 | 2 | 0% | 2 | 2 | 1–2 | 1–3 |
-| Национален фронт за спасение на България (*) – Български възход (*) – Да, България! (*) – Републиканци за България (*) | 1 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 | Българските патриоти (ECR) – ВМРО–Българско Национално Движение (ECR) – Обединени Патриоти (ECR) | 4 | 0 | 0% | 0 | 0 | 0 | 0 |
 | Воля–Национален фронт за спасение на България (ID) – Воля (ID) | 1 | 0 | 0% | 0 | 0 | 0 | 0 |
+| Национален фронт за спасение на България (*) – Да, България! (*) – Републиканци за България (*) | 1 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Граждани за европейско развитие на България (EPP) – Реформаторски блок (EPP) – Демократи за силна България (EPP) – Демократична България (EPP) – Изправи се Бг (EPP)
 
@@ -515,6 +515,19 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 6% | 6% |  |
 | 4 | 0% | 0% | Last Result |
 
+### Атака (NI) – Български възход (NI) – Възраждане (NI) – Има такъв народ (NI)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-атака–бв–в–итн.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 3% | 100% |  |
+| 2 | 74% | 97% | Median |
+| 3 | 23% | 23% |  |
+| 4 | 0.3% | 0.3% |  |
+| 5 | 0% | 0% |  |
+
 ### Българска социалистическа партия (S&D) – Алтернатива за българско възраждане (S&D)
 
 ![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-бсп–абв.png "Seats Probability Mass Function")
@@ -525,28 +538,6 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 87% | 87% | Median |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
-
-### Атака (NI) – Възраждане (NI) – Има такъв народ (NI)
-
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-атака–в–итн.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 3% | 100% |  |
-| 2 | 95% | 97% | Median |
-| 3 | 2% | 2% |  |
-| 4 | 0% | 0% |  |
-
-### Национален фронт за спасение на България (*) – Български възход (*) – Да, България! (*) – Републиканци за България (*)
-
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-нфсб–бв–да–рзб.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 79% | 100% | Median |
-| 1 | 21% | 21% | Last Result |
-| 2 | 0% | 0% |  |
 
 ### Българските патриоти (ECR) – ВМРО–Българско Национално Движение (ECR) – Обединени Патриоти (ECR)
 
@@ -563,6 +554,15 @@ Only polls for which at least the sample size has been published are included in
 ### Воля–Национален фронт за спасение на България (ID) – Воля (ID)
 
 ![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-воля–нфсб–воля.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Median |
+| 1 | 0% | 0% | Last Result |
+
+### Национален фронт за спасение на България (*) – Да, България! (*) – Републиканци за България (*)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-нфсб–да–рзб.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
