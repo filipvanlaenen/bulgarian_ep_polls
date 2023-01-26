@@ -148,7 +148,7 @@ Only polls for which at least the sample size has been published are included in
 + **Воля–НФСБ:** Воля–Национален фронт за спасение на България (ID)
 + **БП:** Българските патриоти (ECR)
 + **ПП:** Продължаваме промяната (Greens/EFA)
-+ **БВ:** Български възход (*)
++ **БВ:** Български възход (NI)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
