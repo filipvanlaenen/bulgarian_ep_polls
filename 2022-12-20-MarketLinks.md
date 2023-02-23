@@ -149,7 +149,6 @@
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Движение за права и свободи (RE) | 4 | 2 | 0% | 2 | 2 | 2–3 | 2–3 |
-| Продължаваме промяната (Greens/EFA) | 0 | 3 | 0% | 3 | 3 | 2–3 | 2–3 |
 
 ### Движение за права и свободи (RE)
 
@@ -160,19 +159,6 @@
 | 2 | 97% | 100% | Median |
 | 3 | 3% | 3% |  |
 | 4 | 0% | 0% | Last Result |
-
-### Продължаваме промяната (Greens/EFA)
-
-![Graph with seats probability mass function not yet produced](2022-12-20-MarketLinks-coalitions-seats-pmf-пп.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 5% | 100% |  |
-| 3 | 95% | 95% | Median |
-| 4 | 0.2% | 0.2% |  |
-| 5 | 0% | 0% |  |
 
 
 ## Technical Information

@@ -1,10 +1,10 @@
-# Българска социалистическа партия (S&D)
+# Продължаваме промяната–Демократична България (Greens/EFA)
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
 
 ## Voting Intentions
 
-Last result: **18.9%** (General Election of 26 May 2019)
+Last result: **0.0%** (General Election of 26 May 2019)
 
 ### Confidence Intervals
 
