@@ -174,7 +174,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [19–24 February 2023](2023-02-24-Медиана.html) | Медиана | 0 | 0 | 0 | 0 | 0–1 |
 | [2–12 February 2023](2023-02-12-GallupInternational.html) | Gallup International | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [4–11 February 2023](2023-02-11-Тренд.html) | Тренд <br> 24 chasa | 0 | 0 | 0 | 0 | 0–1 |
-| [30 January–4 February 2023](2023-02-04-Exacta.html) | Exacta | 0 | 0 | 0 | 0 | 0 |
+| [30 January–4 February 2023](2023-02-04-Exacta.html) | Exacta | 0 | 0 | 0 | 0 | 0–1 |
 | [10–20 December 2022](2022-12-20-MarketLinks.html) | Market Links <br> bTV | 0 | 0 | 0 | 0 | 0 |
 | [1–13 December 2022](2022-12-13-Алфарисърч.html) | Алфа рисърч |  |  |  |  |  |
 | [5–12 December 2022](2022-12-12-Exacta.html) | Exacta | 0 | 0 | 0 | 0 | 0 |
