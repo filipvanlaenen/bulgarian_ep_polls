@@ -10,7 +10,12 @@ Last result: **30.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.6% | 24.8–28.4% | 24.3–29.0% | 23.8–29.4% | 23.0–30.4% |
+| N/A | [Poll Average](average.html) | 26.6% | 24.6–29.2% | 24.0–29.9% | 23.6–30.5% | 22.7–31.7% |
+| [4–11 July 2023](2023-07-11-Тренд.html) | Тренд <br> 24 chasa | 26.5% | 24.8–28.5% | 24.2–29.0% | 23.8–29.5% | 23.0–30.4% |
+| [29 June–9 July 2023](2023-07-09-GallupInternational.html) | Gallup International | 26.5% | 24.5–28.5% | 24.0–29.1% | 23.5–29.6% | 22.6–30.6% |
+| [22 June–2 July 2023](2023-07-02-MarketLinks.html) | Market Links <br> bTV | 28.7% | 26.9–30.7% | 26.4–31.2% | 26.0–31.7% | 25.1–32.6% |
+| [20–26 June 2023](2023-06-26-Алфарисърч.html) | Алфа рисърч | 25.9% | 24.2–27.8% | 23.7–28.3% | 23.3–28.8% | 22.4–29.7% |
+| [12–20 June 2023](2023-06-20-Exacta.html) | Exacta | 25.9% | 24.2–27.8% | 23.7–28.3% | 23.3–28.8% | 22.5–29.7% |
 | [10–16 June 2023](2023-06-16-Тренд.html) | Тренд <br> 24 chasa | 26.5% | 24.8–28.4% | 24.2–29.0% | 23.8–29.4% | 23.0–30.4% |
 | [27 April–5 May 2023](2023-05-05-GallupInternational.html) | Gallup International | 26.8% | 24.8–28.9% | 24.3–29.4% | 23.8–29.9% | 22.9–31.0% |
 | [17–22 March 2023](2023-03-22-Медиана.html) | Медиана | 24.6% | 22.9–26.5% | 22.5–27.0% | 22.0–27.5% | 21.2–28.3% |
@@ -149,17 +154,19 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 20.5–21.5% | 0% | 100% |  |
-| 21.5–22.5% | 0.2% | 100% |  |
-| 22.5–23.5% | 1.4% | 99.8% |  |
-| 23.5–24.5% | 6% | 98% |  |
-| 24.5–25.5% | 16% | 92% |  |
-| 25.5–26.5% | 26% | 76% |  |
-| 26.5–27.5% | 26% | 50% | Median |
-| 27.5–28.5% | 16% | 24% |  |
-| 28.5–29.5% | 7% | 9% |  |
-| 29.5–30.5% | 2% | 2% | Last Result |
-| 30.5–31.5% | 0.3% | 0.3% |  |
-| 31.5–32.5% | 0% | 0% |  |
+| 21.5–22.5% | 0.3% | 100% |  |
+| 22.5–23.5% | 2% | 99.6% |  |
+| 23.5–24.5% | 7% | 98% |  |
+| 24.5–25.5% | 16% | 90% |  |
+| 25.5–26.5% | 22% | 74% |  |
+| 26.5–27.5% | 21% | 52% | Median |
+| 27.5–28.5% | 15% | 31% |  |
+| 28.5–29.5% | 9% | 16% |  |
+| 29.5–30.5% | 5% | 7% | Last Result |
+| 30.5–31.5% | 2% | 2% |  |
+| 31.5–32.5% | 0.5% | 0.6% |  |
+| 32.5–33.5% | 0.1% | 0.1% |  |
+| 33.5–34.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -170,7 +177,12 @@ Last result: **6** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 5 | 4–5 | 4–6 | 4–6 |
+| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
+| [4–11 July 2023](2023-07-11-Тренд.html) | Тренд <br> 24 chasa | 5 | 5 | 4–6 | 4–6 | 4–6 |
+| [29 June–9 July 2023](2023-07-09-GallupInternational.html) | Gallup International | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [22 June–2 July 2023](2023-07-02-MarketLinks.html) | Market Links <br> bTV | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| [20–26 June 2023](2023-06-26-Алфарисърч.html) | Алфа рисърч | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [12–20 June 2023](2023-06-20-Exacta.html) | Exacta | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [10–16 June 2023](2023-06-16-Тренд.html) | Тренд <br> 24 chasa | 5 | 5 | 4–5 | 4–6 | 4–6 |
 | [27 April–5 May 2023](2023-05-05-GallupInternational.html) | Gallup International | 5 | 5 | 4–6 | 4–6 | 4–6 |
 | [17–22 March 2023](2023-03-22-Медиана.html) | Медиана | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
@@ -310,9 +322,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 8% | 100% |  |
-| 5 | 88% | 92% | Median |
-| 6 | 4% | 4% | Last Result |
+| 4 | 15% | 100% |  |
+| 5 | 80% | 85% | Median |
+| 6 | 5% | 5% | Last Result |
 | 7 | 0% | 0% |  |
 
 

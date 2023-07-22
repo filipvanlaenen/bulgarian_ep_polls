@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.4% | 1.8–3.1% | 1.7–3.3% | 1.5–3.5% | 1.3–3.9% |
+| N/A | [Poll Average](average.html) | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.5% |
+| [4–11 July 2023](2023-07-11-Тренд.html) | Тренд <br> 24 chasa | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.4% |
+| [29 June–9 July 2023](2023-07-09-GallupInternational.html) | Gallup International | 2.0% | 1.5–2.8% | 1.3–3.0% | 1.2–3.2% | 1.0–3.6% |
+| [22 June–2 July 2023](2023-07-02-MarketLinks.html) | Market Links <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
+| [20–26 June 2023](2023-06-26-Алфарисърч.html) | Алфа рисърч | 0.0% | N/A | N/A | N/A | N/A |
+| [12–20 June 2023](2023-06-20-Exacta.html) | Exacta | 2.0% | 1.6–2.8% | 1.4–3.0% | 1.3–3.1% | 1.1–3.5% |
 | [10–16 June 2023](2023-06-16-Тренд.html) | Тренд <br> 24 chasa | 2.3% | 1.8–3.1% | 1.6–3.3% | 1.5–3.5% | 1.3–3.9% |
 | [27 April–5 May 2023](2023-05-05-GallupInternational.html) | Gallup International | 3.2% | 2.6–4.2% | 2.4–4.5% | 2.2–4.7% | 1.9–5.2% |
 | [17–22 March 2023](2023-03-22-Медиана.html) | Медиана | 4.5% | 3.7–5.5% | 3.5–5.7% | 3.4–6.0% | 3.0–6.5% |
@@ -149,10 +154,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 3% | 100% |  |
-| 1.5–2.5% | 60% | 97% | Median |
-| 2.5–3.5% | 35% | 37% |  |
-| 3.5–4.5% | 2% | 2% |  |
+| 0.5–1.5% | 13% | 100% |  |
+| 1.5–2.5% | 71% | 87% | Median |
+| 2.5–3.5% | 16% | 16% |  |
+| 3.5–4.5% | 0.4% | 0.4% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -165,6 +170,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [4–11 July 2023](2023-07-11-Тренд.html) | Тренд <br> 24 chasa | 0 | 0 | 0 | 0 | 0 |
+| [29 June–9 July 2023](2023-07-09-GallupInternational.html) | Gallup International | 0 | 0 | 0 | 0 | 0 |
+| [22 June–2 July 2023](2023-07-02-MarketLinks.html) | Market Links <br> bTV |  |  |  |  |  |
+| [20–26 June 2023](2023-06-26-Алфарисърч.html) | Алфа рисърч |  |  |  |  |  |
+| [12–20 June 2023](2023-06-20-Exacta.html) | Exacta | 0 | 0 | 0 | 0 | 0 |
 | [10–16 June 2023](2023-06-16-Тренд.html) | Тренд <br> 24 chasa | 0 | 0 | 0 | 0 | 0 |
 | [27 April–5 May 2023](2023-05-05-GallupInternational.html) | Gallup International | 0 | 0 | 0 | 0 | 0–1 |
 | [17–22 March 2023](2023-03-22-Медиана.html) | Медиана | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
