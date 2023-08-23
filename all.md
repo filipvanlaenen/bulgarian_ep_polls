@@ -170,7 +170,7 @@ Only polls for which at least the sample size has been published are included in
 + **БП:** Българските патриоти (ECR)
 + **ПП:** Продължаваме промяната (Greens/EFA)
 + **БВ:** Български възход (NI)
-+ **ПП–ДБ:** Продължаваме промяната–Демократична България (EPP)
++ **ПП–ДБ:** Продължаваме промяната–Демократична България (RE)
 + **НДСВ:** Национално движение за стабилност и възход (RE)
 + **Лев:** Левицата! (*)
 + **N/A (single party):** Party not included the published results
