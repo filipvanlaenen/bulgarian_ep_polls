@@ -10,12 +10,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.2% | 1.5–3.0% | 1.4–3.3% | 1.3–3.5% | 1.1–4.0% |
+| N/A | [Poll Average](average.html) | 2.3% | 1.7–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
+| [2–8 September 2023](2023-09-08-Тренд.html) | Тренд <br> 24 chasa | 2.2% | 1.7–3.0% | 1.6–3.2% | 1.5–3.4% | 1.2–3.8% |
+| [11–18 August 2023](2023-08-18-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
 | [18–24 July 2023](2023-07-24-Медиана.html) | Медиана | 2.7% | 2.1–3.5% | 2.0–3.7% | 1.8–3.9% | 1.6–4.3% |
 | [4–11 July 2023](2023-07-11-Тренд.html) | Тренд <br> 24 chasa | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.4% |
 | [29 June–9 July 2023](2023-07-09-GallupInternational.html) | Gallup International | 2.0% | 1.5–2.8% | 1.3–3.0% | 1.2–3.2% | 1.0–3.6% |
 | [3–7 July 2023](2023-07-07-Центързаанализиимаркетинг.html) | Център за анализи и маркетинг | 1.9% | 1.5–2.7% | 1.4–2.9% | 1.2–3.0% | 1.1–3.4% |
-| [22 June–2 July 2023](2023-07-02-MarketLinks.html) | Market Links <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
+| [22 June–2 July 2023](2023-07-02-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
 | [20–26 June 2023](2023-06-26-Алфарисърч.html) | Алфа рисърч | 0.0% | N/A | N/A | N/A | N/A |
 | [12–20 June 2023](2023-06-20-Exacta.html) | Exacta | 2.0% | 1.6–2.8% | 1.4–3.0% | 1.3–3.1% | 1.1–3.5% |
 | [10–16 June 2023](2023-06-16-Тренд.html) | Тренд <br> 24 chasa | 2.3% | 1.8–3.1% | 1.6–3.3% | 1.5–3.5% | 1.3–3.9% |
@@ -31,14 +33,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [2–12 February 2023](2023-02-12-GallupInternational.html) | Gallup International | 4.2% | 3.4–5.3% | 3.2–5.6% | 3.0–5.8% | 2.7–6.4% |
 | [4–11 February 2023](2023-02-11-Тренд.html) | Тренд <br> 24 chasa | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
 | [30 January–4 February 2023](2023-02-04-Exacta.html) | Exacta | 4.3% | 3.6–5.2% | 3.4–5.5% | 3.2–5.7% | 2.9–6.2% |
-| [10–20 December 2022](2022-12-20-MarketLinks.html) | Market Links <br> bTV | 2.6% | 2.1–3.4% | 2.0–3.6% | 1.8–3.8% | 1.6–4.2% |
+| [10–20 December 2022](2022-12-20-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 2.6% | N/A | N/A | N/A | N/A |
 | [1–13 December 2022](2022-12-13-Алфарисърч.html) | Алфа рисърч | 5.1% | 4.3–6.1% | 4.1–6.4% | 3.9–6.6% | 3.6–7.1% |
 | [5–12 December 2022](2022-12-12-Exacta.html) | Exacta | 5.5% | 4.7–6.5% | 4.5–6.8% | 4.3–7.1% | 3.9–7.6% |
 | [1–8 December 2022](2022-12-08-Тренд.html) | Тренд <br> 24 chasa | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.6–5.9% |
 | [27–29 September 2022](2022-09-29-Алфарисърч.html) | Алфа рисърч | 4.4% | 3.7–5.3% | 3.5–5.6% | 3.3–5.8% | 3.0–6.3% |
 | [21–27 September 2022](2022-09-27-Тренд.html) | Тренд <br> 24 chasa | 4.4% | 3.7–5.3% | 3.5–5.6% | 3.3–5.9% | 3.0–6.3% |
 | [20–27 September 2022](2022-09-27-GallupInternational.html) | Gallup International | 4.0% | 3.3–4.9% | 3.1–5.1% | 2.9–5.4% | 2.6–5.8% |
-| [17–23 September 2022](2022-09-23-MarketLinks.html) | Market Links <br> 24 chasa | 2.5% | 2.0–3.3% | 1.9–3.5% | 1.7–3.7% | 1.5–4.1% |
+| [17–23 September 2022](2022-09-23-МаркетЛИНКС.html) | Маркет ЛИНКС <br> 24 chasa | 2.5% | N/A | N/A | N/A | N/A |
 | [10–17 September 2022](2022-09-17-Exacta.html) | Exacta | 4.0% | 3.3–4.9% | 3.1–5.2% | 3.0–5.4% | 2.7–5.8% |
 | [10–17 September 2022](2022-09-17-Estat.html) | Estat | 4.8% | 4.0–5.8% | 3.8–6.0% | 3.6–6.3% | 3.3–6.8% |
 | [6–12 September 2022](2022-09-12-SovaHarris.html) | Sova Harris <br> Dir.bg | 4.8% | 4.0–5.9% | 3.7–6.2% | 3.5–6.5% | 3.2–7.0% |
@@ -76,7 +78,6 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [13–22 August 2021](2021-08-22-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
 | [23–30 July 2021](2021-07-30-Тренд.html) | Тренд <br> 24 часа | 0.0% | N/A | N/A | N/A | N/A |
 | [21–28 July 2021](2021-07-28-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
-| [21–28 July 2021](2021-07-28-MarketLinks.html) | Market Links <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
 | [3–7 July 2021](2021-07-07-Тренд.html) | Тренд <br> Nova | 0.0% | N/A | N/A | N/A | N/A |
 | [4–7 July 2021](2021-07-07-Алфарисърч.html) | Алфа рисърч | 0.0% | N/A | N/A | N/A | N/A |
 | [30 June–7 July 2021](2021-07-07-Gallup.html) | Gallup <br> BNR | 0.0% | N/A | N/A | N/A | N/A |
@@ -85,14 +86,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [26 June–2 July 2021](2021-07-02-Медиана.html) | Медиана | 0.0% | N/A | N/A | N/A | N/A |
 | [23–30 June 2021](2021-06-30-Nasoca.html) | Nasoca | 0.0% | N/A | N/A | N/A | N/A |
 | [18–25 June 2021](2021-06-25-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
-| [18–25 June 2021](2021-06-25-MarketLinks.html) | Market Links <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
 | [11–18 June 2021](2021-06-18-Тренд.html) | Тренд <br> 24 часа | 0.0% | N/A | N/A | N/A | N/A |
 | [10–15 June 2021](2021-06-15-Медиана.html) | Медиана | 0.0% | N/A | N/A | N/A | N/A |
 | [10–15 June 2021](2021-06-15-SovaHarris.html) | Sova Harris <br> Dir.bg | 0.0% | N/A | N/A | N/A | N/A |
 | [3–11 June 2021](2021-06-11-Gallup.html) | Gallup <br> BNR | 0.0% | N/A | N/A | N/A | N/A |
 | [30 May–7 June 2021](2021-06-07-Алфарисърч.html) | Алфа рисърч | 0.0% | N/A | N/A | N/A | N/A |
 | [19–27 May 2021](2021-05-27-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
-| [19–27 May 2021](2021-05-27-MarketLinks.html) | Market Links <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
 | [7–14 May 2021](2021-05-14-Gallup.html) | Gallup | 0.0% | N/A | N/A | N/A | N/A |
 | [16–23 April 2021](2021-04-23-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
 | [24–31 March 2021](2021-03-31-Gallup.html) | Gallup <br> BNR | 0.0% | N/A | N/A | N/A | N/A |
@@ -156,12 +155,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 11% | 100% |  |
-| 1.5–2.5% | 62% | 89% | Median |
-| 2.5–3.5% | 25% | 27% |  |
-| 3.5–4.5% | 2% | 2% |  |
+| 0.5–1.5% | 4% | 100% |  |
+| 1.5–2.5% | 64% | 96% | Median |
+| 2.5–3.5% | 31% | 32% |  |
+| 3.5–4.5% | 1.4% | 1.4% |  |
 | 4.5–5.5% | 0% | 0% |  |
-| 5.5–6.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -173,11 +171,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [2–8 September 2023](2023-09-08-Тренд.html) | Тренд <br> 24 chasa | 0 | 0 | 0 | 0 | 0 |
+| [11–18 August 2023](2023-08-18-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
 | [18–24 July 2023](2023-07-24-Медиана.html) | Медиана | 0 | 0 | 0 | 0 | 0 |
 | [4–11 July 2023](2023-07-11-Тренд.html) | Тренд <br> 24 chasa | 0 | 0 | 0 | 0 | 0 |
 | [29 June–9 July 2023](2023-07-09-GallupInternational.html) | Gallup International | 0 | 0 | 0 | 0 | 0 |
 | [3–7 July 2023](2023-07-07-Центързаанализиимаркетинг.html) | Център за анализи и маркетинг | 0 | 0 | 0 | 0 | 0 |
-| [22 June–2 July 2023](2023-07-02-MarketLinks.html) | Market Links <br> bTV |  |  |  |  |  |
+| [22 June–2 July 2023](2023-07-02-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
 | [20–26 June 2023](2023-06-26-Алфарисърч.html) | Алфа рисърч |  |  |  |  |  |
 | [12–20 June 2023](2023-06-20-Exacta.html) | Exacta | 0 | 0 | 0 | 0 | 0 |
 | [10–16 June 2023](2023-06-16-Тренд.html) | Тренд <br> 24 chasa | 0 | 0 | 0 | 0 | 0 |
@@ -193,14 +193,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [2–12 February 2023](2023-02-12-GallupInternational.html) | Gallup International | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [4–11 February 2023](2023-02-11-Тренд.html) | Тренд <br> 24 chasa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [30 January–4 February 2023](2023-02-04-Exacta.html) | Exacta | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [10–20 December 2022](2022-12-20-MarketLinks.html) | Market Links <br> bTV | 0 | 0 | 0 | 0 | 0 |
+| [10–20 December 2022](2022-12-20-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
 | [1–13 December 2022](2022-12-13-Алфарисърч.html) | Алфа рисърч | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [5–12 December 2022](2022-12-12-Exacta.html) | Exacta | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–8 December 2022](2022-12-08-Тренд.html) | Тренд <br> 24 chasa | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [27–29 September 2022](2022-09-29-Алфарисърч.html) | Алфа рисърч | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [21–27 September 2022](2022-09-27-Тренд.html) | Тренд <br> 24 chasa | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [20–27 September 2022](2022-09-27-GallupInternational.html) | Gallup International | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [17–23 September 2022](2022-09-23-MarketLinks.html) | Market Links <br> 24 chasa | 0 | 0 | 0 | 0 | 0 |
+| [17–23 September 2022](2022-09-23-МаркетЛИНКС.html) | Маркет ЛИНКС <br> 24 chasa |  |  |  |  |  |
 | [10–17 September 2022](2022-09-17-Exacta.html) | Exacta | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [10–17 September 2022](2022-09-17-Estat.html) | Estat | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [6–12 September 2022](2022-09-12-SovaHarris.html) | Sova Harris <br> Dir.bg | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -238,7 +238,6 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [13–22 August 2021](2021-08-22-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
 | [23–30 July 2021](2021-07-30-Тренд.html) | Тренд <br> 24 часа |  |  |  |  |  |
 | [21–28 July 2021](2021-07-28-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
-| [21–28 July 2021](2021-07-28-MarketLinks.html) | Market Links <br> bTV |  |  |  |  |  |
 | [3–7 July 2021](2021-07-07-Тренд.html) | Тренд <br> Nova |  |  |  |  |  |
 | [4–7 July 2021](2021-07-07-Алфарисърч.html) | Алфа рисърч |  |  |  |  |  |
 | [30 June–7 July 2021](2021-07-07-Gallup.html) | Gallup <br> BNR |  |  |  |  |  |
@@ -247,14 +246,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [26 June–2 July 2021](2021-07-02-Медиана.html) | Медиана |  |  |  |  |  |
 | [23–30 June 2021](2021-06-30-Nasoca.html) | Nasoca |  |  |  |  |  |
 | [18–25 June 2021](2021-06-25-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
-| [18–25 June 2021](2021-06-25-MarketLinks.html) | Market Links <br> bTV |  |  |  |  |  |
 | [11–18 June 2021](2021-06-18-Тренд.html) | Тренд <br> 24 часа |  |  |  |  |  |
 | [10–15 June 2021](2021-06-15-Медиана.html) | Медиана |  |  |  |  |  |
 | [10–15 June 2021](2021-06-15-SovaHarris.html) | Sova Harris <br> Dir.bg |  |  |  |  |  |
 | [3–11 June 2021](2021-06-11-Gallup.html) | Gallup <br> BNR |  |  |  |  |  |
 | [30 May–7 June 2021](2021-06-07-Алфарисърч.html) | Алфа рисърч |  |  |  |  |  |
 | [19–27 May 2021](2021-05-27-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
-| [19–27 May 2021](2021-05-27-MarketLinks.html) | Market Links <br> bTV |  |  |  |  |  |
 | [7–14 May 2021](2021-05-14-Gallup.html) | Gallup |  |  |  |  |  |
 | [16–23 April 2021](2021-04-23-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
 | [24–31 March 2021](2021-03-31-Gallup.html) | Gallup <br> BNR |  |  |  |  |  |
