@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/bulgarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 20 Sep 2023 22:45:08 +0200</pubDate>
+    <pubDate>Thu, 21 Sep 2023 20:54:31 +0200</pubDate>
     <item>
       <title>Opinion Poll by Тренд for 24 chasa, 2–8 September 2023 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2023-09-08-Тренд.html#seats</link>
@@ -38,6 +38,36 @@
         type="image/png"/>
       <pubDate>Wed, 20 Sep 2023 22:45:08 +0200</pubDate>
       <dc:date>2023-09-20T22:45:08.524357+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Маркет ЛИНКС for bTV, 11–18 August 2023 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2023-08-18-МаркетЛИНКС.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Движение за права и свободи (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Има такъв народ (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Възраждане (NI): 2–3 seats&lt;/li&gt;&lt;li&gt;Продължаваме промяната–Демократична България (RE): 3–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2023-08-18-МаркетЛИНКС-seats.png"
+        length="280209"
+        type="image/png"/>
+      <pubDate>Thu, 21 Sep 2023 20:54:31 +0200</pubDate>
+      <dc:date>2023-09-21T20:54:31.275277+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Маркет ЛИНКС for bTV, 11–18 August 2023 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2023-08-18-МаркетЛИНКС.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2023-08-18-МаркетЛИНКС-coalitions-seats.png"
+        length="228703"
+        type="image/png"/>
+      <pubDate>Thu, 21 Sep 2023 20:54:31 +0200</pubDate>
+      <dc:date>2023-09-21T20:54:31.275277+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Маркет ЛИНКС for bTV, 11–18 August 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2023-08-18-МаркетЛИНКС.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 24.4–30.0%&lt;/li&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 7.1–10.6%&lt;/li&gt;&lt;li&gt;Движение за права и свободи (RE): 13.4–18.0%&lt;/li&gt;&lt;li&gt;Има такъв народ (NI): 4.3–7.2%&lt;/li&gt;&lt;li&gt;Възраждане (NI): 11.3–15.5%&lt;/li&gt;&lt;li&gt;Продължаваме промяната–Демократична България (RE): 19.9–25.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2023-08-18-МаркетЛИНКС.png"
+        length="267303"
+        type="image/png"/>
+      <pubDate>Thu, 21 Sep 2023 20:54:31 +0200</pubDate>
+      <dc:date>2023-09-21T20:54:31.275277+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Медиана, 18–24 July 2023 – Seat Projections for the Parties</title>
@@ -3189,6 +3219,6 @@
       <pubDate>Sat, 05 Dec 2020 14:18:33 +0100</pubDate>
       <dc:date>2020-12-05T14:18:33+01:00</dc:date>
     </item>
-    <dc:date>2023-09-20T22:45:08.524357+02:00</dc:date>
+    <dc:date>2023-09-21T20:54:31.275277+02:00</dc:date>
   </channel>
 </rss>
