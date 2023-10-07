@@ -182,7 +182,7 @@ Last result: **4** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [2–8 September 2023](2023-09-08-Тренд.html) | Тренд <br> 24 часа | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| [2–8 September 2023](2023-09-08-Тренд.html) | Тренд <br> 24 часа | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [11–18 August 2023](2023-08-18-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [18–24 July 2023](2023-07-24-Медиана.html) | Медиана | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [4–11 July 2023](2023-07-11-Тренд.html) | Тренд <br> 24 часа | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -333,9 +333,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 14% | 100% |  |
-| 3 | 86% | 86% | Median |
-| 4 | 0.3% | 0.3% | Last Result |
+| 2 | 20% | 100% |  |
+| 3 | 80% | 80% | Median |
+| 4 | 0.1% | 0.1% | Last Result |
 | 5 | 0% | 0% |  |
 
 

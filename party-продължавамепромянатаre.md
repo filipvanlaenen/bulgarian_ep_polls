@@ -189,9 +189,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [2–8 September 2023](2023-09-08-Тренд.html) | Тренд <br> 24 часа | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [11–18 August 2023](2023-08-18-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| [2–8 September 2023](2023-09-08-Тренд.html) | Тренд <br> 24 часа | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| [11–18 August 2023](2023-08-18-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [18–24 July 2023](2023-07-24-Медиана.html) | Медиана | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [4–11 July 2023](2023-07-11-Тренд.html) | Тренд <br> 24 часа | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [29 June–9 July 2023](2023-07-09-GallupInternational.html) | Gallup International | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
@@ -343,9 +343,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 22% | 100% |  |
-| 3 | 77% | 78% | Median |
-| 4 | 0.4% | 0.4% |  |
+| 2 | 30% | 100% |  |
+| 3 | 69% | 70% | Median |
+| 4 | 0.7% | 0.7% |  |
 | 5 | 0% | 0% |  |
 
 
