@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.6% | 2.8–4.5% | 2.6–4.7% | 2.5–5.0% | 2.2–5.5% |
+| N/A | [Poll Average](average.html) | 3.7% | 3.0–4.5% | 2.8–4.8% | 2.6–5.0% | 2.3–5.5% |
+| [26 September–8 October 2023](2023-10-08-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 3.6% | 3.0–4.5% | 2.8–4.8% | 2.6–5.0% | 2.3–5.5% |
 | [2–8 September 2023](2023-09-08-Тренд.html) | Тренд <br> 24 часа | 3.3% | 2.7–4.2% | 2.5–4.4% | 2.3–4.7% | 2.1–5.1% |
 | [11–18 August 2023](2023-08-18-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 3.8% | 3.1–4.7% | 2.9–4.9% | 2.7–5.2% | 2.5–5.6% |
 | [18–24 July 2023](2023-07-24-Медиана.html) | Медиана | 3.4% | N/A | N/A | N/A | N/A |
@@ -162,10 +163,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 4% | 100% |  |
-| 2.5–3.5% | 43% | 96% |  |
-| 3.5–4.5% | 45% | 53% | Median |
-| 4.5–5.5% | 8% | 8% |  |
+| 1.5–2.5% | 2% | 100% |  |
+| 2.5–3.5% | 38% | 98% |  |
+| 3.5–4.5% | 51% | 60% | Median |
+| 4.5–5.5% | 9% | 9% |  |
 | 5.5–6.5% | 0.4% | 0.4% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
@@ -179,6 +180,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [26 September–8 October 2023](2023-10-08-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [2–8 September 2023](2023-09-08-Тренд.html) | Тренд <br> 24 часа | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–18 August 2023](2023-08-18-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [18–24 July 2023](2023-07-24-Медиана.html) | Медиана |  |  |  |  |  |
@@ -330,8 +332,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 76% | 100% | Last Result, Median |
-| 1 | 24% | 24% |  |
+| 0 | 78% | 100% | Last Result, Median |
+| 1 | 22% | 22% |  |
 | 2 | 0% | 0% |  |
 
 
