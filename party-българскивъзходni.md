@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.2% | 1.7–2.9% | 1.5–3.1% | 1.4–3.3% | 1.2–3.7% |
+| N/A | [Poll Average](average.html) | 2.0% | 1.4–2.7% | 1.2–2.9% | 1.1–3.1% | 0.9–3.5% |
+| [7–13 December 2023](2023-12-13-Медиана.html) | Медиана | 1.7% | 1.3–2.4% | 1.1–2.6% | 1.0–2.8% | 0.9–3.2% |
+| [22–30 November 2023](2023-11-30-Алфарисърч.html) | Алфа рисърч | 0.0% | N/A | N/A | N/A | N/A |
+| [10–19 November 2023](2023-11-19-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
 | [11–18 November 2023](2023-11-18-Тренд.html) | Тренд <br> 24 часа | 2.1% | 1.6–2.9% | 1.5–3.1% | 1.4–3.3% | 1.2–3.7% |
 | [26 September–8 October 2023](2023-10-08-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
 | [2–8 September 2023](2023-09-08-Тренд.html) | Тренд <br> 24 часа | 2.2% | 1.7–3.0% | 1.6–3.2% | 1.5–3.4% | 1.2–3.8% |
@@ -163,10 +166,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 6% | 100% |  |
-| 1.5–2.5% | 68% | 94% | Median |
-| 2.5–3.5% | 25% | 26% |  |
-| 3.5–4.5% | 0.9% | 0.9% |  |
+| 0.5–1.5% | 18% | 100% |  |
+| 1.5–2.5% | 66% | 82% | Median |
+| 2.5–3.5% | 15% | 16% |  |
+| 3.5–4.5% | 0.5% | 0.5% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -179,6 +182,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [7–13 December 2023](2023-12-13-Медиана.html) | Медиана | 0 | 0 | 0 | 0 | 0 |
+| [22–30 November 2023](2023-11-30-Алфарисърч.html) | Алфа рисърч |  |  |  |  |  |
+| [10–19 November 2023](2023-11-19-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
 | [11–18 November 2023](2023-11-18-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0 | 0 | 0 |
 | [26 September–8 October 2023](2023-10-08-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
 | [2–8 September 2023](2023-09-08-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0 | 0 | 0 |

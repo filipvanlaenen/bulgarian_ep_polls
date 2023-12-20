@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.1% | 1.6–2.8% | 1.4–3.0% | 1.3–3.2% | 1.1–3.5% |
+| N/A | [Poll Average](average.html) | 3.0% | 1.7–4.5% | 1.6–4.8% | 1.4–5.1% | 1.2–5.6% |
+| [7–13 December 2023](2023-12-13-Медиана.html) | Медиана | 3.9% | 3.1–4.8% | 2.9–5.1% | 2.8–5.4% | 2.5–5.9% |
+| [22–30 November 2023](2023-11-30-Алфарисърч.html) | Алфа рисърч | 0.0% | N/A | N/A | N/A | N/A |
+| [10–19 November 2023](2023-11-19-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
 | [11–18 November 2023](2023-11-18-Тренд.html) | Тренд <br> 24 часа | 2.0% | 1.6–2.8% | 1.4–3.0% | 1.3–3.2% | 1.1–3.6% |
 | [26 September–8 October 2023](2023-10-08-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
 | [2–8 September 2023](2023-09-08-Тренд.html) | Тренд <br> 24 часа | 2.0% | 1.5–2.8% | 1.4–3.0% | 1.3–3.2% | 1.1–3.5% |
@@ -163,11 +166,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 10% | 100% |  |
-| 1.5–2.5% | 71% | 90% | Median |
-| 2.5–3.5% | 19% | 19% |  |
-| 3.5–4.5% | 0.5% | 0.5% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.5–1.5% | 5% | 100% |  |
+| 1.5–2.5% | 36% | 95% |  |
+| 2.5–3.5% | 23% | 59% | Median |
+| 3.5–4.5% | 28% | 37% |  |
+| 4.5–5.5% | 8% | 9% |  |
+| 5.5–6.5% | 0.7% | 0.7% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -178,7 +183,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
+| [7–13 December 2023](2023-12-13-Медиана.html) | Медиана | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [22–30 November 2023](2023-11-30-Алфарисърч.html) | Алфа рисърч |  |  |  |  |  |
+| [10–19 November 2023](2023-11-19-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
 | [11–18 November 2023](2023-11-18-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0 | 0 | 0 |
 | [26 September–8 October 2023](2023-10-08-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
 | [2–8 September 2023](2023-09-08-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0 | 0 | 0 |
@@ -332,6 +340,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 97% | 100% | Last Result, Median |
+| 1 | 3% | 3% |  |
+| 2 | 0% | 0% |  |
 
 
