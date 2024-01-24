@@ -189,11 +189,11 @@ Last result: **6** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
-| [7–13 December 2023](2023-12-13-Медиана.html) | Медиана | 5 | 5 | 4–5 | 4–6 | 4–6 |
-| [22–30 November 2023](2023-11-30-Алфарисърч.html) | Алфа рисърч | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [10–19 November 2023](2023-11-19-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
-| [11–18 November 2023](2023-11-18-Тренд.html) | Тренд <br> 24 часа | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [7–13 December 2023](2023-12-13-Медиана.html) | Медиана | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [22–30 November 2023](2023-11-30-Алфарисърч.html) | Алфа рисърч | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [10–19 November 2023](2023-11-19-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [11–18 November 2023](2023-11-18-Тренд.html) | Тренд <br> 24 часа | 5 | 5 | 4–6 | 4–6 | 4–6 |
 | [26 September–8 October 2023](2023-10-08-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [2–8 September 2023](2023-09-08-Тренд.html) | Тренд <br> 24 часа | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [11–18 August 2023](2023-08-18-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -346,9 +346,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 15% | 100% |  |
-| 5 | 77% | 85% | Median |
-| 6 | 8% | 8% | Last Result |
+| 4 | 24% | 100% |  |
+| 5 | 74% | 76% | Median |
+| 6 | 2% | 2% | Last Result |
 | 7 | 0% | 0% |  |
 
 

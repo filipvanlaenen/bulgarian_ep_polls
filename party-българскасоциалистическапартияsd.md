@@ -188,11 +188,11 @@ Last result: **4** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [7–13 December 2023](2023-12-13-Медиана.html) | Медиана | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [22–30 November 2023](2023-11-30-Алфарисърч.html) | Алфа рисърч | 2 | 2 | 2 | 2 | 2–3 |
-| [10–19 November 2023](2023-11-19-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 2 | 2 | 2 | 2 | 1–3 |
-| [11–18 November 2023](2023-11-18-Тренд.html) | Тренд <br> 24 часа | 2 | 2 | 2 | 2–3 | 1–3 |
+| [22–30 November 2023](2023-11-30-Алфарисърч.html) | Алфа рисърч | 2 | 2 | 2 | 2 | 2 |
+| [10–19 November 2023](2023-11-19-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 2 | 2 | 2 | 2 | 1–2 |
+| [11–18 November 2023](2023-11-18-Тренд.html) | Тренд <br> 24 часа | 2 | 2 | 2 | 2 | 1–3 |
 | [26 September–8 October 2023](2023-10-08-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [2–8 September 2023](2023-09-08-Тренд.html) | Тренд <br> 24 часа | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [11–18 August 2023](2023-08-18-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -345,9 +345,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.4% | 100% |  |
-| 2 | 90% | 99.6% | Median |
-| 3 | 9% | 9% |  |
+| 1 | 0.9% | 100% |  |
+| 2 | 93% | 99.1% | Median |
+| 3 | 6% | 6% |  |
 | 4 | 0% | 0% | Last Result |
 
 
