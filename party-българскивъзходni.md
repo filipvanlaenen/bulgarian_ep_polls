@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.0% | 1.5–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.4% |
+| [26 January–4 February 2024](2024-02-04-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
 | [17–24 January 2024](2024-01-24-Тренд.html) | Тренд <br> 24 часа | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.4% |
 | [7–13 December 2023](2023-12-13-Медиана.html) | Медиана | 1.7% | 1.3–2.4% | 1.1–2.6% | 1.0–2.8% | 0.9–3.2% |
 | [22–30 November 2023](2023-11-30-Алфарисърч.html) | Алфа рисърч | 0.0% | N/A | N/A | N/A | N/A |
@@ -183,6 +184,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [26 January–4 February 2024](2024-02-04-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
 | [17–24 January 2024](2024-01-24-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0 | 0 | 0 |
 | [7–13 December 2023](2023-12-13-Медиана.html) | Медиана | 0 | 0 | 0 | 0 | 0 |
 | [22–30 November 2023](2023-11-30-Алфарисърч.html) | Алфа рисърч |  |  |  |  |  |
