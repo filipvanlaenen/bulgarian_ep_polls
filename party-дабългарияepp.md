@@ -194,7 +194,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [1–7 March 2024](2024-03-07-Алфарисърч.html) | Алфа рисърч | 1 | 1 | 1 | 0–1 | 0–1 |
 | [5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
-| [24 February–3 March 2024](2024-03-03-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [24 February–3 March 2024](2024-03-03-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 1 | 1 | 1 | 0–1 | 0–1 |
 | [17–24 January 2024](2024-01-24-Тренд.html) | Тренд <br> 24 часа | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7–13 December 2023](2023-12-13-Медиана.html) | Медиана | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [22–30 November 2023](2023-11-30-Алфарисърч.html) | Алфа рисърч | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -353,7 +353,7 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 7% | 100% | Last Result |
-| 1 | 92% | 93% | Median |
+| 1 | 93% | 93% | Median |
 | 2 | 0.9% | 0.9% |  |
 | 3 | 0% | 0% |  |
 
