@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.0% | 3.1–5.1% | 2.8–5.4% | 2.5–5.8% | 2.0–6.7% |
+| N/A | [Poll Average](average.html) | 3.6% | 2.6–4.6% | 2.3–4.9% | 2.2–5.2% | 1.9–5.7% |
+| [28 March–5 April 2024](2024-04-05-GallupInternational.html) | Gallup International <br> БНТ | 3.0% | 2.3–3.9% | 2.2–4.2% | 2.0–4.4% | 1.7–4.9% |
 | [1–7 March 2024](2024-03-07-Алфарисърч.html) | Алфа рисърч | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
 | [5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 3.7% | 2.7–5.4% | 2.4–5.9% | 2.1–6.4% | 1.7–7.3% |
 | [24 February–3 March 2024](2024-03-03-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 4.0% | 3.3–4.9% | 3.1–5.2% | 3.0–5.4% | 2.7–5.9% |
@@ -171,14 +172,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 3% | 99.9% |  |
-| 2.5–3.5% | 22% | 97% |  |
-| 3.5–4.5% | 51% | 75% | Median |
-| 4.5–5.5% | 20% | 24% |  |
-| 5.5–6.5% | 3% | 4% |  |
-| 6.5–7.5% | 0.5% | 0.6% |  |
-| 7.5–8.5% | 0.1% | 0.1% |  |
-| 8.5–9.5% | 0% | 0% |  |
+| 1.5–2.5% | 9% | 99.9% |  |
+| 2.5–3.5% | 40% | 91% |  |
+| 3.5–4.5% | 39% | 51% | Median |
+| 4.5–5.5% | 11% | 12% |  |
+| 5.5–6.5% | 0.8% | 0.8% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -190,6 +189,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [28 March–5 April 2024](2024-04-05-GallupInternational.html) | Gallup International <br> БНТ | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [1–7 March 2024](2024-03-07-Алфарисърч.html) | Алфа рисърч | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [24 February–3 March 2024](2024-03-03-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -350,8 +350,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 69% | 100% | Last Result, Median |
-| 1 | 31% | 31% |  |
+| 0 | 83% | 100% | Last Result, Median |
+| 1 | 17% | 17% |  |
 | 2 | 0% | 0% |  |
 
 
