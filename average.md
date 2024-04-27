@@ -276,7 +276,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#възраждане-(ni)">Възраждане (NI)</a> | 0 | 3 | 2–3 |2–3 | 2–3 | 2–3 |
 | <a href="#изправи-се-бг-(epp)">Изправи се Бг (EPP)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#републиканци-за-българия-(*)">Републиканци за България (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
-| <a href="#продължаваме-промяната-(re)">Продължаваме промяната (RE)</a> | 0 | 3 | 2–3 |2–3 | 2–3 | 2–3 |
+| <a href="#продължаваме-промяната-(re)">Продължаваме промяната (RE)</a> | 0 | 3 | 2–3 |2–3 | 2–3 | 2–4 |
 | <a href="#български-възход-(ni)">Български възход (NI)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#национално-движение-за-стабилност-и-възход-(re)">Национално движение за стабилност и възход (RE)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#левицата!-(*)">Левицата! (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
@@ -290,7 +290,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 33% | 100% |  |
-| 5 | 66% | 67% | Median |
+| 5 | 67% | 67% | Median |
 | 6 | 0.6% | 0.6% | Last Result |
 | 7 | 0% | 0% |  |
 
@@ -315,8 +315,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 7% | 100% |  |
-| 2 | 66% | 93% | Median |
+| 1 | 8% | 100% |  |
+| 2 | 65% | 92% | Median |
 | 3 | 27% | 27% |  |
 | 4 | 0% | 0% | Last Result |
 
@@ -376,8 +376,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 83% | 100% | Last Result, Median |
-| 1 | 17% | 17% |  |
+| 0 | 84% | 100% | Last Result, Median |
+| 1 | 16% | 16% |  |
 | 2 | 0% | 0% |  |
 
 ### Демократи за силна България (EPP)
@@ -413,7 +413,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 20% | 100% | Last Result |
-| 1 | 80% | 80% | Median |
+| 1 | 79% | 80% | Median |
 | 2 | 0% | 0% |  |
 
 ### Възраждане (NI)
@@ -426,8 +426,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 41% | 100% |  |
-| 3 | 59% | 59% | Median |
+| 2 | 40% | 100% |  |
+| 3 | 60% | 60% | Median |
 | 4 | 0% | 0% |  |
 
 ### Изправи се Бг (EPP)
@@ -452,9 +452,9 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.1% | 100% |  |
-| 2 | 49% | 99.9% |  |
-| 3 | 50% | 51% | Median |
-| 4 | 0.5% | 0.5% |  |
+| 2 | 48% | 99.9% |  |
+| 3 | 51% | 51% | Median |
+| 4 | 0.6% | 0.6% |  |
 | 5 | 0% | 0% |  |
 
 ### Български възход (NI)
@@ -500,7 +500,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 2% | 100% |  |
 | 5 | 33% | 98% |  |
-| 6 | 58% | 65% | Median |
+| 6 | 59% | 65% | Median |
 | 7 | 6% | 6% | Last Result |
 | 8 | 0% | 0% |  |
 
@@ -510,8 +510,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 1.4% | 100% |  |
-| 4 | 33% | 98.6% | Last Result |
+| 3 | 2% | 100% |  |
+| 4 | 33% | 98% | Last Result |
 | 5 | 60% | 66% | Median |
 | 6 | 6% | 6% |  |
 | 7 | 0% | 0% |  |
@@ -524,8 +524,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 41% | 100% |  |
-| 3 | 59% | 59% | Median |
+| 2 | 40% | 100% |  |
+| 3 | 60% | 60% | Median |
 | 4 | 0% | 0% |  |
 
 ### Българска социалистическа партия (S&D) – Алтернатива за българско възраждане (S&D)
@@ -546,7 +546,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 20% | 100% |  |
-| 1 | 80% | 80% | Median |
+| 1 | 79% | 80% | Median |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
@@ -573,6 +573,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 2
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 3,145,728
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 4,194,304
 + **Error estimate:** 1.20%
