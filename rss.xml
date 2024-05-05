@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/bulgarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 05 May 2024 18:19:39 +0200</pubDate>
+    <pubDate>Sun, 05 May 2024 19:25:16 +0200</pubDate>
     <item>
       <title>Opinion Poll by Тренд for 24 часа, 12–19 April 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2024-04-19-Тренд.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2024-04-19-Тренд-seats.png"
         length="326685"
         type="image/png"/>
-      <pubDate>Sun, 05 May 2024 18:19:39 +0200</pubDate>
-      <dc:date>2024-05-05T18:19:39.249018+02:00</dc:date>
+      <pubDate>Sun, 05 May 2024 19:25:16 +0200</pubDate>
+      <dc:date>2024-05-05T19:25:16.08773+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Тренд for 24 часа, 12–19 April 2024 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2024-04-19-Тренд-coalitions-seats.png"
         length="253070"
         type="image/png"/>
-      <pubDate>Sun, 05 May 2024 18:19:39 +0200</pubDate>
-      <dc:date>2024-05-05T18:19:39.249018+02:00</dc:date>
+      <pubDate>Sun, 05 May 2024 19:25:16 +0200</pubDate>
+      <dc:date>2024-05-05T19:25:16.08773+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Тренд for 24 часа, 12–19 April 2024 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2024-04-19-Тренд.png"
         length="346875"
         type="image/png"/>
-      <pubDate>Sun, 05 May 2024 18:19:39 +0200</pubDate>
-      <dc:date>2024-05-05T18:19:39.249018+02:00</dc:date>
+      <pubDate>Sun, 05 May 2024 19:25:16 +0200</pubDate>
+      <dc:date>2024-05-05T19:25:16.08773+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Gallup International for БНТ, 28 March–5 April 2024 – Seat Projections for the Parties</title>
@@ -3519,6 +3519,6 @@
       <pubDate>Sat, 05 Dec 2020 14:18:33 +0100</pubDate>
       <dc:date>2020-12-05T14:18:33+01:00</dc:date>
     </item>
-    <dc:date>2024-05-05T18:19:39.249018+02:00</dc:date>
+    <dc:date>2024-05-05T19:25:16.08773+02:00</dc:date>
   </channel>
 </rss>
