@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/bulgarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 17 May 2024 17:41:56 +0200</pubDate>
+    <pubDate>Tue, 28 May 2024 21:32:27 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Тренд for 24 часа, 11–18 May 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2024-05-18-Тренд.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Движение за права и свободи (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Има такъв народ (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Български възход (NI): 0 seats&lt;/li&gt;&lt;li&gt;Възраждане (NI): 2–3 seats&lt;/li&gt;&lt;li&gt;Продължаваме промяната (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Да, България! (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;ВМРО–Българско Национално Движение (ECR): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2024-05-18-Тренд-seats.png"
+        length="305245"
+        type="image/png"/>
+      <pubDate>Tue, 28 May 2024 21:32:27 +0200</pubDate>
+      <dc:date>2024-05-28T21:32:27.83689+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Тренд for 24 часа, 11–18 May 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2024-05-18-Тренд.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2024-05-18-Тренд-coalitions-seats.png"
+        length="252477"
+        type="image/png"/>
+      <pubDate>Tue, 28 May 2024 21:32:27 +0200</pubDate>
+      <dc:date>2024-05-28T21:32:27.83689+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Тренд for 24 часа, 11–18 May 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2024-05-18-Тренд.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Българска социалистическа партия (S&amp;amp;D): 6.5–9.9%&lt;/li&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 23.3–28.7%&lt;/li&gt;&lt;li&gt;Движение за права и свободи (RE): 12.5–16.9%&lt;/li&gt;&lt;li&gt;Има такъв народ (ECR): 4.2–7.1%&lt;/li&gt;&lt;li&gt;Български възход (NI): 0.7–2.1%&lt;/li&gt;&lt;li&gt;Възраждане (NI): 13.0–17.4%&lt;/li&gt;&lt;li&gt;Продължаваме промяната (RE): 8.0–11.7%&lt;/li&gt;&lt;li&gt;Да, България! (EPP): 2.7–5.0%&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 1.9–3.9%&lt;/li&gt;&lt;li&gt;ВМРО–Българско Национално Движение (ECR): 0.7–2.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2024-05-18-Тренд.png"
+        length="353199"
+        type="image/png"/>
+      <pubDate>Tue, 28 May 2024 21:32:27 +0200</pubDate>
+      <dc:date>2024-05-28T21:32:27.83689+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Sova Harris for ПИК, 8–13 May 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2024-05-13-SovaHarris.html#seats</link>
@@ -3609,6 +3639,6 @@
       <pubDate>Sat, 05 Dec 2020 14:18:33 +0100</pubDate>
       <dc:date>2020-12-05T14:18:33+01:00</dc:date>
     </item>
-    <dc:date>2024-05-17T17:41:56.341654+02:00</dc:date>
+    <dc:date>2024-05-28T21:32:27.83689+02:00</dc:date>
   </channel>
 </rss>
