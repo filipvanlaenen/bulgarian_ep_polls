@@ -213,7 +213,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [29 April–9 May 2024](2024-05-09-МаркетЛИНКС.html) | Маркет ЛИНКС | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [28 April–5 May 2024](2024-05-05-Алфарисърч.html) | Алфа рисърч | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [22 April–2 May 2024](2024-05-02-GallupInternational.html) | Gallup International <br> БНТ | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [12–19 April 2024](2024-04-19-Тренд.html) | Тренд <br> 24 часа | 3 | 3 | 2–3 | 2–3 | 2–4 |
+| [12–19 April 2024](2024-04-19-Тренд.html) | Тренд <br> 24 часа | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [28 March–5 April 2024](2024-04-05-GallupInternational.html) | Gallup International <br> БНТ | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [1–7 March 2024](2024-03-07-Алфарисърч.html) | Алфа рисърч | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
@@ -377,8 +377,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 36% | 100% |  |
-| 3 | 64% | 64% | Median |
+| 2 | 35% | 100% |  |
+| 3 | 65% | 65% | Median |
 | 4 | 0% | 0% |  |
 
 

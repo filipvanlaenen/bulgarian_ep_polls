@@ -201,7 +201,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [8–13 May 2024](2024-05-13-SovaHarris.html) | Sova Harris <br> ПИК | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [29 April–9 May 2024](2024-05-09-МаркетЛИНКС.html) | Маркет ЛИНКС | 0 | 0 | 0 | 0 | 0 |
 | [28 April–5 May 2024](2024-05-05-Алфарисърч.html) | Алфа рисърч | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [22 April–2 May 2024](2024-05-02-GallupInternational.html) | Gallup International <br> БНТ | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [22 April–2 May 2024](2024-05-02-GallupInternational.html) | Gallup International <br> БНТ | 0 | 0 | 0 | 0–1 | 0–1 |
 | [12–19 April 2024](2024-04-19-Тренд.html) | Тренд <br> 24 часа | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [28 March–5 April 2024](2024-04-05-GallupInternational.html) | Gallup International <br> БНТ | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–7 March 2024](2024-03-07-Алфарисърч.html) | Алфа рисърч | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -364,8 +364,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 85% | 100% | Last Result, Median |
-| 1 | 15% | 15% |  |
+| 0 | 84% | 100% | Last Result, Median |
+| 1 | 16% | 16% |  |
 | 2 | 0% | 0% |  |
 
 

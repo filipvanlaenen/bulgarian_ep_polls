@@ -205,7 +205,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [11–18 May 2024](2024-05-18-Тренд.html) | Тренд <br> 24 часа | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| [11–18 May 2024](2024-05-18-Тренд.html) | Тренд <br> 24 часа | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [8–13 May 2024](2024-05-13-SovaHarris.html) | Sova Harris <br> ПИК | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [29 April–9 May 2024](2024-05-09-МаркетЛИНКС.html) | Маркет ЛИНКС | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [28 April–5 May 2024](2024-05-05-Алфарисърч.html) | Алфа рисърч | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -373,9 +373,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.4% | 100% |  |
-| 2 | 58% | 99.6% | Median |
-| 3 | 42% | 42% |  |
+| 1 | 0.3% | 100% |  |
+| 2 | 60% | 99.7% | Median |
+| 3 | 39% | 40% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
