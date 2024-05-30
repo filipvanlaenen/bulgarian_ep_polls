@@ -11,7 +11,7 @@ The table below lists the polls on which the average is based. They are the most
 | 26 May 2019 | General Election | 30.4% <br> 6 | 18.9% <br> 4 | 17.3% <br> 4 | 10.7% <br> 2 | 10.7% <br> 1 | 10.7% <br> 1 | 10.7% <br> 0 | 6.4% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 10.7% <br> 1 | 10.7% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 23–33% <br> 4–6 | 7–12% <br> 1–2 | 12–16% <br> 2–3 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–5% <br> 0–1 | N/A <br> N/A | 3–6% <br> 0–1 | N/A <br> N/A | 2–7% <br> 0–1 | 12–17% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 8–14% <br> 2–3 | 1–2% <br> 0 | N/A <br> N/A | 1–3% <br> 0 |
 | [11–18 May 2024](2024-05-18-Тренд.html) | Тренд <br> 24 часа | 23–29% <br> 4–5 | 7–10% <br> 1–2 | 12–17% <br> 2–3 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–1 | N/A <br> N/A | 3–5% <br> 0–1 | N/A <br> N/A | 4–7% <br> 0–1 | 13–17% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 8–12% <br> 2–3 | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A |
-| [8–13 May 2024](2024-05-13-SovaHarris.html) | Sova Harris <br> ПИК | 26–31% <br> 4–5 | 9–12% <br> 1–2 | 11–16% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–1 | N/A <br> N/A | 3–5% <br> 0–1 | N/A <br> N/A | 4–7% <br> 0–1 | 13–17% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 8–12% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [8–13 May 2024](2024-05-13-SovaHarris.html) | Sova Harris <br> ПИК | 26–31% <br> 4–6 | 9–12% <br> 1–2 | 11–16% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–1 | N/A <br> N/A | 3–5% <br> 0–1 | N/A <br> N/A | 4–7% <br> 0–1 | 13–17% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 8–12% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [29 April–9 May 2024](2024-05-09-МаркетЛИНКС.html) | Маркет ЛИНКС | 28–34% <br> 5–6 | 8–12% <br> 1–2 | 12–16% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–1 | N/A <br> N/A | 4–7% <br> 0–1 | N/A <br> N/A | 2–4% <br> 0 | 11–15% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 11–15% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [28 April–5 May 2024](2024-05-05-Алфарисърч.html) | Алфа рисърч | 23–28% <br> 4–5 | 6–10% <br> 1–2 | 12–17% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–1 | N/A <br> N/A | 3–6% <br> 0–1 | N/A <br> N/A | 4–6% <br> 0–1 | 13–17% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 9–13% <br> 2–3 | 1–2% <br> 0 | N/A <br> N/A | 1–3% <br> 0 |
 | 26 May 2019 | General Election | 30.4% <br> 6 | 18.9% <br> 4 | 17.3% <br> 4 | 10.7% <br> 2 | 10.7% <br> 1 | 10.7% <br> 1 | 10.7% <br> 0 | 6.4% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 10.7% <br> 1 | 10.7% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
@@ -331,9 +331,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 27% | 100% |  |
-| 5 | 65% | 73% | Median |
-| 6 | 8% | 8% | Last Result |
+| 4 | 20% | 100% |  |
+| 5 | 71% | 80% | Median |
+| 6 | 9% | 9% | Last Result |
 | 7 | 0% | 0% |  |
 
 ### Българска социалистическа партия (S&D)
@@ -344,8 +344,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 38% | 100% |  |
-| 2 | 62% | 62% | Median |
+| 0 | 0.1% | 100% |  |
+| 1 | 32% | 99.9% |  |
+| 2 | 67% | 67% | Median |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
 
@@ -357,8 +358,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 63% | 100% | Median |
-| 3 | 37% | 37% |  |
+| 2 | 56% | 100% | Median |
+| 3 | 44% | 44% |  |
 | 4 | 0% | 0% | Last Result |
 
 ### Обединени Патриоти (ECR)
@@ -422,8 +423,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 89% | 100% | Last Result, Median |
-| 1 | 11% | 11% |  |
+| 0 | 87% | 100% | Last Result, Median |
+| 1 | 13% | 13% |  |
 | 2 | 0% | 0% |  |
 
 ### Демократи за силна България (EPP)
@@ -440,8 +441,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 22% | 100% | Last Result |
-| 1 | 78% | 78% | Median |
+| 0 | 24% | 100% | Last Result |
+| 1 | 76% | 76% | Median |
 | 2 | 0% | 0% |  |
 
 ### Алтернатива за българско възраждане (S&D)
@@ -458,8 +459,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 54% | 100% | Last Result, Median |
-| 1 | 46% | 46% |  |
+| 0 | 85% | 100% | Last Result, Median |
+| 1 | 15% | 15% |  |
 | 2 | 0% | 0% |  |
 
 ### Възраждане (NI)
@@ -472,8 +473,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 42% | 100% |  |
-| 3 | 58% | 58% | Median |
+| 2 | 36% | 100% |  |
+| 3 | 64% | 64% | Median |
 | 4 | 0% | 0% |  |
 
 ### Изправи се Бг (EPP)
@@ -498,8 +499,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.4% | 100% |  |
-| 2 | 63% | 99.6% | Median |
-| 3 | 37% | 37% |  |
+| 2 | 58% | 99.6% | Median |
+| 3 | 42% | 42% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
@@ -538,7 +539,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Граждани за европейско развитие на България (EPP) – Реформаторски блок (EPP) – Да, България! (EPP) – Демократи за силна България (EPP) – Демократична България (EPP) – Изправи се Бг (EPP) | 7 | 6 | 0% | 5–7 | 5–7 | 4–7 | 4–8 |
+| Граждани за европейско развитие на България (EPP) – Реформаторски блок (EPP) – Да, България! (EPP) – Демократи за силна България (EPP) – Демократична България (EPP) – Изправи се Бг (EPP) | 7 | 6 | 0% | 5–7 | 5–7 | 5–7 | 4–8 |
 | Движение за права и свободи (RE) – Национално движение за стабилност и възход (RE) – Продължаваме промяната (RE) | 4 | 5 | 0% | 4–6 | 4–6 | 4–6 | 4–6 |
 | Атака (NI) – Български възход (NI) – Възраждане (NI) | 0 | 3 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
 | Българска социалистическа партия (S&D) – Алтернатива за българско възраждане (S&D) | 4 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -552,11 +553,11 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 4% | 100% |  |
-| 5 | 34% | 96% |  |
-| 6 | 49% | 61% | Median |
-| 7 | 11% | 12% | Last Result |
-| 8 | 1.0% | 1.0% |  |
+| 4 | 2% | 100% |  |
+| 5 | 33% | 98% |  |
+| 6 | 52% | 65% | Median |
+| 7 | 12% | 13% | Last Result |
+| 8 | 1.1% | 1.1% |  |
 | 9 | 0% | 0% | Majority |
 
 ### Движение за права и свободи (RE) – Национално движение за стабилност и възход (RE) – Продължаваме промяната (RE)
@@ -565,10 +566,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.2% | 100% |  |
-| 4 | 40% | 99.8% | Last Result, Median |
-| 5 | 46% | 60% |  |
-| 6 | 14% | 14% |  |
+| 3 | 0.1% | 100% |  |
+| 4 | 33% | 99.9% | Last Result, Median |
+| 5 | 48% | 67% |  |
+| 6 | 18% | 18% |  |
 | 7 | 0% | 0% |  |
 
 ### Атака (NI) – Български възход (NI) – Възраждане (NI)
@@ -579,8 +580,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 42% | 100% |  |
-| 3 | 58% | 58% | Median |
+| 2 | 36% | 100% |  |
+| 3 | 64% | 64% | Median |
 | 4 | 0% | 0% |  |
 
 ### Българска социалистическа партия (S&D) – Алтернатива за българско възраждане (S&D)
@@ -589,8 +590,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 38% | 100% |  |
-| 2 | 62% | 62% | Median |
+| 0 | 0.1% | 100% |  |
+| 1 | 32% | 99.9% |  |
+| 2 | 67% | 67% | Median |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
 
@@ -600,8 +602,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 54% | 100% | Median |
-| 1 | 46% | 46% |  |
+| 0 | 85% | 100% | Median |
+| 1 | 15% | 15% |  |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
@@ -628,6 +630,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 4
-+ **Lowest number of simulations done in a poll included in this average:** 0
-+ **Total number of simulations done in the polls included in this average:** 0
-+ **Error estimate:** 0.00%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 4,194,304
++ **Error estimate:** 2.41%
