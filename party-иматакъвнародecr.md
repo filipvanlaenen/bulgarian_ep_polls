@@ -15,6 +15,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [8–13 May 2024](2024-05-13-SovaHarris.html) | Sova Harris <br> ПИК | 5.2% | 4.4–6.3% | 4.2–6.6% | 4.0–6.8% | 3.7–7.3% |
 | [29 April–9 May 2024](2024-05-09-МаркетЛИНКС.html) | Маркет ЛИНКС | 2.9% | 2.3–3.7% | 2.1–3.9% | 2.0–4.2% | 1.7–4.6% |
 | [28 April–5 May 2024](2024-05-05-Алфарисърч.html) | Алфа рисърч | 4.8% | 4.0–5.8% | 3.8–6.1% | 3.6–6.3% | 3.3–6.8% |
+| [22 April–2 May 2024](2024-05-02-GallupInternational.html) | Gallup International <br> БНТ | 4.5% | 3.6–5.5% | 3.4–5.8% | 3.2–6.1% | 2.9–6.7% |
 | [12–19 April 2024](2024-04-19-Тренд.html) | Тренд <br> 24 часа | 5.1% | 4.3–6.1% | 4.1–6.4% | 3.9–6.6% | 3.5–7.1% |
 | [28 March–5 April 2024](2024-04-05-GallupInternational.html) | Gallup International <br> БНТ | 5.3% | 4.5–6.5% | 4.2–6.8% | 4.0–7.1% | 3.6–7.7% |
 | [1–7 March 2024](2024-03-07-Алфарисърч.html) | Алфа рисърч | 5.9% | 5.0–7.0% | 4.8–7.3% | 4.6–7.5% | 4.2–8.1% |
@@ -196,12 +197,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [11–18 May 2024](2024-05-18-Тренд.html) | Тренд <br> 24 часа | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [8–13 May 2024](2024-05-13-SovaHarris.html) | Sova Harris <br> ПИК | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [11–18 May 2024](2024-05-18-Тренд.html) | Тренд <br> 24 часа | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [8–13 May 2024](2024-05-13-SovaHarris.html) | Sova Harris <br> ПИК | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [29 April–9 May 2024](2024-05-09-МаркетЛИНКС.html) | Маркет ЛИНКС | 0 | 0 | 0 | 0 | 0 |
-| [28 April–5 May 2024](2024-05-05-Алфарисърч.html) | Алфа рисърч | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [12–19 April 2024](2024-04-19-Тренд.html) | Тренд <br> 24 часа | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [28 March–5 April 2024](2024-04-05-GallupInternational.html) | Gallup International <br> БНТ | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [28 April–5 May 2024](2024-05-05-Алфарисърч.html) | Алфа рисърч | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [22 April–2 May 2024](2024-05-02-GallupInternational.html) | Gallup International <br> БНТ | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [12–19 April 2024](2024-04-19-Тренд.html) | Тренд <br> 24 часа | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [28 March–5 April 2024](2024-04-05-GallupInternational.html) | Gallup International <br> БНТ | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–7 March 2024](2024-03-07-Алфарисърч.html) | Алфа рисърч | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [24 February–3 March 2024](2024-03-03-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -362,8 +364,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 54% | 100% | Last Result, Median |
-| 1 | 46% | 46% |  |
+| 0 | 85% | 100% | Last Result, Median |
+| 1 | 15% | 15% |  |
 | 2 | 0% | 0% |  |
 
 
