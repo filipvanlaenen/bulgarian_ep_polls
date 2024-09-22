@@ -57,7 +57,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [14–23 August 2024](2024-08-23-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [1–9 August 2024](2024-08-09-GallupInternational.html) | Gallup International <br> БНТ | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [1–9 August 2024](2024-08-09-GallupInternational.html) | Gallup International <br> БНТ | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [20–28 July 2024](2024-07-28-МаркетЛИНКС.html) | Маркет ЛИНКС |  |  |  |  |  |
 
 ### Probability Mass Function
@@ -72,7 +72,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 14% | 100% |  |
 | 3 | 72% | 86% | Median |
-| 4 | 14% | 14% |  |
+| 4 | 15% | 15% |  |
 | 5 | 0% | 0% |  |
 
 
