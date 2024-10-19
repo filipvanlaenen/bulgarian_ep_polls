@@ -10,9 +10,14 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.8% | 23.8–27.7% | 23.2–28.3% | 22.7–28.7% | 21.8–29.7% |
-| [14–23 August 2024](2024-08-23-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 26.2% | 24.5–28.0% | 24.0–28.5% | 23.6–29.0% | 22.8–29.9% |
-| [1–9 August 2024](2024-08-09-GallupInternational.html) | Gallup International <br> БНТ | 25.2% | 23.3–27.2% | 22.8–27.8% | 22.3–28.3% | 21.4–29.3% |
+| N/A | [Poll Average](average.html) | 27.6% | 25.8–29.5% | 25.3–30.0% | 24.9–30.5% | 24.1–31.4% |
+| [8–13 October 2024](2024-10-13-Медиана.html) | Медиана | 27.6% | 25.8–29.5% | 25.3–30.0% | 24.9–30.5% | 24.1–31.4% |
+| [28 September–6 October 2024](2024-10-06-GallupInternational.html) | Gallup International | 25.7% | N/A | N/A | N/A | N/A |
+| [25 September–1 October 2024](2024-10-01-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 27.0% | N/A | N/A | N/A | N/A |
+| [17–24 September 2024](2024-09-24-Тренд.html) | Тренд <br> 24 часа | 24.8% | N/A | N/A | N/A | N/A |
+| [18–24 September 2024](2024-09-24-Алфарисърч.html) | Алфа рисърч | 26.0% | N/A | N/A | N/A | N/A |
+| [14–23 August 2024](2024-08-23-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 26.2% | N/A | N/A | N/A | N/A |
+| [1–9 August 2024](2024-08-09-GallupInternational.html) | Gallup International <br> БНТ | 25.2% | N/A | N/A | N/A | N/A |
 | [20–28 July 2024](2024-07-28-МаркетЛИНКС.html) | Маркет ЛИНКС | 23.0% | N/A | N/A | N/A | N/A |
 
 ### Probability Mass Function
@@ -42,18 +47,19 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0.3% | 100% |  |
-| 21.5–22.5% | 2% | 99.7% |  |
-| 22.5–23.5% | 6% | 98% |  |
-| 23.5–24.5% | 14% | 92% |  |
-| 24.5–25.5% | 23% | 78% |  |
-| 25.5–26.5% | 25% | 56% | Median |
-| 26.5–27.5% | 18% | 30% |  |
-| 27.5–28.5% | 9% | 12% |  |
-| 28.5–29.5% | 3% | 3% |  |
-| 29.5–30.5% | 0.5% | 0.6% |  |
-| 30.5–31.5% | 0.1% | 0.1% |  |
-| 31.5–32.5% | 0% | 0% |  |
+| 20.5–21.5% | 0% | 100% |  |
+| 21.5–22.5% | 0% | 100% |  |
+| 22.5–23.5% | 0.1% | 100% |  |
+| 23.5–24.5% | 1.2% | 99.8% |  |
+| 24.5–25.5% | 5% | 98.7% |  |
+| 25.5–26.5% | 15% | 93% |  |
+| 26.5–27.5% | 26% | 78% |  |
+| 27.5–28.5% | 26% | 52% | Median |
+| 28.5–29.5% | 17% | 26% |  |
+| 29.5–30.5% | 7% | 9% |  |
+| 30.5–31.5% | 2% | 2% |  |
+| 31.5–32.5% | 0.3% | 0.4% |  |
+| 32.5–33.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -64,9 +70,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| [14–23 August 2024](2024-08-23-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [1–9 August 2024](2024-08-09-GallupInternational.html) | Gallup International <br> БНТ | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| [8–13 October 2024](2024-10-13-Медиана.html) | Медиана | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| [28 September–6 October 2024](2024-10-06-GallupInternational.html) | Gallup International |  |  |  |  |  |
+| [25 September–1 October 2024](2024-10-01-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
+| [17–24 September 2024](2024-09-24-Тренд.html) | Тренд <br> 24 часа |  |  |  |  |  |
+| [18–24 September 2024](2024-09-24-Алфарисърч.html) | Алфа рисърч |  |  |  |  |  |
+| [14–23 August 2024](2024-08-23-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
+| [1–9 August 2024](2024-08-09-GallupInternational.html) | Gallup International <br> БНТ |  |  |  |  |  |
 | [20–28 July 2024](2024-07-28-МаркетЛИНКС.html) | Маркет ЛИНКС |  |  |  |  |  |
 
 ### Probability Mass Function
@@ -81,9 +92,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 16% | 100% |  |
-| 5 | 83% | 84% | Median |
-| 6 | 0.7% | 0.7% |  |
-| 7 | 0% | 0% |  |
+| 4 | 0.5% | 100% |  |
+| 5 | 72% | 99.5% | Median |
+| 6 | 27% | 27% |  |
+| 7 | 0.2% | 0.2% |  |
+| 8 | 0% | 0% |  |
 
 
