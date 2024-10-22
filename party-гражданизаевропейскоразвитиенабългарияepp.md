@@ -71,7 +71,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
-| [8–13 October 2024](2024-10-13-Медиана.html) | Медиана | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| [8–13 October 2024](2024-10-13-Медиана.html) | Медиана | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [28 September–6 October 2024](2024-10-06-GallupInternational.html) | Gallup International | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | [25 September–1 October 2024](2024-10-01-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [17–24 September 2024](2024-09-24-Тренд.html) | Тренд <br> 24 часа | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
@@ -93,8 +93,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 8% | 100% |  |
-| 5 | 71% | 92% | Median |
-| 6 | 21% | 21% |  |
+| 5 | 70% | 92% | Median |
+| 6 | 22% | 22% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
 

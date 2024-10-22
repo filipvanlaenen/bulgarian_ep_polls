@@ -10,7 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | N/A <br> N/A | N/A <br> N/A | 5–11% <br> 0–2 | 7–11% <br> 1–2 | N/A <br> N/A | 5–9% <br> 0–2 | 7–12% <br> 2–3 | N/A <br> N/A | 23–30% <br> 4–6 | N/A <br> N/A | 2–4% <br> 0–1 | N/A <br> N/A | 2–5% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 3–9% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | 1–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 13–18% <br> 3–4 | N/A <br> N/A | N/A <br> N/A | 2–5% <br> 0 | 2–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [8–13 October 2024](2024-10-13-Медиана.html) | Медиана | N/A <br> N/A | N/A <br> N/A | 8–12% <br> 2 | 8–12% <br> 1–2 | N/A <br> N/A | 4–7% <br> 0–1 | 7–10% <br> 1–3 | N/A <br> N/A | 25–30% <br> 5–6 | N/A <br> N/A | 2–4% <br> 0–1 | N/A <br> N/A | 2–4% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 6–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 2–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 13–18% <br> 2–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [8–13 October 2024](2024-10-13-Медиана.html) | Медиана | N/A <br> N/A | N/A <br> N/A | 8–12% <br> 2 | 8–12% <br> 2 | N/A <br> N/A | 4–7% <br> 0–1 | 7–10% <br> 1–3 | N/A <br> N/A | 25–30% <br> 5–6 | N/A <br> N/A | 2–4% <br> 0–1 | N/A <br> N/A | 2–4% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 6–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 2–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 13–18% <br> 2–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [28 September–6 October 2024](2024-10-06-GallupInternational.html) | Gallup International | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 0–2 | 7–10% <br> 1–2 | N/A <br> N/A | 5–9% <br> 0–2 | 8–12% <br> 2–3 | N/A <br> N/A | 23–29% <br> 4–6 | N/A <br> N/A | 2–4% <br> 0–1 | N/A <br> N/A | 3–5% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | 13–18% <br> 2–4 | N/A <br> N/A | N/A <br> N/A | 2–5% <br> 0 | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [25 September–1 October 2024](2024-10-01-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 0–1 | 8–12% <br> 2 | N/A <br> N/A | 6–9% <br> 1–2 | 8–12% <br> 2–3 | N/A <br> N/A | 24–30% <br> 5–6 | N/A <br> N/A | 2–4% <br> 0–1 | N/A <br> N/A | 3–5% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 13–18% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [17–24 September 2024](2024-09-24-Тренд.html) | Тренд <br> 24 часа | N/A <br> N/A | N/A <br> N/A | 5–9% <br> 0–2 | 7–10% <br> 1–2 | N/A <br> N/A | 4–7% <br> 0–1 | 7–11% <br> 2–3 | N/A <br> N/A | 22–28% <br> 4–6 | N/A <br> N/A | 2–4% <br> 0–1 | N/A <br> N/A | 3–5% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 5–9% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | 13–18% <br> 2–4 | N/A <br> N/A | N/A <br> N/A | 2–5% <br> 0 | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
@@ -404,7 +404,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 13% | 100% | Last Result |
 | 1 | 47% | 87% | Median |
 | 2 | 40% | 40% |  |
-| 3 | 0.2% | 0.2% |  |
+| 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
 ### Алианс за права и свободи (RE)
@@ -418,7 +418,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0.1% | 100% | Last Result |
 | 1 | 12% | 99.9% |  |
 | 2 | 88% | 88% | Median |
-| 3 | 0.2% | 0.2% |  |
+| 3 | 0.3% | 0.3% |  |
 | 4 | 0% | 0% |  |
 
 ### Движение за права и свободи (RE)
@@ -436,8 +436,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 30% | 100% | Last Result |
-| 1 | 49% | 70% | Median |
-| 2 | 20% | 20% |  |
+| 1 | 50% | 70% | Median |
+| 2 | 21% | 21% |  |
 | 3 | 0% | 0% |  |
 
 ### Продължаваме промяната (RE)
@@ -449,8 +449,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.8% | 100% |  |
-| 2 | 72% | 99.2% | Median |
+| 1 | 0.6% | 100% |  |
+| 2 | 73% | 99.4% | Median |
 | 3 | 27% | 27% |  |
 | 4 | 0% | 0% |  |
 
@@ -473,8 +473,8 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 8% | 100% |  |
-| 5 | 71% | 92% | Median |
-| 6 | 21% | 21% |  |
+| 5 | 70% | 92% | Median |
+| 6 | 22% | 22% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
 
@@ -492,8 +492,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 82% | 100% | Last Result, Median |
-| 1 | 18% | 18% |  |
+| 0 | 81% | 100% | Last Result, Median |
+| 1 | 19% | 19% |  |
 | 2 | 0% | 0% |  |
 
 ### Демократи за силна България (EPP)
@@ -535,8 +535,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 39% | 100% | Last Result |
-| 1 | 42% | 61% | Median |
-| 2 | 19% | 19% |  |
+| 1 | 44% | 61% | Median |
+| 2 | 17% | 17% |  |
 | 3 | 0% | 0% |  |
 
 ### ВМРО–Българско Национално Движение (ECR)
@@ -669,9 +669,9 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0.5% | 100% |  |
-| 5 | 25% | 99.5% |  |
+| 5 | 24% | 99.5% |  |
 | 6 | 54% | 75% | Median |
-| 7 | 15% | 20% |  |
+| 7 | 16% | 21% |  |
 | 8 | 5% | 5% |  |
 | 9 | 0% | 0% | Majority |
 
@@ -713,7 +713,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 13% | 100% | Last Result |
 | 1 | 47% | 87% | Median |
 | 2 | 40% | 40% |  |
-| 3 | 0.2% | 0.2% |  |
+| 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
 ### Българските патриоти (ECR) – ВМРО–Българско Национално Движение (ECR) – Има такъв народ (ECR) – Обединени Патриоти (ECR) – Синя България (ECR)
@@ -723,8 +723,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 39% | 100% | Last Result |
-| 1 | 42% | 61% | Median |
-| 2 | 19% | 19% |  |
+| 1 | 44% | 61% | Median |
+| 2 | 17% | 17% |  |
 | 3 | 0% | 0% |  |
 
 ### Атака (NI) – Български възход (NI)
@@ -758,5 +758,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 5
 + **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 5,242,880
++ **Total number of simulations done in the polls included in this average:** 6,291,456
 + **Error estimate:** 2.18%
