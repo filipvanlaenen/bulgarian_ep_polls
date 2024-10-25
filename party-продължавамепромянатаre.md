@@ -58,7 +58,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [17–24 September 2024](2024-09-24-Тренд.html) | Тренд <br> 24 часа | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [18–24 September 2024](2024-09-24-Алфарисърч.html) | Алфа рисърч | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [14–23 August 2024](2024-08-23-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [1–9 August 2024](2024-08-09-GallupInternational.html) | Gallup International <br> БНТ | 2 | 2 | 2–3 | 2–3 | 1–3 |
+| [1–9 August 2024](2024-08-09-GallupInternational.html) | Gallup International <br> БНТ | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [20–28 July 2024](2024-07-28-МаркетЛИНКС.html) | Маркет ЛИНКС |  |  |  |  |  |
 
 ### Probability Mass Function
