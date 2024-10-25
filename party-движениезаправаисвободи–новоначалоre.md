@@ -53,7 +53,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [28 September–6 October 2024](2024-10-06-GallupInternational.html) | Gallup International | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [25 September–1 October 2024](2024-10-01-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [17–24 September 2024](2024-09-24-Тренд.html) | Тренд <br> 24 часа | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
-| [18–24 September 2024](2024-09-24-Алфарисърч.html) | Алфа рисърч | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
+| [18–24 September 2024](2024-09-24-Алфарисърч.html) | Алфа рисърч | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [14–23 August 2024](2024-08-23-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
 | [1–9 August 2024](2024-08-09-GallupInternational.html) | Gallup International <br> БНТ |  |  |  |  |  |
 | [20–28 July 2024](2024-07-28-МаркетЛИНКС.html) | Маркет ЛИНКС |  |  |  |  |  |
@@ -66,9 +66,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 29% | 100% | Last Result |
-| 1 | 51% | 71% | Median |
-| 2 | 20% | 20% |  |
+| 0 | 30% | 100% | Last Result |
+| 1 | 52% | 70% | Median |
+| 2 | 18% | 18% |  |
 | 3 | 0% | 0% |  |
 
 
