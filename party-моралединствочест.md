@@ -10,7 +10,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.3% | 2.4–4.3% | 2.2–4.7% | 2.1–4.9% | 1.8–5.5% |
+| N/A | [Poll Average](average.html) | 3.5% | 2.0–4.6% | 1.7–4.9% | 1.5–5.1% | 1.2–5.6% |
+| [20–23 October 2024](2024-10-23-Алфарисърч.html) | Алфа рисърч | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.8–5.2% | 2.5–5.6% |
+| [16–22 October 2024](2024-10-22-Тренд.html) | Тренд <br> 24 часа | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.6–5.9% |
+| [19–22 October 2024](2024-10-22-Exacta.html) | Exacta | 3.7% | 3.1–4.6% | 2.9–4.8% | 2.8–5.1% | 2.5–5.5% |
+| [10–21 October 2024](2024-10-21-GallupInternational.html) | Gallup International <br> BNR | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
+| [15–20 October 2024](2024-10-20-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 1.8% | 1.3–2.4% | 1.2–2.6% | 1.1–2.8% | 0.9–3.1% |
+| [11–17 October 2024](2024-10-17-SovaHarris.html) | Sova Harris <br> ПИК | 3.1% | 2.5–4.1% | 2.3–4.3% | 2.1–4.6% | 1.8–5.1% |
 | [8–13 October 2024](2024-10-13-Медиана.html) | Медиана | 2.7% | 2.1–3.4% | 2.0–3.7% | 1.8–3.9% | 1.6–4.3% |
 | [28 September–6 October 2024](2024-10-06-GallupInternational.html) | Gallup International | 3.8% | 3.1–4.9% | 2.9–5.2% | 2.7–5.4% | 2.4–5.9% |
 | [25 September–1 October 2024](2024-10-01-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
@@ -27,12 +33,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 14% | 99.9% |  |
-| 2.5–3.5% | 49% | 86% | Median |
-| 3.5–4.5% | 31% | 37% |  |
-| 4.5–5.5% | 6% | 6% |  |
-| 5.5–6.5% | 0.4% | 0.5% |  |
+| 0.5–1.5% | 3% | 100% |  |
+| 1.5–2.5% | 17% | 97% |  |
+| 2.5–3.5% | 31% | 79% | Median |
+| 3.5–4.5% | 37% | 48% |  |
+| 4.5–5.5% | 10% | 11% |  |
+| 5.5–6.5% | 0.7% | 0.7% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -45,6 +51,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [20–23 October 2024](2024-10-23-Алфарисърч.html) | Алфа рисърч | 0 | 0 | 0 | 0 | 0 |
+| [16–22 October 2024](2024-10-22-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0 | 0 | 0 |
+| [19–22 October 2024](2024-10-22-Exacta.html) | Exacta | 0 | 0 | 0 | 0 | 0 |
+| [10–21 October 2024](2024-10-21-GallupInternational.html) | Gallup International <br> BNR | 0 | 0 | 0 | 0 | 0 |
+| [15–20 October 2024](2024-10-20-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0 | 0 | 0 | 0 | 0 |
+| [11–17 October 2024](2024-10-17-SovaHarris.html) | Sova Harris <br> ПИК | 0 | 0 | 0 | 0 | 0 |
 | [8–13 October 2024](2024-10-13-Медиана.html) | Медиана | 0 | 0 | 0 | 0 | 0 |
 | [28 September–6 October 2024](2024-10-06-GallupInternational.html) | Gallup International | 0 | 0 | 0 | 0 | 0–1 |
 | [25 September–1 October 2024](2024-10-01-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
@@ -62,8 +74,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.7% | 100% | Last Result, Median |
-| 1 | 0.3% | 0.3% |  |
+| 0 | 99.9% | 100% | Last Result, Median |
+| 1 | 0.1% | 0.1% |  |
 | 2 | 0% | 0% |  |
 
 

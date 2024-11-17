@@ -10,7 +10,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.5% | 5.2–8.0% | 4.9–8.4% | 4.7–8.8% | 4.2–9.5% |
+| N/A | [Poll Average](average.html) | 7.2% | 5.7–8.6% | 5.3–9.0% | 4.9–9.3% | 4.4–10.0% |
+| [20–23 October 2024](2024-10-23-Алфарисърч.html) | Алфа рисърч | 7.4% | 6.4–8.6% | 6.2–8.9% | 5.9–9.2% | 5.5–9.8% |
+| [16–22 October 2024](2024-10-22-Тренд.html) | Тренд <br> 24 часа | 7.0% | 6.1–8.1% | 5.8–8.5% | 5.6–8.7% | 5.2–9.3% |
+| [19–22 October 2024](2024-10-22-Exacta.html) | Exacta | 7.3% | 6.4–8.4% | 6.1–8.7% | 5.9–9.0% | 5.5–9.6% |
+| [10–21 October 2024](2024-10-21-GallupInternational.html) | Gallup International <br> BNR | 7.6% | 6.7–8.8% | 6.4–9.2% | 6.2–9.5% | 5.7–10.1% |
+| [15–20 October 2024](2024-10-20-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 8.1% | 7.1–9.3% | 6.8–9.6% | 6.6–9.9% | 6.1–10.5% |
+| [11–17 October 2024](2024-10-17-SovaHarris.html) | Sova Harris <br> ПИК | 6.5% | 5.5–7.8% | 5.2–8.1% | 5.0–8.4% | 4.5–9.1% |
 | [8–13 October 2024](2024-10-13-Медиана.html) | Медиана | 5.6% | 4.8–6.7% | 4.5–7.0% | 4.3–7.3% | 4.0–7.8% |
 | [28 September–6 October 2024](2024-10-06-GallupInternational.html) | Gallup International | 6.9% | 5.9–8.2% | 5.6–8.6% | 5.4–8.9% | 4.9–9.6% |
 | [25 September–1 October 2024](2024-10-01-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 7.5% | 6.6–8.7% | 6.3–9.0% | 6.1–9.3% | 5.6–9.9% |
@@ -30,14 +36,15 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 2% | 100% |  |
-| 4.5–5.5% | 16% | 98% |  |
-| 5.5–6.5% | 33% | 82% |  |
-| 6.5–7.5% | 30% | 49% | Median |
-| 7.5–8.5% | 15% | 19% |  |
-| 8.5–9.5% | 4% | 4% |  |
-| 9.5–10.5% | 0.4% | 0.4% |  |
-| 10.5–11.5% | 0% | 0% |  |
+| 3.5–4.5% | 0.8% | 100% |  |
+| 4.5–5.5% | 7% | 99.2% |  |
+| 5.5–6.5% | 21% | 92% |  |
+| 6.5–7.5% | 34% | 71% | Median |
+| 7.5–8.5% | 27% | 37% |  |
+| 8.5–9.5% | 9% | 10% |  |
+| 9.5–10.5% | 1.3% | 1.4% |  |
+| 10.5–11.5% | 0.1% | 0.1% |  |
+| 11.5–12.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -49,6 +56,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [20–23 October 2024](2024-10-23-Алфарисърч.html) | Алфа рисърч | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| [16–22 October 2024](2024-10-22-Тренд.html) | Тренд <br> 24 часа | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| [19–22 October 2024](2024-10-22-Exacta.html) | Exacta | 2 | 1–2 | 0–2 | 0–2 | 0–2 |
+| [10–21 October 2024](2024-10-21-GallupInternational.html) | Gallup International <br> BNR | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
+| [15–20 October 2024](2024-10-20-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [11–17 October 2024](2024-10-17-SovaHarris.html) | Sova Harris <br> ПИК | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [8–13 October 2024](2024-10-13-Медиана.html) | Медиана | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [28 September–6 October 2024](2024-10-06-GallupInternational.html) | Gallup International | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [25 September–1 October 2024](2024-10-01-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
@@ -66,9 +79,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 30% | 100% | Last Result |
-| 1 | 52% | 70% | Median |
-| 2 | 18% | 18% |  |
+| 0 | 13% | 100% | Last Result |
+| 1 | 52% | 87% | Median |
+| 2 | 35% | 35% |  |
 | 3 | 0% | 0% |  |
 
 
