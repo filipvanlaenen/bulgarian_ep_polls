@@ -79,7 +79,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | [20–23 October 2024](2024-10-23-Алфарисърч.html) | Алфа рисърч | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | [16–22 October 2024](2024-10-22-Тренд.html) | Тренд <br> 24 часа | 5 | 5 | 4–6 | 4–6 | 4–6 |
-| [19–22 October 2024](2024-10-22-Exacta.html) | Exacta | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
+| [19–22 October 2024](2024-10-22-Exacta.html) | Exacta | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [10–21 October 2024](2024-10-21-GallupInternational.html) | Gallup International <br> BNR | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [15–20 October 2024](2024-10-20-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [11–17 October 2024](2024-10-17-SovaHarris.html) | Sova Harris <br> ПИК | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
@@ -104,10 +104,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 3% | 100% |  |
-| 5 | 72% | 97% | Median |
+| 4 | 4% | 100% |  |
+| 5 | 72% | 96% | Median |
 | 6 | 24% | 24% |  |
-| 7 | 0.3% | 0.3% |  |
+| 7 | 0.2% | 0.2% |  |
 | 8 | 0% | 0% |  |
 
 

@@ -61,8 +61,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [20–23 October 2024](2024-10-23-Алфарисърч.html) | Алфа рисърч | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [16–22 October 2024](2024-10-22-Тренд.html) | Тренд <br> 24 часа | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [19–22 October 2024](2024-10-22-Exacta.html) | Exacta | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [10–21 October 2024](2024-10-21-GallupInternational.html) | Gallup International <br> BNR | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [15–20 October 2024](2024-10-20-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 2 | 2 | 2 | 2 | 1–2 |
+| [10–21 October 2024](2024-10-21-GallupInternational.html) | Gallup International <br> BNR | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
+| [15–20 October 2024](2024-10-20-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 2 | 2 | 2 | 1–2 | 1–2 |
 | [11–17 October 2024](2024-10-17-SovaHarris.html) | Sova Harris <br> ПИК | 2 | 2 | 2 | 1–2 | 1–2 |
 | [8–13 October 2024](2024-10-13-Медиана.html) | Медиана | 2 | 2 | 2 | 2 | 1–3 |
 | [28 September–6 October 2024](2024-10-06-GallupInternational.html) | Gallup International | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -81,9 +81,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.5% | 100% | Last Result |
-| 1 | 23% | 99.5% |  |
-| 2 | 77% | 77% | Median |
+| 0 | 0.6% | 100% | Last Result |
+| 1 | 21% | 99.4% |  |
+| 2 | 78% | 78% | Median |
 | 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
 

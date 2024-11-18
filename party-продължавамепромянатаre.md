@@ -60,10 +60,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [20–23 October 2024](2024-10-23-Алфарисърч.html) | Алфа рисърч | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [16–22 October 2024](2024-10-22-Тренд.html) | Тренд <br> 24 часа | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [19–22 October 2024](2024-10-22-Exacta.html) | Exacta | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [19–22 October 2024](2024-10-22-Exacta.html) | Exacta | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [10–21 October 2024](2024-10-21-GallupInternational.html) | Gallup International <br> BNR | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [15–20 October 2024](2024-10-20-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| [11–17 October 2024](2024-10-17-SovaHarris.html) | Sova Harris <br> ПИК | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| [15–20 October 2024](2024-10-20-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [11–17 October 2024](2024-10-17-SovaHarris.html) | Sova Harris <br> ПИК | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [8–13 October 2024](2024-10-13-Медиана.html) | Медиана | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | [28 September–6 October 2024](2024-10-06-GallupInternational.html) | Gallup International | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [25 September–1 October 2024](2024-10-01-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -83,8 +83,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.6% | 100% |  |
-| 2 | 84% | 99.4% | Median |
-| 3 | 15% | 15% |  |
+| 2 | 82% | 99.4% | Median |
+| 3 | 17% | 17% |  |
 | 4 | 0% | 0% |  |
 
 

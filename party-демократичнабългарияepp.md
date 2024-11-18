@@ -49,13 +49,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [20–23 October 2024](2024-10-23-Алфарисърч.html) | Алфа рисърч | 0 | 0 | 0 | 0–1 | 0–1 |
 | [16–22 October 2024](2024-10-22-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [19–22 October 2024](2024-10-22-Exacta.html) | Exacta | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–21 October 2024](2024-10-21-GallupInternational.html) | Gallup International <br> BNR | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [15–20 October 2024](2024-10-20-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0 | 0 | 0 | 0–1 | 0–1 |
-| [11–17 October 2024](2024-10-17-SovaHarris.html) | Sova Harris <br> ПИК | 0 | 0 | 0 | 0–1 | 0–1 |
+| [15–20 October 2024](2024-10-20-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [11–17 October 2024](2024-10-17-SovaHarris.html) | Sova Harris <br> ПИК | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–13 October 2024](2024-10-13-Медиана.html) | Медиана | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [28 September–6 October 2024](2024-10-06-GallupInternational.html) | Gallup International | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [25 September–1 October 2024](2024-10-01-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -73,8 +73,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 90% | 100% | Last Result, Median |
-| 1 | 10% | 10% |  |
+| 0 | 87% | 100% | Last Result, Median |
+| 1 | 13% | 13% |  |
 | 2 | 0% | 0% |  |
 
 
