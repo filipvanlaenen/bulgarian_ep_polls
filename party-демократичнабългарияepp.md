@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.6% | 2.0–3.4% | 1.8–3.6% | 1.7–3.8% | 1.5–4.2% |
+| N/A | [Poll Average](average.html) | 2.7% | 2.0–3.5% | 1.9–3.7% | 1.7–3.9% | 1.5–4.4% |
+| [12–20 December 2024](2024-12-20-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 2.6% | 2.0–3.5% | 1.9–3.7% | 1.7–3.9% | 1.5–4.4% |
 | [20–23 October 2024](2024-10-23-Алфарисърч.html) | Алфа рисърч | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
 | [16–22 October 2024](2024-10-22-Тренд.html) | Тренд <br> 24 часа | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
 | [19–22 October 2024](2024-10-22-Exacta.html) | Exacta | 2.5% | 2.0–3.3% | 1.9–3.5% | 1.7–3.7% | 1.5–4.0% |
@@ -33,11 +34,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.9% | 100% |  |
-| 1.5–2.5% | 43% | 99.1% |  |
-| 2.5–3.5% | 50% | 56% | Median |
-| 3.5–4.5% | 5% | 6% |  |
-| 4.5–5.5% | 0.1% | 0.1% |  |
+| 0.5–1.5% | 0.8% | 100% |  |
+| 1.5–2.5% | 40% | 99.2% |  |
+| 2.5–3.5% | 52% | 60% | Median |
+| 3.5–4.5% | 7% | 8% |  |
+| 4.5–5.5% | 0.2% | 0.2% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -50,6 +51,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [12–20 December 2024](2024-12-20-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [20–23 October 2024](2024-10-23-Алфарисърч.html) | Алфа рисърч | 0 | 0 | 0 | 0–1 | 0–1 |
 | [16–22 October 2024](2024-10-22-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [19–22 October 2024](2024-10-22-Exacta.html) | Exacta | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -73,8 +75,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 87% | 100% | Last Result, Median |
-| 1 | 13% | 13% |  |
+| 0 | 88% | 100% | Last Result, Median |
+| 1 | 12% | 12% |  |
 | 2 | 0% | 0% |  |
 
 
