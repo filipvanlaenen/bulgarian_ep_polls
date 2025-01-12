@@ -55,8 +55,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| [12–20 December 2024](2024-12-20-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
+| [12–20 December 2024](2024-12-20-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | [20–23 October 2024](2024-10-23-Алфарисърч.html) | Алфа рисърч | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [16–22 October 2024](2024-10-22-Тренд.html) | Тренд <br> 24 часа | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [19–22 October 2024](2024-10-22-Exacta.html) | Exacta | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -80,9 +80,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 11% | 100% | Last Result |
-| 1 | 79% | 89% | Median |
-| 2 | 11% | 11% |  |
+| 0 | 10% | 100% | Last Result |
+| 1 | 78% | 90% | Median |
+| 2 | 12% | 12% |  |
 | 3 | 0% | 0% |  |
 
 
