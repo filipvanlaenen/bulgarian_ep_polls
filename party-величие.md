@@ -57,7 +57,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [25 January–3 February 2025](2025-02-03-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
-| [24–30 January 2025](2025-01-30-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0 | 0 | 0–1 |
+| [24–30 January 2025](2025-01-30-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0 | 0 | 0 |
 | [15–20 January 2025](2025-01-20-Алфарисърч.html) | Алфа рисърч |  |  |  |  |  |
 | [8–12 January 2025](2025-01-12-GallupInternational.html) | Gallup International | 0 | 0 | 0 | 0 | 0 |
 | [12–20 December 2024](2024-12-20-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
@@ -84,8 +84,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.6% | 100% | Last Result, Median |
-| 1 | 0.4% | 0.4% |  |
+| 0 | 99.8% | 100% | Last Result, Median |
+| 1 | 0.2% | 0.2% |  |
 | 2 | 0% | 0% |  |
 
 

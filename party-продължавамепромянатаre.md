@@ -61,7 +61,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [25 January–3 February 2025](2025-02-03-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [24–30 January 2025](2025-01-30-Тренд.html) | Тренд <br> 24 часа | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | [15–20 January 2025](2025-01-20-Алфарисърч.html) | Алфа рисърч | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
@@ -91,8 +91,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 3% | 100% |  |
-| 2 | 79% | 97% | Median |
+| 1 | 2% | 100% |  |
+| 2 | 78% | 98% | Median |
 | 3 | 19% | 19% |  |
 | 4 | 0% | 0% |  |
 
