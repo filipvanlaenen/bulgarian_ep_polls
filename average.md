@@ -402,7 +402,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 12% | 100% | Last Result |
 | 1 | 42% | 88% | Median |
-| 2 | 46% | 46% |  |
+| 2 | 45% | 45% |  |
 | 3 | 0% | 0% |  |
 
 ### Алианс за права и свободи (RE)
@@ -449,7 +449,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 2% | 100% |  |
-| 2 | 78% | 98% | Median |
+| 2 | 79% | 98% | Median |
 | 3 | 19% | 19% |  |
 | 4 | 0% | 0% |  |
 
@@ -491,8 +491,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 89% | 100% | Last Result, Median |
-| 1 | 11% | 11% |  |
+| 0 | 88% | 100% | Last Result, Median |
+| 1 | 12% | 12% |  |
 | 2 | 0% | 0% |  |
 
 ### Демократи за силна България (EPP)
@@ -509,8 +509,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 41% | 100% | Last Result |
-| 1 | 59% | 59% | Median |
+| 0 | 42% | 100% | Last Result |
+| 1 | 58% | 58% | Median |
 | 2 | 0% | 0% |  |
 
 ### Изправи се Бг (EPP)
@@ -533,8 +533,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 55% | 100% | Last Result, Median |
-| 1 | 42% | 45% |  |
+| 0 | 54% | 100% | Last Result, Median |
+| 1 | 43% | 46% |  |
 | 2 | 3% | 3% |  |
 | 3 | 0% | 0% |  |
 
@@ -582,8 +582,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 34% | 100% |  |
-| 3 | 65% | 66% | Median |
+| 2 | 33% | 100% |  |
+| 3 | 66% | 67% | Median |
 | 4 | 1.0% | 1.0% |  |
 | 5 | 0% | 0% |  |
 
@@ -673,7 +673,7 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 2% | 100% |  |
 | 5 | 35% | 98% | Median |
 | 6 | 48% | 63% |  |
-| 7 | 15% | 15% |  |
+| 7 | 14% | 15% |  |
 | 8 | 0.3% | 0.3% |  |
 | 9 | 0% | 0% | Majority |
 
@@ -689,7 +689,7 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 100% |  |
 | 4 | 0.8% | 100% |  |
 | 5 | 25% | 99.2% |  |
-| 6 | 60% | 74% | Median |
+| 6 | 61% | 75% | Median |
 | 7 | 14% | 14% |  |
 | 8 | 0.2% | 0.2% |  |
 | 9 | 0% | 0% | Majority |
@@ -702,8 +702,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 34% | 100% |  |
-| 3 | 65% | 66% | Median |
+| 2 | 33% | 100% |  |
+| 3 | 66% | 67% | Median |
 | 4 | 1.0% | 1.0% |  |
 | 5 | 0% | 0% |  |
 
@@ -715,7 +715,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 12% | 100% | Last Result |
 | 1 | 42% | 88% | Median |
-| 2 | 46% | 46% |  |
+| 2 | 45% | 45% |  |
 | 3 | 0% | 0% |  |
 
 ### Българските патриоти (ECR) – ВМРО–Българско Национално Движение (ECR) – Има такъв народ (ECR) – Обединени Патриоти (ECR) – Синя България (ECR)
@@ -724,8 +724,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 55% | 100% | Last Result, Median |
-| 1 | 42% | 45% |  |
+| 0 | 54% | 100% | Last Result, Median |
+| 1 | 43% | 46% |  |
 | 2 | 3% | 3% |  |
 | 3 | 0% | 0% |  |
 
@@ -760,6 +760,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 4
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 7,340,032
-+ **Error estimate:** 2.18%
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 8,388,608
++ **Error estimate:** 2.62%
