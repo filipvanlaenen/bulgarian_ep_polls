@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/bulgarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 20 Feb 2025 18:00:17 +0100</pubDate>
+    <pubDate>Sat, 22 Feb 2025 16:49:45 +0100</pubDate>
     <item>
       <title>Opinion Poll by Маркет ЛИНКС for bTV, 25 January–3 February 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2025-02-03-МаркетЛИНКС.html#seats</link>
@@ -76,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2025-01-20-Алфарисърч-seats.png"
         length="309930"
         type="image/png"/>
-      <pubDate>Tue, 18 Feb 2025 21:18:56 +0100</pubDate>
-      <dc:date>2025-02-18T21:18:56.892112+01:00</dc:date>
+      <pubDate>Sat, 22 Feb 2025 16:49:45 +0100</pubDate>
+      <dc:date>2025-02-22T16:49:45.79347+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Алфа рисърч, 15–20 January 2025 – Seat Projections for a Selection of Coalitions</title>
@@ -86,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2025-01-20-Алфарисърч-coalitions-seats.png"
         length="232871"
         type="image/png"/>
-      <pubDate>Tue, 18 Feb 2025 21:18:56 +0100</pubDate>
-      <dc:date>2025-02-18T21:18:56.892112+01:00</dc:date>
+      <pubDate>Sat, 22 Feb 2025 16:49:45 +0100</pubDate>
+      <dc:date>2025-02-22T16:49:45.79347+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Алфа рисърч, 15–20 January 2025 – Voting Intentions</title>
@@ -96,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2025-01-20-Алфарисърч.png"
         length="356902"
         type="image/png"/>
-      <pubDate>Tue, 18 Feb 2025 21:18:56 +0100</pubDate>
-      <dc:date>2025-02-18T21:18:56.892112+01:00</dc:date>
+      <pubDate>Sat, 22 Feb 2025 16:49:45 +0100</pubDate>
+      <dc:date>2025-02-22T16:49:45.79347+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Gallup International, 8–12 January 2025 – Seat Projections for the Parties</title>
@@ -549,6 +549,6 @@
       <pubDate>Fri, 25 Oct 2024 22:20:10 +0200</pubDate>
       <dc:date>2024-10-25T22:20:10.139797+02:00</dc:date>
     </item>
-    <dc:date>2025-02-20T18:00:17.163389+01:00</dc:date>
+    <dc:date>2025-02-22T16:49:45.79347+01:00</dc:date>
   </channel>
 </rss>
