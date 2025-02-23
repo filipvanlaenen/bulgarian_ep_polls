@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/bulgarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 22 Feb 2025 16:49:45 +0100</pubDate>
+    <pubDate>Sun, 23 Feb 2025 18:23:28 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Мяра, 6–16 February 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2025-02-16-Мяра.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Продължаваме промяната (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Морал, Единство, Чест (*): 0–2 seats&lt;/li&gt;&lt;li&gt;Възраждане (ESN): 2–3 seats&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;БСП – обединена левица (S&amp;amp;D): 0–2 seats&lt;/li&gt;&lt;li&gt;Величие (*): 0 seats&lt;/li&gt;&lt;li&gt;Движение за права и свободи – Ново начало (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Има такъв народ (ECR): 0–2 seats&lt;/li&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 4–6 seats&lt;/li&gt;&lt;li&gt;Алианс за права и свободи (RE): 0–2 seats&lt;/li&gt;&lt;li&gt;Да, България! (EPP): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2025-02-16-Мяра-seats.png"
+        length="370519"
+        type="image/png"/>
+      <pubDate>Sun, 23 Feb 2025 18:23:28 +0100</pubDate>
+      <dc:date>2025-02-23T18:23:28.147015+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Мяра, 6–16 February 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2025-02-16-Мяра.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2025-02-16-Мяра-coalitions-seats.png"
+        length="261174"
+        type="image/png"/>
+      <pubDate>Sun, 23 Feb 2025 18:23:28 +0100</pubDate>
+      <dc:date>2025-02-23T18:23:28.147015+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Мяра, 6–16 February 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2025-02-16-Мяра.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Продължаваме промяната (RE): 6.6–10.5%&lt;/li&gt;&lt;li&gt;Морал, Единство, Чест (*): 4.5–7.8%&lt;/li&gt;&lt;li&gt;Възраждане (ESN): 11.3–16.1%&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 1.5–3.6%&lt;/li&gt;&lt;li&gt;БСП – обединена левица (S&amp;amp;D): 5.2–8.8%&lt;/li&gt;&lt;li&gt;Величие (*): 2.8–5.6%&lt;/li&gt;&lt;li&gt;Движение за права и свободи – Ново начало (RE): 8.2–12.5%&lt;/li&gt;&lt;li&gt;Има такъв народ (ECR): 4.9–8.4%&lt;/li&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 23.5–29.7%&lt;/li&gt;&lt;li&gt;Алианс за права и свободи (RE): 5.3–9.0%&lt;/li&gt;&lt;li&gt;Да, България! (EPP): 2.2–4.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2025-02-16-Мяра.png"
+        length="379700"
+        type="image/png"/>
+      <pubDate>Sun, 23 Feb 2025 18:23:28 +0100</pubDate>
+      <dc:date>2025-02-23T18:23:28.147015+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Маркет ЛИНКС for bTV, 25 January–3 February 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2025-02-03-МаркетЛИНКС.html#seats</link>
@@ -549,6 +579,6 @@
       <pubDate>Fri, 25 Oct 2024 22:20:10 +0200</pubDate>
       <dc:date>2024-10-25T22:20:10.139797+02:00</dc:date>
     </item>
-    <dc:date>2025-02-22T16:49:45.79347+01:00</dc:date>
+    <dc:date>2025-02-23T18:23:28.147015+01:00</dc:date>
   </channel>
 </rss>
