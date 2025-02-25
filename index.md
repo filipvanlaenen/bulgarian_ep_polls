@@ -1,6 +1,6 @@
 # Overview
 
-The table below lists the most recent polls (less than 65 days old) registered and analyzed so far.
+The table below lists the most recent polls (less than 90 days old) registered and analyzed so far.
 
 | Period     | Polling firm/Commissioner(s) | АБВ | БСП | БСП–ОЛ | АПС | ДПС | ДПС–НН | ПП | НДСВ | ГЕРБ | РБ | ДБ | ДСБ | Да | ИС.Б | ОП | ИТН | ВМРО | БП | СБ | Воля | Воля–НФСБ | В | Атака | БВ | В | МЕЧ | НФСБ | РзБ | Лев |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
