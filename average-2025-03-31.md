@@ -404,7 +404,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 13% | 100% | Last Result |
-| 1 | 43% | 87% | Median |
+| 1 | 44% | 87% | Median |
 | 2 | 44% | 44% |  |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
@@ -417,9 +417,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 11% | 100% | Last Result |
-| 1 | 52% | 89% | Median |
-| 2 | 37% | 37% |  |
+| 0 | 13% | 100% | Last Result |
+| 1 | 51% | 87% | Median |
+| 2 | 36% | 36% |  |
 | 3 | 0% | 0% |  |
 
 ### Движение за права и свободи (RE)
@@ -438,9 +438,9 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.4% | 100% |  |
-| 2 | 80% | 99.6% | Median |
-| 3 | 20% | 20% |  |
-| 4 | 0.2% | 0.2% |  |
+| 2 | 81% | 99.6% | Median |
+| 3 | 19% | 19% |  |
+| 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
 ### Продължаваме промяната (RE)
@@ -453,8 +453,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 3% | 100% |  |
-| 2 | 78% | 97% | Median |
-| 3 | 19% | 19% |  |
+| 2 | 79% | 97% | Median |
+| 3 | 18% | 18% |  |
 | 4 | 0% | 0% |  |
 
 ### Национално движение за стабилност и възход (RE)
@@ -476,9 +476,9 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 3% | 100% |  |
-| 5 | 66% | 97% | Median |
-| 6 | 29% | 30% |  |
-| 7 | 1.2% | 1.2% |  |
+| 5 | 67% | 97% | Median |
+| 6 | 28% | 30% |  |
+| 7 | 2% | 2% |  |
 | 8 | 0% | 0% |  |
 
 ### Реформаторски блок (EPP)
@@ -495,8 +495,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 88% | 100% | Last Result, Median |
-| 1 | 12% | 12% |  |
+| 0 | 89% | 100% | Last Result, Median |
+| 1 | 11% | 11% |  |
 | 2 | 0% | 0% |  |
 
 ### Демократи за силна България (EPP)
@@ -513,8 +513,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 45% | 100% | Last Result |
-| 1 | 55% | 55% | Median |
+| 0 | 42% | 100% | Last Result |
+| 1 | 58% | 58% | Median |
 | 2 | 0% | 0% |  |
 
 ### Изправи се Бг (EPP)
@@ -537,8 +537,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 49% | 100% | Last Result |
-| 1 | 47% | 51% | Median |
+| 0 | 47% | 100% | Last Result |
+| 1 | 48% | 53% | Median |
 | 2 | 5% | 5% |  |
 | 3 | 0% | 0% |  |
 
@@ -586,8 +586,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 38% | 100% |  |
-| 3 | 62% | 62% | Median |
+| 2 | 36% | 100% |  |
+| 3 | 64% | 64% | Median |
 | 4 | 0.2% | 0.2% |  |
 | 5 | 0% | 0% |  |
 
@@ -611,8 +611,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.2% | 100% | Last Result, Median |
-| 1 | 0.8% | 0.8% |  |
+| 0 | 99.4% | 100% | Last Result, Median |
+| 1 | 0.6% | 0.6% |  |
 | 2 | 0% | 0% |  |
 
 ### Морал, Единство, Чест (*)
@@ -623,8 +623,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 79% | 100% | Last Result, Median |
-| 1 | 20% | 21% |  |
+| 0 | 78% | 100% | Last Result, Median |
+| 1 | 20% | 22% |  |
 | 2 | 1.5% | 1.5% |  |
 | 3 | 0% | 0% |  |
 
@@ -674,11 +674,11 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 1.0% | 100% |  |
-| 5 | 23% | 99.0% |  |
-| 6 | 57% | 76% | Median |
-| 7 | 17% | 19% |  |
-| 8 | 2% | 2% |  |
+| 4 | 0.9% | 100% |  |
+| 5 | 22% | 99.1% |  |
+| 6 | 56% | 77% | Median |
+| 7 | 19% | 20% |  |
+| 8 | 1.1% | 1.1% |  |
 | 9 | 0% | 0% | Majority |
 
 ### Алианс за права и свободи (RE) – Движение за права и свободи (RE) – Движение за права и свободи – Ново начало (RE) – Национално движение за стабилност и възход (RE) – Продължаваме промяната (RE)
@@ -692,9 +692,9 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 100% |  |
 | 3 | 0.1% | 100% |  |
 | 4 | 5% | 99.9% |  |
-| 5 | 38% | 95% | Median |
-| 6 | 48% | 57% |  |
-| 7 | 9% | 9% |  |
+| 5 | 41% | 95% | Median |
+| 6 | 45% | 54% |  |
+| 7 | 8% | 8% |  |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% | Majority |
 
@@ -706,8 +706,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 38% | 100% |  |
-| 3 | 62% | 62% | Median |
+| 2 | 36% | 100% |  |
+| 3 | 64% | 64% | Median |
 | 4 | 0.2% | 0.2% |  |
 | 5 | 0% | 0% |  |
 
@@ -718,7 +718,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 13% | 100% | Last Result |
-| 1 | 43% | 87% | Median |
+| 1 | 44% | 87% | Median |
 | 2 | 44% | 44% |  |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
@@ -729,8 +729,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 49% | 100% | Last Result |
-| 1 | 47% | 51% | Median |
+| 0 | 47% | 100% | Last Result |
+| 1 | 48% | 53% | Median |
 | 2 | 5% | 5% |  |
 | 3 | 0% | 0% |  |
 
@@ -740,8 +740,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 79% | 100% | Last Result, Median |
-| 1 | 20% | 21% |  |
+| 0 | 78% | 100% | Last Result, Median |
+| 1 | 20% | 22% |  |
 | 2 | 1.5% | 1.5% |  |
 | 3 | 0% | 0% |  |
 
@@ -765,6 +765,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 9,437,184
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 10,485,760
 + **Error estimate:** 2.62%
