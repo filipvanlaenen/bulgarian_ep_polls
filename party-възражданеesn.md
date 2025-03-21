@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.4% | 11.9–15.0% | 11.5–15.5% | 11.2–15.9% | 10.5–16.7% |
+| N/A | [Poll Average](average.html) | 13.4% | 11.9–15.0% | 11.5–15.4% | 11.2–15.9% | 10.6–16.7% |
+| [22 February–2 March 2025](2025-03-02-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 13.0% | 11.8–14.5% | 11.4–14.9% | 11.1–15.3% | 10.5–16.0% |
 | [13–20 February 2025](2025-02-20-GallupInternational.html) | Gallup International | 13.2% | 11.8–14.9% | 11.4–15.3% | 11.1–15.8% | 10.4–16.6% |
 | [6–16 February 2025](2025-02-16-Мяра.html) | Мяра | 13.5% | 12.0–15.2% | 11.6–15.7% | 11.3–16.1% | 10.6–16.9% |
 | [25 January–3 February 2025](2025-02-03-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 13.1% | 11.7–14.6% | 11.3–15.1% | 11.0–15.5% | 10.4–16.2% |
@@ -53,7 +54,7 @@ The following table shows the probability mass function per percentage block of 
 | 10.5–11.5% | 5% | 99.5% |  |
 | 11.5–12.5% | 18% | 95% |  |
 | 12.5–13.5% | 32% | 76% | Median |
-| 13.5–14.5% | 27% | 45% |  |
+| 13.5–14.5% | 27% | 44% |  |
 | 14.5–15.5% | 13% | 17% |  |
 | 15.5–16.5% | 4% | 4% |  |
 | 16.5–17.5% | 0.6% | 0.7% |  |
@@ -70,6 +71,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [22 February–2 March 2025](2025-03-02-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [13–20 February 2025](2025-02-20-GallupInternational.html) | Gallup International | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [6–16 February 2025](2025-02-16-Мяра.html) | Мяра | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [25 January–3 February 2025](2025-02-03-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -102,8 +104,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 36% | 100% |  |
-| 3 | 64% | 64% | Median |
+| 2 | 33% | 100% |  |
+| 3 | 67% | 67% | Median |
 | 4 | 0.2% | 0.2% |  |
 | 5 | 0% | 0% |  |
 
