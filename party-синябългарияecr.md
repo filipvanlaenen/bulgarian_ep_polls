@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.1% | 0.8–1.6% | 0.7–1.8% | 0.6–1.9% | 0.5–2.2% |
+| [18–30 April 2025](2025-04-30-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
+| [3–13 April 2025](2025-04-13-Мяра.html) | Мяра | 0.0% | N/A | N/A | N/A | N/A |
 | [22–30 March 2025](2025-03-30-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
 | [19–30 March 2025](2025-03-30-GallupInternational.html) | Gallup International | 0.0% | N/A | N/A | N/A | N/A |
 | [10–16 March 2025](2025-03-16-Тренд.html) | Тренд <br> 24 часа | 1.1% | 0.8–1.6% | 0.7–1.8% | 0.6–1.9% | 0.5–2.2% |
@@ -59,6 +61,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [18–30 April 2025](2025-04-30-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
+| [3–13 April 2025](2025-04-13-Мяра.html) | Мяра |  |  |  |  |  |
 | [22–30 March 2025](2025-03-30-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
 | [19–30 March 2025](2025-03-30-GallupInternational.html) | Gallup International |  |  |  |  |  |
 | [10–16 March 2025](2025-03-16-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0 | 0 | 0 |
