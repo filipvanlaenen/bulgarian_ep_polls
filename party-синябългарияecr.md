@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.2% | 0.8–1.7% | 0.7–1.8% | 0.6–2.0% | 0.5–2.3% |
+| [11–23 July 2025](2025-07-23-GallupInternational.html) | Gallup International | 0.0% | N/A | N/A | N/A | N/A |
+| [7–14 July 2025](2025-07-14-Алфарисърч.html) | Алфа рисърч | 0.0% | N/A | N/A | N/A | N/A |
 | [9–11 June 2025](2025-06-11-SovaHarris.html) | Sova Harris | 0.0% | N/A | N/A | N/A | N/A |
 | [12–18 May 2025](2025-05-18-Тренд.html) | Тренд <br> 24 часа | 1.1% | 0.8–1.7% | 0.7–1.8% | 0.6–2.0% | 0.5–2.3% |
 | [18–30 April 2025](2025-04-30-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
@@ -63,6 +65,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [11–23 July 2025](2025-07-23-GallupInternational.html) | Gallup International |  |  |  |  |  |
+| [7–14 July 2025](2025-07-14-Алфарисърч.html) | Алфа рисърч |  |  |  |  |  |
 | [9–11 June 2025](2025-06-11-SovaHarris.html) | Sova Harris |  |  |  |  |  |
 | [12–18 May 2025](2025-05-18-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0 | 0 | 0 |
 | [18–30 April 2025](2025-04-30-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |

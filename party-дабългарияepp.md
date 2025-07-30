@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.5% | 2.7–4.4% | 2.5–4.7% | 2.3–5.0% | 2.1–5.5% |
+| N/A | [Poll Average](average.html) | 3.4% | 2.6–4.4% | 2.4–4.7% | 2.2–4.9% | 1.9–5.4% |
+| [11–23 July 2025](2025-07-23-GallupInternational.html) | Gallup International | 2.9% | 2.3–3.9% | 2.1–4.1% | 2.0–4.4% | 1.7–4.9% |
+| [7–14 July 2025](2025-07-14-Алфарисърч.html) | Алфа рисърч | 3.4% | 2.8–4.3% | 2.6–4.6% | 2.4–4.8% | 2.1–5.3% |
 | [9–11 June 2025](2025-06-11-SovaHarris.html) | Sova Harris | 3.2% | 2.6–4.0% | 2.4–4.3% | 2.3–4.5% | 2.0–4.9% |
 | [12–18 May 2025](2025-05-18-Тренд.html) | Тренд <br> 24 часа | 3.2% | 2.6–4.0% | 2.4–4.3% | 2.3–4.5% | 2.0–4.9% |
 | [18–30 April 2025](2025-04-30-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.6–5.9% |
@@ -49,11 +51,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 6% | 100% |  |
-| 2.5–3.5% | 48% | 94% | Median |
-| 3.5–4.5% | 38% | 46% |  |
-| 4.5–5.5% | 7% | 8% |  |
-| 5.5–6.5% | 0.5% | 0.5% |  |
+| 1.5–2.5% | 8% | 100% |  |
+| 2.5–3.5% | 50% | 92% | Median |
+| 3.5–4.5% | 35% | 41% |  |
+| 4.5–5.5% | 6% | 6% |  |
+| 5.5–6.5% | 0.3% | 0.4% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -66,6 +68,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [11–23 July 2025](2025-07-23-GallupInternational.html) | Gallup International | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [7–14 July 2025](2025-07-14-Алфарисърч.html) | Алфа рисърч | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [9–11 June 2025](2025-06-11-SovaHarris.html) | Sova Harris | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–18 May 2025](2025-05-18-Тренд.html) | Тренд <br> 24 часа | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [18–30 April 2025](2025-04-30-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -104,8 +108,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 30% | 100% | Last Result |
-| 1 | 70% | 70% | Median |
+| 0 | 28% | 100% | Last Result |
+| 1 | 72% | 72% | Median |
 | 2 | 0% | 0% |  |
 
 
