@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/bulgarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 25 Sep 2025 20:53:59 +0200</pubDate>
+    <pubDate>Thu, 16 Oct 2025 21:32:11 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Gallup International, 29 September–12 October 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2025-10-12-GallupInternational.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Продължаваме промяната (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Морал, Единство, Чест (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Възраждане (ESN): 2–3 seats&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;БСП – обединена левица (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Величие (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Движение за права и свободи – Ново начало (RE): 3–4 seats&lt;/li&gt;&lt;li&gt;Има такъв народ (ECR): 0–2 seats&lt;/li&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 5–6 seats&lt;/li&gt;&lt;li&gt;Алианс за права и свободи (RE): 0 seats&lt;/li&gt;&lt;li&gt;Да, България! (EPP): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2025-10-12-GallupInternational-seats.png"
+        length="325102"
+        type="image/png"/>
+      <pubDate>Thu, 16 Oct 2025 21:32:11 +0200</pubDate>
+      <dc:date>2025-10-16T21:32:11.145886+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Gallup International, 29 September–12 October 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2025-10-12-GallupInternational.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2025-10-12-GallupInternational-coalitions-seats.png"
+        length="236337"
+        type="image/png"/>
+      <pubDate>Thu, 16 Oct 2025 21:32:11 +0200</pubDate>
+      <dc:date>2025-10-16T21:32:11.145886+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Gallup International, 29 September–12 October 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2025-10-12-GallupInternational.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Продължаваме промяната (RE): 6.7–10.3%&lt;/li&gt;&lt;li&gt;Морал, Единство, Чест (*): 4.4–7.5%&lt;/li&gt;&lt;li&gt;Възраждане (ESN): 11.3–15.8%&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 1.5–3.5%&lt;/li&gt;&lt;li&gt;БСП – обединена левица (S&amp;amp;D): 6.1–9.6%&lt;/li&gt;&lt;li&gt;Величие (*): 3.2–5.9%&lt;/li&gt;&lt;li&gt;Движение за права и свободи – Ново начало (RE): 15.1–20.1%&lt;/li&gt;&lt;li&gt;Има такъв народ (ECR): 4.4–7.5%&lt;/li&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 24.6–30.4%&lt;/li&gt;&lt;li&gt;Алианс за права и свободи (RE): 0.7–2.2%&lt;/li&gt;&lt;li&gt;Да, България! (EPP): 2.2–4.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2025-10-12-GallupInternational.png"
+        length="377108"
+        type="image/png"/>
+      <pubDate>Thu, 16 Oct 2025 21:32:11 +0200</pubDate>
+      <dc:date>2025-10-16T21:32:11.145886+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Тренд for 24 часа, 13–20 September 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2025-09-20-Тренд.html#seats</link>
@@ -969,6 +999,6 @@
       <pubDate>Fri, 25 Oct 2024 22:20:10 +0200</pubDate>
       <dc:date>2024-10-25T22:20:10.139797+02:00</dc:date>
     </item>
-    <dc:date>2025-09-25T20:53:59.542632+02:00</dc:date>
+    <dc:date>2025-10-16T21:32:11.145886+02:00</dc:date>
   </channel>
 </rss>
