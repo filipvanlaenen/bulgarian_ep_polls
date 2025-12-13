@@ -10,11 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.7% | 2.9–4.7% | 2.7–5.0% | 2.5–5.3% | 2.2–5.9% |
+| N/A | [Poll Average](average.html) | 4.2% | 3.3–5.2% | 3.0–5.5% | 2.8–5.8% | 2.4–6.4% |
 | [3–7 December 2025](2025-12-07-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 3.7% | 2.9–4.7% | 2.7–5.0% | 2.5–5.3% | 2.2–5.9% |
-| [29 September–12 October 2025](2025-10-12-GallupInternational.html) | Gallup International | 4.3% | N/A | N/A | N/A | N/A |
-| [13–20 September 2025](2025-09-20-Тренд.html) | Тренд <br> 24 часа | 4.1% | N/A | N/A | N/A | N/A |
-| [4–12 September 2025](2025-09-12-Мяра.html) | Мяра | 4.5% | N/A | N/A | N/A | N/A |
+| [29 September–12 October 2025](2025-10-12-GallupInternational.html) | Gallup International | 4.3% | 3.6–5.3% | 3.4–5.6% | 3.2–5.9% | 2.8–6.4% |
+| [13–20 September 2025](2025-09-20-Тренд.html) | Тренд <br> 24 часа | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
+| [4–12 September 2025](2025-09-12-Мяра.html) | Мяра | 4.5% | 3.7–5.6% | 3.4–5.9% | 3.3–6.2% | 2.9–6.7% |
 | [11–23 July 2025](2025-07-23-GallupInternational.html) | Gallup International | 4.2% | N/A | N/A | N/A | N/A |
 | [7–14 July 2025](2025-07-14-Алфарисърч.html) | Алфа рисърч | 4.4% | N/A | N/A | N/A | N/A |
 | [9–11 June 2025](2025-06-11-SovaHarris.html) | Sova Harris | 5.2% | N/A | N/A | N/A | N/A |
@@ -56,12 +56,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 3% | 100% |  |
-| 2.5–3.5% | 37% | 97% |  |
-| 3.5–4.5% | 47% | 61% | Median |
-| 4.5–5.5% | 13% | 14% |  |
-| 5.5–6.5% | 1.2% | 1.3% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 1.5–2.5% | 0.8% | 100% |  |
+| 2.5–3.5% | 17% | 99.2% |  |
+| 3.5–4.5% | 49% | 82% | Median |
+| 4.5–5.5% | 28% | 33% |  |
+| 5.5–6.5% | 5% | 5% |  |
+| 6.5–7.5% | 0.3% | 0.3% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -73,11 +73,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
 | [3–7 December 2025](2025-12-07-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0 | 0 | 0 | 0 | 0 |
-| [29 September–12 October 2025](2025-10-12-GallupInternational.html) | Gallup International |  |  |  |  |  |
-| [13–20 September 2025](2025-09-20-Тренд.html) | Тренд <br> 24 часа |  |  |  |  |  |
-| [4–12 September 2025](2025-09-12-Мяра.html) | Мяра |  |  |  |  |  |
+| [29 September–12 October 2025](2025-10-12-GallupInternational.html) | Gallup International | 0 | 0 | 0 | 0 | 0–1 |
+| [13–20 September 2025](2025-09-20-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0 | 0 | 0 |
+| [4–12 September 2025](2025-09-12-Мяра.html) | Мяра | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [11–23 July 2025](2025-07-23-GallupInternational.html) | Gallup International |  |  |  |  |  |
 | [7–14 July 2025](2025-07-14-Алфарисърч.html) | Алфа рисърч |  |  |  |  |  |
 | [9–11 June 2025](2025-06-11-SovaHarris.html) | Sova Harris |  |  |  |  |  |
@@ -119,8 +119,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.8% | 100% | Last Result, Median |
-| 1 | 0.2% | 0.2% |  |
-| 2 | 0% | 0% |  |
+| 0 | 98% | 100% | Last Result, Median |
+| 1 | 2% | 2% |  |
+| 2 | 0.1% | 0.1% |  |
+| 3 | 0% | 0% |  |
 
 
