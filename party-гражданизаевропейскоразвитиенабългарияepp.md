@@ -100,9 +100,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [3–7 December 2025](2025-12-07-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
-| [29 September–12 October 2025](2025-10-12-GallupInternational.html) | Gallup International | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
+| [29 September–12 October 2025](2025-10-12-GallupInternational.html) | Gallup International | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [13–20 September 2025](2025-09-20-Тренд.html) | Тренд <br> 24 часа | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
-| [4–12 September 2025](2025-09-12-Мяра.html) | Мяра | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
+| [4–12 September 2025](2025-09-12-Мяра.html) | Мяра | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [11–23 July 2025](2025-07-23-GallupInternational.html) | Gallup International |  |  |  |  |  |
 | [7–14 July 2025](2025-07-14-Алфарисърч.html) | Алфа рисърч |  |  |  |  |  |
 | [9–11 June 2025](2025-06-11-SovaHarris.html) | Sova Harris |  |  |  |  |  |
@@ -149,9 +149,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 15% | 100% |  |
-| 5 | 66% | 85% | Median |
-| 6 | 18% | 18% |  |
-| 7 | 0.7% | 0.7% |  |
+| 5 | 63% | 85% | Median |
+| 6 | 22% | 22% |  |
+| 7 | 0.6% | 0.6% |  |
 | 8 | 0% | 0% |  |
 
 

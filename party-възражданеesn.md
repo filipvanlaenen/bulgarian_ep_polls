@@ -84,10 +84,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [3–7 December 2025](2025-12-07-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [29 September–12 October 2025](2025-10-12-GallupInternational.html) | Gallup International | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [13–20 September 2025](2025-09-20-Тренд.html) | Тренд <br> 24 часа | 3 | 3 | 2–3 | 2–3 | 2–4 |
+| [13–20 September 2025](2025-09-20-Тренд.html) | Тренд <br> 24 часа | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [4–12 September 2025](2025-09-12-Мяра.html) | Мяра | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [11–23 July 2025](2025-07-23-GallupInternational.html) | Gallup International |  |  |  |  |  |
 | [7–14 July 2025](2025-07-14-Алфарисърч.html) | Алфа рисърч |  |  |  |  |  |
@@ -132,9 +132,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 17% | 100% |  |
-| 3 | 82% | 83% | Median |
-| 4 | 0.5% | 0.5% |  |
+| 2 | 20% | 100% |  |
+| 3 | 80% | 80% | Median |
+| 4 | 0.7% | 0.7% |  |
 | 5 | 0% | 0% |  |
 
 

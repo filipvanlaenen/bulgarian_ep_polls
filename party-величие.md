@@ -75,9 +75,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
 | [3–7 December 2025](2025-12-07-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0 | 0 | 0 | 0 | 0 |
-| [29 September–12 October 2025](2025-10-12-GallupInternational.html) | Gallup International | 0 | 0 | 0 | 0 | 0–1 |
+| [29 September–12 October 2025](2025-10-12-GallupInternational.html) | Gallup International | 0 | 0 | 0 | 0–1 | 0–1 |
 | [13–20 September 2025](2025-09-20-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0 | 0 | 0 |
-| [4–12 September 2025](2025-09-12-Мяра.html) | Мяра | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [4–12 September 2025](2025-09-12-Мяра.html) | Мяра | 0 | 0 | 0 | 0–1 | 0–1 |
 | [11–23 July 2025](2025-07-23-GallupInternational.html) | Gallup International |  |  |  |  |  |
 | [7–14 July 2025](2025-07-14-Алфарисърч.html) | Алфа рисърч |  |  |  |  |  |
 | [9–11 June 2025](2025-06-11-SovaHarris.html) | Sova Harris |  |  |  |  |  |
