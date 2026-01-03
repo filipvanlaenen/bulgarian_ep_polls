@@ -45,9 +45,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [25 September–1 October 2024](2024-10-01-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 9.9% | N/A | N/A | N/A | N/A |
 | [17–24 September 2024](2024-09-24-Тренд.html) | Тренд <br> 24 часа | 9.1% | N/A | N/A | N/A | N/A |
 | [18–24 September 2024](2024-09-24-Алфарисърч.html) | Алфа рисърч | 9.4% | N/A | N/A | N/A | N/A |
-| [14–23 August 2024](2024-08-23-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 10.2% | N/A | N/A | N/A | N/A |
+| [14–23 August 2024](2024-08-23-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 10.5% | N/A | N/A | N/A | N/A |
 | [1–9 August 2024](2024-08-09-GallupInternational.html) | Gallup International <br> БНТ | 9.1% | N/A | N/A | N/A | N/A |
-| [20–28 July 2024](2024-07-28-МаркетЛИНКС.html) | Маркет ЛИНКС | 9.2% | N/A | N/A | N/A | N/A |
+| [20–28 July 2024](2024-07-28-МаркетЛИНКС.html) | Маркет ЛИНКС | 11.0% | N/A | N/A | N/A | N/A |
 
 ### Probability Mass Function
 
