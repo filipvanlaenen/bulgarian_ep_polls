@@ -109,9 +109,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–7 | 6–7 | 6–7 | 5–8 |
-| [9–15 February 2026](2026-02-15-Мяра.html) | Мяра | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
-| [7–13 February 2026](2026-02-13-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
+| N/A | [Poll Average](average.html) | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
+| [9–15 February 2026](2026-02-15-Мяра.html) | Мяра | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
+| [7–13 February 2026](2026-02-13-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 7 | 6–7 | 6–7 | 6–7 | 5–8 |
 | [18–29 December 2025](2025-12-29-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
 | [5–12 December 2025](2025-12-12-Алфарисърч.html) | Алфа рисърч |  |  |  |  |  |
 | [3–7 December 2025](2025-12-07-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
@@ -164,10 +164,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.6% | 100% |  |
-| 6 | 31% | 99.4% |  |
-| 7 | 67% | 69% | Median |
-| 8 | 2% | 2% |  |
+| 5 | 0.3% | 100% |  |
+| 6 | 28% | 99.7% |  |
+| 7 | 68% | 72% | Median |
+| 8 | 4% | 4% |  |
 | 9 | 0% | 0% | Majority |
 
 

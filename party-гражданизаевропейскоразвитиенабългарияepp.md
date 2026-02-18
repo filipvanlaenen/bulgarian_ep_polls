@@ -94,10 +94,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
+| N/A | [Poll Average](average.html) | 4 | 4 | 3–5 | 3–5 | 3–5 |
 | [9–15 February 2026](2026-02-15-Мяра.html) | Мяра | 4 | 4 | 3–5 | 3–5 | 3–5 |
 | [7–13 February 2026](2026-02-13-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
-| [18–29 December 2025](2025-12-29-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [18–29 December 2025](2025-12-29-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [5–12 December 2025](2025-12-12-Алфарисърч.html) | Алфа рисърч | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [3–7 December 2025](2025-12-07-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
 | [29 September–12 October 2025](2025-10-12-GallupInternational.html) | Gallup International |  |  |  |  |  |
@@ -147,9 +147,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 7% | 100% |  |
-| 4 | 80% | 93% | Median |
-| 5 | 13% | 13% |  |
+| 3 | 8% | 100% |  |
+| 4 | 84% | 92% | Median |
+| 5 | 9% | 9% |  |
 | 6 | 0% | 0% |  |
 
 
