@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/bulgarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 21 Feb 2026 22:09:07 +0100</pubDate>
+    <pubDate>Mon, 23 Feb 2026 21:32:11 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Тренд for 24 часа, 12–18 February 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2026-02-18-Тренд.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Партия на Румен Радев (*): 6–7 seats&lt;/li&gt;&lt;li&gt;Движение за права и свободи – Ново начало (NI): 2–3 seats&lt;/li&gt;&lt;li&gt;Продължаваме промяната (RE): 1–3 seats&lt;/li&gt;&lt;li&gt;Морал, Единство, Чест (*): 0 seats&lt;/li&gt;&lt;li&gt;Възраждане (ESN): 1–2 seats&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Величие (*): 0 seats&lt;/li&gt;&lt;li&gt;БСП – обединена левица (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Има такъв народ (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Алианс за права и свободи (RE): 0 seats&lt;/li&gt;&lt;li&gt;Да, България! (EPP): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2026-02-18-Тренд-seats.png"
+        length="302083"
+        type="image/png"/>
+      <pubDate>Mon, 23 Feb 2026 21:32:11 +0100</pubDate>
+      <dc:date>2026-02-23T21:32:11.393581+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Тренд for 24 часа, 12–18 February 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2026-02-18-Тренд.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2026-02-18-Тренд-coalitions-seats.png"
+        length="221681"
+        type="image/png"/>
+      <pubDate>Mon, 23 Feb 2026 21:32:11 +0100</pubDate>
+      <dc:date>2026-02-23T21:32:11.393581+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Тренд for 24 часа, 12–18 February 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2026-02-18-Тренд.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Партия на Румен Радев (*): 29.9–35.7%&lt;/li&gt;&lt;li&gt;Движение за права и свободи – Ново начало (NI): 8.7–12.5%&lt;/li&gt;&lt;li&gt;Продължаваме промяната (RE): 5.2–8.3%&lt;/li&gt;&lt;li&gt;Морал, Единство, Чест (*): 2.6–4.9%&lt;/li&gt;&lt;li&gt;Възраждане (ESN): 6.3–9.6%&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 1.2–3.0%&lt;/li&gt;&lt;li&gt;Величие (*): 1.0–2.6%&lt;/li&gt;&lt;li&gt;БСП – обединена левица (S&amp;amp;D): 2.8–5.2%&lt;/li&gt;&lt;li&gt;Има такъв народ (ECR): 1.7–3.7%&lt;/li&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 18.0–23.0%&lt;/li&gt;&lt;li&gt;Алианс за права и свободи (RE): 1.1–2.7%&lt;/li&gt;&lt;li&gt;Да, България! (EPP): 1.7–3.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2026-02-18-Тренд.png"
+        length="371023"
+        type="image/png"/>
+      <pubDate>Mon, 23 Feb 2026 21:32:11 +0100</pubDate>
+      <dc:date>2026-02-23T21:32:11.393581+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Мяра, 9–15 February 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2026-02-15-Мяра.html#seats</link>
@@ -129,6 +159,6 @@
       <pubDate>Sat, 21 Feb 2026 22:09:07 +0100</pubDate>
       <dc:date>2026-02-21T22:09:07.546919+01:00</dc:date>
     </item>
-    <dc:date>2026-02-21T22:09:07.546919+01:00</dc:date>
+    <dc:date>2026-02-23T21:32:11.393581+01:00</dc:date>
   </channel>
 </rss>
