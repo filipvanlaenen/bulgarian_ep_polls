@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.2% | 0.4–2.4% | 0.3–2.6% | 0.2–2.8% | 0.2–3.3% |
+| N/A | [Poll Average](average.html) | 1.5% | 0.4–2.4% | 0.3–2.6% | 0.3–2.8% | 0.2–3.2% |
+| [12–18 February 2026](2026-02-18-Тренд.html) | Тренд <br> 24 часа | 1.7% | 1.3–2.3% | 1.2–2.5% | 1.1–2.7% | 0.9–3.1% |
 | [9–15 February 2026](2026-02-15-Мяра.html) | Мяра | 1.8% | 1.4–2.6% | 1.2–2.8% | 1.1–3.0% | 0.9–3.4% |
 | [7–13 February 2026](2026-02-13-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.5% | 0.3–1.0% | 0.2–1.1% | 0.2–1.3% | 0.1–1.5% |
 | [18–29 December 2025](2025-12-29-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 4.2% | 3.4–5.3% | 3.2–5.6% | 3.0–5.9% | 2.7–6.5% |
@@ -58,11 +59,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 23% | 100% | Last Result |
-| 0.5–1.5% | 37% | 77% | Median |
-| 1.5–2.5% | 34% | 40% |  |
-| 2.5–3.5% | 6% | 6% |  |
-| 3.5–4.5% | 0.2% | 0.2% |  |
+| 0.0–0.5% | 15% | 100% | Last Result |
+| 0.5–1.5% | 35% | 85% |  |
+| 1.5–2.5% | 44% | 50% | Median |
+| 2.5–3.5% | 5% | 6% |  |
+| 3.5–4.5% | 0.1% | 0.1% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -75,6 +76,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [12–18 February 2026](2026-02-18-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0 | 0 | 0 |
 | [9–15 February 2026](2026-02-15-Мяра.html) | Мяра | 0 | 0 | 0 | 0 | 0 |
 | [7–13 February 2026](2026-02-13-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0 | 0 | 0 | 0 | 0 |
 | [18–29 December 2025](2025-12-29-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0 | 0 | 0 | 0 | 0–1 |

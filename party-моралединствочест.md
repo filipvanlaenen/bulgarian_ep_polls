@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.6% | 2.6–4.7% | 2.4–5.0% | 2.2–5.3% | 1.9–5.8% |
+| N/A | [Poll Average](average.html) | 3.6% | 2.7–4.6% | 2.5–4.9% | 2.3–5.2% | 2.0–5.7% |
+| [12–18 February 2026](2026-02-18-Тренд.html) | Тренд <br> 24 часа | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–4.9% | 2.3–5.4% |
 | [9–15 February 2026](2026-02-15-Мяра.html) | Мяра | 3.9% | 3.2–5.0% | 3.0–5.3% | 2.8–5.5% | 2.5–6.1% |
 | [7–13 February 2026](2026-02-13-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 3.1% | 2.4–4.0% | 2.2–4.3% | 2.1–4.5% | 1.8–5.0% |
 | [18–29 December 2025](2025-12-29-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 7.0% | 5.9–8.4% | 5.7–8.7% | 5.4–9.1% | 4.9–9.7% |
@@ -60,13 +61,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 8% | 100% |  |
-| 2.5–3.5% | 41% | 92% |  |
-| 3.5–4.5% | 39% | 51% | Median |
-| 4.5–5.5% | 11% | 12% |  |
-| 5.5–6.5% | 1.1% | 1.2% |  |
+| 1.5–2.5% | 6% | 100% |  |
+| 2.5–3.5% | 41% | 94% |  |
+| 3.5–4.5% | 42% | 53% | Median |
+| 4.5–5.5% | 10% | 11% |  |
+| 5.5–6.5% | 0.8% | 0.9% |  |
 | 6.5–7.5% | 0% | 0% |  |
-| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -77,7 +77,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [12–18 February 2026](2026-02-18-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0 | 0 | 0 |
 | [9–15 February 2026](2026-02-15-Мяра.html) | Мяра | 0 | 0 | 0 | 0 | 0–1 |
 | [7–13 February 2026](2026-02-13-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0 | 0 | 0 | 0 | 0 |
 | [18–29 December 2025](2025-12-29-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
@@ -127,8 +128,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.4% | 100% | Last Result, Median |
-| 1 | 0.6% | 0.6% |  |
+| 0 | 99.5% | 100% | Last Result, Median |
+| 1 | 0.4% | 0.5% |  |
 | 2 | 0% | 0% |  |
 
 
