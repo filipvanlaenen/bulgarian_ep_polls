@@ -84,7 +84,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [9–15 February 2026](2026-02-15-Мяра.html) | Мяра | 0 | 0 | 0 | 0 | 0 |
 | [7–13 February 2026](2026-02-13-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0 | 0 | 0 | 0 | 0 |
 | [18–29 December 2025](2025-12-29-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
-| [5–12 December 2025](2025-12-12-Алфарисърч.html) | Алфа рисърч | 0 | 0 | 0 | 0 | 0–1 |
+| [5–12 December 2025](2025-12-12-Алфарисърч.html) | Алфа рисърч | 0 | 0 | 0 | 0–1 | 0–1 |
 | [3–7 December 2025](2025-12-07-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
 | [29 September–12 October 2025](2025-10-12-GallupInternational.html) | Gallup International |  |  |  |  |  |
 | [13–20 September 2025](2025-09-20-Тренд.html) | Тренд <br> 24 часа |  |  |  |  |  |
