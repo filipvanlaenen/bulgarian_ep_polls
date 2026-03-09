@@ -86,8 +86,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
-| [23 February–2 March 2026](2026-03-02-Алфарисърч.html) | Алфа рисърч | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| [23 February–2 March 2026](2026-03-02-Алфарисърч.html) | Алфа рисърч | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [17–24 February 2026](2026-02-24-Центързаанализиимаркетинг.html) | Център за анализи и маркетинг | 3 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [12–18 February 2026](2026-02-18-Тренд.html) | Тренд <br> 24 часа | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [9–15 February 2026](2026-02-15-Мяра.html) | Мяра | 2 | 2 | 1–3 | 1–3 | 1–3 |
@@ -140,9 +140,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 5% | 100% |  |
-| 2 | 75% | 95% | Median |
-| 3 | 21% | 21% |  |
+| 1 | 6% | 100% |  |
+| 2 | 72% | 94% | Median |
+| 3 | 22% | 22% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
