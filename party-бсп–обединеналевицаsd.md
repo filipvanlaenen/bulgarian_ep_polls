@@ -10,12 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.8% | 2.8–4.9% | 2.5–5.2% | 2.3–5.4% | 1.9–6.0% |
+| N/A | [Poll Average](average.html) | 3.8% | 2.8–4.8% | 2.6–5.1% | 2.4–5.4% | 2.0–6.0% |
 | [7–15 March 2026](2026-03-15-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 3.8% | 3.0–4.8% | 2.8–5.1% | 2.7–5.3% | 2.3–5.9% |
 | [7–12 March 2026](2026-03-12-SovaHarris.html) | Sova Harris <br> Trud | 4.4% | 3.7–5.3% | 3.5–5.6% | 3.3–5.9% | 3.0–6.4% |
 | [23 February–2 March 2026](2026-03-02-Алфарисърч.html) | Алфа рисърч | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
 | [10–28 February 2026](2026-02-28-GallupInternational.html) | Gallup International | 3.0% | 2.3–3.9% | 2.1–4.2% | 2.0–4.4% | 1.7–4.9% |
-| [17–24 February 2026](2026-02-24-Центързаанализиимаркетинг.html) | Център за анализи и маркетинг | 3.8% | N/A | N/A | N/A | N/A |
+| [17–24 February 2026](2026-02-24-Центързаанализиимаркетинг.html) | Център за анализи и маркетинг | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.7–5.2% | 2.5–5.7% |
 | [12–18 February 2026](2026-02-18-Тренд.html) | Тренд <br> 24 часа | 3.8% | N/A | N/A | N/A | N/A |
 | [9–15 February 2026](2026-02-15-Мяра.html) | Мяра | 3.7% | N/A | N/A | N/A | N/A |
 | [7–13 February 2026](2026-02-13-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 2.8% | N/A | N/A | N/A | N/A |
@@ -66,10 +66,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 6% | 100% |  |
-| 2.5–3.5% | 34% | 94% |  |
-| 3.5–4.5% | 42% | 60% | Median |
-| 4.5–5.5% | 16% | 17% |  |
+| 1.5–2.5% | 5% | 100% |  |
+| 2.5–3.5% | 34% | 95% |  |
+| 3.5–4.5% | 45% | 62% | Median |
+| 4.5–5.5% | 15% | 17% |  |
 | 5.5–6.5% | 2% | 2% |  |
 | 6.5–7.5% | 0.1% | 0.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
@@ -83,12 +83,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
 | [7–15 March 2026](2026-03-15-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0 | 0 | 0 | 0 | 0 |
-| [7–12 March 2026](2026-03-12-SovaHarris.html) | Sova Harris <br> Trud | 0 | 0 | 0 | 0 | 0–1 |
+| [7–12 March 2026](2026-03-12-SovaHarris.html) | Sova Harris <br> Trud | 0 | 0 | 0 | 0–1 | 0–1 |
 | [23 February–2 March 2026](2026-03-02-Алфарисърч.html) | Алфа рисърч | 0 | 0 | 0 | 0 | 0 |
 | [10–28 February 2026](2026-02-28-GallupInternational.html) | Gallup International | 0 | 0 | 0 | 0 | 0 |
-| [17–24 February 2026](2026-02-24-Центързаанализиимаркетинг.html) | Център за анализи и маркетинг |  |  |  |  |  |
+| [17–24 February 2026](2026-02-24-Центързаанализиимаркетинг.html) | Център за анализи и маркетинг | 0 | 0 | 0 | 0 | 0 |
 | [12–18 February 2026](2026-02-18-Тренд.html) | Тренд <br> 24 часа |  |  |  |  |  |
 | [9–15 February 2026](2026-02-15-Мяра.html) | Мяра |  |  |  |  |  |
 | [7–13 February 2026](2026-02-13-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
@@ -139,8 +139,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.6% | 100% | Last Result, Median |
-| 1 | 0.4% | 0.4% |  |
+| 0 | 99.3% | 100% | Last Result, Median |
+| 1 | 0.7% | 0.7% |  |
 | 2 | 0% | 0% |  |
 
 

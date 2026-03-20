@@ -10,12 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.6% | 1.0–2.3% | 0.8–2.5% | 0.7–2.7% | 0.5–3.1% |
+| N/A | [Poll Average](average.html) | 1.5% | 0.6–2.2% | 0.4–2.4% | 0.4–2.6% | 0.2–3.0% |
 | [7–15 March 2026](2026-03-15-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 1.6% | 1.2–2.4% | 1.1–2.6% | 1.0–2.8% | 0.8–3.2% |
 | [7–12 March 2026](2026-03-12-SovaHarris.html) | Sova Harris <br> Trud | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.1–2.8% | 1.0–3.2% |
 | [23 February–2 March 2026](2026-03-02-Алфарисърч.html) | Алфа рисърч | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
 | [10–28 February 2026](2026-02-28-GallupInternational.html) | Gallup International | 1.0% | 0.7–1.7% | 0.6–1.9% | 0.5–2.0% | 0.4–2.4% |
-| [17–24 February 2026](2026-02-24-Центързаанализиимаркетинг.html) | Център за анализи и маркетинг | 0.5% | N/A | N/A | N/A | N/A |
+| [17–24 February 2026](2026-02-24-Центързаанализиимаркетинг.html) | Център за анализи и маркетинг | 0.5% | 0.3–1.0% | 0.3–1.1% | 0.2–1.2% | 0.2–1.5% |
 | [12–18 February 2026](2026-02-18-Тренд.html) | Тренд <br> 24 часа | 1.7% | N/A | N/A | N/A | N/A |
 | [9–15 February 2026](2026-02-15-Мяра.html) | Мяра | 1.8% | N/A | N/A | N/A | N/A |
 | [7–13 February 2026](2026-02-13-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.5% | N/A | N/A | N/A | N/A |
@@ -64,12 +64,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.8% | 100% | Last Result |
-| 0.5–1.5% | 45% | 99.2% |  |
-| 1.5–2.5% | 50% | 54% | Median |
-| 2.5–3.5% | 4% | 4% |  |
+| 0.0–0.5% | 9% | 100% | Last Result |
+| 0.5–1.5% | 47% | 91% | Median |
+| 1.5–2.5% | 40% | 44% |  |
+| 2.5–3.5% | 3% | 3% |  |
 | 3.5–4.5% | 0% | 0% |  |
-| 4.5–5.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -85,7 +84,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [7–12 March 2026](2026-03-12-SovaHarris.html) | Sova Harris <br> Trud | 0 | 0 | 0 | 0 | 0 |
 | [23 February–2 March 2026](2026-03-02-Алфарисърч.html) | Алфа рисърч | 0 | 0 | 0 | 0 | 0 |
 | [10–28 February 2026](2026-02-28-GallupInternational.html) | Gallup International | 0 | 0 | 0 | 0 | 0 |
-| [17–24 February 2026](2026-02-24-Центързаанализиимаркетинг.html) | Център за анализи и маркетинг |  |  |  |  |  |
+| [17–24 February 2026](2026-02-24-Центързаанализиимаркетинг.html) | Център за анализи и маркетинг | 0 | 0 | 0 | 0 | 0 |
 | [12–18 February 2026](2026-02-18-Тренд.html) | Тренд <br> 24 часа |  |  |  |  |  |
 | [9–15 February 2026](2026-02-15-Мяра.html) | Мяра |  |  |  |  |  |
 | [7–13 February 2026](2026-02-13-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
