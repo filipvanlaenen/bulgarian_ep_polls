@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.1% | 1.0–3.4% | 0.9–3.7% | 0.8–3.9% | 0.6–4.4% |
+| N/A | [Poll Average](average.html) | 2.3% | 1.1–3.4% | 1.0–3.6% | 0.8–3.8% | 0.6–4.3% |
+| [7–16 March 2026](2026-03-16-Мяра.html) | Мяра | 2.3% | 1.8–3.2% | 1.6–3.4% | 1.5–3.6% | 1.3–4.1% |
 | [7–15 March 2026](2026-03-15-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 1.3% | 0.9–1.9% | 0.8–2.1% | 0.7–2.3% | 0.5–2.7% |
 | [7–12 March 2026](2026-03-12-SovaHarris.html) | Sova Harris <br> Trud | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.0–4.1% | 1.8–4.6% |
 | [23 February–2 March 2026](2026-03-02-Алфарисърч.html) | Алфа рисърч | 0.0% | N/A | N/A | N/A | N/A |
@@ -64,11 +65,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.3% | 100% | Last Result |
-| 0.5–1.5% | 34% | 99.7% |  |
-| 1.5–2.5% | 25% | 65% | Median |
-| 2.5–3.5% | 33% | 40% |  |
-| 3.5–4.5% | 7% | 8% |  |
+| 0.0–0.5% | 0.2% | 100% | Last Result |
+| 0.5–1.5% | 24% | 99.8% |  |
+| 1.5–2.5% | 35% | 76% | Median |
+| 2.5–3.5% | 34% | 41% |  |
+| 3.5–4.5% | 6% | 6% |  |
 | 4.5–5.5% | 0.2% | 0.2% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
@@ -82,6 +83,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [7–16 March 2026](2026-03-16-Мяра.html) | Мяра | 0 | 0 | 0 | 0 | 0 |
 | [7–15 March 2026](2026-03-15-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0 | 0 | 0 | 0 | 0 |
 | [7–12 March 2026](2026-03-12-SovaHarris.html) | Sova Harris <br> Trud | 0 | 0 | 0 | 0 | 0 |
 | [23 February–2 March 2026](2026-03-02-Алфарисърч.html) | Алфа рисърч |  |  |  |  |  |
