@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.1% | 5.6–8.9% | 5.3–9.3% | 5.1–9.7% | 4.5–10.5% |
+| N/A | [Poll Average](average.html) | 7.1% | 5.6–8.9% | 5.3–9.4% | 5.1–9.7% | 4.5–10.5% |
+| [13–19 March 2026](2026-03-19-Тренд.html) | Тренд <br> 24 часа | 7.9% | 6.9–9.1% | 6.6–9.4% | 6.4–9.7% | 5.9–10.3% |
 | [7–16 March 2026](2026-03-16-Мяра.html) | Мяра | 7.9% | 6.8–9.3% | 6.5–9.6% | 6.2–10.0% | 5.7–10.7% |
 | [7–15 March 2026](2026-03-15-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 6.2% | 5.2–7.4% | 4.9–7.7% | 4.7–8.0% | 4.3–8.7% |
 | [7–12 March 2026](2026-03-12-SovaHarris.html) | Sova Harris <br> Trud | 6.7% | 5.8–7.8% | 5.5–8.2% | 5.3–8.4% | 4.9–9.0% |
@@ -72,10 +73,10 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0.5% | 100% |  |
 | 4.5–5.5% | 8% | 99.5% |  |
 | 5.5–6.5% | 25% | 92% |  |
-| 6.5–7.5% | 29% | 66% | Median |
-| 7.5–8.5% | 22% | 37% |  |
-| 8.5–9.5% | 11% | 15% |  |
-| 9.5–10.5% | 3% | 3% |  |
+| 6.5–7.5% | 29% | 67% | Median |
+| 7.5–8.5% | 23% | 38% |  |
+| 8.5–9.5% | 12% | 15% |  |
+| 9.5–10.5% | 3% | 4% |  |
 | 10.5–11.5% | 0.4% | 0.4% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
@@ -89,6 +90,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [13–19 March 2026](2026-03-19-Тренд.html) | Тренд <br> 24 часа | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [7–16 March 2026](2026-03-16-Мяра.html) | Мяра | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [7–15 March 2026](2026-03-15-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [7–12 March 2026](2026-03-12-SovaHarris.html) | Sova Harris <br> Trud | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -146,8 +148,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 18% | 100% | Last Result |
-| 1 | 39% | 82% | Median |
-| 2 | 43% | 43% |  |
+| 1 | 38% | 82% | Median |
+| 2 | 45% | 45% |  |
 | 3 | 0% | 0% |  |
 
 

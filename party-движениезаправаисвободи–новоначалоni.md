@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10.1% | 7.5–11.9% | 6.8–12.4% | 6.4–12.8% | 5.8–13.6% |
+| [13–19 March 2026](2026-03-19-Тренд.html) | Тренд <br> 24 часа | 10.5% | 9.3–11.8% | 9.0–12.2% | 8.7–12.5% | 8.2–13.2% |
 | [7–16 March 2026](2026-03-16-Мяра.html) | Мяра | 10.6% | 9.3–12.1% | 9.0–12.6% | 8.7–13.0% | 8.1–13.7% |
 | [7–15 March 2026](2026-03-15-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 9.0% | 7.8–10.5% | 7.5–10.9% | 7.2–11.2% | 6.7–12.0% |
 | [7–12 March 2026](2026-03-12-SovaHarris.html) | Sova Harris <br> Trud | 7.1% | 6.2–8.3% | 5.9–8.6% | 5.7–8.9% | 5.2–9.4% |
@@ -93,6 +94,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 2–3 | 1–3 | 0–3 |
+| [13–19 March 2026](2026-03-19-Тренд.html) | Тренд <br> 24 часа | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [7–16 March 2026](2026-03-16-Мяра.html) | Мяра | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [7–15 March 2026](2026-03-15-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 2 | 2 | 2 | 2 | 2–3 |
 | [7–12 March 2026](2026-03-12-SovaHarris.html) | Sova Harris <br> Trud | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -151,8 +153,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 2% | 100% | Last Result |
 | 1 | 3% | 98% |  |
-| 2 | 89% | 95% | Median |
-| 3 | 6% | 6% |  |
+| 2 | 88% | 95% | Median |
+| 3 | 7% | 7% |  |
 | 4 | 0% | 0% |  |
 
 
