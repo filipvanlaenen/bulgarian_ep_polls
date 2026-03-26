@@ -86,8 +86,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [17–21 March 2026](2026-03-21-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [12–20 March 2026](2026-03-20-Алфарисърч.html) | Алфа рисърч <br> bTV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [17–21 March 2026](2026-03-21-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [12–20 March 2026](2026-03-20-Алфарисърч.html) | Алфа рисърч <br> bTV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–19 March 2026](2026-03-19-Тренд.html) | Тренд <br> 24 часа | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7–16 March 2026](2026-03-16-Мяра.html) | Мяра | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7–15 March 2026](2026-03-15-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -145,8 +145,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 44% | 100% | Last Result |
-| 1 | 56% | 56% | Median |
+| 0 | 45% | 100% | Last Result |
+| 1 | 55% | 55% | Median |
 | 2 | 0% | 0% |  |
 
 
