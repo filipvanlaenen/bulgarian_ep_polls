@@ -10,12 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.0% | 1.4–2.6% | 1.3–2.9% | 1.2–3.1% | 1.0–3.5% |
+| N/A | [Poll Average](average.html) | 2.1% | 1.5–2.8% | 1.4–3.0% | 1.2–3.2% | 1.0–3.6% |
 | [20–30 March 2026](2026-03-30-GallupInternational.html) | Gallup International | 1.9% | 1.4–2.7% | 1.2–2.9% | 1.1–3.1% | 0.9–3.5% |
-| [19–26 March 2026](2026-03-26-Алфарисърч.html) | Алфа рисърч <br> BNR | 1.9% | N/A | N/A | N/A | N/A |
-| [17–21 March 2026](2026-03-21-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 2.2% | N/A | N/A | N/A | N/A |
+| [19–26 March 2026](2026-03-26-Алфарисърч.html) | Алфа рисърч <br> BNR | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.3% |
+| [17–21 March 2026](2026-03-21-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 2.2% | 1.7–3.0% | 1.6–3.3% | 1.4–3.5% | 1.2–3.9% |
 | [12–20 March 2026](2026-03-20-Алфарисърч.html) | Алфа рисърч <br> bTV | 2.0% | N/A | N/A | N/A | N/A |
-| [13–19 March 2026](2026-03-19-Тренд.html) | Тренд <br> 24 часа | 2.0% | N/A | N/A | N/A | N/A |
+| [13–19 March 2026](2026-03-19-Тренд.html) | Тренд <br> 24 часа | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [7–16 March 2026](2026-03-16-Мяра.html) | Мяра | 2.2% | N/A | N/A | N/A | N/A |
 | [7–15 March 2026](2026-03-15-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 2.6% | N/A | N/A | N/A | N/A |
 | [7–12 March 2026](2026-03-12-SovaHarris.html) | Sova Harris <br> Trud | 2.1% | N/A | N/A | N/A | N/A |
@@ -71,10 +71,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 19% | 100% |  |
-| 1.5–2.5% | 68% | 81% | Median |
-| 2.5–3.5% | 13% | 14% |  |
-| 3.5–4.5% | 0.4% | 0.4% |  |
+| 0.5–1.5% | 12% | 100% |  |
+| 1.5–2.5% | 69% | 88% | Median |
+| 2.5–3.5% | 18% | 19% |  |
+| 3.5–4.5% | 0.7% | 0.7% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -86,12 +86,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [20–30 March 2026](2026-03-30-GallupInternational.html) | Gallup International | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [19–26 March 2026](2026-03-26-Алфарисърч.html) | Алфа рисърч <br> BNR |  |  |  |  |  |
-| [17–21 March 2026](2026-03-21-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
+| [19–26 March 2026](2026-03-26-Алфарисърч.html) | Алфа рисърч <br> BNR | 0 | 0 | 0 | 0 | 0–1 |
+| [17–21 March 2026](2026-03-21-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–20 March 2026](2026-03-20-Алфарисърч.html) | Алфа рисърч <br> bTV |  |  |  |  |  |
-| [13–19 March 2026](2026-03-19-Тренд.html) | Тренд <br> 24 часа |  |  |  |  |  |
+| [13–19 March 2026](2026-03-19-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0 | 0 | 0–1 |
 | [7–16 March 2026](2026-03-16-Мяра.html) | Мяра |  |  |  |  |  |
 | [7–15 March 2026](2026-03-15-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
 | [7–12 March 2026](2026-03-12-SovaHarris.html) | Sova Harris <br> Trud |  |  |  |  |  |
@@ -148,8 +148,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 80% | 100% | Last Result, Median |
-| 1 | 20% | 20% |  |
+| 0 | 94% | 100% | Last Result, Median |
+| 1 | 6% | 6% |  |
 | 2 | 0% | 0% |  |
 
 
