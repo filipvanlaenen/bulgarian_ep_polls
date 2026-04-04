@@ -17,7 +17,7 @@
 | Възраждане (ESN) | 0.0% | 6.7% | 5.8–7.8% |5.5–8.2% |5.3–8.4% |4.9–9.0% |
 | БСП – обединена левица (S&D) | 0.0% | 4.4% | 3.7–5.3% |3.5–5.6% |3.3–5.9% |3.0–6.4% |
 | Морал, Единство, Чест (*) | 0.0% | 3.8% | 3.1–4.7% |2.9–5.0% |2.8–5.2% |2.5–5.6% |
-| Сияние (*) | 0.0% | 2.9% | 2.3–3.7% |2.2–3.9% |2.0–4.1% |1.8–4.6% |
+| Сияние (Greens/EFA) | 0.0% | 2.9% | 2.3–3.7% |2.2–3.9% |2.0–4.1% |1.8–4.6% |
 | Да, България! (EPP) | 0.0% | 2.8% | 2.2–3.6% |2.1–3.8% |1.9–4.0% |1.7–4.4% |
 | Величие (*) | 0.0% | 2.5% | 2.0–3.3% |1.8–3.5% |1.7–3.7% |1.5–4.1% |
 | Има такъв народ (ECR) | 0.0% | 2.2% | 1.7–2.9% |1.6–3.1% |1.4–3.3% |1.2–3.7% |
@@ -43,7 +43,7 @@
 | <a href="#възраждане-(esn)">Възраждане (ESN)</a> | 0 | 1 | 0–2 |0–2 |0–2 |0–2 |
 | <a href="#бсп-–-обединена-левица-(s&d)">БСП – обединена левица (S&D)</a> | 0 | 0 | 0 |0 |0–1 |0–1 |
 | <a href="#морал,-единство,-чест-(*)">Морал, Единство, Чест (*)</a> | 0 | 0 | 0 |0 |0 |0 |
-| <a href="#сияние-(*)">Сияние (*)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#сияние-(greens/efa)">Сияние (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#да,-българия!-(epp)">Да, България! (EPP)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#величие-(*)">Величие (*)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#има-такъв-народ-(ecr)">Има такъв народ (ECR)</a> | 0 | 0 | 0 |0 |0 |0 |
@@ -149,11 +149,11 @@
 | 1 | 0.1% | 0.1% |  |
 | 2 | 0% | 0% |  |
 
-### Сияние (*)
+### Сияние (Greens/EFA)
 
-*For a full overview of the results for this party, see the [Сияние (*)](party-сияние.html) page.*
+*For a full overview of the results for this party, see the [Сияние (Greens/EFA)](party-сияниеgreensefa.html) page.*
 
-![Graph with seats probability mass function not yet produced](2026-03-12-SovaHarris-seats-pmf-сияние.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2026-03-12-SovaHarris-seats-pmf-сияниеgreensefa.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -223,6 +223,7 @@
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Възраждане (ESN) | 0 | 1 | 0% | 0–2 | 0–2 | 0–2 | 0–2 |
+| Сияние (Greens/EFA) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Възраждане (ESN)
 
@@ -234,6 +235,14 @@
 | 1 | 54% | 85% | Median |
 | 2 | 31% | 31% |  |
 | 3 | 0% | 0% |  |
+
+### Сияние (Greens/EFA)
+
+![Graph with seats probability mass function not yet produced](2026-03-12-SovaHarris-coalitions-seats-pmf-сияние.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
 
 
 ## Technical Information
