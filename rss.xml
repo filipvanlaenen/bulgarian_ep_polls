@@ -8,26 +8,26 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/bulgarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 03 Apr 2026 23:44:34 +0200</pubDate>
+    <pubDate>Sat, 04 Apr 2026 11:54:15 +0200</pubDate>
     <item>
       <title>Opinion Poll by Gallup International, 20–30 March 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2026-03-30-GallupInternational.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Прогресивна България (*): 5–7 seats&lt;/li&gt;&lt;li&gt;Движение за права и свободи – Ново начало (NI): 2–3 seats&lt;/li&gt;&lt;li&gt;Продължаваме промяната (RE): 1–3 seats&lt;/li&gt;&lt;li&gt;Синя България (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Морал, Единство, Чест (*): 0 seats&lt;/li&gt;&lt;li&gt;Възраждане (ESN): 0–2 seats&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Величие (*): 0 seats&lt;/li&gt;&lt;li&gt;БСП – обединена левица (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 4–6 seats&lt;/li&gt;&lt;li&gt;Има такъв народ (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Сияние (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Алианс за права и свободи (RE): 0 seats&lt;/li&gt;&lt;li&gt;Да, България! (EPP): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2026-03-30-GallupInternational-seats.png"
-        length="357787"
+        length="344974"
         type="image/png"/>
-      <pubDate>Fri, 03 Apr 2026 21:45:54 +0200</pubDate>
-      <dc:date>2026-04-03T21:45:54.938209+02:00</dc:date>
+      <pubDate>Sat, 04 Apr 2026 11:54:15 +0200</pubDate>
+      <dc:date>2026-04-04T11:54:15.292216+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Gallup International, 20–30 March 2026 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2026-03-30-GallupInternational.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2026-03-30-GallupInternational-coalitions-seats.png"
-        length="259626"
+        length="246081"
         type="image/png"/>
-      <pubDate>Fri, 03 Apr 2026 21:45:54 +0200</pubDate>
-      <dc:date>2026-04-03T21:45:54.938209+02:00</dc:date>
+      <pubDate>Sat, 04 Apr 2026 11:54:15 +0200</pubDate>
+      <dc:date>2026-04-04T11:54:15.292216+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Gallup International, 20–30 March 2026 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2026-03-30-GallupInternational.png"
         length="429746"
         type="image/png"/>
-      <pubDate>Fri, 03 Apr 2026 21:45:54 +0200</pubDate>
-      <dc:date>2026-04-03T21:45:54.938209+02:00</dc:date>
+      <pubDate>Sat, 04 Apr 2026 11:54:15 +0200</pubDate>
+      <dc:date>2026-04-04T11:54:15.292216+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Алфа рисърч for BNR, 19–26 March 2026 – Seat Projections for the Parties</title>
@@ -129,6 +129,6 @@
       <pubDate>Fri, 03 Apr 2026 23:44:34 +0200</pubDate>
       <dc:date>2026-04-03T23:44:34.81118+02:00</dc:date>
     </item>
-    <dc:date>2026-04-03T23:44:34.81118+02:00</dc:date>
+    <dc:date>2026-04-04T11:54:15.292216+02:00</dc:date>
   </channel>
 </rss>
