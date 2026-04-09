@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.1% | 1.5–2.8% | 1.4–3.1% | 1.3–3.3% | 1.1–3.7% |
+| N/A | [Poll Average](average.html) | 2.1% | 1.5–2.8% | 1.4–3.0% | 1.2–3.3% | 1.0–3.7% |
+| [2–6 April 2026](2026-04-06-SovaHarris.html) | Sova Harris <br> Trud | 1.9% | 1.4–2.7% | 1.2–2.9% | 1.1–3.1% | 0.9–3.5% |
 | [20–30 March 2026](2026-03-30-GallupInternational.html) | Gallup International | 1.9% | 1.4–2.7% | 1.2–2.9% | 1.1–3.1% | 0.9–3.5% |
 | [19–26 March 2026](2026-03-26-Алфарисърч.html) | Алфа рисърч <br> BNR | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.3% |
 | [17–21 March 2026](2026-03-21-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 2.2% | 1.7–3.0% | 1.6–3.3% | 1.4–3.5% | 1.2–3.9% |
@@ -71,9 +72,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 10% | 100% |  |
-| 1.5–2.5% | 68% | 90% | Median |
-| 2.5–3.5% | 21% | 21% |  |
+| 0.5–1.5% | 12% | 100% |  |
+| 1.5–2.5% | 68% | 88% | Median |
+| 2.5–3.5% | 19% | 20% |  |
 | 3.5–4.5% | 0.9% | 0.9% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
@@ -87,6 +88,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [2–6 April 2026](2026-04-06-SovaHarris.html) | Sova Harris <br> Trud | 0 | 0 | 0 | 0–1 | 0–1 |
 | [20–30 March 2026](2026-03-30-GallupInternational.html) | Gallup International | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [19–26 March 2026](2026-03-26-Алфарисърч.html) | Алфа рисърч <br> BNR | 0 | 0 | 0 | 0–1 | 0–1 |
 | [17–21 March 2026](2026-03-21-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |

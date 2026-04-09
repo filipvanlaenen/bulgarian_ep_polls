@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.6% | 0.8–2.4% | 0.6–2.7% | 0.5–2.9% | 0.4–3.3% |
+| [2–6 April 2026](2026-04-06-SovaHarris.html) | Sova Harris <br> Trud | 0.0% | N/A | N/A | N/A | N/A |
 | [20–30 March 2026](2026-03-30-GallupInternational.html) | Gallup International | 0.9% | 0.6–1.5% | 0.5–1.6% | 0.4–1.8% | 0.3–2.1% |
 | [19–26 March 2026](2026-03-26-Алфарисърч.html) | Алфа рисърч <br> BNR | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
 | [17–21 March 2026](2026-03-21-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 2.0% | 1.5–2.8% | 1.4–3.0% | 1.2–3.2% | 1.1–3.6% |
@@ -87,6 +88,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [2–6 April 2026](2026-04-06-SovaHarris.html) | Sova Harris <br> Trud |  |  |  |  |  |
 | [20–30 March 2026](2026-03-30-GallupInternational.html) | Gallup International | 0 | 0 | 0 | 0 | 0 |
 | [19–26 March 2026](2026-03-26-Алфарисърч.html) | Алфа рисърч <br> BNR | 0 | 0 | 0 | 0 | 0 |
 | [17–21 March 2026](2026-03-21-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0 | 0 | 0 | 0 | 0 |

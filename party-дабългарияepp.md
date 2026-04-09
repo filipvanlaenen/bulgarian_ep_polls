@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.8% | 2.2–3.7% | 2.0–3.9% | 1.8–4.2% | 1.6–4.6% |
+| N/A | [Poll Average](average.html) | 2.8% | 2.1–3.7% | 1.9–3.9% | 1.8–4.2% | 1.5–4.6% |
+| [2–6 April 2026](2026-04-06-SovaHarris.html) | Sova Harris <br> Trud | 2.6% | 2.0–3.5% | 1.9–3.8% | 1.7–4.0% | 1.5–4.5% |
 | [20–30 March 2026](2026-03-30-GallupInternational.html) | Gallup International | 2.5% | 1.9–3.4% | 1.8–3.6% | 1.6–3.8% | 1.4–4.3% |
 | [19–26 March 2026](2026-03-26-Алфарисърч.html) | Алфа рисърч <br> BNR | 2.6% | 2.1–3.4% | 1.9–3.6% | 1.8–3.8% | 1.6–4.2% |
 | [17–21 March 2026](2026-03-21-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 3.1% | 2.4–4.0% | 2.3–4.2% | 2.1–4.5% | 1.8–5.0% |
@@ -71,9 +72,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.4% | 100% |  |
-| 1.5–2.5% | 30% | 99.6% |  |
-| 2.5–3.5% | 57% | 70% | Median |
+| 0.5–1.5% | 0.6% | 100% |  |
+| 1.5–2.5% | 32% | 99.4% |  |
+| 2.5–3.5% | 55% | 68% | Median |
 | 3.5–4.5% | 12% | 13% |  |
 | 4.5–5.5% | 0.7% | 0.7% |  |
 | 5.5–6.5% | 0% | 0% |  |
@@ -88,6 +89,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [2–6 April 2026](2026-04-06-SovaHarris.html) | Sova Harris <br> Trud | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [20–30 March 2026](2026-03-30-GallupInternational.html) | Gallup International | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [19–26 March 2026](2026-03-26-Алфарисърч.html) | Алфа рисърч <br> BNR | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17–21 March 2026](2026-03-21-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -149,8 +151,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 53% | 100% | Last Result, Median |
-| 1 | 47% | 47% |  |
+| 0 | 55% | 100% | Last Result, Median |
+| 1 | 45% | 45% |  |
 | 2 | 0% | 0% |  |
 
 
