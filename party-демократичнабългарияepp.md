@@ -97,8 +97,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [16–27 May 2026](2026-05-27-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [13–16 April 2026](2026-04-16-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [8–16 April 2026](2026-04-16-GallupInternational.html) | Gallup International | 0 | 0 | 0 | 0–1 | 0–1 |
+| [13–16 April 2026](2026-04-16-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0 | 0 | 0–1 |
+| [8–16 April 2026](2026-04-16-GallupInternational.html) | Gallup International | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [13–15 April 2026](2026-04-15-Алфарисърч.html) | Алфа рисърч | 0 | 0 | 0 | 0 | 0–1 |
 | [3–14 April 2026](2026-04-14-Центързаанализиимаркетинг.html) | Център за анализи и маркетинг |  |  |  |  |  |
 | [7–14 April 2026](2026-04-14-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
@@ -165,8 +165,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 92% | 100% | Last Result, Median |
-| 1 | 8% | 8% |  |
+| 0 | 93% | 100% | Last Result, Median |
+| 1 | 7% | 7% |  |
 | 2 | 0% | 0% |  |
 
 
