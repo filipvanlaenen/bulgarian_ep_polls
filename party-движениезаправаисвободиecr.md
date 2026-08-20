@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.6% | 4.5–6.7% | 4.2–7.1% | 4.0–7.4% | 3.6–8.0% |
+| N/A | [Poll Average](average.html) | 6.1% | 4.7–8.1% | 4.4–8.6% | 4.2–9.0% | 3.7–9.8% |
+| [24 July–4 August 2026](2026-08-04-GallupInternational.html) | Gallup International | 7.5% | 6.4–8.9% | 6.1–9.2% | 5.8–9.6% | 5.3–10.3% |
 | [17–23 July 2026](2026-07-23-Алфарисърч.html) | Алфа рисърч | 5.9% | 5.0–7.0% | 4.7–7.3% | 4.5–7.6% | 4.1–8.2% |
 | [11–19 July 2026](2026-07-19-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 5.1% | 4.3–6.3% | 4.0–6.6% | 3.8–6.9% | 3.5–7.4% |
 | [13–21 June 2026](2026-06-21-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 5.9% | 5.0–7.1% | 4.7–7.4% | 4.5–7.7% | 4.1–8.3% |
@@ -84,14 +85,16 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.4% | 100% |  |
-| 3.5–4.5% | 11% | 99.6% |  |
-| 4.5–5.5% | 38% | 89% |  |
-| 5.5–6.5% | 37% | 51% | Median |
-| 6.5–7.5% | 12% | 14% |  |
-| 7.5–8.5% | 2% | 2% |  |
-| 8.5–9.5% | 0.1% | 0.1% |  |
-| 9.5–10.5% | 0% | 0% |  |
+| 2.5–3.5% | 0.3% | 100% |  |
+| 3.5–4.5% | 7% | 99.7% |  |
+| 4.5–5.5% | 26% | 93% |  |
+| 5.5–6.5% | 29% | 67% | Median |
+| 6.5–7.5% | 20% | 38% |  |
+| 7.5–8.5% | 13% | 18% |  |
+| 8.5–9.5% | 4% | 5% |  |
+| 9.5–10.5% | 0.8% | 0.9% |  |
+| 10.5–11.5% | 0.1% | 0.1% |  |
+| 11.5–12.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -102,7 +105,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [24 July–4 August 2026](2026-08-04-GallupInternational.html) | Gallup International | 2 | 1–2 | 0–2 | 0–2 | 0–2 |
 | [17–23 July 2026](2026-07-23-Алфарисърч.html) | Алфа рисърч | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [11–19 July 2026](2026-07-19-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–21 June 2026](2026-06-21-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -175,9 +179,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 66% | 100% | Last Result, Median |
-| 1 | 34% | 34% |  |
-| 2 | 0.3% | 0.3% |  |
+| 0 | 46% | 100% | Last Result |
+| 1 | 33% | 54% | Median |
+| 2 | 21% | 21% |  |
 | 3 | 0% | 0% |  |
 
 
