@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/bulgarian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 20 Aug 2026 19:14:25 +0200</pubDate>
+    <pubDate>Tue, 06 Oct 2026 19:57:20 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Маркет ЛИНКС for bTV, 22–29 September 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2026-09-29-МаркетЛИНКС.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Движение за права и свободи (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Продължаваме промяната (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Прогресивна България (NI): 7–9 seats&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Възраждане (ESN): 0–2 seats&lt;/li&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2026-09-29-МаркетЛИНКС-seats.png"
+        length="217339"
+        type="image/png"/>
+      <pubDate>Tue, 06 Oct 2026 19:57:20 +0200</pubDate>
+      <dc:date>2026-10-06T19:57:20.848419+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Маркет ЛИНКС for bTV, 22–29 September 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2026-09-29-МаркетЛИНКС.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2026-09-29-МаркетЛИНКС-coalitions-seats.png"
+        length="226842"
+        type="image/png"/>
+      <pubDate>Tue, 06 Oct 2026 19:57:20 +0200</pubDate>
+      <dc:date>2026-10-06T19:57:20.848419+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Маркет ЛИНКС for bTV, 22–29 September 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2026-09-29-МаркетЛИНКС.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Движение за права и свободи (ECR): 4.2–7.4%&lt;/li&gt;&lt;li&gt;Продължаваме промяната (RE): 9.1–13.5%&lt;/li&gt;&lt;li&gt;Прогресивна България (NI): 39.7–46.5%&lt;/li&gt;&lt;li&gt;Демократична България (EPP): 7.1–11.1%&lt;/li&gt;&lt;li&gt;Възраждане (ESN): 5.2–8.6%&lt;/li&gt;&lt;li&gt;Граждани за европейско развитие на България (EPP): 10.7–15.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/bulgarian_ep_polls/2026-09-29-МаркетЛИНКС.png"
+        length="243333"
+        type="image/png"/>
+      <pubDate>Tue, 06 Oct 2026 19:57:20 +0200</pubDate>
+      <dc:date>2026-10-06T19:57:20.848419+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Gallup International, 24 July–4 August 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/bulgarian_ep_polls/2026-08-04-GallupInternational.html#seats</link>
@@ -309,6 +339,6 @@
       <pubDate>Mon, 27 Jul 2026 13:53:09 +0200</pubDate>
       <dc:date>2026-07-27T13:53:09.156067+02:00</dc:date>
     </item>
-    <dc:date>2026-08-20T19:14:25.013134+02:00</dc:date>
+    <dc:date>2026-10-06T19:57:20.848419+02:00</dc:date>
   </channel>
 </rss>
