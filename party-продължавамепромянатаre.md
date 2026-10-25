@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.2% | 6.8–11.5% | 6.4–12.2% | 6.2–12.7% | 5.7–13.6% |
+| N/A | [Poll Average](average.html) | 11.7% | 7.2–13.6% | 6.8–14.0% | 6.5–14.4% | 6.0–15.2% |
+| [14–22 October 2026](2026-10-22-GallupInternational.html) | Gallup International | 12.5% | 11.2–14.0% | 10.9–14.4% | 10.6–14.7% | 10.0–15.5% |
+| [13–19 October 2026](2026-10-19-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 12.2% | 10.9–13.7% | 10.5–14.2% | 10.2–14.6% | 9.5–15.3% |
 | [26 September–2 October 2026](2026-10-02-Тренд.html) | Тренд <br> 24 часа | 7.6% | 6.6–8.8% | 6.3–9.1% | 6.1–9.4% | 5.7–10.0% |
 | [22–29 September 2026](2026-09-29-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 11.1% | 9.8–12.7% | 9.5–13.1% | 9.1–13.5% | 8.6–14.3% |
 | [24 July–4 August 2026](2026-08-04-GallupInternational.html) | Gallup International | 8.1% | 7.0–9.6% | 6.7–10.0% | 6.4–10.3% | 5.9–11.0% |
@@ -89,18 +91,19 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.3% | 100% |  |
-| 5.5–6.5% | 6% | 99.7% |  |
-| 6.5–7.5% | 24% | 94% |  |
-| 7.5–8.5% | 29% | 69% | Median |
-| 8.5–9.5% | 14% | 41% |  |
-| 9.5–10.5% | 8% | 27% |  |
-| 10.5–11.5% | 9% | 19% |  |
-| 11.5–12.5% | 6% | 9% |  |
-| 12.5–13.5% | 2% | 3% |  |
-| 13.5–14.5% | 0.5% | 0.6% |  |
-| 14.5–15.5% | 0.1% | 0.1% |  |
-| 15.5–16.5% | 0% | 0% |  |
+| 4.5–5.5% | 0.1% | 100% |  |
+| 5.5–6.5% | 3% | 99.9% |  |
+| 6.5–7.5% | 12% | 97% |  |
+| 7.5–8.5% | 13% | 85% |  |
+| 8.5–9.5% | 5% | 71% |  |
+| 9.5–10.5% | 3% | 67% |  |
+| 10.5–11.5% | 12% | 64% |  |
+| 11.5–12.5% | 22% | 52% | Median |
+| 12.5–13.5% | 20% | 30% |  |
+| 13.5–14.5% | 8% | 10% |  |
+| 14.5–15.5% | 2% | 2% |  |
+| 15.5–16.5% | 0.2% | 0.2% |  |
+| 16.5–17.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -111,7 +114,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| [14–22 October 2026](2026-10-22-GallupInternational.html) | Gallup International | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [13–19 October 2026](2026-10-19-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [26 September–2 October 2026](2026-10-02-Тренд.html) | Тренд <br> 24 часа | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [22–29 September 2026](2026-09-29-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [24 July–4 August 2026](2026-08-04-GallupInternational.html) | Gallup International | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -188,9 +193,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 24% | 100% |  |
-| 2 | 74% | 76% | Median |
-| 3 | 3% | 3% |  |
+| 1 | 11% | 100% |  |
+| 2 | 56% | 89% | Median |
+| 3 | 33% | 33% |  |
 | 4 | 0% | 0% |  |
 
 

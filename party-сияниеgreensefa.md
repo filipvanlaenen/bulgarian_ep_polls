@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.3% | 1.7–2.9% | 1.6–3.1% | 1.5–3.3% | 1.3–3.7% |
+| [14–22 October 2026](2026-10-22-GallupInternational.html) | Gallup International | 0.0% | N/A | N/A | N/A | N/A |
+| [13–19 October 2026](2026-10-19-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
 | [26 September–2 October 2026](2026-10-02-Тренд.html) | Тренд <br> 24 часа | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
 | [22–29 September 2026](2026-09-29-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
 | [24 July–4 August 2026](2026-08-04-GallupInternational.html) | Gallup International | 0.0% | N/A | N/A | N/A | N/A |
@@ -101,6 +103,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [14–22 October 2026](2026-10-22-GallupInternational.html) | Gallup International |  |  |  |  |  |
+| [13–19 October 2026](2026-10-19-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
 | [26 September–2 October 2026](2026-10-02-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0 | 0 | 0 |
 | [22–29 September 2026](2026-09-29-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
 | [24 July–4 August 2026](2026-08-04-GallupInternational.html) | Gallup International |  |  |  |  |  |

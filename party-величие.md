@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.6% | 1.9–3.4% | 1.8–3.6% | 1.6–3.8% | 1.4–4.2% |
+| N/A | [Poll Average](average.html) | 2.8% | 2.2–3.5% | 2.0–3.7% | 1.9–3.9% | 1.6–4.3% |
+| [14–22 October 2026](2026-10-22-GallupInternational.html) | Gallup International | 2.7% | 2.2–3.6% | 2.0–3.8% | 1.9–4.0% | 1.6–4.4% |
+| [13–19 October 2026](2026-10-19-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
 | [26 September–2 October 2026](2026-10-02-Тренд.html) | Тренд <br> 24 часа | 2.7% | 2.1–3.5% | 2.0–3.7% | 1.9–3.9% | 1.6–4.3% |
 | [22–29 September 2026](2026-09-29-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV | 0.0% | N/A | N/A | N/A | N/A |
 | [24 July–4 August 2026](2026-08-04-GallupInternational.html) | Gallup International | 2.4% | 1.8–3.2% | 1.6–3.5% | 1.5–3.7% | 1.3–4.2% |
@@ -85,11 +87,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 44% | 98% |  |
-| 2.5–3.5% | 49% | 55% | Median |
-| 3.5–4.5% | 6% | 6% |  |
-| 4.5–5.5% | 0.1% | 0.1% |  |
+| 0.5–1.5% | 0.2% | 100% |  |
+| 1.5–2.5% | 32% | 99.8% |  |
+| 2.5–3.5% | 59% | 68% | Median |
+| 3.5–4.5% | 9% | 9% |  |
+| 4.5–5.5% | 0.2% | 0.2% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -102,6 +104,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [14–22 October 2026](2026-10-22-GallupInternational.html) | Gallup International | 0 | 0 | 0 | 0 | 0 |
+| [13–19 October 2026](2026-10-19-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
 | [26 September–2 October 2026](2026-10-02-Тренд.html) | Тренд <br> 24 часа | 0 | 0 | 0 | 0 | 0 |
 | [22–29 September 2026](2026-09-29-МаркетЛИНКС.html) | Маркет ЛИНКС <br> bTV |  |  |  |  |  |
 | [24 July–4 August 2026](2026-08-04-GallupInternational.html) | Gallup International | 0 | 0 | 0 | 0 | 0 |
